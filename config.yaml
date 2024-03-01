@@ -26,3 +26,5 @@ keywords:
         filters: ["Antibody", "Antibody generation","Structure-based 3D","Optimization"]
     "Peptide":
         filters: ["Peptide", "Peptide generation","Structure-based 3D","Optimization"]
+    "Diffusion":
+        filters: ["diffusion", "text diffusion"," diffuse"]
