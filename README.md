@@ -930,7 +930,7 @@
 |**2024-02-29**|**TEncDM: Understanding the Properties of Diffusion Model in the Space of Language Model Encodings**|Alexander Shabalin et.al.|[2402.19097](http://arxiv.org/abs/2402.19097)|null|
 |**2024-02-19**|**Text Diffusion with Reinforced Conditioning**|Yuxuan Liu et.al.|[2402.14843](http://arxiv.org/abs/2402.14843)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
-|**2023-12-13**|**Diffusion-based Blind Text Image Super-Resolution**|Yuzhe Zhang et.al.|[2312.08886](http://arxiv.org/abs/2312.08886)|null|
+|**2024-03-03**|**Diffusion-based Blind Text Image Super-Resolution**|Yuzhe Zhang et.al.|[2312.08886](http://arxiv.org/abs/2312.08886)|null|
 |**2023-10-18**|**InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation**|Renzhi Wang et.al.|[2310.11976](http://arxiv.org/abs/2310.11976)|**[link](https://github.com/rzhwang/infodiffusion)**|
 |**2023-08-17**|**Enhancing Phrase Representation by Information Bottleneck Guided Text Diffusion Process for Keyphrase Extraction**|Yuanzhen Luo et.al.|[2308.08739](http://arxiv.org/abs/2308.08739)|null|
 |**2023-05-31**|**StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation**|Chi Zhang et.al.|[2305.19012](http://arxiv.org/abs/2305.19012)|**[link](https://github.com/icoz69/styleavatar3d)**|
