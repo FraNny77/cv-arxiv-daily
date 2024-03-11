@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**Bayesian Preference Elicitation with Language Models**|Kunal Handa et.al.|[2403.05534](http://arxiv.org/abs/2403.05534)|null|
+|**2024-03-08**|**Tune without Validation: Searching for Learning Rate and Weight Decay on Training Sets**|Lorenzo Brigato et.al.|[2403.05532](http://arxiv.org/abs/2403.05532)|null|
+|**2024-03-08**|**The Computational Complexity of Learning Gaussian Single-Index Models**|Alex Damian et.al.|[2403.05529](http://arxiv.org/abs/2403.05529)|null|
+|**2024-03-08**|**GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM**|Hao Kang et.al.|[2403.05527](http://arxiv.org/abs/2403.05527)|null|
+|**2024-03-08**|**Poly-View Contrastive Learning**|Amitis Shidani et.al.|[2403.05490](http://arxiv.org/abs/2403.05490)|null|
+|**2024-03-08**|**Algorithm-Hardware Co-Design of Distribution-Aware Logarithmic-Posit Encodings for Efficient DNN Inference**|Akshat Ramachandran et.al.|[2403.05465](http://arxiv.org/abs/2403.05465)|null|
+|**2024-03-08**|**The R2D2 deep neural network series paradigm for fast precision imaging in radio astronomy**|Amir Aghabiglou et.al.|[2403.05452](http://arxiv.org/abs/2403.05452)|null|
+|**2024-03-08**|**An Improved Algorithm for Learning Drifting Discrete Distributions**|Alessio Mazzetto et.al.|[2403.05446](http://arxiv.org/abs/2403.05446)|null|
+|**2024-03-08**|**Bayesian Hierarchical Probabilistic Forecasting of Intraday Electricity Prices**|Daniel Nickelsen et.al.|[2403.05441](http://arxiv.org/abs/2403.05441)|null|
+|**2024-03-08**|**Is Cosine-Similarity of Embeddings Really About Similarity?**|Harald Steck et.al.|[2403.05440](http://arxiv.org/abs/2403.05440)|null|
 |**2022-11-17**|**Incorporating Pre-training Paradigm for Antibody Sequence-Structure Co-design**|Kaiyuan Gao et.al.|[2211.08406](http://arxiv.org/abs/2211.08406)|null|
 |**2022-04-05**|**Modeling COVID-19 vaccine-induced immunological memory development and its links to antibody level and infectiousness**|Xin Gao et.al.|[2204.01700](http://arxiv.org/abs/2204.01700)|null|
 |**2018-04-08**|**Clustering and Retrieval Method of Immunological Memory Cell in Clonal Selection Algorithm**|Takumi Ichimura et.al.|[1804.02628](http://arxiv.org/abs/1804.02628)|null|
@@ -19,6 +29,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**Bayesian Preference Elicitation with Language Models**|Kunal Handa et.al.|[2403.05534](http://arxiv.org/abs/2403.05534)|null|
+|**2024-03-08**|**Tune without Validation: Searching for Learning Rate and Weight Decay on Training Sets**|Lorenzo Brigato et.al.|[2403.05532](http://arxiv.org/abs/2403.05532)|null|
+|**2024-03-08**|**The Computational Complexity of Learning Gaussian Single-Index Models**|Alex Damian et.al.|[2403.05529](http://arxiv.org/abs/2403.05529)|null|
+|**2024-03-08**|**GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM**|Hao Kang et.al.|[2403.05527](http://arxiv.org/abs/2403.05527)|null|
+|**2024-03-08**|**Poly-View Contrastive Learning**|Amitis Shidani et.al.|[2403.05490](http://arxiv.org/abs/2403.05490)|null|
+|**2024-03-08**|**Algorithm-Hardware Co-Design of Distribution-Aware Logarithmic-Posit Encodings for Efficient DNN Inference**|Akshat Ramachandran et.al.|[2403.05465](http://arxiv.org/abs/2403.05465)|null|
+|**2024-03-08**|**The R2D2 deep neural network series paradigm for fast precision imaging in radio astronomy**|Amir Aghabiglou et.al.|[2403.05452](http://arxiv.org/abs/2403.05452)|null|
+|**2024-03-08**|**An Improved Algorithm for Learning Drifting Discrete Distributions**|Alessio Mazzetto et.al.|[2403.05446](http://arxiv.org/abs/2403.05446)|null|
+|**2024-03-08**|**Bayesian Hierarchical Probabilistic Forecasting of Intraday Electricity Prices**|Daniel Nickelsen et.al.|[2403.05441](http://arxiv.org/abs/2403.05441)|null|
+|**2024-03-08**|**Is Cosine-Similarity of Embeddings Really About Similarity?**|Harald Steck et.al.|[2403.05440](http://arxiv.org/abs/2403.05440)|null|
 |**2024-01-04**|**A Multi-Modal Contrastive Diffusion Model for Therapeutic Peptide Generation**|Yongkang Wang et.al.|[2312.15665](http://arxiv.org/abs/2312.15665)|**[link](https://github.com/wyky481l/mmcd)**|
 |**2023-05-30**|**RINGER: Rapid Conformer Generation for Macrocycles with Sequence-Conditioned Internal Coordinate Diffusion**|Colin A. Grambow et.al.|[2305.19800](http://arxiv.org/abs/2305.19800)|**[link](https://github.com/genentech/ringer)**|
 |**2023-02-02**|**Target specific peptide design using latent space approximate trajectory collector**|Tong Lin et.al.|[2302.01435](http://arxiv.org/abs/2302.01435)|null|
@@ -39,6 +59,6 @@ layout: default
 |**2023-08-17**|**Enhancing Phrase Representation by Information Bottleneck Guided Text Diffusion Process for Keyphrase Extraction**|Yuanzhen Luo et.al.|[2308.08739](http://arxiv.org/abs/2308.08739)|null|
 |**2023-05-31**|**StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation**|Chi Zhang et.al.|[2305.19012](http://arxiv.org/abs/2305.19012)|**[link](https://github.com/icoz69/styleavatar3d)**|
 |**2023-05-19**|**DiffuSIA: A Spiral Interaction Architecture for Encoder-Decoder Text Diffusion**|Chao-Hong Tan et.al.|[2305.11517](http://arxiv.org/abs/2305.11517)|null|
-|**2024-02-21**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](httpAntibody://arxiv.org/abs/2305.08379)|**[link](https://github.com/allenai/tess-diffusion)**|
+|**2024-02-21**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|**[link](https://github.com/allenai/tess-diffusion)**|
 |**2023-05-13**|**Diffusion Models for Non-autoregressive Text Generation: A Survey**|Yifan Li et.al.|[2303.06574](http://arxiv.org/abs/2303.06574)|**[link](https://github.com/rucaibox/awesome-text-diffusion-models)**|
 
