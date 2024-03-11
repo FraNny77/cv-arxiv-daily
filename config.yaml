@@ -23,8 +23,8 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Antibody": 
-        filters: ["Antibody", "Antibody generation","Structure-based","Optimization","3D"]
+        filters: ["Antibody", "Machine learning","Structure-based","Optimization","3D"]
     "Peptide":
-        filters: ["Peptide", "Peptide generation","Structure-based","Optimization","3D"]
+        filters: ["Peptide", "Machine learning","Structure-based","Optimization","3D"]
     "Diffusion":
         filters: ["diffusion", "text diffusion","diffuse"]
