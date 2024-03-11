@@ -4,6 +4,7 @@ layout: default
 
 ## Updated on 2024.03.11
 > Usage instructions: [here](./docs/README.md#usage)
+
 ## Antibody
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -38,7 +39,6 @@ layout: default
 |**2023-08-17**|**Enhancing Phrase Representation by Information Bottleneck Guided Text Diffusion Process for Keyphrase Extraction**|Yuanzhen Luo et.al.|[2308.08739](http://arxiv.org/abs/2308.08739)|null|
 |**2023-05-31**|**StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation**|Chi Zhang et.al.|[2305.19012](http://arxiv.org/abs/2305.19012)|**[link](https://github.com/icoz69/styleavatar3d)**|
 |**2023-05-19**|**DiffuSIA: A Spiral Interaction Architecture for Encoder-Decoder Text Diffusion**|Chao-Hong Tan et.al.|[2305.11517](http://arxiv.org/abs/2305.11517)|null|
-|**2024-02-21**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|**[link](https://github.com/allenai/tess-diffusion)**|
+|**2024-02-21**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](httpAntibody://arxiv.org/abs/2305.08379)|**[link](https://github.com/allenai/tess-diffusion)**|
 |**2023-05-13**|**Diffusion Models for Non-autoregressive Text Generation: A Survey**|Yifan Li et.al.|[2303.06574](http://arxiv.org/abs/2303.06574)|**[link](https://github.com/rucaibox/awesome-text-diffusion-models)**|
-
 
