@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.11
+## Updated on 2024.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -12,7 +12,7 @@ layout: default
 |**2024-03-08**|**Bayesian Preference Elicitation with Language Models**|Kunal Handa et.al.|[2403.05534](http://arxiv.org/abs/2403.05534)|null|
 |**2024-03-08**|**Tune without Validation: Searching for Learning Rate and Weight Decay on Training Sets**|Lorenzo Brigato et.al.|[2403.05532](http://arxiv.org/abs/2403.05532)|null|
 |**2024-03-08**|**The Computational Complexity of Learning Gaussian Single-Index Models**|Alex Damian et.al.|[2403.05529](http://arxiv.org/abs/2403.05529)|null|
-|**2024-03-08**|**GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM**|Hao Kang et.al.|[2403.05527](http://arxiv.org/abs/2403.05527)|null|
+|**2024-03-08**|**GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM**|Hao Kang et.al.|[2403.05527](http://arxiv.org/abs/2403.05527)|**[link](https://github.com/haokang-timmy/gear)**|
 |**2024-03-08**|**Poly-View Contrastive Learning**|Amitis Shidani et.al.|[2403.05490](http://arxiv.org/abs/2403.05490)|null|
 |**2024-03-08**|**Algorithm-Hardware Co-Design of Distribution-Aware Logarithmic-Posit Encodings for Efficient DNN Inference**|Akshat Ramachandran et.al.|[2403.05465](http://arxiv.org/abs/2403.05465)|null|
 |**2024-03-08**|**The R2D2 deep neural network series paradigm for fast precision imaging in radio astronomy**|Amir Aghabiglou et.al.|[2403.05452](http://arxiv.org/abs/2403.05452)|null|
@@ -32,7 +32,7 @@ layout: default
 |**2024-03-08**|**Bayesian Preference Elicitation with Language Models**|Kunal Handa et.al.|[2403.05534](http://arxiv.org/abs/2403.05534)|null|
 |**2024-03-08**|**Tune without Validation: Searching for Learning Rate and Weight Decay on Training Sets**|Lorenzo Brigato et.al.|[2403.05532](http://arxiv.org/abs/2403.05532)|null|
 |**2024-03-08**|**The Computational Complexity of Learning Gaussian Single-Index Models**|Alex Damian et.al.|[2403.05529](http://arxiv.org/abs/2403.05529)|null|
-|**2024-03-08**|**GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM**|Hao Kang et.al.|[2403.05527](http://arxiv.org/abs/2403.05527)|null|
+|**2024-03-08**|**GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM**|Hao Kang et.al.|[2403.05527](http://arxiv.org/abs/2403.05527)|**[link](https://github.com/haokang-timmy/gear)**|
 |**2024-03-08**|**Poly-View Contrastive Learning**|Amitis Shidani et.al.|[2403.05490](http://arxiv.org/abs/2403.05490)|null|
 |**2024-03-08**|**Algorithm-Hardware Co-Design of Distribution-Aware Logarithmic-Posit Encodings for Efficient DNN Inference**|Akshat Ramachandran et.al.|[2403.05465](http://arxiv.org/abs/2403.05465)|null|
 |**2024-03-08**|**The R2D2 deep neural network series paradigm for fast precision imaging in radio astronomy**|Amir Aghabiglou et.al.|[2403.05452](http://arxiv.org/abs/2403.05452)|null|
