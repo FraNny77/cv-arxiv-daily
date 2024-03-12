@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Bayesian Diffusion Models for 3D Shape Reconstruction**|Haiyang Xu et.al.|[2403.06973](http://arxiv.org/abs/2403.06973)|null|
+|**2024-03-11**|**A representation-learning game for classes of prediction tasks**|Neria Uzan et.al.|[2403.06971](http://arxiv.org/abs/2403.06971)|null|
+|**2024-03-11**|**Acquiring Diverse Skills using Curriculum Reinforcement Learning with Mixture of Experts**|Onur Celik et.al.|[2403.06966](http://arxiv.org/abs/2403.06966)|null|
+|**2024-03-11**|**The pitfalls of next-token prediction**|Gregor Bachmann et.al.|[2403.06963](http://arxiv.org/abs/2403.06963)|null|
+|**2024-03-11**|**Accurate Crystal Structure Prediction of New 2D Hybrid Organic Inorganic Perovskites**|Nima Karimitari et.al.|[2403.06955](http://arxiv.org/abs/2403.06955)|null|
+|**2024-03-11**|**SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data**|Jialu Li et.al.|[2403.06952](http://arxiv.org/abs/2403.06952)|null|
+|**2024-03-11**|**Grid Monitoring and Protection with Continuous Point-on-Wave Measurements and Generative AI**|Lang Tong et.al.|[2403.06942](http://arxiv.org/abs/2403.06942)|null|
+|**2024-03-11**|**Conditional Score-Based Diffusion Model for Cortical Thickness Trajectory Prediction**|Qing Xiao et.al.|[2403.06940](http://arxiv.org/abs/2403.06940)|null|
+|**2024-03-11**|**Counterfactual Reasoning with Knowledge Graph Embeddings**|Lena Zellinger et.al.|[2403.06936](http://arxiv.org/abs/2403.06936)|**[link](https://github.com/lenazellinger/counterfactual_kgr)**|
+|**2024-03-11**|**Simplicity Bias of Transformers to Learn Low Sensitivity Functions**|Bhavya Vasudeva et.al.|[2403.06925](http://arxiv.org/abs/2403.06925)|null|
 |**2024-03-08**|**Bayesian Preference Elicitation with Language Models**|Kunal Handa et.al.|[2403.05534](http://arxiv.org/abs/2403.05534)|null|
 |**2024-03-08**|**Tune without Validation: Searching for Learning Rate and Weight Decay on Training Sets**|Lorenzo Brigato et.al.|[2403.05532](http://arxiv.org/abs/2403.05532)|null|
 |**2024-03-08**|**The Computational Complexity of Learning Gaussian Single-Index Models**|Alex Damian et.al.|[2403.05529](http://arxiv.org/abs/2403.05529)|null|
@@ -29,6 +39,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Bayesian Diffusion Models for 3D Shape Reconstruction**|Haiyang Xu et.al.|[2403.06973](http://arxiv.org/abs/2403.06973)|null|
+|**2024-03-11**|**A representation-learning game for classes of prediction tasks**|Neria Uzan et.al.|[2403.06971](http://arxiv.org/abs/2403.06971)|null|
+|**2024-03-11**|**Acquiring Diverse Skills using Curriculum Reinforcement Learning with Mixture of Experts**|Onur Celik et.al.|[2403.06966](http://arxiv.org/abs/2403.06966)|null|
+|**2024-03-11**|**The pitfalls of next-token prediction**|Gregor Bachmann et.al.|[2403.06963](http://arxiv.org/abs/2403.06963)|null|
+|**2024-03-11**|**Accurate Crystal Structure Prediction of New 2D Hybrid Organic Inorganic Perovskites**|Nima Karimitari et.al.|[2403.06955](http://arxiv.org/abs/2403.06955)|null|
+|**2024-03-11**|**SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data**|Jialu Li et.al.|[2403.06952](http://arxiv.org/abs/2403.06952)|null|
+|**2024-03-11**|**Grid Monitoring and Protection with Continuous Point-on-Wave Measurements and Generative AI**|Lang Tong et.al.|[2403.06942](http://arxiv.org/abs/2403.06942)|null|
+|**2024-03-11**|**Conditional Score-Based Diffusion Model for Cortical Thickness Trajectory Prediction**|Qing Xiao et.al.|[2403.06940](http://arxiv.org/abs/2403.06940)|null|
+|**2024-03-11**|**Counterfactual Reasoning with Knowledge Graph Embeddings**|Lena Zellinger et.al.|[2403.06936](http://arxiv.org/abs/2403.06936)|**[link](https://github.com/lenazellinger/counterfactual_kgr)**|
+|**2024-03-11**|**Simplicity Bias of Transformers to Learn Low Sensitivity Functions**|Bhavya Vasudeva et.al.|[2403.06925](http://arxiv.org/abs/2403.06925)|null|
 |**2024-03-08**|**Bayesian Preference Elicitation with Language Models**|Kunal Handa et.al.|[2403.05534](http://arxiv.org/abs/2403.05534)|null|
 |**2024-03-08**|**Tune without Validation: Searching for Learning Rate and Weight Decay on Training Sets**|Lorenzo Brigato et.al.|[2403.05532](http://arxiv.org/abs/2403.05532)|null|
 |**2024-03-08**|**The Computational Complexity of Learning Gaussian Single-Index Models**|Alex Damian et.al.|[2403.05529](http://arxiv.org/abs/2403.05529)|null|
