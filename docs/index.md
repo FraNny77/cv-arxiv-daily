@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Simple and Scalable Strategies to Continually Pre-train Large Language Models**|Adam Ibrahim et.al.|[2403.08763](http://arxiv.org/abs/2403.08763)|null|
+|**2024-03-13**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757](http://arxiv.org/abs/2403.08757)|null|
+|**2024-03-13**|**DAM: Dynamic Adapter Merging for Continual Video QA Learning**|Feng Cheng et.al.|[2403.08755](http://arxiv.org/abs/2403.08755)|**[link](https://github.com/klauscc/dam)**|
+|**2024-03-13**|**Neural reproducing kernel Banach spaces and representer theorems for deep networks**|Francesca Bartolucci et.al.|[2403.08750](http://arxiv.org/abs/2403.08750)|null|
+|**2024-03-13**|**Steering LLMs Towards Unbiased Responses: A Causality-Guided Debiasing Framework**|Jingling Li et.al.|[2403.08743](http://arxiv.org/abs/2403.08743)|null|
+|**2024-03-13**|**Learning How to Strategically Disclose Information**|Raj Kiriti Velicheti et.al.|[2403.08741](http://arxiv.org/abs/2403.08741)|null|
+|**2024-03-13**|**ILCiteR: Evidence-grounded Interpretable Local Citation Recommendation**|Sayar Ghosh Roy et.al.|[2403.08737](http://arxiv.org/abs/2403.08737)|**[link](https://github.com/sayarghoshroy/ilciter)**|
+|**2024-03-13**|**Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models trained on Corrupted Data**|Asad Aali et.al.|[2403.08728](http://arxiv.org/abs/2403.08728)|**[link](https://github.com/utcsilab/ambient-diffusion-mri)**|
+|**2024-03-13**|**Euclid: Testing photometric selection of emission-line galaxy targets**|M. S. Cagliari et.al.|[2403.08726](http://arxiv.org/abs/2403.08726)|null|
+|**2024-03-13**|**On the Stochasticity of Aerosol-Cloud Interactions within a Data-driven Framework**|Xiang-Yu Li et.al.|[2403.08702](http://arxiv.org/abs/2403.08702)|null|
 |**2024-03-12**|**TeleMoMa: A Modular and Versatile Teleoperation System for Mobile Manipulation**|Shivin Dass et.al.|[2403.07869](http://arxiv.org/abs/2403.07869)|null|
 |**2024-03-12**|**Exploring Safety Generalization Challenges of Large Language Models via Code**|Qibing Ren et.al.|[2403.07865](http://arxiv.org/abs/2403.07865)|null|
 |**2024-03-12**|**Low coordinate degree algorithms I: Universality of computational thresholds for hypothesis testing**|Dmitriy Kunisky et.al.|[2403.07862](http://arxiv.org/abs/2403.07862)|null|
@@ -49,6 +59,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Simple and Scalable Strategies to Continually Pre-train Large Language Models**|Adam Ibrahim et.al.|[2403.08763](http://arxiv.org/abs/2403.08763)|null|
+|**2024-03-13**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757](http://arxiv.org/abs/2403.08757)|null|
+|**2024-03-13**|**DAM: Dynamic Adapter Merging for Continual Video QA Learning**|Feng Cheng et.al.|[2403.08755](http://arxiv.org/abs/2403.08755)|**[link](https://github.com/klauscc/dam)**|
+|**2024-03-13**|**Neural reproducing kernel Banach spaces and representer theorems for deep networks**|Francesca Bartolucci et.al.|[2403.08750](http://arxiv.org/abs/2403.08750)|null|
+|**2024-03-13**|**Steering LLMs Towards Unbiased Responses: A Causality-Guided Debiasing Framework**|Jingling Li et.al.|[2403.08743](http://arxiv.org/abs/2403.08743)|null|
+|**2024-03-13**|**Learning How to Strategically Disclose Information**|Raj Kiriti Velicheti et.al.|[2403.08741](http://arxiv.org/abs/2403.08741)|null|
+|**2024-03-13**|**ILCiteR: Evidence-grounded Interpretable Local Citation Recommendation**|Sayar Ghosh Roy et.al.|[2403.08737](http://arxiv.org/abs/2403.08737)|**[link](https://github.com/sayarghoshroy/ilciter)**|
+|**2024-03-13**|**Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models trained on Corrupted Data**|Asad Aali et.al.|[2403.08728](http://arxiv.org/abs/2403.08728)|**[link](https://github.com/utcsilab/ambient-diffusion-mri)**|
+|**2024-03-13**|**Euclid: Testing photometric selection of emission-line galaxy targets**|M. S. Cagliari et.al.|[2403.08726](http://arxiv.org/abs/2403.08726)|null|
+|**2024-03-13**|**On the Stochasticity of Aerosol-Cloud Interactions within a Data-driven Framework**|Xiang-Yu Li et.al.|[2403.08702](http://arxiv.org/abs/2403.08702)|null|
 |**2024-03-12**|**TeleMoMa: A Modular and Versatile Teleoperation System for Mobile Manipulation**|Shivin Dass et.al.|[2403.07869](http://arxiv.org/abs/2403.07869)|null|
 |**2024-03-12**|**Exploring Safety Generalization Challenges of Large Language Models via Code**|Qibing Ren et.al.|[2403.07865](http://arxiv.org/abs/2403.07865)|null|
 |**2024-03-12**|**Low coordinate degree algorithms I: Universality of computational thresholds for hypothesis testing**|Dmitriy Kunisky et.al.|[2403.07862](http://arxiv.org/abs/2403.07862)|null|
