@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2024.03.15
+## Updated on 2024.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models**|Akhil Kedia et.al.|[2403.09635](http://arxiv.org/abs/2403.09635)|**[link](https://github.com/akhilkedia/tranformersgetstable)**|
+|**2024-03-14**|**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**|Eric Zelikman et.al.|[2403.09629](http://arxiv.org/abs/2403.09629)|null|
+|**2024-03-14**|**Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation**|Fangfu Liu et.al.|[2403.09625](http://arxiv.org/abs/2403.09625)|null|
+|**2024-03-14**|**Minimax Optimal and Computationally Efficient Algorithms for Distributionally Robust Offline Reinforcement Learning**|Zhishuai Liu et.al.|[2403.09621](http://arxiv.org/abs/2403.09621)|null|
+|**2024-03-14**|**Reawakening knowledge: Anticipatory recovery from catastrophic interference via structured training**|Yanlai Yang et.al.|[2403.09613](http://arxiv.org/abs/2403.09613)|**[link](https://github.com/agentic-learning-ai-lab/anticipatory-recovery-public)**|
+|**2024-03-14**|**Compute-first optical detection for noise-resilient visual perception**|Jungmin Kim et.al.|[2403.09612](http://arxiv.org/abs/2403.09612)|null|
+|**2024-03-14**|**MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**|Brandon McKinzie et.al.|[2403.09611](http://arxiv.org/abs/2403.09611)|null|
+|**2024-03-14**|**Signal Recovery with Proximal Comixtures**|Patrick L. Combettes et.al.|[2403.09610](http://arxiv.org/abs/2403.09610)|null|
+|**2024-03-14**|**Extremal graphical modeling with latent variables**|Sebastian Engelke et.al.|[2403.09604](http://arxiv.org/abs/2403.09604)|null|
+|**2024-03-14**|**Optimistic Verifiable Training by Controlling Hardware Nondeterminism**|Megha Srivastava et.al.|[2403.09603](http://arxiv.org/abs/2403.09603)|null|
 |**2024-03-13**|**Simple and Scalable Strategies to Continually Pre-train Large Language Models**|Adam Ibrahim et.al.|[2403.08763](http://arxiv.org/abs/2403.08763)|null|
 |**2024-03-14**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757](http://arxiv.org/abs/2403.08757)|null|
 |**2024-03-13**|**DAM: Dynamic Adapter Merging for Continual Video QA Learning**|Feng Cheng et.al.|[2403.08755](http://arxiv.org/abs/2403.08755)|**[link](https://github.com/klauscc/dam)**|
@@ -59,6 +69,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models**|Akhil Kedia et.al.|[2403.09635](http://arxiv.org/abs/2403.09635)|**[link](https://github.com/akhilkedia/tranformersgetstable)**|
+|**2024-03-14**|**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**|Eric Zelikman et.al.|[2403.09629](http://arxiv.org/abs/2403.09629)|null|
+|**2024-03-14**|**Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation**|Fangfu Liu et.al.|[2403.09625](http://arxiv.org/abs/2403.09625)|null|
+|**2024-03-14**|**Minimax Optimal and Computationally Efficient Algorithms for Distributionally Robust Offline Reinforcement Learning**|Zhishuai Liu et.al.|[2403.09621](http://arxiv.org/abs/2403.09621)|null|
+|**2024-03-14**|**Reawakening knowledge: Anticipatory recovery from catastrophic interference via structured training**|Yanlai Yang et.al.|[2403.09613](http://arxiv.org/abs/2403.09613)|**[link](https://github.com/agentic-learning-ai-lab/anticipatory-recovery-public)**|
+|**2024-03-14**|**Compute-first optical detection for noise-resilient visual perception**|Jungmin Kim et.al.|[2403.09612](http://arxiv.org/abs/2403.09612)|null|
+|**2024-03-14**|**MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**|Brandon McKinzie et.al.|[2403.09611](http://arxiv.org/abs/2403.09611)|null|
+|**2024-03-14**|**Signal Recovery with Proximal Comixtures**|Patrick L. Combettes et.al.|[2403.09610](http://arxiv.org/abs/2403.09610)|null|
+|**2024-03-14**|**Extremal graphical modeling with latent variables**|Sebastian Engelke et.al.|[2403.09604](http://arxiv.org/abs/2403.09604)|null|
+|**2024-03-14**|**Optimistic Verifiable Training by Controlling Hardware Nondeterminism**|Megha Srivastava et.al.|[2403.09603](http://arxiv.org/abs/2403.09603)|null|
 |**2024-03-13**|**Simple and Scalable Strategies to Continually Pre-train Large Language Models**|Adam Ibrahim et.al.|[2403.08763](http://arxiv.org/abs/2403.08763)|null|
 |**2024-03-14**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757](http://arxiv.org/abs/2403.08757)|null|
 |**2024-03-13**|**DAM: Dynamic Adapter Merging for Continual Video QA Learning**|Feng Cheng et.al.|[2403.08755](http://arxiv.org/abs/2403.08755)|**[link](https://github.com/klauscc/dam)**|
