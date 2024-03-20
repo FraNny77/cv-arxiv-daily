@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2024.03.19
+## Updated on 2024.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**S-JEPA: towards seamless cross-dataset transfer through dynamic spatial attention**|Pierre Guetschel et.al.|[2403.11772](http://arxiv.org/abs/2403.11772)|null|
+|**2024-03-18**|**Efficient Feature Extraction and Late Fusion Strategy for Audiovisual Emotional Mimicry Intensity Estimation**|Jun Yu et.al.|[2403.11757](http://arxiv.org/abs/2403.11757)|null|
+|**2024-03-19**|**Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs**|M. Jehanzeb Mirza et.al.|[2403.11755](http://arxiv.org/abs/2403.11755)|null|
+|**2024-03-18**|**PARMESAN: Parameter-Free Memory Search and Transduction for Dense Prediction Tasks**|Philip Matthias Winter et.al.|[2403.11743](http://arxiv.org/abs/2403.11743)|null|
+|**2024-03-18**|**LSKNet: A Foundation Lightweight Backbone for Remote Sensing**|Yuxuan Li et.al.|[2403.11735](http://arxiv.org/abs/2403.11735)|null|
+|**2024-03-18**|**Learning General Policies for Classical Planning Domains: Getting Beyond C $_2$**|Simon Ståhlberg et.al.|[2403.11734](http://arxiv.org/abs/2403.11734)|null|
+|**2024-03-18**|**An efficient algorithm for the Riemannian logarithm on the Stiefel manifold for a family of Riemannian metrics**|Simon Mataigne et.al.|[2403.11730](http://arxiv.org/abs/2403.11730)|null|
+|**2024-03-18**|**PITA: Physics-Informed Trajectory Autoencoder**|Johannes Fischer et.al.|[2403.11728](http://arxiv.org/abs/2403.11728)|null|
 |**2024-03-18**|**Time Series Compression using Quaternion Valued Neural Networks and Quaternion Backpropagation**|Johannes Pöppelbaum et.al.|[2403.11722](http://arxiv.org/abs/2403.11722)|null|
 |**2024-03-18**|**Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models**|Emilian Postolache et.al.|[2403.11706](http://arxiv.org/abs/2403.11706)|**[link](https://github.com/gladia-research-group/gmsdi)**|
 |**2024-03-18**|**Coarsening of chiral domains in itinerant electron magnets: A machine learning force field approach**|Yunhao Fan et.al.|[2403.11705](http://arxiv.org/abs/2403.11705)|null|
@@ -89,6 +97,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**S-JEPA: towards seamless cross-dataset transfer through dynamic spatial attention**|Pierre Guetschel et.al.|[2403.11772](http://arxiv.org/abs/2403.11772)|null|
+|**2024-03-18**|**Efficient Feature Extraction and Late Fusion Strategy for Audiovisual Emotional Mimicry Intensity Estimation**|Jun Yu et.al.|[2403.11757](http://arxiv.org/abs/2403.11757)|null|
+|**2024-03-19**|**Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs**|M. Jehanzeb Mirza et.al.|[2403.11755](http://arxiv.org/abs/2403.11755)|null|
+|**2024-03-18**|**PARMESAN: Parameter-Free Memory Search and Transduction for Dense Prediction Tasks**|Philip Matthias Winter et.al.|[2403.11743](http://arxiv.org/abs/2403.11743)|null|
+|**2024-03-18**|**LSKNet: A Foundation Lightweight Backbone for Remote Sensing**|Yuxuan Li et.al.|[2403.11735](http://arxiv.org/abs/2403.11735)|null|
+|**2024-03-18**|**Learning General Policies for Classical Planning Domains: Getting Beyond C $_2$**|Simon Ståhlberg et.al.|[2403.11734](http://arxiv.org/abs/2403.11734)|null|
+|**2024-03-18**|**An efficient algorithm for the Riemannian logarithm on the Stiefel manifold for a family of Riemannian metrics**|Simon Mataigne et.al.|[2403.11730](http://arxiv.org/abs/2403.11730)|null|
+|**2024-03-18**|**PITA: Physics-Informed Trajectory Autoencoder**|Johannes Fischer et.al.|[2403.11728](http://arxiv.org/abs/2403.11728)|null|
 |**2024-03-18**|**Time Series Compression using Quaternion Valued Neural Networks and Quaternion Backpropagation**|Johannes Pöppelbaum et.al.|[2403.11722](http://arxiv.org/abs/2403.11722)|null|
 |**2024-03-18**|**Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models**|Emilian Postolache et.al.|[2403.11706](http://arxiv.org/abs/2403.11706)|**[link](https://github.com/gladia-research-group/gmsdi)**|
 |**2024-03-18**|**Coarsening of chiral domains in itinerant electron magnets: A machine learning force field approach**|Yunhao Fan et.al.|[2403.11705](http://arxiv.org/abs/2403.11705)|null|

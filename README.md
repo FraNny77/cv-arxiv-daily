@@ -1,4 +1,4 @@
-## Updated on 2024.03.19
+## Updated on 2024.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**S-JEPA: towards seamless cross-dataset transfer through dynamic spatial attention**|Pierre Guetschel et.al.|[2403.11772](http://arxiv.org/abs/2403.11772)|null|
+|**2024-03-18**|**Efficient Feature Extraction and Late Fusion Strategy for Audiovisual Emotional Mimicry Intensity Estimation**|Jun Yu et.al.|[2403.11757](http://arxiv.org/abs/2403.11757)|null|
+|**2024-03-19**|**Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs**|M. Jehanzeb Mirza et.al.|[2403.11755](http://arxiv.org/abs/2403.11755)|null|
+|**2024-03-18**|**PARMESAN: Parameter-Free Memory Search and Transduction for Dense Prediction Tasks**|Philip Matthias Winter et.al.|[2403.11743](http://arxiv.org/abs/2403.11743)|null|
+|**2024-03-18**|**LSKNet: A Foundation Lightweight Backbone for Remote Sensing**|Yuxuan Li et.al.|[2403.11735](http://arxiv.org/abs/2403.11735)|null|
+|**2024-03-18**|**Learning General Policies for Classical Planning Domains: Getting Beyond C $_2$**|Simon Ståhlberg et.al.|[2403.11734](http://arxiv.org/abs/2403.11734)|null|
+|**2024-03-18**|**An efficient algorithm for the Riemannian logarithm on the Stiefel manifold for a family of Riemannian metrics**|Simon Mataigne et.al.|[2403.11730](http://arxiv.org/abs/2403.11730)|null|
+|**2024-03-18**|**PITA: Physics-Informed Trajectory Autoencoder**|Johannes Fischer et.al.|[2403.11728](http://arxiv.org/abs/2403.11728)|null|
 |**2024-03-18**|**Time Series Compression using Quaternion Valued Neural Networks and Quaternion Backpropagation**|Johannes Pöppelbaum et.al.|[2403.11722](http://arxiv.org/abs/2403.11722)|null|
 |**2024-03-18**|**Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models**|Emilian Postolache et.al.|[2403.11706](http://arxiv.org/abs/2403.11706)|**[link](https://github.com/gladia-research-group/gmsdi)**|
 |**2024-03-18**|**Coarsening of chiral domains in itinerant electron magnets: A machine learning force field approach**|Yunhao Fan et.al.|[2403.11705](http://arxiv.org/abs/2403.11705)|null|
@@ -90,12 +98,20 @@
 |**2017-07-27**|**High Dimensional Random Walks Can Appear Low Dimensional: Application to Influenza H3N2 Evolution**|James Moore et.al.|[1707.09361](http://arxiv.org/abs/1707.09361)|null|
 |**2008-07-20**|**Design and Production of Specifically and with High Affinity Reacting Peptides**|Jan C Biro et.al.|[0807.3038](http://arxiv.org/abs/0807.3038)|null|
 
-<p align=right>(<a href=#updated-on-20240319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240320>back to top</a>)</p>
 
 ## Peptide
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**S-JEPA: towards seamless cross-dataset transfer through dynamic spatial attention**|Pierre Guetschel et.al.|[2403.11772](http://arxiv.org/abs/2403.11772)|null|
+|**2024-03-18**|**Efficient Feature Extraction and Late Fusion Strategy for Audiovisual Emotional Mimicry Intensity Estimation**|Jun Yu et.al.|[2403.11757](http://arxiv.org/abs/2403.11757)|null|
+|**2024-03-19**|**Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs**|M. Jehanzeb Mirza et.al.|[2403.11755](http://arxiv.org/abs/2403.11755)|null|
+|**2024-03-18**|**PARMESAN: Parameter-Free Memory Search and Transduction for Dense Prediction Tasks**|Philip Matthias Winter et.al.|[2403.11743](http://arxiv.org/abs/2403.11743)|null|
+|**2024-03-18**|**LSKNet: A Foundation Lightweight Backbone for Remote Sensing**|Yuxuan Li et.al.|[2403.11735](http://arxiv.org/abs/2403.11735)|null|
+|**2024-03-18**|**Learning General Policies for Classical Planning Domains: Getting Beyond C $_2$**|Simon Ståhlberg et.al.|[2403.11734](http://arxiv.org/abs/2403.11734)|null|
+|**2024-03-18**|**An efficient algorithm for the Riemannian logarithm on the Stiefel manifold for a family of Riemannian metrics**|Simon Mataigne et.al.|[2403.11730](http://arxiv.org/abs/2403.11730)|null|
+|**2024-03-18**|**PITA: Physics-Informed Trajectory Autoencoder**|Johannes Fischer et.al.|[2403.11728](http://arxiv.org/abs/2403.11728)|null|
 |**2024-03-18**|**Time Series Compression using Quaternion Valued Neural Networks and Quaternion Backpropagation**|Johannes Pöppelbaum et.al.|[2403.11722](http://arxiv.org/abs/2403.11722)|null|
 |**2024-03-18**|**Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models**|Emilian Postolache et.al.|[2403.11706](http://arxiv.org/abs/2403.11706)|**[link](https://github.com/gladia-research-group/gmsdi)**|
 |**2024-03-18**|**Coarsening of chiral domains in itinerant electron magnets: A machine learning force field approach**|Yunhao Fan et.al.|[2403.11705](http://arxiv.org/abs/2403.11705)|null|
@@ -174,7 +190,7 @@
 |**2018-11-13**|**PepCVAE: Semi-Supervised Targeted Design of Antimicrobial Peptide Sequences**|Payel Das et.al.|[1810.07743](http://arxiv.org/abs/1810.07743)|null|
 |**2009-11-23**|**Silver-staining of proteins in polyacrylamide gels: a general overview**|Thierry Rabilloud et.al.|[0911.4458](http://arxiv.org/abs/0911.4458)|null|
 
-<p align=right>(<a href=#updated-on-20240319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240320>back to top</a>)</p>
 
 ## Diffusion
 
@@ -191,5 +207,5 @@
 |**2024-02-21**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|**[link](https://github.com/allenai/tess-diffusion)**|
 |**2023-05-13**|**Diffusion Models for Non-autoregressive Text Generation: A Survey**|Yifan Li et.al.|[2303.06574](http://arxiv.org/abs/2303.06574)|**[link](https://github.com/rucaibox/awesome-text-diffusion-models)**|
 
-<p align=right>(<a href=#updated-on-20240319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240320>back to top</a>)</p>
 
