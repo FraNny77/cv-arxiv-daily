@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression**|Zhuoshi Pan et.al.|[2403.12968](http://arxiv.org/abs/2403.12968)|null|
+|**2024-03-19**|**TexTile: A Differentiable Metric for Texture Tileability**|Carlos Rodriguez-Pardo et.al.|[2403.12961](http://arxiv.org/abs/2403.12961)|null|
+|**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959](http://arxiv.org/abs/2403.12959)|null|
+|**2024-03-19**|**Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models**|Elaine Sui et.al.|[2403.12952](http://arxiv.org/abs/2403.12952)|**[link](https://github.com/elaine-sui/tps)**|
+|**2024-03-19**|**Optimal and Adaptive Non-Stationary Dueling Bandits Under a Generalized Borda Criterion**|Joe Suk et.al.|[2403.12950](http://arxiv.org/abs/2403.12950)|null|
+|**2024-03-19**|**On Safety in Safe Bayesian Optimization**|Christian Fiedler et.al.|[2403.12948](http://arxiv.org/abs/2403.12948)|null|
+|**2024-03-19**|**Sample Complexity of Offline Distributionally Robust Linear Markov Decision Processes**|He Wang et.al.|[2403.12946](http://arxiv.org/abs/2403.12946)|null|
+|**2024-03-19**|**Neural Differential Algebraic Equations**|James Koch et.al.|[2403.12938](http://arxiv.org/abs/2403.12938)|null|
+|**2024-03-19**|**Elucidating the Nature of $π$ -hydrogen Bonding in Liquid Water and Ammonia**|Krystof Brezina et.al.|[2403.12937](http://arxiv.org/abs/2403.12937)|null|
+|**2024-03-19**|**Segment Anything for comprehensive analysis of grapevine cluster architecture and berry properties**|Efrain Torres-Lomas et.al.|[2403.12935](http://arxiv.org/abs/2403.12935)|null|
 |**2024-03-18**|**S-JEPA: towards seamless cross-dataset transfer through dynamic spatial attention**|Pierre Guetschel et.al.|[2403.11772](http://arxiv.org/abs/2403.11772)|null|
 |**2024-03-18**|**Efficient Feature Extraction and Late Fusion Strategy for Audiovisual Emotional Mimicry Intensity Estimation**|Jun Yu et.al.|[2403.11757](http://arxiv.org/abs/2403.11757)|null|
 |**2024-03-19**|**Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs**|M. Jehanzeb Mirza et.al.|[2403.11755](http://arxiv.org/abs/2403.11755)|null|
@@ -104,6 +114,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression**|Zhuoshi Pan et.al.|[2403.12968](http://arxiv.org/abs/2403.12968)|null|
+|**2024-03-19**|**TexTile: A Differentiable Metric for Texture Tileability**|Carlos Rodriguez-Pardo et.al.|[2403.12961](http://arxiv.org/abs/2403.12961)|null|
+|**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959](http://arxiv.org/abs/2403.12959)|null|
+|**2024-03-19**|**Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models**|Elaine Sui et.al.|[2403.12952](http://arxiv.org/abs/2403.12952)|**[link](https://github.com/elaine-sui/tps)**|
+|**2024-03-19**|**Optimal and Adaptive Non-Stationary Dueling Bandits Under a Generalized Borda Criterion**|Joe Suk et.al.|[2403.12950](http://arxiv.org/abs/2403.12950)|null|
+|**2024-03-19**|**On Safety in Safe Bayesian Optimization**|Christian Fiedler et.al.|[2403.12948](http://arxiv.org/abs/2403.12948)|null|
+|**2024-03-19**|**Sample Complexity of Offline Distributionally Robust Linear Markov Decision Processes**|He Wang et.al.|[2403.12946](http://arxiv.org/abs/2403.12946)|null|
+|**2024-03-19**|**Neural Differential Algebraic Equations**|James Koch et.al.|[2403.12938](http://arxiv.org/abs/2403.12938)|null|
+|**2024-03-19**|**Elucidating the Nature of $π$ -hydrogen Bonding in Liquid Water and Ammonia**|Krystof Brezina et.al.|[2403.12937](http://arxiv.org/abs/2403.12937)|null|
+|**2024-03-19**|**Segment Anything for comprehensive analysis of grapevine cluster architecture and berry properties**|Efrain Torres-Lomas et.al.|[2403.12935](http://arxiv.org/abs/2403.12935)|null|
 |**2024-03-18**|**S-JEPA: towards seamless cross-dataset transfer through dynamic spatial attention**|Pierre Guetschel et.al.|[2403.11772](http://arxiv.org/abs/2403.11772)|null|
 |**2024-03-18**|**Efficient Feature Extraction and Late Fusion Strategy for Audiovisual Emotional Mimicry Intensity Estimation**|Jun Yu et.al.|[2403.11757](http://arxiv.org/abs/2403.11757)|null|
 |**2024-03-19**|**Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs**|M. Jehanzeb Mirza et.al.|[2403.11755](http://arxiv.org/abs/2403.11755)|null|
