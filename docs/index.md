@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data**|Hanrong Ye et.al.|[2403.15389](http://arxiv.org/abs/2403.15389)|null|
+|**2024-03-22**|**LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis**|Kevin Xie et.al.|[2403.15385](http://arxiv.org/abs/2403.15385)|null|
+|**2024-03-22**|**Machine learning-based compression of quantum many body physics: PCA and autoencoder representation of the vertex function**|Jiawei Zang et.al.|[2403.15372](http://arxiv.org/abs/2403.15372)|null|
+|**2024-03-22**|**Can large language models explore in-context?**|Akshay Krishnamurthy et.al.|[2403.15371](http://arxiv.org/abs/2403.15371)|null|
+|**2024-03-22**|**Augmented Reality based Simulated Data (ARSim) with multi-view consistency for AV perception networks**|Aqeel Anwar et.al.|[2403.15370](http://arxiv.org/abs/2403.15370)|null|
+|**2024-03-22**|**A Transfer Attack to Image Watermarks**|Yuepeng Hu et.al.|[2403.15365](http://arxiv.org/abs/2403.15365)|null|
+|**2024-03-22**|**Cascading Blackout Severity Prediction with Statistically-Augmented Graph Neural Networks**|Joe Gorka et.al.|[2403.15363](http://arxiv.org/abs/2403.15363)|null|
+|**2024-03-22**|**Learning Topological Representations for Deep Image Understanding**|Xiaoling Hu et.al.|[2403.15361](http://arxiv.org/abs/2403.15361)|null|
+|**2024-03-22**|**SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series**|Badri N. Patro et.al.|[2403.15360](http://arxiv.org/abs/2403.15360)|null|
+|**2024-03-22**|**Benchmarking of machine learning interatomic potentials for reactive hydrogen dynamics at metal surfaces**|Wojciech G. Stark et.al.|[2403.15334](http://arxiv.org/abs/2403.15334)|null|
 |**2024-03-21**|**MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**|Renrui Zhang et.al.|[2403.14624](http://arxiv.org/abs/2403.14624)|null|
 |**2024-03-21**|**Simplified Diffusion Schrödinger Bridge**|Zhicong Tang et.al.|[2403.14623](http://arxiv.org/abs/2403.14623)|**[link](https://github.com/tzco/simplified-diffusion-schrodinger-bridge)**|
 |**2024-03-22**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617](http://arxiv.org/abs/2403.14617)|null|
@@ -127,6 +137,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data**|Hanrong Ye et.al.|[2403.15389](http://arxiv.org/abs/2403.15389)|null|
+|**2024-03-22**|**LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis**|Kevin Xie et.al.|[2403.15385](http://arxiv.org/abs/2403.15385)|null|
+|**2024-03-22**|**Machine learning-based compression of quantum many body physics: PCA and autoencoder representation of the vertex function**|Jiawei Zang et.al.|[2403.15372](http://arxiv.org/abs/2403.15372)|null|
+|**2024-03-22**|**Can large language models explore in-context?**|Akshay Krishnamurthy et.al.|[2403.15371](http://arxiv.org/abs/2403.15371)|null|
+|**2024-03-22**|**Augmented Reality based Simulated Data (ARSim) with multi-view consistency for AV perception networks**|Aqeel Anwar et.al.|[2403.15370](http://arxiv.org/abs/2403.15370)|null|
+|**2024-03-22**|**A Transfer Attack to Image Watermarks**|Yuepeng Hu et.al.|[2403.15365](http://arxiv.org/abs/2403.15365)|null|
+|**2024-03-22**|**Cascading Blackout Severity Prediction with Statistically-Augmented Graph Neural Networks**|Joe Gorka et.al.|[2403.15363](http://arxiv.org/abs/2403.15363)|null|
+|**2024-03-22**|**Learning Topological Representations for Deep Image Understanding**|Xiaoling Hu et.al.|[2403.15361](http://arxiv.org/abs/2403.15361)|null|
+|**2024-03-22**|**SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series**|Badri N. Patro et.al.|[2403.15360](http://arxiv.org/abs/2403.15360)|null|
+|**2024-03-22**|**Benchmarking of machine learning interatomic potentials for reactive hydrogen dynamics at metal surfaces**|Wojciech G. Stark et.al.|[2403.15334](http://arxiv.org/abs/2403.15334)|null|
 |**2024-03-21**|**MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**|Renrui Zhang et.al.|[2403.14624](http://arxiv.org/abs/2403.14624)|null|
 |**2024-03-21**|**Simplified Diffusion Schrödinger Bridge**|Zhicong Tang et.al.|[2403.14623](http://arxiv.org/abs/2403.14623)|**[link](https://github.com/tzco/simplified-diffusion-schrodinger-bridge)**|
 |**2024-03-22**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617](http://arxiv.org/abs/2403.14617)|null|
