@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems**|Hanqing Yang et.al.|[2403.16809](http://arxiv.org/abs/2403.16809)|null|
+|**2024-03-25**|**Cluster-Based Normalization Layer for Neural Networks**|Bilal Faye et.al.|[2403.16798](http://arxiv.org/abs/2403.16798)|null|
+|**2024-03-25**|**"We Have No Idea How Models will Behave in Production until Production": How Engineers Operationalize Machine Learning**|Shreya Shankar et.al.|[2403.16795](http://arxiv.org/abs/2403.16795)|null|
+|**2024-03-25**|**Iso-Diffusion: Improving Diffusion Probabilistic Models Using the Isotropy of the Additive Gaussian Noise**|Dilum Fernando et.al.|[2403.16790](http://arxiv.org/abs/2403.16790)|null|
+|**2024-03-25**|**The Anatomy of Adversarial Attacks: Concept-based XAI Dissection**|Georgii Mikriukov et.al.|[2403.16782](http://arxiv.org/abs/2403.16782)|null|
+|**2024-03-25**|**Diff-Def: Diffusion-Generated Deformation Fields for Conditional Atlases**|Sophie Starck et.al.|[2403.16776](http://arxiv.org/abs/2403.16776)|null|
+|**2024-03-25**|**Synthetic Data Generation and Joint Learning for Robust Code-Mixed Translation**|Kartik et.al.|[2403.16771](http://arxiv.org/abs/2403.16771)|null|
+|**2024-03-25**|**DeepKnowledge: Generalisation-Driven Deep Learning Testing**|Sondess Missaoui et.al.|[2403.16768](http://arxiv.org/abs/2403.16768)|null|
+|**2024-03-25**|**All Artificial, Less Intelligence: GenAI through the Lens of Formal Verification**|Deepak Narayan Gadde et.al.|[2403.16750](http://arxiv.org/abs/2403.16750)|null|
+|**2024-03-25**|**Enhancing Software Effort Estimation through Reinforcement Learning-based Project Management-Oriented Feature Selection**|Haoyang Chen et.al.|[2403.16749](http://arxiv.org/abs/2403.16749)|null|
 |**2024-03-22**|**DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data**|Hanrong Ye et.al.|[2403.15389](http://arxiv.org/abs/2403.15389)|null|
 |**2024-03-22**|**LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis**|Kevin Xie et.al.|[2403.15385](http://arxiv.org/abs/2403.15385)|null|
 |**2024-03-22**|**Machine learning-based compression of quantum many body physics: PCA and autoencoder representation of the vertex function**|Jiawei Zang et.al.|[2403.15372](http://arxiv.org/abs/2403.15372)|null|
@@ -137,6 +147,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems**|Hanqing Yang et.al.|[2403.16809](http://arxiv.org/abs/2403.16809)|null|
+|**2024-03-25**|**Cluster-Based Normalization Layer for Neural Networks**|Bilal Faye et.al.|[2403.16798](http://arxiv.org/abs/2403.16798)|null|
+|**2024-03-25**|**"We Have No Idea How Models will Behave in Production until Production": How Engineers Operationalize Machine Learning**|Shreya Shankar et.al.|[2403.16795](http://arxiv.org/abs/2403.16795)|null|
+|**2024-03-25**|**Iso-Diffusion: Improving Diffusion Probabilistic Models Using the Isotropy of the Additive Gaussian Noise**|Dilum Fernando et.al.|[2403.16790](http://arxiv.org/abs/2403.16790)|null|
+|**2024-03-25**|**The Anatomy of Adversarial Attacks: Concept-based XAI Dissection**|Georgii Mikriukov et.al.|[2403.16782](http://arxiv.org/abs/2403.16782)|null|
+|**2024-03-25**|**Diff-Def: Diffusion-Generated Deformation Fields for Conditional Atlases**|Sophie Starck et.al.|[2403.16776](http://arxiv.org/abs/2403.16776)|null|
+|**2024-03-25**|**Synthetic Data Generation and Joint Learning for Robust Code-Mixed Translation**|Kartik et.al.|[2403.16771](http://arxiv.org/abs/2403.16771)|null|
+|**2024-03-25**|**DeepKnowledge: Generalisation-Driven Deep Learning Testing**|Sondess Missaoui et.al.|[2403.16768](http://arxiv.org/abs/2403.16768)|null|
+|**2024-03-25**|**All Artificial, Less Intelligence: GenAI through the Lens of Formal Verification**|Deepak Narayan Gadde et.al.|[2403.16750](http://arxiv.org/abs/2403.16750)|null|
+|**2024-03-25**|**Enhancing Software Effort Estimation through Reinforcement Learning-based Project Management-Oriented Feature Selection**|Haoyang Chen et.al.|[2403.16749](http://arxiv.org/abs/2403.16749)|null|
 |**2024-03-22**|**DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data**|Hanrong Ye et.al.|[2403.15389](http://arxiv.org/abs/2403.15389)|null|
 |**2024-03-22**|**LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis**|Kevin Xie et.al.|[2403.15385](http://arxiv.org/abs/2403.15385)|null|
 |**2024-03-22**|**Machine learning-based compression of quantum many body physics: PCA and autoencoder representation of the vertex function**|Jiawei Zang et.al.|[2403.15372](http://arxiv.org/abs/2403.15372)|null|
