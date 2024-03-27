@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models**|Kashyap Chitta et.al.|[2403.17933](http://arxiv.org/abs/2403.17933)|null|
+|**2024-03-26**|**The Need for Speed: Pruning Transformers with One Recipe**|Samir Khaki et.al.|[2403.17921](http://arxiv.org/abs/2403.17921)|**[link](https://github.com/skhaki18/optin-transformer-pruning)**|
+|**2024-03-26**|**LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**|Rui Pan et.al.|[2403.17919](http://arxiv.org/abs/2403.17919)|null|
+|**2024-03-26**|**CMP: Cooperative Motion Prediction with Multi-Agent Communication**|Zhuoyuan Wu et.al.|[2403.17916](http://arxiv.org/abs/2403.17916)|null|
+|**2024-03-26**|**Scalable Non-Cartesian Magnetic Resonance Imaging with R2D2**|Chen Yiwei et.al.|[2403.17905](http://arxiv.org/abs/2403.17905)|null|
+|**2024-03-26**|**Quasar Island - Three new $z\sim6$ quasars, including a lensed candidate, identified with contrastive learning**|Xander Byrne et.al.|[2403.17903](http://arxiv.org/abs/2403.17903)|null|
+|**2024-03-26**|**Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models**|Mohammad Shahab Sepehri et.al.|[2403.17902](http://arxiv.org/abs/2403.17902)|null|
+|**2024-03-26**|**Image-based Novel Fault Detection with Deep Learning Classifiers using Hierarchical Labels**|Nurettin Sergin et.al.|[2403.17891](http://arxiv.org/abs/2403.17891)|null|
+|**2024-03-26**|**Large scale paired antibody language models**|Henry Kenlay et.al.|[2403.17889](http://arxiv.org/abs/2403.17889)|null|
+|**2024-03-26**|**The Unreasonable Ineffectiveness of the Deeper Layers**|Andrey Gromov et.al.|[2403.17887](http://arxiv.org/abs/2403.17887)|null|
 |**2024-03-25**|**An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems**|Hanqing Yang et.al.|[2403.16809](http://arxiv.org/abs/2403.16809)|null|
 |**2024-03-25**|**Cluster-Based Normalization Layer for Neural Networks**|Bilal Faye et.al.|[2403.16798](http://arxiv.org/abs/2403.16798)|null|
 |**2024-03-25**|**"We Have No Idea How Models will Behave in Production until Production": How Engineers Operationalize Machine Learning**|Shreya Shankar et.al.|[2403.16795](http://arxiv.org/abs/2403.16795)|null|
@@ -154,6 +164,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models**|Kashyap Chitta et.al.|[2403.17933](http://arxiv.org/abs/2403.17933)|null|
+|**2024-03-26**|**The Need for Speed: Pruning Transformers with One Recipe**|Samir Khaki et.al.|[2403.17921](http://arxiv.org/abs/2403.17921)|**[link](https://github.com/skhaki18/optin-transformer-pruning)**|
+|**2024-03-26**|**LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**|Rui Pan et.al.|[2403.17919](http://arxiv.org/abs/2403.17919)|null|
+|**2024-03-26**|**CMP: Cooperative Motion Prediction with Multi-Agent Communication**|Zhuoyuan Wu et.al.|[2403.17916](http://arxiv.org/abs/2403.17916)|null|
+|**2024-03-26**|**Scalable Non-Cartesian Magnetic Resonance Imaging with R2D2**|Chen Yiwei et.al.|[2403.17905](http://arxiv.org/abs/2403.17905)|null|
+|**2024-03-26**|**Quasar Island - Three new $z\sim6$ quasars, including a lensed candidate, identified with contrastive learning**|Xander Byrne et.al.|[2403.17903](http://arxiv.org/abs/2403.17903)|null|
+|**2024-03-26**|**Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models**|Mohammad Shahab Sepehri et.al.|[2403.17902](http://arxiv.org/abs/2403.17902)|null|
+|**2024-03-26**|**Image-based Novel Fault Detection with Deep Learning Classifiers using Hierarchical Labels**|Nurettin Sergin et.al.|[2403.17891](http://arxiv.org/abs/2403.17891)|null|
+|**2024-03-26**|**Large scale paired antibody language models**|Henry Kenlay et.al.|[2403.17889](http://arxiv.org/abs/2403.17889)|null|
+|**2024-03-26**|**The Unreasonable Ineffectiveness of the Deeper Layers**|Andrey Gromov et.al.|[2403.17887](http://arxiv.org/abs/2403.17887)|null|
 |**2024-03-25**|**An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems**|Hanqing Yang et.al.|[2403.16809](http://arxiv.org/abs/2403.16809)|null|
 |**2024-03-25**|**Cluster-Based Normalization Layer for Neural Networks**|Bilal Faye et.al.|[2403.16798](http://arxiv.org/abs/2403.16798)|null|
 |**2024-03-25**|**"We Have No Idea How Models will Behave in Production until Production": How Engineers Operationalize Machine Learning**|Shreya Shankar et.al.|[2403.16795](http://arxiv.org/abs/2403.16795)|null|
