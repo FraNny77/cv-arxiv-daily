@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models**|Atsuyuki Miyai et.al.|[2403.20331](http://arxiv.org/abs/2403.20331)|**[link](https://github.com/atsumiyai/upd)**|
+|**2024-03-29**|**ReALM: Reference Resolution As Language Modeling**|Joel Ruben Antony Moniz et.al.|[2403.20329](http://arxiv.org/abs/2403.20329)|null|
+|**2024-03-29**|**Learning Visual Quadrupedal Loco-Manipulation from Demonstrations**|Zhengmao He et.al.|[2403.20328](http://arxiv.org/abs/2403.20328)|null|
+|**2024-03-29**|**Localising the Seizure Onset Zone from Single-Pulse Electrical Stimulation Responses with a Transformer**|Jamie Norris et.al.|[2403.20324](http://arxiv.org/abs/2403.20324)|**[link](https://github.com/norrisjamie23/localising_soz_from_spes)**|
+|**2024-03-29**|**MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning**|Ahmed Agiza et.al.|[2403.20320](http://arxiv.org/abs/2403.20320)|**[link](https://github.com/scale-lab/mtlora)**|
+|**2024-03-29**|**Convolutional Prompting meets Language Models for Continual Learning**|Anurag Roy et.al.|[2403.20317](http://arxiv.org/abs/2403.20317)|null|
+|**2024-03-29**|**Improving Learnt Local MAPF Policies with Heuristic Search**|Rishi Veerapaneni et.al.|[2403.20300](http://arxiv.org/abs/2403.20300)|null|
+|**2024-03-29**|**Review-Based Cross-Domain Recommendation via Hyperbolic Embedding and Hierarchy-Aware Domain Disentanglement**|Yoonhyuk Choi et.al.|[2403.20298](http://arxiv.org/abs/2403.20298)|null|
+|**2024-03-29**|**Probing Heavy Charged Higgs Boson Using Multivariate Technique at Gamma-Gamma Collider**|Ijaz Ahmed et.al.|[2403.20293](http://arxiv.org/abs/2403.20293)|null|
+|**2024-03-29**|**A catalogue of asteroseismically calibrated ages for APOGEE DR17. The predictions of a CatBoost machine learning model based on the [Mg/Ce] chemical clock and other stellar parameters**|Thibault Boulet et.al.|[2403.20291](http://arxiv.org/abs/2403.20291)|null|
 |**2024-03-28**|**Human-compatible driving partners through data-regularized self-play reinforcement learning**|Daphne Cornelisse et.al.|[2403.19648](http://arxiv.org/abs/2403.19648)|**[link](https://github.com/emerge-lab/nocturne_lab)**|
 |**2024-03-28**|**Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models**|Samuel Marks et.al.|[2403.19647](http://arxiv.org/abs/2403.19647)|**[link](https://github.com/saprmarks/feature-circuits)**|
 |**2024-03-28**|**Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**|Yucheng Shi et.al.|[2403.19631](http://arxiv.org/abs/2403.19631)|null|
@@ -184,6 +194,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models**|Atsuyuki Miyai et.al.|[2403.20331](http://arxiv.org/abs/2403.20331)|**[link](https://github.com/atsumiyai/upd)**|
+|**2024-03-29**|**ReALM: Reference Resolution As Language Modeling**|Joel Ruben Antony Moniz et.al.|[2403.20329](http://arxiv.org/abs/2403.20329)|null|
+|**2024-03-29**|**Learning Visual Quadrupedal Loco-Manipulation from Demonstrations**|Zhengmao He et.al.|[2403.20328](http://arxiv.org/abs/2403.20328)|null|
+|**2024-03-29**|**Localising the Seizure Onset Zone from Single-Pulse Electrical Stimulation Responses with a Transformer**|Jamie Norris et.al.|[2403.20324](http://arxiv.org/abs/2403.20324)|**[link](https://github.com/norrisjamie23/localising_soz_from_spes)**|
+|**2024-03-29**|**MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning**|Ahmed Agiza et.al.|[2403.20320](http://arxiv.org/abs/2403.20320)|**[link](https://github.com/scale-lab/mtlora)**|
+|**2024-03-29**|**Convolutional Prompting meets Language Models for Continual Learning**|Anurag Roy et.al.|[2403.20317](http://arxiv.org/abs/2403.20317)|null|
+|**2024-03-29**|**Improving Learnt Local MAPF Policies with Heuristic Search**|Rishi Veerapaneni et.al.|[2403.20300](http://arxiv.org/abs/2403.20300)|null|
+|**2024-03-29**|**Review-Based Cross-Domain Recommendation via Hyperbolic Embedding and Hierarchy-Aware Domain Disentanglement**|Yoonhyuk Choi et.al.|[2403.20298](http://arxiv.org/abs/2403.20298)|null|
+|**2024-03-29**|**Probing Heavy Charged Higgs Boson Using Multivariate Technique at Gamma-Gamma Collider**|Ijaz Ahmed et.al.|[2403.20293](http://arxiv.org/abs/2403.20293)|null|
+|**2024-03-29**|**A catalogue of asteroseismically calibrated ages for APOGEE DR17. The predictions of a CatBoost machine learning model based on the [Mg/Ce] chemical clock and other stellar parameters**|Thibault Boulet et.al.|[2403.20291](http://arxiv.org/abs/2403.20291)|null|
 |**2024-03-28**|**Human-compatible driving partners through data-regularized self-play reinforcement learning**|Daphne Cornelisse et.al.|[2403.19648](http://arxiv.org/abs/2403.19648)|**[link](https://github.com/emerge-lab/nocturne_lab)**|
 |**2024-03-28**|**Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models**|Samuel Marks et.al.|[2403.19647](http://arxiv.org/abs/2403.19647)|**[link](https://github.com/saprmarks/feature-circuits)**|
 |**2024-03-28**|**Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**|Yucheng Shi et.al.|[2403.19631](http://arxiv.org/abs/2403.19631)|null|
