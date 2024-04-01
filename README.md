@@ -36,7 +36,7 @@
 |**2024-03-27**|**Understanding the Learning Dynamics of Alignment with Human Feedback**|Shawn Im et.al.|[2403.18742](http://arxiv.org/abs/2403.18742)|null|
 |**2024-03-26**|**SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models**|Kashyap Chitta et.al.|[2403.17933](http://arxiv.org/abs/2403.17933)|null|
 |**2024-03-26**|**The Need for Speed: Pruning Transformers with One Recipe**|Samir Khaki et.al.|[2403.17921](http://arxiv.org/abs/2403.17921)|**[link](https://github.com/skhaki18/optin-transformer-pruning)**|
-|**2024-03-26**|**LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**|Rui Pan et.al.|[2403.17919](http://arxiv.org/abs/2403.17919)|null|
+|**2024-03-26**|**LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**|Rui Pan et.al.|[2403.17919](http://arxiv.org/abs/2403.17919)|**[link](https://github.com/optimalscale/lmflow)**|
 |**2024-03-26**|**CMP: Cooperative Motion Prediction with Multi-Agent Communication**|Zhuoyuan Wu et.al.|[2403.17916](http://arxiv.org/abs/2403.17916)|null|
 |**2024-03-27**|**Scalable Non-Cartesian Magnetic Resonance Imaging with R2D2**|Yiwei Chen et.al.|[2403.17905](http://arxiv.org/abs/2403.17905)|null|
 |**2024-03-26**|**Quasar Island - Three new $z\sim6$ quasars, including a lensed candidate, identified with contrastive learning**|Xander Byrne et.al.|[2403.17903](http://arxiv.org/abs/2403.17903)|null|
@@ -62,7 +62,7 @@
 |**2024-03-22**|**A Transfer Attack to Image Watermarks**|Yuepeng Hu et.al.|[2403.15365](http://arxiv.org/abs/2403.15365)|null|
 |**2024-03-22**|**Cascading Blackout Severity Prediction with Statistically-Augmented Graph Neural Networks**|Joe Gorka et.al.|[2403.15363](http://arxiv.org/abs/2403.15363)|null|
 |**2024-03-22**|**Learning Topological Representations for Deep Image Understanding**|Xiaoling Hu et.al.|[2403.15361](http://arxiv.org/abs/2403.15361)|null|
-|**2024-03-22**|**SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series**|Badri N. Patro et.al.|[2403.15360](http://arxiv.org/abs/2403.15360)|null|
+|**2024-03-22**|**SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series**|Badri N. Patro et.al.|[2403.15360](http://arxiv.org/abs/2403.15360)|**[link](https://github.com/badripatro/simba)**|
 |**2024-03-22**|**Benchmarking of machine learning interatomic potentials for reactive hydrogen dynamics at metal surfaces**|Wojciech G. Stark et.al.|[2403.15334](http://arxiv.org/abs/2403.15334)|null|
 |**2024-03-21**|**MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**|Renrui Zhang et.al.|[2403.14624](http://arxiv.org/abs/2403.14624)|null|
 |**2024-03-21**|**Simplified Diffusion Schrödinger Bridge**|Zhicong Tang et.al.|[2403.14623](http://arxiv.org/abs/2403.14623)|**[link](https://github.com/tzco/simplified-diffusion-schrodinger-bridge)**|
@@ -72,19 +72,19 @@
 |**2024-03-21**|**The Elements of Differentiable Programming**|Mathieu Blondel et.al.|[2403.14606](http://arxiv.org/abs/2403.14606)|null|
 |**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602](http://arxiv.org/abs/2403.14602)|null|
 |**2024-03-21**|**Extended Reality for Enhanced Human-Robot Collaboration: a Human-in-the-Loop Approach**|Yehor Karpichev et.al.|[2403.14597](http://arxiv.org/abs/2403.14597)|null|
-|**2024-03-21**|**Rethinking Adversarial Inverse Reinforcement Learning: From the Angles of Policy Imitation and Transferable Reward Recovery**|Yangchun Zhang et.al.|[2403.14593](http://arxiv.org/abs/2403.14593)|null|
+|**2024-03-21**|**Rethinking Adversarial Inverse Reinforcement Learning: From the Angles of Policy Imitation and Transferable Reward Recovery**|Yangchun Zhang et.al.|[2403.14593](http://arxiv.org/abs/2403.14593)|**[link](https://github.com/garyzyr001/rethinking-airl)**|
 |**2024-03-21**|**ReAct Meets ActRe: Autonomous Annotations of Agent Trajectories for Contrastive Self-Training**|Zonghan Yang et.al.|[2403.14589](http://arxiv.org/abs/2403.14589)|null|
 |**2024-03-20**|**On Pretraining Data Diversity for Self-Supervised Learning**|Hasan Abed Al Kader Hammoud et.al.|[2403.13808](http://arxiv.org/abs/2403.13808)|**[link](https://github.com/hammoudhasan/diversityssl)**|
 |**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807](http://arxiv.org/abs/2403.13807)|**[link](https://github.com/silentview/emcid)**|
 |**2024-03-20**|**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**|Ziyu Liu et.al.|[2403.13805](http://arxiv.org/abs/2403.13805)|**[link](https://github.com/liuziyu77/rar)**|
 |**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804](http://arxiv.org/abs/2403.13804)|null|
-|**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802](http://arxiv.org/abs/2403.13802)|null|
+|**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802](http://arxiv.org/abs/2403.13802)|**[link](https://github.com/CompVis/zigma)**|
 |**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798](http://arxiv.org/abs/2403.13798)|null|
 |**2024-03-20**|**Bridge the Modality and Capacity Gaps in Vision-Language Model Selection**|Chao Yi et.al.|[2403.13797](http://arxiv.org/abs/2403.13797)|null|
 |**2024-03-20**|**Evaluating Frontier Models for Dangerous Capabilities**|Mary Phuong et.al.|[2403.13793](http://arxiv.org/abs/2403.13793)|null|
 |**2024-03-20**|**RewardBench: Evaluating Reward Models for Language Modeling**|Nathan Lambert et.al.|[2403.13787](http://arxiv.org/abs/2403.13787)|**[link](https://github.com/allenai/reward-bench)**|
 |**2024-03-20**|**Chain-of-Interaction: Enhancing Large Language Models for Psychiatric Behavior Understanding by Dyadic Contexts**|Guangzeng Han et.al.|[2403.13786](http://arxiv.org/abs/2403.13786)|null|
-|**2024-03-19**|**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression**|Zhuoshi Pan et.al.|[2403.12968](http://arxiv.org/abs/2403.12968)|null|
+|**2024-03-19**|**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression**|Zhuoshi Pan et.al.|[2403.12968](http://arxiv.org/abs/2403.12968)|**[link](https://github.com/microsoft/LLMLingua)**|
 |**2024-03-19**|**TexTile: A Differentiable Metric for Texture Tileability**|Carlos Rodriguez-Pardo et.al.|[2403.12961](http://arxiv.org/abs/2403.12961)|null|
 |**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959](http://arxiv.org/abs/2403.12959)|null|
 |**2024-03-19**|**Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models**|Elaine Sui et.al.|[2403.12952](http://arxiv.org/abs/2403.12952)|**[link](https://github.com/elaine-sui/tps)**|
@@ -123,7 +123,7 @@
 |**2024-03-15**|**Approximate Nullspace Augmented Finetuning for Robust Vision Transformers**|Haoyang Liu et.al.|[2403.10476](http://arxiv.org/abs/2403.10476)|null|
 |**2024-03-15**|**MADAS -- A Python framework for assessing similarity in materials-science data**|Martin Kuban et.al.|[2403.10470](http://arxiv.org/abs/2403.10470)|**[link](https://github.com/kubanmar/madas)**|
 |**2024-03-14**|**Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models**|Akhil Kedia et.al.|[2403.09635](http://arxiv.org/abs/2403.09635)|**[link](https://github.com/akhilkedia/tranformersgetstable)**|
-|**2024-03-14**|**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**|Eric Zelikman et.al.|[2403.09629](http://arxiv.org/abs/2403.09629)|null|
+|**2024-03-14**|**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**|Eric Zelikman et.al.|[2403.09629](http://arxiv.org/abs/2403.09629)|**[link](https://github.com/ezelikman/quiet-star)**|
 |**2024-03-14**|**Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation**|Fangfu Liu et.al.|[2403.09625](http://arxiv.org/abs/2403.09625)|null|
 |**2024-03-14**|**Minimax Optimal and Computationally Efficient Algorithms for Distributionally Robust Offline Reinforcement Learning**|Zhishuai Liu et.al.|[2403.09621](http://arxiv.org/abs/2403.09621)|null|
 |**2024-03-14**|**Reawakening knowledge: Anticipatory recovery from catastrophic interference via structured training**|Yanlai Yang et.al.|[2403.09613](http://arxiv.org/abs/2403.09613)|**[link](https://github.com/agentic-learning-ai-lab/anticipatory-recovery-public)**|
@@ -132,7 +132,7 @@
 |**2024-03-14**|**Signal Recovery with Proximal Comixtures**|Patrick L. Combettes et.al.|[2403.09610](http://arxiv.org/abs/2403.09610)|null|
 |**2024-03-14**|**Extremal graphical modeling with latent variables**|Sebastian Engelke et.al.|[2403.09604](http://arxiv.org/abs/2403.09604)|null|
 |**2024-03-14**|**Optimistic Verifiable Training by Controlling Hardware Nondeterminism**|Megha Srivastava et.al.|[2403.09603](http://arxiv.org/abs/2403.09603)|null|
-|**2024-03-13**|**Simple and Scalable Strategies to Continually Pre-train Large Language Models**|Adam Ibrahim et.al.|[2403.08763](http://arxiv.org/abs/2403.08763)|null|
+|**2024-03-13**|**Simple and Scalable Strategies to Continually Pre-train Large Language Models**|Adam Ibrahim et.al.|[2403.08763](http://arxiv.org/abs/2403.08763)|**[link](https://github.com/eleutherai/gpt-neox)**|
 |**2024-03-14**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757](http://arxiv.org/abs/2403.08757)|**[link](https://github.com/awakermhy/heo)**|
 |**2024-03-13**|**DAM: Dynamic Adapter Merging for Continual Video QA Learning**|Feng Cheng et.al.|[2403.08755](http://arxiv.org/abs/2403.08755)|**[link](https://github.com/klauscc/dam)**|
 |**2024-03-13**|**Neural reproducing kernel Banach spaces and representer theorems for deep networks**|Francesca Bartolucci et.al.|[2403.08750](http://arxiv.org/abs/2403.08750)|null|
@@ -167,7 +167,7 @@
 |**2024-03-08**|**The Computational Complexity of Learning Gaussian Single-Index Models**|Alex Damian et.al.|[2403.05529](http://arxiv.org/abs/2403.05529)|null|
 |**2024-03-08**|**GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM**|Hao Kang et.al.|[2403.05527](http://arxiv.org/abs/2403.05527)|**[link](https://github.com/haokang-timmy/gear)**|
 |**2024-03-08**|**Poly-View Contrastive Learning**|Amitis Shidani et.al.|[2403.05490](http://arxiv.org/abs/2403.05490)|null|
-|**2024-03-08**|**Algorithm-Hardware Co-Design of Distribution-Aware Logarithmic-Posit Encodings for Efficient DNN Inference**|Akshat Ramachandran et.al.|[2403.05465](http://arxiv.org/abs/2403.05465)|null|
+|**2024-03-08**|**Algorithm-Hardware Co-Design of Distribution-Aware Logarithmic-Posit Encodings for Efficient DNN Inference**|Akshat Ramachandran et.al.|[2403.05465](http://arxiv.org/abs/2403.05465)|**[link](https://github.com/georgia-tech-synergy-lab/LogarithmicPosit)**|
 |**2024-03-08**|**The R2D2 deep neural network series paradigm for fast precision imaging in radio astronomy**|Amir Aghabiglou et.al.|[2403.05452](http://arxiv.org/abs/2403.05452)|null|
 |**2024-03-08**|**An Improved Algorithm for Learning Drifting Discrete Distributions**|Alessio Mazzetto et.al.|[2403.05446](http://arxiv.org/abs/2403.05446)|null|
 |**2024-03-08**|**Bayesian Hierarchical Probabilistic Forecasting of Intraday Electricity Prices**|Daniel Nickelsen et.al.|[2403.05441](http://arxiv.org/abs/2403.05441)|null|
@@ -206,7 +206,7 @@
 |**2024-03-27**|**Understanding the Learning Dynamics of Alignment with Human Feedback**|Shawn Im et.al.|[2403.18742](http://arxiv.org/abs/2403.18742)|null|
 |**2024-03-26**|**SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models**|Kashyap Chitta et.al.|[2403.17933](http://arxiv.org/abs/2403.17933)|null|
 |**2024-03-26**|**The Need for Speed: Pruning Transformers with One Recipe**|Samir Khaki et.al.|[2403.17921](http://arxiv.org/abs/2403.17921)|**[link](https://github.com/skhaki18/optin-transformer-pruning)**|
-|**2024-03-26**|**LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**|Rui Pan et.al.|[2403.17919](http://arxiv.org/abs/2403.17919)|null|
+|**2024-03-26**|**LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning**|Rui Pan et.al.|[2403.17919](http://arxiv.org/abs/2403.17919)|**[link](https://github.com/optimalscale/lmflow)**|
 |**2024-03-26**|**CMP: Cooperative Motion Prediction with Multi-Agent Communication**|Zhuoyuan Wu et.al.|[2403.17916](http://arxiv.org/abs/2403.17916)|null|
 |**2024-03-27**|**Scalable Non-Cartesian Magnetic Resonance Imaging with R2D2**|Yiwei Chen et.al.|[2403.17905](http://arxiv.org/abs/2403.17905)|null|
 |**2024-03-26**|**Quasar Island - Three new $z\sim6$ quasars, including a lensed candidate, identified with contrastive learning**|Xander Byrne et.al.|[2403.17903](http://arxiv.org/abs/2403.17903)|null|
@@ -232,7 +232,7 @@
 |**2024-03-22**|**A Transfer Attack to Image Watermarks**|Yuepeng Hu et.al.|[2403.15365](http://arxiv.org/abs/2403.15365)|null|
 |**2024-03-22**|**Cascading Blackout Severity Prediction with Statistically-Augmented Graph Neural Networks**|Joe Gorka et.al.|[2403.15363](http://arxiv.org/abs/2403.15363)|null|
 |**2024-03-22**|**Learning Topological Representations for Deep Image Understanding**|Xiaoling Hu et.al.|[2403.15361](http://arxiv.org/abs/2403.15361)|null|
-|**2024-03-22**|**SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series**|Badri N. Patro et.al.|[2403.15360](http://arxiv.org/abs/2403.15360)|null|
+|**2024-03-22**|**SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series**|Badri N. Patro et.al.|[2403.15360](http://arxiv.org/abs/2403.15360)|**[link](https://github.com/badripatro/simba)**|
 |**2024-03-22**|**Benchmarking of machine learning interatomic potentials for reactive hydrogen dynamics at metal surfaces**|Wojciech G. Stark et.al.|[2403.15334](http://arxiv.org/abs/2403.15334)|null|
 |**2024-03-21**|**MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**|Renrui Zhang et.al.|[2403.14624](http://arxiv.org/abs/2403.14624)|null|
 |**2024-03-21**|**Simplified Diffusion Schrödinger Bridge**|Zhicong Tang et.al.|[2403.14623](http://arxiv.org/abs/2403.14623)|**[link](https://github.com/tzco/simplified-diffusion-schrodinger-bridge)**|
@@ -242,19 +242,19 @@
 |**2024-03-21**|**The Elements of Differentiable Programming**|Mathieu Blondel et.al.|[2403.14606](http://arxiv.org/abs/2403.14606)|null|
 |**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602](http://arxiv.org/abs/2403.14602)|null|
 |**2024-03-21**|**Extended Reality for Enhanced Human-Robot Collaboration: a Human-in-the-Loop Approach**|Yehor Karpichev et.al.|[2403.14597](http://arxiv.org/abs/2403.14597)|null|
-|**2024-03-21**|**Rethinking Adversarial Inverse Reinforcement Learning: From the Angles of Policy Imitation and Transferable Reward Recovery**|Yangchun Zhang et.al.|[2403.14593](http://arxiv.org/abs/2403.14593)|null|
+|**2024-03-21**|**Rethinking Adversarial Inverse Reinforcement Learning: From the Angles of Policy Imitation and Transferable Reward Recovery**|Yangchun Zhang et.al.|[2403.14593](http://arxiv.org/abs/2403.14593)|**[link](https://github.com/garyzyr001/rethinking-airl)**|
 |**2024-03-21**|**ReAct Meets ActRe: Autonomous Annotations of Agent Trajectories for Contrastive Self-Training**|Zonghan Yang et.al.|[2403.14589](http://arxiv.org/abs/2403.14589)|null|
 |**2024-03-20**|**On Pretraining Data Diversity for Self-Supervised Learning**|Hasan Abed Al Kader Hammoud et.al.|[2403.13808](http://arxiv.org/abs/2403.13808)|**[link](https://github.com/hammoudhasan/diversityssl)**|
 |**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807](http://arxiv.org/abs/2403.13807)|**[link](https://github.com/silentview/emcid)**|
 |**2024-03-20**|**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**|Ziyu Liu et.al.|[2403.13805](http://arxiv.org/abs/2403.13805)|**[link](https://github.com/liuziyu77/rar)**|
 |**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804](http://arxiv.org/abs/2403.13804)|null|
-|**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802](http://arxiv.org/abs/2403.13802)|null|
+|**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802](http://arxiv.org/abs/2403.13802)|**[link](https://github.com/CompVis/zigma)**|
 |**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798](http://arxiv.org/abs/2403.13798)|null|
 |**2024-03-20**|**Bridge the Modality and Capacity Gaps in Vision-Language Model Selection**|Chao Yi et.al.|[2403.13797](http://arxiv.org/abs/2403.13797)|null|
 |**2024-03-20**|**Evaluating Frontier Models for Dangerous Capabilities**|Mary Phuong et.al.|[2403.13793](http://arxiv.org/abs/2403.13793)|null|
 |**2024-03-20**|**RewardBench: Evaluating Reward Models for Language Modeling**|Nathan Lambert et.al.|[2403.13787](http://arxiv.org/abs/2403.13787)|**[link](https://github.com/allenai/reward-bench)**|
 |**2024-03-20**|**Chain-of-Interaction: Enhancing Large Language Models for Psychiatric Behavior Understanding by Dyadic Contexts**|Guangzeng Han et.al.|[2403.13786](http://arxiv.org/abs/2403.13786)|null|
-|**2024-03-19**|**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression**|Zhuoshi Pan et.al.|[2403.12968](http://arxiv.org/abs/2403.12968)|null|
+|**2024-03-19**|**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression**|Zhuoshi Pan et.al.|[2403.12968](http://arxiv.org/abs/2403.12968)|**[link](https://github.com/microsoft/LLMLingua)**|
 |**2024-03-19**|**TexTile: A Differentiable Metric for Texture Tileability**|Carlos Rodriguez-Pardo et.al.|[2403.12961](http://arxiv.org/abs/2403.12961)|null|
 |**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959](http://arxiv.org/abs/2403.12959)|null|
 |**2024-03-19**|**Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models**|Elaine Sui et.al.|[2403.12952](http://arxiv.org/abs/2403.12952)|**[link](https://github.com/elaine-sui/tps)**|
@@ -293,7 +293,7 @@
 |**2024-03-15**|**Approximate Nullspace Augmented Finetuning for Robust Vision Transformers**|Haoyang Liu et.al.|[2403.10476](http://arxiv.org/abs/2403.10476)|null|
 |**2024-03-15**|**MADAS -- A Python framework for assessing similarity in materials-science data**|Martin Kuban et.al.|[2403.10470](http://arxiv.org/abs/2403.10470)|**[link](https://github.com/kubanmar/madas)**|
 |**2024-03-14**|**Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models**|Akhil Kedia et.al.|[2403.09635](http://arxiv.org/abs/2403.09635)|**[link](https://github.com/akhilkedia/tranformersgetstable)**|
-|**2024-03-14**|**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**|Eric Zelikman et.al.|[2403.09629](http://arxiv.org/abs/2403.09629)|null|
+|**2024-03-14**|**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**|Eric Zelikman et.al.|[2403.09629](http://arxiv.org/abs/2403.09629)|**[link](https://github.com/ezelikman/quiet-star)**|
 |**2024-03-14**|**Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation**|Fangfu Liu et.al.|[2403.09625](http://arxiv.org/abs/2403.09625)|null|
 |**2024-03-14**|**Minimax Optimal and Computationally Efficient Algorithms for Distributionally Robust Offline Reinforcement Learning**|Zhishuai Liu et.al.|[2403.09621](http://arxiv.org/abs/2403.09621)|null|
 |**2024-03-14**|**Reawakening knowledge: Anticipatory recovery from catastrophic interference via structured training**|Yanlai Yang et.al.|[2403.09613](http://arxiv.org/abs/2403.09613)|**[link](https://github.com/agentic-learning-ai-lab/anticipatory-recovery-public)**|
@@ -302,7 +302,7 @@
 |**2024-03-14**|**Signal Recovery with Proximal Comixtures**|Patrick L. Combettes et.al.|[2403.09610](http://arxiv.org/abs/2403.09610)|null|
 |**2024-03-14**|**Extremal graphical modeling with latent variables**|Sebastian Engelke et.al.|[2403.09604](http://arxiv.org/abs/2403.09604)|null|
 |**2024-03-14**|**Optimistic Verifiable Training by Controlling Hardware Nondeterminism**|Megha Srivastava et.al.|[2403.09603](http://arxiv.org/abs/2403.09603)|null|
-|**2024-03-13**|**Simple and Scalable Strategies to Continually Pre-train Large Language Models**|Adam Ibrahim et.al.|[2403.08763](http://arxiv.org/abs/2403.08763)|null|
+|**2024-03-13**|**Simple and Scalable Strategies to Continually Pre-train Large Language Models**|Adam Ibrahim et.al.|[2403.08763](http://arxiv.org/abs/2403.08763)|**[link](https://github.com/eleutherai/gpt-neox)**|
 |**2024-03-14**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757](http://arxiv.org/abs/2403.08757)|**[link](https://github.com/awakermhy/heo)**|
 |**2024-03-13**|**DAM: Dynamic Adapter Merging for Continual Video QA Learning**|Feng Cheng et.al.|[2403.08755](http://arxiv.org/abs/2403.08755)|**[link](https://github.com/klauscc/dam)**|
 |**2024-03-13**|**Neural reproducing kernel Banach spaces and representer theorems for deep networks**|Francesca Bartolucci et.al.|[2403.08750](http://arxiv.org/abs/2403.08750)|null|
@@ -337,7 +337,7 @@
 |**2024-03-08**|**The Computational Complexity of Learning Gaussian Single-Index Models**|Alex Damian et.al.|[2403.05529](http://arxiv.org/abs/2403.05529)|null|
 |**2024-03-08**|**GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM**|Hao Kang et.al.|[2403.05527](http://arxiv.org/abs/2403.05527)|**[link](https://github.com/haokang-timmy/gear)**|
 |**2024-03-08**|**Poly-View Contrastive Learning**|Amitis Shidani et.al.|[2403.05490](http://arxiv.org/abs/2403.05490)|null|
-|**2024-03-08**|**Algorithm-Hardware Co-Design of Distribution-Aware Logarithmic-Posit Encodings for Efficient DNN Inference**|Akshat Ramachandran et.al.|[2403.05465](http://arxiv.org/abs/2403.05465)|null|
+|**2024-03-08**|**Algorithm-Hardware Co-Design of Distribution-Aware Logarithmic-Posit Encodings for Efficient DNN Inference**|Akshat Ramachandran et.al.|[2403.05465](http://arxiv.org/abs/2403.05465)|**[link](https://github.com/georgia-tech-synergy-lab/LogarithmicPosit)**|
 |**2024-03-08**|**The R2D2 deep neural network series paradigm for fast precision imaging in radio astronomy**|Amir Aghabiglou et.al.|[2403.05452](http://arxiv.org/abs/2403.05452)|null|
 |**2024-03-08**|**An Improved Algorithm for Learning Drifting Discrete Distributions**|Alessio Mazzetto et.al.|[2403.05446](http://arxiv.org/abs/2403.05446)|null|
 |**2024-03-08**|**Bayesian Hierarchical Probabilistic Forecasting of Intraday Electricity Prices**|Daniel Nickelsen et.al.|[2403.05441](http://arxiv.org/abs/2403.05441)|null|
