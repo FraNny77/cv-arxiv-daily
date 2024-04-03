@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks**|Maksym Andriushchenko et.al.|[2404.02151](http://arxiv.org/abs/2404.02151)|**[link](https://github.com/tml-epfl/llm-adaptive-attacks)**|
+|**2024-04-02**|**Robustly estimating heterogeneity in factorial data using Rashomon Partitions**|Aparajithan Venkateswaran et.al.|[2404.02141](http://arxiv.org/abs/2404.02141)|null|
+|**2024-04-02**|**Topic-based Watermarks for LLM-Generated Text**|Alexander Nemecek et.al.|[2404.02138](http://arxiv.org/abs/2404.02138)|null|
+|**2024-04-02**|**FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning**|Joel Niklaus et.al.|[2404.02127](http://arxiv.org/abs/2404.02127)|**[link](https://github.com/joelniklaus/lawinstruct)**|
+|**2024-04-02**|**GINopic: Topic Modeling with Graph Isomorphism Network**|Suman Adhya et.al.|[2404.02115](http://arxiv.org/abs/2404.02115)|**[link](https://github.com/adhyasuman/ginopic)**|
+|**2024-04-02**|**Tuning for the Unknown: Revisiting Evaluation Strategies for Lifelong RL**|Golnaz Mesbahi et.al.|[2404.02113](http://arxiv.org/abs/2404.02113)|null|
+|**2024-04-02**|**ImageNot: A contrast with ImageNet preserves model rankings**|Olawale Salaudeen et.al.|[2404.02112](http://arxiv.org/abs/2404.02112)|null|
+|**2024-04-02**|**Variance-Reduced Policy Gradient Approaches for Infinite Horizon Average Reward Markov Decision Processes**|Swetha Ganesh et.al.|[2404.02108](http://arxiv.org/abs/2404.02108)|null|
+|**2024-04-02**|**Explainability in JupyterLab and Beyond: Interactive XAI Systems for Integrated and Collaborative Workflows**|Grace Guo et.al.|[2404.02081](http://arxiv.org/abs/2404.02081)|null|
+|**2024-04-02**|**Advancing LLM Reasoning Generalists with Preference Trees**|Lifan Yuan et.al.|[2404.02078](http://arxiv.org/abs/2404.02078)|**[link](https://github.com/openbmb/eurus)**|
 |**2024-03-29**|**Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models**|Atsuyuki Miyai et.al.|[2403.20331](http://arxiv.org/abs/2403.20331)|**[link](https://github.com/atsumiyai/upd)**|
 |**2024-03-29**|**ReALM: Reference Resolution As Language Modeling**|Joel Ruben Antony Moniz et.al.|[2403.20329](http://arxiv.org/abs/2403.20329)|null|
 |**2024-03-29**|**Learning Visual Quadrupedal Loco-Manipulation from Demonstrations**|Zhengmao He et.al.|[2403.20328](http://arxiv.org/abs/2403.20328)|null|
@@ -194,6 +204,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks**|Maksym Andriushchenko et.al.|[2404.02151](http://arxiv.org/abs/2404.02151)|**[link](https://github.com/tml-epfl/llm-adaptive-attacks)**|
+|**2024-04-02**|**Robustly estimating heterogeneity in factorial data using Rashomon Partitions**|Aparajithan Venkateswaran et.al.|[2404.02141](http://arxiv.org/abs/2404.02141)|null|
+|**2024-04-02**|**Topic-based Watermarks for LLM-Generated Text**|Alexander Nemecek et.al.|[2404.02138](http://arxiv.org/abs/2404.02138)|null|
+|**2024-04-02**|**FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning**|Joel Niklaus et.al.|[2404.02127](http://arxiv.org/abs/2404.02127)|**[link](https://github.com/joelniklaus/lawinstruct)**|
+|**2024-04-02**|**GINopic: Topic Modeling with Graph Isomorphism Network**|Suman Adhya et.al.|[2404.02115](http://arxiv.org/abs/2404.02115)|**[link](https://github.com/adhyasuman/ginopic)**|
+|**2024-04-02**|**Tuning for the Unknown: Revisiting Evaluation Strategies for Lifelong RL**|Golnaz Mesbahi et.al.|[2404.02113](http://arxiv.org/abs/2404.02113)|null|
+|**2024-04-02**|**ImageNot: A contrast with ImageNet preserves model rankings**|Olawale Salaudeen et.al.|[2404.02112](http://arxiv.org/abs/2404.02112)|null|
+|**2024-04-02**|**Variance-Reduced Policy Gradient Approaches for Infinite Horizon Average Reward Markov Decision Processes**|Swetha Ganesh et.al.|[2404.02108](http://arxiv.org/abs/2404.02108)|null|
+|**2024-04-02**|**Explainability in JupyterLab and Beyond: Interactive XAI Systems for Integrated and Collaborative Workflows**|Grace Guo et.al.|[2404.02081](http://arxiv.org/abs/2404.02081)|null|
+|**2024-04-02**|**Advancing LLM Reasoning Generalists with Preference Trees**|Lifan Yuan et.al.|[2404.02078](http://arxiv.org/abs/2404.02078)|**[link](https://github.com/openbmb/eurus)**|
 |**2024-03-29**|**Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models**|Atsuyuki Miyai et.al.|[2403.20331](http://arxiv.org/abs/2403.20331)|**[link](https://github.com/atsumiyai/upd)**|
 |**2024-03-29**|**ReALM: Reference Resolution As Language Modeling**|Joel Ruben Antony Moniz et.al.|[2403.20329](http://arxiv.org/abs/2403.20329)|null|
 |**2024-03-29**|**Learning Visual Quadrupedal Loco-Manipulation from Demonstrations**|Zhengmao He et.al.|[2403.20328](http://arxiv.org/abs/2403.20328)|null|
