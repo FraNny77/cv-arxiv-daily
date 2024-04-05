@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra**|Darioush Kevian et.al.|[2404.03647](http://arxiv.org/abs/2404.03647)|null|
+|**2024-04-04**|**WorDepth: Variational Language Prior for Monocular Depth Estimation**|Ziyao Zeng et.al.|[2404.03635](http://arxiv.org/abs/2404.03635)|null|
+|**2024-04-04**|**Training LLMs over Neurally Compressed Text**|Brian Lester et.al.|[2404.03626](http://arxiv.org/abs/2404.03626)|null|
+|**2024-04-04**|**On the Efficiency of Convolutional Neural Networks**|Andrew Lavin et.al.|[2404.03617](http://arxiv.org/abs/2404.03617)|null|
+|**2024-04-04**|**Mitigating the Impact of Outlier Channels for Language Model Quantization with Activation Regularization**|Aniruddha Nrusimha et.al.|[2404.03605](http://arxiv.org/abs/2404.03605)|null|
+|**2024-04-04**|**Laser Learning Environment: A new environment for coordination-critical multi-agent tasks**|Yannick Molinghen et.al.|[2404.03596](http://arxiv.org/abs/2404.03596)|**[link](https://github.com/yamoling/lle)**|
+|**2024-04-04**|**ReFT: Representation Finetuning for Language Models**|Zhengxuan Wu et.al.|[2404.03592](http://arxiv.org/abs/2404.03592)|**[link](https://github.com/stanfordnlp/pyreft)**|
+|**2024-04-04**|**Leveraging Interpolation Models and Error Bounds for Verifiable Scientific Machine Learning**|Tyler Chang et.al.|[2404.03586](http://arxiv.org/abs/2404.03586)|**[link](https://github.com/llnl/interpml)**|
+|**2024-04-04**|**Distributionally Robust Reinforcement Learning with Interactive Data Collection: Fundamental Hardness and Near-Optimal Algorithm**|Miao Lu et.al.|[2404.03578](http://arxiv.org/abs/2404.03578)|null|
+|**2024-04-04**|**TinyVQA: Compact Multimodal Deep Neural Network for Visual Question Answering on Resource-Constrained Devices**|Hasib-Al Rashid et.al.|[2404.03574](http://arxiv.org/abs/2404.03574)|null|
 |**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904](http://arxiv.org/abs/2404.02904)|null|
 |**2024-04-03**|**DeiT-LT Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets**|Harsh Rangwani et.al.|[2404.02900](http://arxiv.org/abs/2404.02900)|**[link](https://github.com/val-iisc/DeiT-LT)**|
 |**2024-04-03**|**Comment on "Machine learning conservation laws from differential equations"**|Michael F. Zimmer et.al.|[2404.02896](http://arxiv.org/abs/2404.02896)|null|
@@ -207,6 +217,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra**|Darioush Kevian et.al.|[2404.03647](http://arxiv.org/abs/2404.03647)|null|
+|**2024-04-04**|**WorDepth: Variational Language Prior for Monocular Depth Estimation**|Ziyao Zeng et.al.|[2404.03635](http://arxiv.org/abs/2404.03635)|null|
+|**2024-04-04**|**Training LLMs over Neurally Compressed Text**|Brian Lester et.al.|[2404.03626](http://arxiv.org/abs/2404.03626)|null|
+|**2024-04-04**|**On the Efficiency of Convolutional Neural Networks**|Andrew Lavin et.al.|[2404.03617](http://arxiv.org/abs/2404.03617)|null|
+|**2024-04-04**|**Mitigating the Impact of Outlier Channels for Language Model Quantization with Activation Regularization**|Aniruddha Nrusimha et.al.|[2404.03605](http://arxiv.org/abs/2404.03605)|null|
+|**2024-04-04**|**Laser Learning Environment: A new environment for coordination-critical multi-agent tasks**|Yannick Molinghen et.al.|[2404.03596](http://arxiv.org/abs/2404.03596)|**[link](https://github.com/yamoling/lle)**|
+|**2024-04-04**|**ReFT: Representation Finetuning for Language Models**|Zhengxuan Wu et.al.|[2404.03592](http://arxiv.org/abs/2404.03592)|**[link](https://github.com/stanfordnlp/pyreft)**|
+|**2024-04-04**|**Leveraging Interpolation Models and Error Bounds for Verifiable Scientific Machine Learning**|Tyler Chang et.al.|[2404.03586](http://arxiv.org/abs/2404.03586)|**[link](https://github.com/llnl/interpml)**|
+|**2024-04-04**|**Distributionally Robust Reinforcement Learning with Interactive Data Collection: Fundamental Hardness and Near-Optimal Algorithm**|Miao Lu et.al.|[2404.03578](http://arxiv.org/abs/2404.03578)|null|
+|**2024-04-04**|**TinyVQA: Compact Multimodal Deep Neural Network for Visual Question Answering on Resource-Constrained Devices**|Hasib-Al Rashid et.al.|[2404.03574](http://arxiv.org/abs/2404.03574)|null|
 |**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904](http://arxiv.org/abs/2404.02904)|null|
 |**2024-04-03**|**DeiT-LT Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets**|Harsh Rangwani et.al.|[2404.02900](http://arxiv.org/abs/2404.02900)|**[link](https://github.com/val-iisc/DeiT-LT)**|
 |**2024-04-03**|**Comment on "Machine learning conservation laws from differential equations"**|Michael F. Zimmer et.al.|[2404.02896](http://arxiv.org/abs/2404.02896)|null|
