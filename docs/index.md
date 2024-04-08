@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Watermark-based Detection and Attribution of AI-Generated Content**|Zhengyuan Jiang et.al.|[2404.04254](http://arxiv.org/abs/2404.04254)|null|
+|**2024-04-05**|**Growing Q-Networks: Solving Continuous Control Tasks with Adaptive Control Resolution**|Tim Seyde et.al.|[2404.04253](http://arxiv.org/abs/2404.04253)|null|
+|**2024-04-05**|**Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner Attacks, And The Role of Distillation as Defense Mechanism**|Trilokesh Ranjan Sarkar et.al.|[2404.04245](http://arxiv.org/abs/2404.04245)|null|
+|**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242](http://arxiv.org/abs/2404.04242)|null|
+|**2024-04-05**|**Dynamic Conditional Optimal Transport through Simulation-Free Flows**|Gavin Kerrigan et.al.|[2404.04240](http://arxiv.org/abs/2404.04240)|null|
+|**2024-04-05**|**player2vec: A Language Modeling Approach to Understand Player Behavior in Games**|Tianze Wang et.al.|[2404.04234](http://arxiv.org/abs/2404.04234)|null|
+|**2024-04-05**|**Twins in rotational spectroscopy: Does a rotational spectrum uniquely identify a molecule?**|Marcus Schwarting et.al.|[2404.04225](http://arxiv.org/abs/2404.04225)|null|
+|**2024-04-05**|**Active Causal Learning for Decoding Chemical Complexities with Targeted Interventions**|Zachary R. Fox et.al.|[2404.04224](http://arxiv.org/abs/2404.04224)|null|
+|**2024-04-05**|**How Lexical is Bilingual Lexicon Induction?**|Harsh Kohli et.al.|[2404.04221](http://arxiv.org/abs/2404.04221)|null|
+|**2024-04-05**|**Multi-modal perception for soft robotic interactions using generative models**|Enrico Donato et.al.|[2404.04220](http://arxiv.org/abs/2404.04220)|null|
 |**2024-04-04**|**Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra**|Darioush Kevian et.al.|[2404.03647](http://arxiv.org/abs/2404.03647)|null|
 |**2024-04-05**|**WorDepth: Variational Language Prior for Monocular Depth Estimation**|Ziyao Zeng et.al.|[2404.03635](http://arxiv.org/abs/2404.03635)|**[link](https://github.com/adonis-galaxy/wordepth)**|
 |**2024-04-04**|**Training LLMs over Neurally Compressed Text**|Brian Lester et.al.|[2404.03626](http://arxiv.org/abs/2404.03626)|null|
@@ -217,6 +227,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Watermark-based Detection and Attribution of AI-Generated Content**|Zhengyuan Jiang et.al.|[2404.04254](http://arxiv.org/abs/2404.04254)|null|
+|**2024-04-05**|**Growing Q-Networks: Solving Continuous Control Tasks with Adaptive Control Resolution**|Tim Seyde et.al.|[2404.04253](http://arxiv.org/abs/2404.04253)|null|
+|**2024-04-05**|**Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner Attacks, And The Role of Distillation as Defense Mechanism**|Trilokesh Ranjan Sarkar et.al.|[2404.04245](http://arxiv.org/abs/2404.04245)|null|
+|**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242](http://arxiv.org/abs/2404.04242)|null|
+|**2024-04-05**|**Dynamic Conditional Optimal Transport through Simulation-Free Flows**|Gavin Kerrigan et.al.|[2404.04240](http://arxiv.org/abs/2404.04240)|null|
+|**2024-04-05**|**player2vec: A Language Modeling Approach to Understand Player Behavior in Games**|Tianze Wang et.al.|[2404.04234](http://arxiv.org/abs/2404.04234)|null|
+|**2024-04-05**|**Twins in rotational spectroscopy: Does a rotational spectrum uniquely identify a molecule?**|Marcus Schwarting et.al.|[2404.04225](http://arxiv.org/abs/2404.04225)|null|
+|**2024-04-05**|**Active Causal Learning for Decoding Chemical Complexities with Targeted Interventions**|Zachary R. Fox et.al.|[2404.04224](http://arxiv.org/abs/2404.04224)|null|
+|**2024-04-05**|**How Lexical is Bilingual Lexicon Induction?**|Harsh Kohli et.al.|[2404.04221](http://arxiv.org/abs/2404.04221)|null|
+|**2024-04-05**|**Multi-modal perception for soft robotic interactions using generative models**|Enrico Donato et.al.|[2404.04220](http://arxiv.org/abs/2404.04220)|null|
 |**2024-04-04**|**Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra**|Darioush Kevian et.al.|[2404.03647](http://arxiv.org/abs/2404.03647)|null|
 |**2024-04-05**|**WorDepth: Variational Language Prior for Monocular Depth Estimation**|Ziyao Zeng et.al.|[2404.03635](http://arxiv.org/abs/2404.03635)|**[link](https://github.com/adonis-galaxy/wordepth)**|
 |**2024-04-04**|**Training LLMs over Neurally Compressed Text**|Brian Lester et.al.|[2404.03626](http://arxiv.org/abs/2404.03626)|null|
