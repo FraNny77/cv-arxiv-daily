@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.09
+## Updated on 2024.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -17,7 +17,7 @@ layout: default
 |**2024-04-08**|**Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery**|Ionut M. Motoi et.al.|[2404.05693](http://arxiv.org/abs/2404.05693)|null|
 |**2024-04-08**|**Automated discovery of symbolic laws governing skill acquisition from naturally occurring data**|Sannyuya Liu et.al.|[2404.05689](http://arxiv.org/abs/2404.05689)|**[link](https://github.com/ccnu-mathits/adm)**|
 |**2024-04-08**|**David and Goliath: An Empirical Evaluation of Attacks and Defenses for QNNs at the Deep Edge**|Miguel Costa et.al.|[2404.05688](http://arxiv.org/abs/2404.05688)|**[link](https://gitlab.com/esrgv3/qnn-adversarial-robustness)**|
-|**2024-04-08**|**Flexible Fairness Learning via Inverse Conditional Permutation**|Yuheng Lai et.al.|[2404.05678](http://arxiv.org/abs/2404.05678)|**[link](https://github.com/yuhenglai/fairicp)**|
+|**2024-04-09**|**Flexible Fairness Learning via Inverse Conditional Permutation**|Yuheng Lai et.al.|[2404.05678](http://arxiv.org/abs/2404.05678)|**[link](https://github.com/yuhenglai/fairicp)**|
 |**2024-04-08**|**Causality Extraction from Nuclear Licensee Event Reports Using a Hybrid Framework**|Sohag Rahman et.al.|[2404.05656](http://arxiv.org/abs/2404.05656)|null|
 |**2024-04-05**|**Watermark-based Detection and Attribution of AI-Generated Content**|Zhengyuan Jiang et.al.|[2404.04254](http://arxiv.org/abs/2404.04254)|null|
 |**2024-04-05**|**Growing Q-Networks: Solving Continuous Control Tasks with Adaptive Control Resolution**|Tim Seyde et.al.|[2404.04253](http://arxiv.org/abs/2404.04253)|null|
@@ -245,7 +245,7 @@ layout: default
 |**2024-04-08**|**Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery**|Ionut M. Motoi et.al.|[2404.05693](http://arxiv.org/abs/2404.05693)|null|
 |**2024-04-08**|**Automated discovery of symbolic laws governing skill acquisition from naturally occurring data**|Sannyuya Liu et.al.|[2404.05689](http://arxiv.org/abs/2404.05689)|**[link](https://github.com/ccnu-mathits/adm)**|
 |**2024-04-08**|**David and Goliath: An Empirical Evaluation of Attacks and Defenses for QNNs at the Deep Edge**|Miguel Costa et.al.|[2404.05688](http://arxiv.org/abs/2404.05688)|**[link](https://gitlab.com/esrgv3/qnn-adversarial-robustness)**|
-|**2024-04-08**|**Flexible Fairness Learning via Inverse Conditional Permutation**|Yuheng Lai et.al.|[2404.05678](http://arxiv.org/abs/2404.05678)|**[link](https://github.com/yuhenglai/fairicp)**|
+|**2024-04-09**|**Flexible Fairness Learning via Inverse Conditional Permutation**|Yuheng Lai et.al.|[2404.05678](http://arxiv.org/abs/2404.05678)|**[link](https://github.com/yuhenglai/fairicp)**|
 |**2024-04-08**|**Causality Extraction from Nuclear Licensee Event Reports Using a Hybrid Framework**|Sohag Rahman et.al.|[2404.05656](http://arxiv.org/abs/2404.05656)|null|
 |**2024-04-05**|**Watermark-based Detection and Attribution of AI-Generated Content**|Zhengyuan Jiang et.al.|[2404.04254](http://arxiv.org/abs/2404.04254)|null|
 |**2024-04-05**|**Growing Q-Networks: Solving Continuous Control Tasks with Adaptive Control Resolution**|Tim Seyde et.al.|[2404.04253](http://arxiv.org/abs/2404.04253)|null|
