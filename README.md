@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**MoReVQA: Exploring Modular Reasoning Models for Video Question Answering**|Juhong Min et.al.|[2404.06511](http://arxiv.org/abs/2404.06511)|null|
+|**2024-04-09**|**On the Effect of (Near) Duplicate Subwords in Language Modelling**|Anton Schäfer et.al.|[2404.06508](http://arxiv.org/abs/2404.06508)|**[link](https://github.com/antonschafer/duplicate-subwords)**|
+|**2024-04-09**|**A Machine Learning Framework for the Prediction of Grain Boundary Segregation in Chemically Complex Environments**|Doruk Aksoy et.al.|[2404.06499](http://arxiv.org/abs/2404.06499)|null|
+|**2024-04-09**|**Simultaneous linear connectivity of neural networks modulo permutation**|Ekansh Sharma et.al.|[2404.06498](http://arxiv.org/abs/2404.06498)|null|
+|**2024-04-09**|**Graph Reinforcement Learning for Combinatorial Optimization: A Survey and Unifying Perspective**|Victor-Alexandru Darvariu et.al.|[2404.06492](http://arxiv.org/abs/2404.06492)|null|
+|**2024-04-09**|**GO4Align: Group Optimization for Multi-Task Alignment**|Jiayi Shen et.al.|[2404.06486](http://arxiv.org/abs/2404.06486)|**[link](https://github.com/autumn9999/go4align)**|
+|**2024-04-09**|**Public-private funding models in open source software development: A case study on scikit-learn**|Cailean Osborne et.al.|[2404.06484](http://arxiv.org/abs/2404.06484)|null|
+|**2024-04-09**|**GeoDirDock: Guiding Docking Along Geodesic Paths**|Raúl Miñán et.al.|[2404.06481](http://arxiv.org/abs/2404.06481)|null|
+|**2024-04-09**|**Learning State-Invariant Representations of Objects from Image Collections with State, Pose, and Viewpoint Changes**|Rohan Sarkar et.al.|[2404.06470](http://arxiv.org/abs/2404.06470)|null|
+|**2024-04-09**|**Hyperparameter Selection in Continual Learning**|Thomas L. Lee et.al.|[2404.06466](http://arxiv.org/abs/2404.06466)|null|
 |**2024-04-08**|**A Large-Scale Exploration of $μ$ -Transfer**|Lucas Lingle et.al.|[2404.05728](http://arxiv.org/abs/2404.05728)|null|
 |**2024-04-08**|**Predicting Overtakes in Trucks Using CAN Data**|Talha Hanif Butt et.al.|[2404.05723](http://arxiv.org/abs/2404.05723)|null|
 |**2024-04-08**|**Case Study: Neural Network Malware Detection Verification for Feature and Image Datasets**|Preston K. Robinette et.al.|[2404.05703](http://arxiv.org/abs/2404.05703)|null|
@@ -244,6 +254,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**MoReVQA: Exploring Modular Reasoning Models for Video Question Answering**|Juhong Min et.al.|[2404.06511](http://arxiv.org/abs/2404.06511)|null|
+|**2024-04-09**|**On the Effect of (Near) Duplicate Subwords in Language Modelling**|Anton Schäfer et.al.|[2404.06508](http://arxiv.org/abs/2404.06508)|**[link](https://github.com/antonschafer/duplicate-subwords)**|
+|**2024-04-09**|**A Machine Learning Framework for the Prediction of Grain Boundary Segregation in Chemically Complex Environments**|Doruk Aksoy et.al.|[2404.06499](http://arxiv.org/abs/2404.06499)|null|
+|**2024-04-09**|**Simultaneous linear connectivity of neural networks modulo permutation**|Ekansh Sharma et.al.|[2404.06498](http://arxiv.org/abs/2404.06498)|null|
+|**2024-04-09**|**Graph Reinforcement Learning for Combinatorial Optimization: A Survey and Unifying Perspective**|Victor-Alexandru Darvariu et.al.|[2404.06492](http://arxiv.org/abs/2404.06492)|null|
+|**2024-04-09**|**GO4Align: Group Optimization for Multi-Task Alignment**|Jiayi Shen et.al.|[2404.06486](http://arxiv.org/abs/2404.06486)|**[link](https://github.com/autumn9999/go4align)**|
+|**2024-04-09**|**Public-private funding models in open source software development: A case study on scikit-learn**|Cailean Osborne et.al.|[2404.06484](http://arxiv.org/abs/2404.06484)|null|
+|**2024-04-09**|**GeoDirDock: Guiding Docking Along Geodesic Paths**|Raúl Miñán et.al.|[2404.06481](http://arxiv.org/abs/2404.06481)|null|
+|**2024-04-09**|**Learning State-Invariant Representations of Objects from Image Collections with State, Pose, and Viewpoint Changes**|Rohan Sarkar et.al.|[2404.06470](http://arxiv.org/abs/2404.06470)|null|
+|**2024-04-09**|**Hyperparameter Selection in Continual Learning**|Thomas L. Lee et.al.|[2404.06466](http://arxiv.org/abs/2404.06466)|null|
 |**2024-04-08**|**A Large-Scale Exploration of $μ$ -Transfer**|Lucas Lingle et.al.|[2404.05728](http://arxiv.org/abs/2404.05728)|null|
 |**2024-04-08**|**Predicting Overtakes in Trucks Using CAN Data**|Talha Hanif Butt et.al.|[2404.05723](http://arxiv.org/abs/2404.05723)|null|
 |**2024-04-08**|**Case Study: Neural Network Malware Detection Verification for Feature and Image Datasets**|Preston K. Robinette et.al.|[2404.05703](http://arxiv.org/abs/2404.05703)|null|
