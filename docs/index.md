@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.11
+## Updated on 2024.04.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -13,10 +13,10 @@ layout: default
 |**2024-04-10**|**BRAVE: Broadening the visual encoding of vision-language models**|Oğuzhan Fatih Kar et.al.|[2404.07204](http://arxiv.org/abs/2404.07204)|null|
 |**2024-04-10**|**Toward a Better Understanding of Fourier Neural Operators: Analysis and Improvement from a Spectral Perspective**|Shaoxiang Qin et.al.|[2404.07200](http://arxiv.org/abs/2404.07200)|null|
 |**2024-04-10**|**RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion**|Jaidev Shriram et.al.|[2404.07199](http://arxiv.org/abs/2404.07199)|null|
-|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198](http://arxiv.org/abs/2404.07198)|null|
+|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198](http://arxiv.org/abs/2404.07198)|**[link](https://github.com/DeepGraphLearning/ULTRA)**|
 |**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194](http://arxiv.org/abs/2404.07194)|**[link](https://github.com/ml-jku/vnegnn)**|
 |**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
-|**2024-04-10**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181](http://arxiv.org/abs/2404.07181)|null|
+|**2024-04-11**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181](http://arxiv.org/abs/2404.07181)|null|
 |**2024-04-10**|**Machine learning-based similarity measure to forecast M&A from patent data**|Giambattista Albora et.al.|[2404.07179](http://arxiv.org/abs/2404.07179)|null|
 |**2024-04-10**|**Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic**|Sachin Goyal et.al.|[2404.07177](http://arxiv.org/abs/2404.07177)|**[link](https://github.com/locuslab/scaling_laws_data_filtering)**|
 |**2024-04-09**|**MoReVQA: Exploring Modular Reasoning Models for Video Question Answering**|Juhong Min et.al.|[2404.06511](http://arxiv.org/abs/2404.06511)|null|
@@ -261,10 +261,10 @@ layout: default
 |**2024-04-10**|**BRAVE: Broadening the visual encoding of vision-language models**|Oğuzhan Fatih Kar et.al.|[2404.07204](http://arxiv.org/abs/2404.07204)|null|
 |**2024-04-10**|**Toward a Better Understanding of Fourier Neural Operators: Analysis and Improvement from a Spectral Perspective**|Shaoxiang Qin et.al.|[2404.07200](http://arxiv.org/abs/2404.07200)|null|
 |**2024-04-10**|**RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion**|Jaidev Shriram et.al.|[2404.07199](http://arxiv.org/abs/2404.07199)|null|
-|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198](http://arxiv.org/abs/2404.07198)|null|
+|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198](http://arxiv.org/abs/2404.07198)|**[link](https://github.com/DeepGraphLearning/ULTRA)**|
 |**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194](http://arxiv.org/abs/2404.07194)|**[link](https://github.com/ml-jku/vnegnn)**|
 |**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
-|**2024-04-10**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181](http://arxiv.org/abs/2404.07181)|null|
+|**2024-04-11**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181](http://arxiv.org/abs/2404.07181)|null|
 |**2024-04-10**|**Machine learning-based similarity measure to forecast M&A from patent data**|Giambattista Albora et.al.|[2404.07179](http://arxiv.org/abs/2404.07179)|null|
 |**2024-04-10**|**Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic**|Sachin Goyal et.al.|[2404.07177](http://arxiv.org/abs/2404.07177)|**[link](https://github.com/locuslab/scaling_laws_data_filtering)**|
 |**2024-04-09**|**MoReVQA: Exploring Modular Reasoning Models for Video Question Answering**|Juhong Min et.al.|[2404.06511](http://arxiv.org/abs/2404.06511)|null|

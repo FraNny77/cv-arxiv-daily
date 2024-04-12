@@ -1,4 +1,4 @@
-## Updated on 2024.04.11
+## Updated on 2024.04.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,10 +18,10 @@
 |**2024-04-10**|**BRAVE: Broadening the visual encoding of vision-language models**|Oğuzhan Fatih Kar et.al.|[2404.07204](http://arxiv.org/abs/2404.07204)|null|
 |**2024-04-10**|**Toward a Better Understanding of Fourier Neural Operators: Analysis and Improvement from a Spectral Perspective**|Shaoxiang Qin et.al.|[2404.07200](http://arxiv.org/abs/2404.07200)|null|
 |**2024-04-10**|**RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion**|Jaidev Shriram et.al.|[2404.07199](http://arxiv.org/abs/2404.07199)|null|
-|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198](http://arxiv.org/abs/2404.07198)|null|
+|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198](http://arxiv.org/abs/2404.07198)|**[link](https://github.com/DeepGraphLearning/ULTRA)**|
 |**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194](http://arxiv.org/abs/2404.07194)|**[link](https://github.com/ml-jku/vnegnn)**|
 |**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
-|**2024-04-10**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181](http://arxiv.org/abs/2404.07181)|null|
+|**2024-04-11**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181](http://arxiv.org/abs/2404.07181)|null|
 |**2024-04-10**|**Machine learning-based similarity measure to forecast M&A from patent data**|Giambattista Albora et.al.|[2404.07179](http://arxiv.org/abs/2404.07179)|null|
 |**2024-04-10**|**Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic**|Sachin Goyal et.al.|[2404.07177](http://arxiv.org/abs/2404.07177)|**[link](https://github.com/locuslab/scaling_laws_data_filtering)**|
 |**2024-04-09**|**MoReVQA: Exploring Modular Reasoning Models for Video Question Answering**|Juhong Min et.al.|[2404.06511](http://arxiv.org/abs/2404.06511)|null|
@@ -258,7 +258,7 @@
 |**2017-07-27**|**High Dimensional Random Walks Can Appear Low Dimensional: Application to Influenza H3N2 Evolution**|James Moore et.al.|[1707.09361](http://arxiv.org/abs/1707.09361)|null|
 |**2008-07-20**|**Design and Production of Specifically and with High Affinity Reacting Peptides**|Jan C Biro et.al.|[0807.3038](http://arxiv.org/abs/0807.3038)|null|
 
-<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240412>back to top</a>)</p>
 
 ## Peptide
 
@@ -268,10 +268,10 @@
 |**2024-04-10**|**BRAVE: Broadening the visual encoding of vision-language models**|Oğuzhan Fatih Kar et.al.|[2404.07204](http://arxiv.org/abs/2404.07204)|null|
 |**2024-04-10**|**Toward a Better Understanding of Fourier Neural Operators: Analysis and Improvement from a Spectral Perspective**|Shaoxiang Qin et.al.|[2404.07200](http://arxiv.org/abs/2404.07200)|null|
 |**2024-04-10**|**RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion**|Jaidev Shriram et.al.|[2404.07199](http://arxiv.org/abs/2404.07199)|null|
-|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198](http://arxiv.org/abs/2404.07198)|null|
+|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198](http://arxiv.org/abs/2404.07198)|**[link](https://github.com/DeepGraphLearning/ULTRA)**|
 |**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194](http://arxiv.org/abs/2404.07194)|**[link](https://github.com/ml-jku/vnegnn)**|
 |**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
-|**2024-04-10**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181](http://arxiv.org/abs/2404.07181)|null|
+|**2024-04-11**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181](http://arxiv.org/abs/2404.07181)|null|
 |**2024-04-10**|**Machine learning-based similarity measure to forecast M&A from patent data**|Giambattista Albora et.al.|[2404.07179](http://arxiv.org/abs/2404.07179)|null|
 |**2024-04-10**|**Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic**|Sachin Goyal et.al.|[2404.07177](http://arxiv.org/abs/2404.07177)|**[link](https://github.com/locuslab/scaling_laws_data_filtering)**|
 |**2024-04-09**|**MoReVQA: Exploring Modular Reasoning Models for Video Question Answering**|Juhong Min et.al.|[2404.06511](http://arxiv.org/abs/2404.06511)|null|
@@ -510,7 +510,7 @@
 |**2018-11-13**|**PepCVAE: Semi-Supervised Targeted Design of Antimicrobial Peptide Sequences**|Payel Das et.al.|[1810.07743](http://arxiv.org/abs/1810.07743)|null|
 |**2009-11-23**|**Silver-staining of proteins in polyacrylamide gels: a general overview**|Thierry Rabilloud et.al.|[0911.4458](http://arxiv.org/abs/0911.4458)|null|
 
-<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240412>back to top</a>)</p>
 
 ## Diffusion
 
@@ -527,5 +527,5 @@
 |**2024-02-21**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|**[link](https://github.com/allenai/tess-diffusion)**|
 |**2023-05-13**|**Diffusion Models for Non-autoregressive Text Generation: A Survey**|Yifan Li et.al.|[2303.06574](http://arxiv.org/abs/2303.06574)|**[link](https://github.com/rucaibox/awesome-text-diffusion-models)**|
 
-<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240412>back to top</a>)</p>
 
