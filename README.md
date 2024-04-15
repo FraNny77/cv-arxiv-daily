@@ -1,4 +1,4 @@
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-12**|**Pre-training Small Base LMs with Fewer Tokens**|Sunny Sanyal et.al.|[2404.08634](http://arxiv.org/abs/2404.08634)|**[link](https://github.com/sanyalsunny111/llm-inheritune)**|
+|**2024-04-12**|**Is ChatGPT Transforming Academics' Writing Style?**|Mingmeng Geng et.al.|[2404.08627](http://arxiv.org/abs/2404.08627)|null|
+|**2024-04-12**|**Regularized Gradient Clipping Provably Trains Wide and Deep Neural Networks**|Matteo Tucat et.al.|[2404.08624](http://arxiv.org/abs/2404.08624)|null|
+|**2024-04-12**|**Using Explainable AI and Transfer Learning to understand and predict the maintenance of Atlantic blocking with limited observational data**|Huan Zhang et.al.|[2404.08613](http://arxiv.org/abs/2404.08613)|null|
+|**2024-04-12**|**Hyperbolic Delaunay Geometric Alignment**|Aniss Aiman Medbouhi et.al.|[2404.08608](http://arxiv.org/abs/2404.08608)|**[link](https://github.com/anissmedbouhi/hyperdga)**|
+|**2024-04-12**|**Learning-Based Joint Antenna Selection and Precoding Design for Cell-Free MIMO Networks**|Liangzhi Wang et.al.|[2404.08607](http://arxiv.org/abs/2404.08607)|null|
+|**2024-04-12**|**Sliding down the stairs: how correlated latent variables accelerate learning with neural networks**|Lorenzo Bardone et.al.|[2404.08602](http://arxiv.org/abs/2404.08602)|null|
+|**2024-04-12**|**Generating Synthetic Time Series Data for Cyber-Physical Systems**|Alexander Sommers et.al.|[2404.08601](http://arxiv.org/abs/2404.08601)|null|
+|**2024-04-12**|**Scarce Resource Allocations That Rely On Machine Learning Should Be Randomized**|Shomik Jain et.al.|[2404.08592](http://arxiv.org/abs/2404.08592)|null|
+|**2024-04-12**|**Small Models Are (Still) Effective Cross-Domain Argument Extractors**|William Gantt et.al.|[2404.08579](http://arxiv.org/abs/2404.08579)|null|
 |**2024-04-11**|**Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding**|Yiwen Tang et.al.|[2404.07989](http://arxiv.org/abs/2404.07989)|**[link](https://github.com/ivan-tang-3d/any2point)**|
 |**2024-04-11**|**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback**|Ming Li et.al.|[2404.07987](http://arxiv.org/abs/2404.07987)|null|
 |**2024-04-11**|**Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Representation Learning**|Simon Schrodi et.al.|[2404.07983](http://arxiv.org/abs/2404.07983)|null|
@@ -268,12 +278,22 @@
 |**2017-07-27**|**High Dimensional Random Walks Can Appear Low Dimensional: Application to Influenza H3N2 Evolution**|James Moore et.al.|[1707.09361](http://arxiv.org/abs/1707.09361)|null|
 |**2008-07-20**|**Design and Production of Specifically and with High Affinity Reacting Peptides**|Jan C Biro et.al.|[0807.3038](http://arxiv.org/abs/0807.3038)|null|
 
-<p align=right>(<a href=#updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
 
 ## Peptide
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-12**|**Pre-training Small Base LMs with Fewer Tokens**|Sunny Sanyal et.al.|[2404.08634](http://arxiv.org/abs/2404.08634)|**[link](https://github.com/sanyalsunny111/llm-inheritune)**|
+|**2024-04-12**|**Is ChatGPT Transforming Academics' Writing Style?**|Mingmeng Geng et.al.|[2404.08627](http://arxiv.org/abs/2404.08627)|null|
+|**2024-04-12**|**Regularized Gradient Clipping Provably Trains Wide and Deep Neural Networks**|Matteo Tucat et.al.|[2404.08624](http://arxiv.org/abs/2404.08624)|null|
+|**2024-04-12**|**Using Explainable AI and Transfer Learning to understand and predict the maintenance of Atlantic blocking with limited observational data**|Huan Zhang et.al.|[2404.08613](http://arxiv.org/abs/2404.08613)|null|
+|**2024-04-12**|**Hyperbolic Delaunay Geometric Alignment**|Aniss Aiman Medbouhi et.al.|[2404.08608](http://arxiv.org/abs/2404.08608)|**[link](https://github.com/anissmedbouhi/hyperdga)**|
+|**2024-04-12**|**Learning-Based Joint Antenna Selection and Precoding Design for Cell-Free MIMO Networks**|Liangzhi Wang et.al.|[2404.08607](http://arxiv.org/abs/2404.08607)|null|
+|**2024-04-12**|**Sliding down the stairs: how correlated latent variables accelerate learning with neural networks**|Lorenzo Bardone et.al.|[2404.08602](http://arxiv.org/abs/2404.08602)|null|
+|**2024-04-12**|**Generating Synthetic Time Series Data for Cyber-Physical Systems**|Alexander Sommers et.al.|[2404.08601](http://arxiv.org/abs/2404.08601)|null|
+|**2024-04-12**|**Scarce Resource Allocations That Rely On Machine Learning Should Be Randomized**|Shomik Jain et.al.|[2404.08592](http://arxiv.org/abs/2404.08592)|null|
+|**2024-04-12**|**Small Models Are (Still) Effective Cross-Domain Argument Extractors**|William Gantt et.al.|[2404.08579](http://arxiv.org/abs/2404.08579)|null|
 |**2024-04-11**|**Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding**|Yiwen Tang et.al.|[2404.07989](http://arxiv.org/abs/2404.07989)|**[link](https://github.com/ivan-tang-3d/any2point)**|
 |**2024-04-11**|**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback**|Ming Li et.al.|[2404.07987](http://arxiv.org/abs/2404.07987)|null|
 |**2024-04-11**|**Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Representation Learning**|Simon Schrodi et.al.|[2404.07983](http://arxiv.org/abs/2404.07983)|null|
@@ -530,7 +550,7 @@
 |**2018-11-13**|**PepCVAE: Semi-Supervised Targeted Design of Antimicrobial Peptide Sequences**|Payel Das et.al.|[1810.07743](http://arxiv.org/abs/1810.07743)|null|
 |**2009-11-23**|**Silver-staining of proteins in polyacrylamide gels: a general overview**|Thierry Rabilloud et.al.|[0911.4458](http://arxiv.org/abs/0911.4458)|null|
 
-<p align=right>(<a href=#updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
 
 ## Diffusion
 
@@ -547,5 +567,5 @@
 |**2024-02-21**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|**[link](https://github.com/allenai/tess-diffusion)**|
 |**2023-05-13**|**Diffusion Models for Non-autoregressive Text Generation: A Survey**|Yifan Li et.al.|[2303.06574](http://arxiv.org/abs/2303.06574)|**[link](https://github.com/rucaibox/awesome-text-diffusion-models)**|
 
-<p align=right>(<a href=#updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
 

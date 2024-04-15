@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**Pre-training Small Base LMs with Fewer Tokens**|Sunny Sanyal et.al.|[2404.08634](http://arxiv.org/abs/2404.08634)|**[link](https://github.com/sanyalsunny111/llm-inheritune)**|
+|**2024-04-12**|**Is ChatGPT Transforming Academics' Writing Style?**|Mingmeng Geng et.al.|[2404.08627](http://arxiv.org/abs/2404.08627)|null|
+|**2024-04-12**|**Regularized Gradient Clipping Provably Trains Wide and Deep Neural Networks**|Matteo Tucat et.al.|[2404.08624](http://arxiv.org/abs/2404.08624)|null|
+|**2024-04-12**|**Using Explainable AI and Transfer Learning to understand and predict the maintenance of Atlantic blocking with limited observational data**|Huan Zhang et.al.|[2404.08613](http://arxiv.org/abs/2404.08613)|null|
+|**2024-04-12**|**Hyperbolic Delaunay Geometric Alignment**|Aniss Aiman Medbouhi et.al.|[2404.08608](http://arxiv.org/abs/2404.08608)|**[link](https://github.com/anissmedbouhi/hyperdga)**|
+|**2024-04-12**|**Learning-Based Joint Antenna Selection and Precoding Design for Cell-Free MIMO Networks**|Liangzhi Wang et.al.|[2404.08607](http://arxiv.org/abs/2404.08607)|null|
+|**2024-04-12**|**Sliding down the stairs: how correlated latent variables accelerate learning with neural networks**|Lorenzo Bardone et.al.|[2404.08602](http://arxiv.org/abs/2404.08602)|null|
+|**2024-04-12**|**Generating Synthetic Time Series Data for Cyber-Physical Systems**|Alexander Sommers et.al.|[2404.08601](http://arxiv.org/abs/2404.08601)|null|
+|**2024-04-12**|**Scarce Resource Allocations That Rely On Machine Learning Should Be Randomized**|Shomik Jain et.al.|[2404.08592](http://arxiv.org/abs/2404.08592)|null|
+|**2024-04-12**|**Small Models Are (Still) Effective Cross-Domain Argument Extractors**|William Gantt et.al.|[2404.08579](http://arxiv.org/abs/2404.08579)|null|
 |**2024-04-11**|**Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding**|Yiwen Tang et.al.|[2404.07989](http://arxiv.org/abs/2404.07989)|**[link](https://github.com/ivan-tang-3d/any2point)**|
 |**2024-04-11**|**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback**|Ming Li et.al.|[2404.07987](http://arxiv.org/abs/2404.07987)|null|
 |**2024-04-11**|**Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Representation Learning**|Simon Schrodi et.al.|[2404.07983](http://arxiv.org/abs/2404.07983)|null|
@@ -267,6 +277,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**Pre-training Small Base LMs with Fewer Tokens**|Sunny Sanyal et.al.|[2404.08634](http://arxiv.org/abs/2404.08634)|**[link](https://github.com/sanyalsunny111/llm-inheritune)**|
+|**2024-04-12**|**Is ChatGPT Transforming Academics' Writing Style?**|Mingmeng Geng et.al.|[2404.08627](http://arxiv.org/abs/2404.08627)|null|
+|**2024-04-12**|**Regularized Gradient Clipping Provably Trains Wide and Deep Neural Networks**|Matteo Tucat et.al.|[2404.08624](http://arxiv.org/abs/2404.08624)|null|
+|**2024-04-12**|**Using Explainable AI and Transfer Learning to understand and predict the maintenance of Atlantic blocking with limited observational data**|Huan Zhang et.al.|[2404.08613](http://arxiv.org/abs/2404.08613)|null|
+|**2024-04-12**|**Hyperbolic Delaunay Geometric Alignment**|Aniss Aiman Medbouhi et.al.|[2404.08608](http://arxiv.org/abs/2404.08608)|**[link](https://github.com/anissmedbouhi/hyperdga)**|
+|**2024-04-12**|**Learning-Based Joint Antenna Selection and Precoding Design for Cell-Free MIMO Networks**|Liangzhi Wang et.al.|[2404.08607](http://arxiv.org/abs/2404.08607)|null|
+|**2024-04-12**|**Sliding down the stairs: how correlated latent variables accelerate learning with neural networks**|Lorenzo Bardone et.al.|[2404.08602](http://arxiv.org/abs/2404.08602)|null|
+|**2024-04-12**|**Generating Synthetic Time Series Data for Cyber-Physical Systems**|Alexander Sommers et.al.|[2404.08601](http://arxiv.org/abs/2404.08601)|null|
+|**2024-04-12**|**Scarce Resource Allocations That Rely On Machine Learning Should Be Randomized**|Shomik Jain et.al.|[2404.08592](http://arxiv.org/abs/2404.08592)|null|
+|**2024-04-12**|**Small Models Are (Still) Effective Cross-Domain Argument Extractors**|William Gantt et.al.|[2404.08579](http://arxiv.org/abs/2404.08579)|null|
 |**2024-04-11**|**Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding**|Yiwen Tang et.al.|[2404.07989](http://arxiv.org/abs/2404.07989)|**[link](https://github.com/ivan-tang-3d/any2point)**|
 |**2024-04-11**|**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback**|Ming Li et.al.|[2404.07987](http://arxiv.org/abs/2404.07987)|null|
 |**2024-04-11**|**Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Representation Learning**|Simon Schrodi et.al.|[2404.07983](http://arxiv.org/abs/2404.07983)|null|
