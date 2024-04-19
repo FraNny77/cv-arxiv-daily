@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**On the Content Bias in Fréchet Video Distance**|Songwei Ge et.al.|[2404.12391](http://arxiv.org/abs/2404.12391)|null|
+|**2024-04-18**|**SOHES: Self-supervised Open-world Hierarchical Entity Segmentation**|Shengcao Cao et.al.|[2404.12386](http://arxiv.org/abs/2404.12386)|null|
+|**2024-04-18**|**6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction**|Théo Gieruc et.al.|[2404.12378](http://arxiv.org/abs/2404.12378)|**[link](https://github.com/continental/6img-to-3d)**|
+|**2024-04-18**|**Matching the Statistical Query Lower Bound for k-sparse Parity Problems with Stochastic Gradient Descent**|Yiwen Kou et.al.|[2404.12376](http://arxiv.org/abs/2404.12376)|null|
+|**2024-04-18**|**KDk: A Defense Mechanism Against Label Inference Attacks in Vertical Federated Learning**|Marco Arazzi et.al.|[2404.12369](http://arxiv.org/abs/2404.12369)|null|
+|**2024-04-18**|**Gradient-Regularized Out-of-Distribution Detection**|Sina Sharifi et.al.|[2404.12368](http://arxiv.org/abs/2404.12368)|null|
+|**2024-04-18**|**Information theory unifies atomistic machine learning, uncertainty quantification, and materials thermodynamics**|Daniel Schwalbe-Koda et.al.|[2404.12367](http://arxiv.org/abs/2404.12367)|**[link](https://github.com/dskoda/quests)**|
+|**2024-04-18**|**Accounting for AI and Users Shaping One Another: The Role of Mathematical Models**|Sarah Dean et.al.|[2404.12366](http://arxiv.org/abs/2404.12366)|null|
+|**2024-04-18**|**When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes**|Asaf Yehudai et.al.|[2404.12365](http://arxiv.org/abs/2404.12365)|null|
+|**2024-04-18**|**Transformer tricks: Removing weights for skipless transformers**|Nils Graef et.al.|[2404.12362](http://arxiv.org/abs/2404.12362)|**[link](https://github.com/openmachine-ai/transformer-tricks)**|
 |**2024-04-17**|**Learning to Solve the Constrained Most Probable Explanation Task in Probabilistic Graphical Models**|Shivvrat Arya et.al.|[2404.11606](http://arxiv.org/abs/2404.11606)|null|
 |**2024-04-17**|**Variational Bayesian Last Layers**|James Harrison et.al.|[2404.11599](http://arxiv.org/abs/2404.11599)|**[link](https://github.com/vectorinstitute/vbll)**|
 |**2024-04-17**|**Explainable Artificial Intelligence Techniques for Accurate Fault Detection and Diagnosis: A Review**|Ahmed Maged et.al.|[2404.11597](http://arxiv.org/abs/2404.11597)|null|
@@ -314,6 +324,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**On the Content Bias in Fréchet Video Distance**|Songwei Ge et.al.|[2404.12391](http://arxiv.org/abs/2404.12391)|null|
+|**2024-04-18**|**SOHES: Self-supervised Open-world Hierarchical Entity Segmentation**|Shengcao Cao et.al.|[2404.12386](http://arxiv.org/abs/2404.12386)|null|
+|**2024-04-18**|**6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction**|Théo Gieruc et.al.|[2404.12378](http://arxiv.org/abs/2404.12378)|**[link](https://github.com/continental/6img-to-3d)**|
+|**2024-04-18**|**Matching the Statistical Query Lower Bound for k-sparse Parity Problems with Stochastic Gradient Descent**|Yiwen Kou et.al.|[2404.12376](http://arxiv.org/abs/2404.12376)|null|
+|**2024-04-18**|**KDk: A Defense Mechanism Against Label Inference Attacks in Vertical Federated Learning**|Marco Arazzi et.al.|[2404.12369](http://arxiv.org/abs/2404.12369)|null|
+|**2024-04-18**|**Gradient-Regularized Out-of-Distribution Detection**|Sina Sharifi et.al.|[2404.12368](http://arxiv.org/abs/2404.12368)|null|
+|**2024-04-18**|**Information theory unifies atomistic machine learning, uncertainty quantification, and materials thermodynamics**|Daniel Schwalbe-Koda et.al.|[2404.12367](http://arxiv.org/abs/2404.12367)|**[link](https://github.com/dskoda/quests)**|
+|**2024-04-18**|**Accounting for AI and Users Shaping One Another: The Role of Mathematical Models**|Sarah Dean et.al.|[2404.12366](http://arxiv.org/abs/2404.12366)|null|
+|**2024-04-18**|**When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes**|Asaf Yehudai et.al.|[2404.12365](http://arxiv.org/abs/2404.12365)|null|
+|**2024-04-18**|**Transformer tricks: Removing weights for skipless transformers**|Nils Graef et.al.|[2404.12362](http://arxiv.org/abs/2404.12362)|**[link](https://github.com/openmachine-ai/transformer-tricks)**|
 |**2024-04-17**|**Learning to Solve the Constrained Most Probable Explanation Task in Probabilistic Graphical Models**|Shivvrat Arya et.al.|[2404.11606](http://arxiv.org/abs/2404.11606)|null|
 |**2024-04-17**|**Variational Bayesian Last Layers**|James Harrison et.al.|[2404.11599](http://arxiv.org/abs/2404.11599)|**[link](https://github.com/vectorinstitute/vbll)**|
 |**2024-04-17**|**Explainable Artificial Intelligence Techniques for Accurate Fault Detection and Diagnosis: A Review**|Ahmed Maged et.al.|[2404.11597](http://arxiv.org/abs/2404.11597)|null|
