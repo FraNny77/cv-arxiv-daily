@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**SpaceByte: Towards Deleting Tokenization from Large Language Modeling**|Kevin Slagle et.al.|[2404.14408](http://arxiv.org/abs/2404.14408)|**[link](https://github.com/kjslag/spacebyte)**|
+|**2024-04-22**|**A mean curvature flow arising in adversarial training**|Leon Bungert et.al.|[2404.14402](http://arxiv.org/abs/2404.14402)|null|
+|**2024-04-22**|**RTP-LX: Can LLMs Evaluate Toxicity in Multilingual Scenarios?**|Adrian de Wynter et.al.|[2404.14397](http://arxiv.org/abs/2404.14397)|null|
+|**2024-04-22**|**PARAMANU-GANITA: Language Model with Mathematical Capabilities**|Mitodru Niyogi et.al.|[2404.14395](http://arxiv.org/abs/2404.14395)|null|
+|**2024-04-22**|**Poisoning Attacks on Federated Learning-based Wireless Traffic Prediction**|Zifan Zhang et.al.|[2404.14389](http://arxiv.org/abs/2404.14389)|null|
+|**2024-04-22**|**STROOBnet Optimization via GPU-Accelerated Proximal Recurrence Strategies**|Ted Edward Holmberg et.al.|[2404.14388](http://arxiv.org/abs/2404.14388)|null|
+|**2024-04-22**|**Pipeline Provenance for Analysis, Evaluation, Trust or Reproducibility**|Michael A. C. Johnson et.al.|[2404.14378](http://arxiv.org/abs/2404.14378)|null|
+|**2024-04-22**|**Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data**|Fahim Tajwar et.al.|[2404.14367](http://arxiv.org/abs/2404.14367)|**[link](https://github.com/Asap7772/understanding-rlhf)**|
+|**2024-04-22**|**Lessons Learned in Performing a Trustworthy AI and Fundamental Rights Assessment**|Marjolein Boonstra et.al.|[2404.14366](http://arxiv.org/abs/2404.14366)|null|
+|**2024-04-22**|**A General Continuous-Time Formulation of Stochastic ADMM and Its Variants**|Chris Junchi Li et.al.|[2404.14358](http://arxiv.org/abs/2404.14358)|null|
 |**2024-04-19**|**Data Alignment for Zero-Shot Concept Generation in Dermatology AI**|Soham Gadgil et.al.|[2404.13043](http://arxiv.org/abs/2404.13043)|null|
 |**2024-04-19**|**Analysis of Classifier-Free Guidance Weight Schedulers**|Xi Wang et.al.|[2404.13040](http://arxiv.org/abs/2404.13040)|null|
 |**2024-04-19**|**Machine Learning-guided accelerated discovery of structure-property correlations in lean magnesium alloys for biomedical applications**|Sreenivas Raguraman et.al.|[2404.13022](http://arxiv.org/abs/2404.13022)|null|
@@ -327,6 +337,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**SpaceByte: Towards Deleting Tokenization from Large Language Modeling**|Kevin Slagle et.al.|[2404.14408](http://arxiv.org/abs/2404.14408)|**[link](https://github.com/kjslag/spacebyte)**|
+|**2024-04-22**|**A mean curvature flow arising in adversarial training**|Leon Bungert et.al.|[2404.14402](http://arxiv.org/abs/2404.14402)|null|
+|**2024-04-22**|**RTP-LX: Can LLMs Evaluate Toxicity in Multilingual Scenarios?**|Adrian de Wynter et.al.|[2404.14397](http://arxiv.org/abs/2404.14397)|null|
+|**2024-04-22**|**PARAMANU-GANITA: Language Model with Mathematical Capabilities**|Mitodru Niyogi et.al.|[2404.14395](http://arxiv.org/abs/2404.14395)|null|
+|**2024-04-22**|**Poisoning Attacks on Federated Learning-based Wireless Traffic Prediction**|Zifan Zhang et.al.|[2404.14389](http://arxiv.org/abs/2404.14389)|null|
+|**2024-04-22**|**STROOBnet Optimization via GPU-Accelerated Proximal Recurrence Strategies**|Ted Edward Holmberg et.al.|[2404.14388](http://arxiv.org/abs/2404.14388)|null|
+|**2024-04-22**|**Pipeline Provenance for Analysis, Evaluation, Trust or Reproducibility**|Michael A. C. Johnson et.al.|[2404.14378](http://arxiv.org/abs/2404.14378)|null|
+|**2024-04-22**|**Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data**|Fahim Tajwar et.al.|[2404.14367](http://arxiv.org/abs/2404.14367)|**[link](https://github.com/Asap7772/understanding-rlhf)**|
+|**2024-04-22**|**Lessons Learned in Performing a Trustworthy AI and Fundamental Rights Assessment**|Marjolein Boonstra et.al.|[2404.14366](http://arxiv.org/abs/2404.14366)|null|
+|**2024-04-22**|**A General Continuous-Time Formulation of Stochastic ADMM and Its Variants**|Chris Junchi Li et.al.|[2404.14358](http://arxiv.org/abs/2404.14358)|null|
 |**2024-04-19**|**Data Alignment for Zero-Shot Concept Generation in Dermatology AI**|Soham Gadgil et.al.|[2404.13043](http://arxiv.org/abs/2404.13043)|null|
 |**2024-04-19**|**Analysis of Classifier-Free Guidance Weight Schedulers**|Xi Wang et.al.|[2404.13040](http://arxiv.org/abs/2404.13040)|null|
 |**2024-04-19**|**Machine Learning-guided accelerated discovery of structure-property correlations in lean magnesium alloys for biomedical applications**|Sreenivas Raguraman et.al.|[2404.13022](http://arxiv.org/abs/2404.13022)|null|
