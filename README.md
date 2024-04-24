@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276](http://arxiv.org/abs/2404.15276)|**[link](https://github.com/xuxy09/smpler)**|
+|**2024-04-23**|**Metric-guided Image Reconstruction Bounds via Conformal Prediction**|Matt Y Cheung et.al.|[2404.15274](http://arxiv.org/abs/2404.15274)|**[link](https://github.com/matthewyccheung/conformal-metric)**|
+|**2024-04-23**|**Estimation Network Design framework for efficient distributed optimization**|Mattia Bianchi et.al.|[2404.15273](http://arxiv.org/abs/2404.15273)|null|
+|**2024-04-23**|**Aligning LLM Agents by Learning Latent Preference from User Edits**|Ge Gao et.al.|[2404.15269](http://arxiv.org/abs/2404.15269)|null|
+|**2024-04-23**|**All You Need is Resistance: On the Equivalence of Effective Resistance and Certain Optimal Transport Problems on Graphs**|Sawyer Robertson et.al.|[2404.15261](http://arxiv.org/abs/2404.15261)|null|
+|**2024-04-23**|**Score matching for sub-Riemannian bridge sampling**|Erlend Grong et.al.|[2404.15258](http://arxiv.org/abs/2404.15258)|null|
+|**2024-04-23**|**How to use and interpret activation patching**|Stefan Heimersheim et.al.|[2404.15255](http://arxiv.org/abs/2404.15255)|null|
+|**2024-04-23**|**GIST: Gibbs self-tuning for locally adaptive Hamiltonian Monte Carlo**|Nawaf Bou-Rabee et.al.|[2404.15253](http://arxiv.org/abs/2404.15253)|null|
+|**2024-04-23**|**XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**|Yifeng Ding et.al.|[2404.15247](http://arxiv.org/abs/2404.15247)|**[link](https://github.com/ise-uiuc/xft)**|
+|**2024-04-23**|**Mining Invariance from Nonlinear Multi-Environment Data: Binary Classification**|Austin Goddard et.al.|[2404.15245](http://arxiv.org/abs/2404.15245)|null|
 |**2024-04-22**|**SpaceByte: Towards Deleting Tokenization from Large Language Modeling**|Kevin Slagle et.al.|[2404.14408](http://arxiv.org/abs/2404.14408)|**[link](https://github.com/kjslag/spacebyte)**|
 |**2024-04-22**|**A mean curvature flow arising in adversarial training**|Leon Bungert et.al.|[2404.14402](http://arxiv.org/abs/2404.14402)|null|
 |**2024-04-22**|**RTP-LX: Can LLMs Evaluate Toxicity in Multilingual Scenarios?**|Adrian de Wynter et.al.|[2404.14397](http://arxiv.org/abs/2404.14397)|null|
@@ -344,6 +354,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276](http://arxiv.org/abs/2404.15276)|**[link](https://github.com/xuxy09/smpler)**|
+|**2024-04-23**|**Metric-guided Image Reconstruction Bounds via Conformal Prediction**|Matt Y Cheung et.al.|[2404.15274](http://arxiv.org/abs/2404.15274)|**[link](https://github.com/matthewyccheung/conformal-metric)**|
+|**2024-04-23**|**Estimation Network Design framework for efficient distributed optimization**|Mattia Bianchi et.al.|[2404.15273](http://arxiv.org/abs/2404.15273)|null|
+|**2024-04-23**|**Aligning LLM Agents by Learning Latent Preference from User Edits**|Ge Gao et.al.|[2404.15269](http://arxiv.org/abs/2404.15269)|null|
+|**2024-04-23**|**All You Need is Resistance: On the Equivalence of Effective Resistance and Certain Optimal Transport Problems on Graphs**|Sawyer Robertson et.al.|[2404.15261](http://arxiv.org/abs/2404.15261)|null|
+|**2024-04-23**|**Score matching for sub-Riemannian bridge sampling**|Erlend Grong et.al.|[2404.15258](http://arxiv.org/abs/2404.15258)|null|
+|**2024-04-23**|**How to use and interpret activation patching**|Stefan Heimersheim et.al.|[2404.15255](http://arxiv.org/abs/2404.15255)|null|
+|**2024-04-23**|**GIST: Gibbs self-tuning for locally adaptive Hamiltonian Monte Carlo**|Nawaf Bou-Rabee et.al.|[2404.15253](http://arxiv.org/abs/2404.15253)|null|
+|**2024-04-23**|**XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**|Yifeng Ding et.al.|[2404.15247](http://arxiv.org/abs/2404.15247)|**[link](https://github.com/ise-uiuc/xft)**|
+|**2024-04-23**|**Mining Invariance from Nonlinear Multi-Environment Data: Binary Classification**|Austin Goddard et.al.|[2404.15245](http://arxiv.org/abs/2404.15245)|null|
 |**2024-04-22**|**SpaceByte: Towards Deleting Tokenization from Large Language Modeling**|Kevin Slagle et.al.|[2404.14408](http://arxiv.org/abs/2404.14408)|**[link](https://github.com/kjslag/spacebyte)**|
 |**2024-04-22**|**A mean curvature flow arising in adversarial training**|Leon Bungert et.al.|[2404.14402](http://arxiv.org/abs/2404.14402)|null|
 |**2024-04-22**|**RTP-LX: Can LLMs Evaluate Toxicity in Multilingual Scenarios?**|Adrian de Wynter et.al.|[2404.14397](http://arxiv.org/abs/2404.14397)|null|
