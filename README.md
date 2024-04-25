@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models**|Xu Shen et.al.|[2404.15625](http://arxiv.org/abs/2404.15625)|null|
+|**2024-04-24**|**FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search**|Haoming Zhang et.al.|[2404.15622](http://arxiv.org/abs/2404.15622)|**[link](https://github.com/emi-group/fr-nas)**|
+|**2024-04-24**|**Layer Ensemble Averaging for Improving Memristor-Based Artificial Neural Network Performance**|Osama Yousuf et.al.|[2404.15621](http://arxiv.org/abs/2404.15621)|null|
+|**2024-04-24**|**Neural Operator induced Gaussian Process framework for probabilistic solution of parametric partial differential equations**|Sawan Kumar et.al.|[2404.15618](http://arxiv.org/abs/2404.15618)|null|
+|**2024-04-24**|**DPO: Differential reinforcement learning with application to optimal configuration search**|Chandrajit Bajaj et.al.|[2404.15617](http://arxiv.org/abs/2404.15617)|null|
+|**2024-04-24**|**MDDD: Manifold-based Domain Adaptation with Dynamic Distribution for Non-Deep Transfer Learning in Cross-subject and Cross-session EEG-based Emotion Recognition**|Ting Luo et.al.|[2404.15615](http://arxiv.org/abs/2404.15615)|null|
+|**2024-04-24**|**Federated Learning with Only Positive Labels by Exploring Label Correlations**|Xuming An et.al.|[2404.15598](http://arxiv.org/abs/2404.15598)|null|
+|**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597](http://arxiv.org/abs/2404.15597)|null|
+|**2024-04-24**|**Variational Deep Survival Machines: Survival Regression with Censored Outcomes**|Qinxin Wang et.al.|[2404.15595](http://arxiv.org/abs/2404.15595)|**[link](https://github.com/qinzzz/auton-survival-785)**|
+|**2024-04-24**|**A Survey of Deep Long-Tail Classification Advancements**|Charika de Alvis et.al.|[2404.15593](http://arxiv.org/abs/2404.15593)|null|
 |**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276](http://arxiv.org/abs/2404.15276)|**[link](https://github.com/xuxy09/smpler)**|
 |**2024-04-23**|**Metric-guided Image Reconstruction Bounds via Conformal Prediction**|Matt Y Cheung et.al.|[2404.15274](http://arxiv.org/abs/2404.15274)|**[link](https://github.com/matthewyccheung/conformal-metric)**|
 |**2024-04-23**|**Estimation Network Design framework for efficient distributed optimization**|Mattia Bianchi et.al.|[2404.15273](http://arxiv.org/abs/2404.15273)|null|
@@ -354,6 +364,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models**|Xu Shen et.al.|[2404.15625](http://arxiv.org/abs/2404.15625)|null|
+|**2024-04-24**|**FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search**|Haoming Zhang et.al.|[2404.15622](http://arxiv.org/abs/2404.15622)|**[link](https://github.com/emi-group/fr-nas)**|
+|**2024-04-24**|**Layer Ensemble Averaging for Improving Memristor-Based Artificial Neural Network Performance**|Osama Yousuf et.al.|[2404.15621](http://arxiv.org/abs/2404.15621)|null|
+|**2024-04-24**|**Neural Operator induced Gaussian Process framework for probabilistic solution of parametric partial differential equations**|Sawan Kumar et.al.|[2404.15618](http://arxiv.org/abs/2404.15618)|null|
+|**2024-04-24**|**DPO: Differential reinforcement learning with application to optimal configuration search**|Chandrajit Bajaj et.al.|[2404.15617](http://arxiv.org/abs/2404.15617)|null|
+|**2024-04-24**|**MDDD: Manifold-based Domain Adaptation with Dynamic Distribution for Non-Deep Transfer Learning in Cross-subject and Cross-session EEG-based Emotion Recognition**|Ting Luo et.al.|[2404.15615](http://arxiv.org/abs/2404.15615)|null|
+|**2024-04-24**|**Federated Learning with Only Positive Labels by Exploring Label Correlations**|Xuming An et.al.|[2404.15598](http://arxiv.org/abs/2404.15598)|null|
+|**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597](http://arxiv.org/abs/2404.15597)|null|
+|**2024-04-24**|**Variational Deep Survival Machines: Survival Regression with Censored Outcomes**|Qinxin Wang et.al.|[2404.15595](http://arxiv.org/abs/2404.15595)|**[link](https://github.com/qinzzz/auton-survival-785)**|
+|**2024-04-24**|**A Survey of Deep Long-Tail Classification Advancements**|Charika de Alvis et.al.|[2404.15593](http://arxiv.org/abs/2404.15593)|null|
 |**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276](http://arxiv.org/abs/2404.15276)|**[link](https://github.com/xuxy09/smpler)**|
 |**2024-04-23**|**Metric-guided Image Reconstruction Bounds via Conformal Prediction**|Matt Y Cheung et.al.|[2404.15274](http://arxiv.org/abs/2404.15274)|**[link](https://github.com/matthewyccheung/conformal-metric)**|
 |**2024-04-23**|**Estimation Network Design framework for efficient distributed optimization**|Mattia Bianchi et.al.|[2404.15273](http://arxiv.org/abs/2404.15273)|null|
