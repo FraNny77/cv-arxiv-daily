@@ -37,16 +37,16 @@
 |**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276](http://arxiv.org/abs/2404.15276)|**[link](https://github.com/xuxy09/smpler)**|
 |**2024-04-23**|**Metric-guided Image Reconstruction Bounds via Conformal Prediction**|Matt Y Cheung et.al.|[2404.15274](http://arxiv.org/abs/2404.15274)|**[link](https://github.com/matthewyccheung/conformal-metric)**|
 |**2024-04-23**|**Estimation Network Design framework for efficient distributed optimization**|Mattia Bianchi et.al.|[2404.15273](http://arxiv.org/abs/2404.15273)|null|
-|**2024-04-23**|**Aligning LLM Agents by Learning Latent Preference from User Edits**|Ge Gao et.al.|[2404.15269](http://arxiv.org/abs/2404.15269)|null|
+|**2024-04-23**|**Aligning LLM Agents by Learning Latent Preference from User Edits**|Ge Gao et.al.|[2404.15269](http://arxiv.org/abs/2404.15269)|**[link](https://github.com/gao-g/prelude)**|
 |**2024-04-23**|**All You Need is Resistance: On the Equivalence of Effective Resistance and Certain Optimal Transport Problems on Graphs**|Sawyer Robertson et.al.|[2404.15261](http://arxiv.org/abs/2404.15261)|null|
 |**2024-04-23**|**Score matching for sub-Riemannian bridge sampling**|Erlend Grong et.al.|[2404.15258](http://arxiv.org/abs/2404.15258)|null|
 |**2024-04-23**|**How to use and interpret activation patching**|Stefan Heimersheim et.al.|[2404.15255](http://arxiv.org/abs/2404.15255)|null|
-|**2024-04-23**|**GIST: Gibbs self-tuning for locally adaptive Hamiltonian Monte Carlo**|Nawaf Bou-Rabee et.al.|[2404.15253](http://arxiv.org/abs/2404.15253)|null|
+|**2024-04-23**|**GIST: Gibbs self-tuning for locally adaptive Hamiltonian Monte Carlo**|Nawaf Bou-Rabee et.al.|[2404.15253](http://arxiv.org/abs/2404.15253)|**[link](https://github.com/bob-carpenter/adaptive-hmc)**|
 |**2024-04-23**|**XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**|Yifeng Ding et.al.|[2404.15247](http://arxiv.org/abs/2404.15247)|**[link](https://github.com/ise-uiuc/xft)**|
 |**2024-04-23**|**Mining Invariance from Nonlinear Multi-Environment Data: Binary Classification**|Austin Goddard et.al.|[2404.15245](http://arxiv.org/abs/2404.15245)|null|
 |**2024-04-22**|**SpaceByte: Towards Deleting Tokenization from Large Language Modeling**|Kevin Slagle et.al.|[2404.14408](http://arxiv.org/abs/2404.14408)|**[link](https://github.com/kjslag/spacebyte)**|
 |**2024-04-22**|**A mean curvature flow arising in adversarial training**|Leon Bungert et.al.|[2404.14402](http://arxiv.org/abs/2404.14402)|null|
-|**2024-04-22**|**RTP-LX: Can LLMs Evaluate Toxicity in Multilingual Scenarios?**|Adrian de Wynter et.al.|[2404.14397](http://arxiv.org/abs/2404.14397)|null|
+|**2024-04-22**|**RTP-LX: Can LLMs Evaluate Toxicity in Multilingual Scenarios?**|Adrian de Wynter et.al.|[2404.14397](http://arxiv.org/abs/2404.14397)|**[link](https://github.com/microsoft/rtp-lx)**|
 |**2024-04-22**|**PARAMANU-GANITA: Language Model with Mathematical Capabilities**|Mitodru Niyogi et.al.|[2404.14395](http://arxiv.org/abs/2404.14395)|null|
 |**2024-04-22**|**Poisoning Attacks on Federated Learning-based Wireless Traffic Prediction**|Zifan Zhang et.al.|[2404.14389](http://arxiv.org/abs/2404.14389)|null|
 |**2024-04-22**|**STROOBnet Optimization via GPU-Accelerated Proximal Recurrence Strategies**|Ted Edward Holmberg et.al.|[2404.14388](http://arxiv.org/abs/2404.14388)|null|
@@ -131,7 +131,7 @@
 |**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198](http://arxiv.org/abs/2404.07198)|**[link](https://github.com/DeepGraphLearning/ULTRA)**|
 |**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194](http://arxiv.org/abs/2404.07194)|**[link](https://github.com/ml-jku/vnegnn)**|
 |**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
-|**2024-04-11**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181](http://arxiv.org/abs/2404.07181)|null|
+|**2024-04-11**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181](http://arxiv.org/abs/2404.07181)|**[link](https://github.com/bytedance/bamboo)**|
 |**2024-04-10**|**Machine learning-based similarity measure to forecast M&A from patent data**|Giambattista Albora et.al.|[2404.07179](http://arxiv.org/abs/2404.07179)|**[link](https://github.com/giamba95/saplingsimilarity)**|
 |**2024-04-10**|**Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic**|Sachin Goyal et.al.|[2404.07177](http://arxiv.org/abs/2404.07177)|**[link](https://github.com/locuslab/scaling_laws_data_filtering)**|
 |**2024-04-09**|**MoReVQA: Exploring Modular Reasoning Models for Video Question Answering**|Juhong Min et.al.|[2404.06511](http://arxiv.org/abs/2404.06511)|null|
@@ -397,16 +397,16 @@
 |**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276](http://arxiv.org/abs/2404.15276)|**[link](https://github.com/xuxy09/smpler)**|
 |**2024-04-23**|**Metric-guided Image Reconstruction Bounds via Conformal Prediction**|Matt Y Cheung et.al.|[2404.15274](http://arxiv.org/abs/2404.15274)|**[link](https://github.com/matthewyccheung/conformal-metric)**|
 |**2024-04-23**|**Estimation Network Design framework for efficient distributed optimization**|Mattia Bianchi et.al.|[2404.15273](http://arxiv.org/abs/2404.15273)|null|
-|**2024-04-23**|**Aligning LLM Agents by Learning Latent Preference from User Edits**|Ge Gao et.al.|[2404.15269](http://arxiv.org/abs/2404.15269)|null|
+|**2024-04-23**|**Aligning LLM Agents by Learning Latent Preference from User Edits**|Ge Gao et.al.|[2404.15269](http://arxiv.org/abs/2404.15269)|**[link](https://github.com/gao-g/prelude)**|
 |**2024-04-23**|**All You Need is Resistance: On the Equivalence of Effective Resistance and Certain Optimal Transport Problems on Graphs**|Sawyer Robertson et.al.|[2404.15261](http://arxiv.org/abs/2404.15261)|null|
 |**2024-04-23**|**Score matching for sub-Riemannian bridge sampling**|Erlend Grong et.al.|[2404.15258](http://arxiv.org/abs/2404.15258)|null|
 |**2024-04-23**|**How to use and interpret activation patching**|Stefan Heimersheim et.al.|[2404.15255](http://arxiv.org/abs/2404.15255)|null|
-|**2024-04-23**|**GIST: Gibbs self-tuning for locally adaptive Hamiltonian Monte Carlo**|Nawaf Bou-Rabee et.al.|[2404.15253](http://arxiv.org/abs/2404.15253)|null|
+|**2024-04-23**|**GIST: Gibbs self-tuning for locally adaptive Hamiltonian Monte Carlo**|Nawaf Bou-Rabee et.al.|[2404.15253](http://arxiv.org/abs/2404.15253)|**[link](https://github.com/bob-carpenter/adaptive-hmc)**|
 |**2024-04-23**|**XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**|Yifeng Ding et.al.|[2404.15247](http://arxiv.org/abs/2404.15247)|**[link](https://github.com/ise-uiuc/xft)**|
 |**2024-04-23**|**Mining Invariance from Nonlinear Multi-Environment Data: Binary Classification**|Austin Goddard et.al.|[2404.15245](http://arxiv.org/abs/2404.15245)|null|
 |**2024-04-22**|**SpaceByte: Towards Deleting Tokenization from Large Language Modeling**|Kevin Slagle et.al.|[2404.14408](http://arxiv.org/abs/2404.14408)|**[link](https://github.com/kjslag/spacebyte)**|
 |**2024-04-22**|**A mean curvature flow arising in adversarial training**|Leon Bungert et.al.|[2404.14402](http://arxiv.org/abs/2404.14402)|null|
-|**2024-04-22**|**RTP-LX: Can LLMs Evaluate Toxicity in Multilingual Scenarios?**|Adrian de Wynter et.al.|[2404.14397](http://arxiv.org/abs/2404.14397)|null|
+|**2024-04-22**|**RTP-LX: Can LLMs Evaluate Toxicity in Multilingual Scenarios?**|Adrian de Wynter et.al.|[2404.14397](http://arxiv.org/abs/2404.14397)|**[link](https://github.com/microsoft/rtp-lx)**|
 |**2024-04-22**|**PARAMANU-GANITA: Language Model with Mathematical Capabilities**|Mitodru Niyogi et.al.|[2404.14395](http://arxiv.org/abs/2404.14395)|null|
 |**2024-04-22**|**Poisoning Attacks on Federated Learning-based Wireless Traffic Prediction**|Zifan Zhang et.al.|[2404.14389](http://arxiv.org/abs/2404.14389)|null|
 |**2024-04-22**|**STROOBnet Optimization via GPU-Accelerated Proximal Recurrence Strategies**|Ted Edward Holmberg et.al.|[2404.14388](http://arxiv.org/abs/2404.14388)|null|
@@ -491,7 +491,7 @@
 |**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198](http://arxiv.org/abs/2404.07198)|**[link](https://github.com/DeepGraphLearning/ULTRA)**|
 |**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194](http://arxiv.org/abs/2404.07194)|**[link](https://github.com/ml-jku/vnegnn)**|
 |**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
-|**2024-04-11**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181](http://arxiv.org/abs/2404.07181)|null|
+|**2024-04-11**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181](http://arxiv.org/abs/2404.07181)|**[link](https://github.com/bytedance/bamboo)**|
 |**2024-04-10**|**Machine learning-based similarity measure to forecast M&A from patent data**|Giambattista Albora et.al.|[2404.07179](http://arxiv.org/abs/2404.07179)|**[link](https://github.com/giamba95/saplingsimilarity)**|
 |**2024-04-10**|**Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic**|Sachin Goyal et.al.|[2404.07177](http://arxiv.org/abs/2404.07177)|**[link](https://github.com/locuslab/scaling_laws_data_filtering)**|
 |**2024-04-09**|**MoReVQA: Exploring Modular Reasoning Models for Video Question Answering**|Juhong Min et.al.|[2404.06511](http://arxiv.org/abs/2404.06511)|null|
