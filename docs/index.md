@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**An exactly solvable model for emergence and scaling laws**|Yoonsoo Nam et.al.|[2404.17563](http://arxiv.org/abs/2404.17563)|null|
+|**2024-04-26**|**Structured Conformal Inference for Matrix Completion with Applications to Group Recommender Systems**|Ziyi Liang et.al.|[2404.17561](http://arxiv.org/abs/2404.17561)|null|
+|**2024-04-26**|**Federated Transfer Component Analysis Towards Effective VNF Profiling**|Xunzheng ZhangB et.al.|[2404.17553](http://arxiv.org/abs/2404.17553)|null|
+|**2024-04-26**|**A Semi-Automatic Approach to Create Large Gender- and Age-Balanced Speaker Corpora: Usefulness of Speaker Diarization & Identification**|Rémi Uro et.al.|[2404.17552](http://arxiv.org/abs/2404.17552)|null|
+|**2024-04-26**|**Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo**|Stephen Zhao et.al.|[2404.17546](http://arxiv.org/abs/2404.17546)|null|
+|**2024-04-26**|**Using Neural Implicit Flow To Represent Latent Dynamics Of Canonical Systems**|Imran Nasim et.al.|[2404.17535](http://arxiv.org/abs/2404.17535)|null|
+|**2024-04-26**|**Large Language Model Agent as a Mechanical Designer**|Yayati Jadhav et.al.|[2404.17525](http://arxiv.org/abs/2404.17525)|null|
+|**2024-04-26**|**Bridging the Fairness Divide: Achieving Group and Individual Fairness in Graph Neural Networks**|Duna Zhan et.al.|[2404.17511](http://arxiv.org/abs/2404.17511)|null|
+|**2024-04-26**|**Constrained Neural Networks for Interpretable Heuristic Creation to Optimise Computer Algebra Systems**|Dorian Florescu et.al.|[2404.17508](http://arxiv.org/abs/2404.17508)|null|
+|**2024-04-26**|**Quantum Multi-Agent Reinforcement Learning for Aerial Ad-hoc Networks**|Theodora-Augustina Drăgan et.al.|[2404.17499](http://arxiv.org/abs/2404.17499)|null|
 |**2024-04-25**|**Made to Order: Discovering monotonic temporal changes via self-supervised video ordering**|Charig Yang et.al.|[2404.16828](http://arxiv.org/abs/2404.16828)|null|
 |**2024-04-25**|**Learning Visuotactile Skills with Two Multifingered Hands**|Toru Lin et.al.|[2404.16823](http://arxiv.org/abs/2404.16823)|**[link](https://github.com/ToruOwO/hato)**|
 |**2024-04-25**|**Meta-Transfer Derm-Diagnosis: Exploring Few-Shot Learning and Transfer Learning for Skin Disease Classification in Long-Tail Distribution**|Zeynep Özdemir et.al.|[2404.16814](http://arxiv.org/abs/2404.16814)|null|
@@ -367,6 +377,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**An exactly solvable model for emergence and scaling laws**|Yoonsoo Nam et.al.|[2404.17563](http://arxiv.org/abs/2404.17563)|null|
+|**2024-04-26**|**Structured Conformal Inference for Matrix Completion with Applications to Group Recommender Systems**|Ziyi Liang et.al.|[2404.17561](http://arxiv.org/abs/2404.17561)|null|
+|**2024-04-26**|**Federated Transfer Component Analysis Towards Effective VNF Profiling**|Xunzheng ZhangB et.al.|[2404.17553](http://arxiv.org/abs/2404.17553)|null|
+|**2024-04-26**|**A Semi-Automatic Approach to Create Large Gender- and Age-Balanced Speaker Corpora: Usefulness of Speaker Diarization & Identification**|Rémi Uro et.al.|[2404.17552](http://arxiv.org/abs/2404.17552)|null|
+|**2024-04-26**|**Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo**|Stephen Zhao et.al.|[2404.17546](http://arxiv.org/abs/2404.17546)|null|
+|**2024-04-26**|**Using Neural Implicit Flow To Represent Latent Dynamics Of Canonical Systems**|Imran Nasim et.al.|[2404.17535](http://arxiv.org/abs/2404.17535)|null|
+|**2024-04-26**|**Large Language Model Agent as a Mechanical Designer**|Yayati Jadhav et.al.|[2404.17525](http://arxiv.org/abs/2404.17525)|null|
+|**2024-04-26**|**Bridging the Fairness Divide: Achieving Group and Individual Fairness in Graph Neural Networks**|Duna Zhan et.al.|[2404.17511](http://arxiv.org/abs/2404.17511)|null|
+|**2024-04-26**|**Constrained Neural Networks for Interpretable Heuristic Creation to Optimise Computer Algebra Systems**|Dorian Florescu et.al.|[2404.17508](http://arxiv.org/abs/2404.17508)|null|
+|**2024-04-26**|**Quantum Multi-Agent Reinforcement Learning for Aerial Ad-hoc Networks**|Theodora-Augustina Drăgan et.al.|[2404.17499](http://arxiv.org/abs/2404.17499)|null|
 |**2024-04-25**|**Made to Order: Discovering monotonic temporal changes via self-supervised video ordering**|Charig Yang et.al.|[2404.16828](http://arxiv.org/abs/2404.16828)|null|
 |**2024-04-25**|**Learning Visuotactile Skills with Two Multifingered Hands**|Toru Lin et.al.|[2404.16823](http://arxiv.org/abs/2404.16823)|**[link](https://github.com/ToruOwO/hato)**|
 |**2024-04-25**|**Meta-Transfer Derm-Diagnosis: Exploring Few-Shot Learning and Transfer Learning for Skin Disease Classification in Long-Tail Distribution**|Zeynep Özdemir et.al.|[2404.16814](http://arxiv.org/abs/2404.16814)|null|
