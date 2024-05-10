@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.09
+## Updated on 2024.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -11,10 +11,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[2405.05258](http://arxiv.org/abs/2405.05258)|**[link](https://github.com/ldkong1205/LaserMix)**|
 |**2024-05-08**|**THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models**|Prannay Kaul et.al.|[2405.05256](http://arxiv.org/abs/2405.05256)|null|
-|**2024-05-08**|**Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**|Nayantara Mudur et.al.|[2405.05255](http://arxiv.org/abs/2405.05255)|null|
+|**2024-05-08**|**Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**|Nayantara Mudur et.al.|[2405.05255](http://arxiv.org/abs/2405.05255)|**[link](https://github.com/nmudur/diffusion-hmc)**|
 |**2024-05-08**|**Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**|Hongjie Wang et.al.|[2405.05252](http://arxiv.org/abs/2405.05252)|null|
 |**2024-05-08**|**Deep learning-based variational autoencoder for classification of quantum and classical states of light**|Mahesh Bhupati et.al.|[2405.05243](http://arxiv.org/abs/2405.05243)|null|
-|**2024-05-08**|**BenthicNet: A global compilation of seafloor images for deep learning applications**|Scott C. Lowe et.al.|[2405.05241](http://arxiv.org/abs/2405.05241)|null|
+|**2024-05-08**|**BenthicNet: A global compilation of seafloor images for deep learning applications**|Scott C. Lowe et.al.|[2405.05241](http://arxiv.org/abs/2405.05241)|**[link](https://github.com/dalhousieai/pangaea-downloader)**|
 |**2024-05-08**|**An LSTM-Based Chord Generation System Using Chroma Histogram Representations**|Jack Hardwick et.al.|[2405.05240](http://arxiv.org/abs/2405.05240)|null|
 |**2024-05-08**|**Cellular Traffic Prediction Using Online Prediction Algorithms**|Hossein Mehri et.al.|[2405.05239](http://arxiv.org/abs/2405.05239)|null|
 |**2024-05-08**|**Stability and Performance Analysis of Discrete-Time ReLU Recurrent Neural Networks**|Sahel Vahedi Noori et.al.|[2405.05236](http://arxiv.org/abs/2405.05236)|null|
@@ -459,10 +459,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[2405.05258](http://arxiv.org/abs/2405.05258)|**[link](https://github.com/ldkong1205/LaserMix)**|
 |**2024-05-08**|**THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models**|Prannay Kaul et.al.|[2405.05256](http://arxiv.org/abs/2405.05256)|null|
-|**2024-05-08**|**Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**|Nayantara Mudur et.al.|[2405.05255](http://arxiv.org/abs/2405.05255)|null|
+|**2024-05-08**|**Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**|Nayantara Mudur et.al.|[2405.05255](http://arxiv.org/abs/2405.05255)|**[link](https://github.com/nmudur/diffusion-hmc)**|
 |**2024-05-08**|**Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**|Hongjie Wang et.al.|[2405.05252](http://arxiv.org/abs/2405.05252)|null|
 |**2024-05-08**|**Deep learning-based variational autoencoder for classification of quantum and classical states of light**|Mahesh Bhupati et.al.|[2405.05243](http://arxiv.org/abs/2405.05243)|null|
-|**2024-05-08**|**BenthicNet: A global compilation of seafloor images for deep learning applications**|Scott C. Lowe et.al.|[2405.05241](http://arxiv.org/abs/2405.05241)|null|
+|**2024-05-08**|**BenthicNet: A global compilation of seafloor images for deep learning applications**|Scott C. Lowe et.al.|[2405.05241](http://arxiv.org/abs/2405.05241)|**[link](https://github.com/dalhousieai/pangaea-downloader)**|
 |**2024-05-08**|**An LSTM-Based Chord Generation System Using Chroma Histogram Representations**|Jack Hardwick et.al.|[2405.05240](http://arxiv.org/abs/2405.05240)|null|
 |**2024-05-08**|**Cellular Traffic Prediction Using Online Prediction Algorithms**|Hossein Mehri et.al.|[2405.05239](http://arxiv.org/abs/2405.05239)|null|
 |**2024-05-08**|**Stability and Performance Analysis of Discrete-Time ReLU Recurrent Neural Networks**|Sahel Vahedi Noori et.al.|[2405.05236](http://arxiv.org/abs/2405.05236)|null|
