@@ -39,7 +39,7 @@ layout: default
 |**2024-05-07**|**Toward In-Context Teaching: Adapting Examples to Students' Misconceptions**|Alexis Ross et.al.|[2405.04495](http://arxiv.org/abs/2405.04495)|null|
 |**2024-05-07**|**Representation Learning of Daily Movement Data Using Text Encoders**|Alexander Capstick et.al.|[2405.04494](http://arxiv.org/abs/2405.04494)|**[link](https://github.com/alexcapstick/text-encoders-for-daily-movement-data)**|
 |**2024-05-07**|**TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters**|Jonathan Wilder Lavington et.al.|[2405.04491](http://arxiv.org/abs/2405.04491)|null|
-|**2024-05-06**|**Large Language Models Reveal Information Operation Goals, Tactics, and Narrative Frames**|Keith Burghardt et.al.|[2405.03688](http://arxiv.org/abs/2405.03688)|null|
+|**2024-05-06**|**Large Language Models Reveal Information Operation Goals, Tactics, and Narrative Frames**|Keith Burghardt et.al.|[2405.03688](http://arxiv.org/abs/2405.03688)|**[link](https://github.com/KeithBurghardt/LLM_Coordination)**|
 |**2024-05-06**|**Language-Image Models with 3D Understanding**|Jang Hyun Cho et.al.|[2405.03685](http://arxiv.org/abs/2405.03685)|null|
 |**2024-05-06**|**Why is SAM Robust to Label Noise?**|Christina Baek et.al.|[2405.03676](http://arxiv.org/abs/2405.03676)|null|
 |**2024-05-06**|**Cutting through buggy adversarial example defenses: fixing 1 line of code breaks Sabre**|Nicholas Carlini et.al.|[2405.03672](http://arxiv.org/abs/2405.03672)|null|
@@ -49,7 +49,7 @@ layout: default
 |**2024-05-06**|**A review on data-driven constitutive laws for solids**|Jan Niklas Fuhg et.al.|[2405.03658](http://arxiv.org/abs/2405.03658)|null|
 |**2024-05-06**|**Adaptive Retrieval and Scalable Indexing for k-NN Search with Cross-Encoders**|Nishant Yadav et.al.|[2405.03651](http://arxiv.org/abs/2405.03651)|null|
 |**2024-05-06**|**Generated Contents Enrichment**|Mahdi Naseri et.al.|[2405.03650](http://arxiv.org/abs/2405.03650)|null|
-|**2024-05-03**|**An error-mitigated photonic quantum circuit Born machine**|Alexia Salavrakos et.al.|[2405.02277](http://arxiv.org/abs/2405.02277)|null|
+|**2024-05-03**|**An error-mitigated photonic quantum circuit Born machine**|Alexia Salavrakos et.al.|[2405.02277](http://arxiv.org/abs/2405.02277)|**[link](https://github.com/Quandela/photonic-qcbm)**|
 |**2024-05-03**|**Structural Pruning of Pre-trained Language Models via Neural Architecture Search**|Aaron Klein et.al.|[2405.02267](http://arxiv.org/abs/2405.02267)|null|
 |**2024-05-03**|**Leveraging Large Language Models to Enhance Domain Expert Inclusion in Data Science Workflows**|Jasmine Y. Shih et.al.|[2405.02260](http://arxiv.org/abs/2405.02260)|null|
 |**2024-05-03**|**Deep Learning of ab initio Hessians for Transition State Optimization**|Eric C. -Y. Yuan et.al.|[2405.02247](http://arxiv.org/abs/2405.02247)|null|
@@ -57,7 +57,7 @@ layout: default
 |**2024-05-03**|**Learning Optimal Deterministic Policies with Stochastic Policy Gradients**|Alessandro Montenegro et.al.|[2405.02235](http://arxiv.org/abs/2405.02235)|null|
 |**2024-05-03**|**Fair Risk Control: A Generalized Framework for Calibrating Multi-group Fairness Risks**|Lujing Zhang et.al.|[2405.02225](http://arxiv.org/abs/2405.02225)|null|
 |**2024-05-03**|**Discretization Error of Fourier Neural Operators**|Samuel Lanthaler et.al.|[2405.02221](http://arxiv.org/abs/2405.02221)|null|
-|**2024-05-03**|**Designed Dithering Sign Activation for Binary Neural Networks**|Brayan Monroy et.al.|[2405.02220](http://arxiv.org/abs/2405.02220)|null|
+|**2024-05-03**|**Designed Dithering Sign Activation for Binary Neural Networks**|Brayan Monroy et.al.|[2405.02220](http://arxiv.org/abs/2405.02220)|**[link](https://github.com/bemc22/design)**|
 |**2024-05-03**|**Automatic Programming: Large Language Models and Beyond**|Michael R. Lyu et.al.|[2405.02213](http://arxiv.org/abs/2405.02213)|null|
 |**2024-05-02**|**Multi-Space Alignments Towards Universal LiDAR Segmentation**|Youquan Liu et.al.|[2405.01538](http://arxiv.org/abs/2405.01538)|null|
 |**2024-05-02**|**Customizing Text-to-Image Models with a Single Image Pair**|Maxwell Jones et.al.|[2405.01536](http://arxiv.org/abs/2405.01536)|null|
@@ -92,7 +92,7 @@ layout: default
 |**2024-04-29**|**Stylus: Automatic Adapter Selection for Diffusion Models**|Michael Luo et.al.|[2404.18928](http://arxiv.org/abs/2404.18928)|null|
 |**2024-04-29**|**Point Cloud Models Improve Visual Robustness in Robotic Learners**|Skand Peri et.al.|[2404.18926](http://arxiv.org/abs/2404.18926)|null|
 |**2024-04-29**|**DPO Meets PPO: Reinforced Token Optimization for RLHF**|Han Zhong et.al.|[2404.18922](http://arxiv.org/abs/2404.18922)|null|
-|**2024-04-29**|**Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting**|Fangcheng Liu et.al.|[2404.18911](http://arxiv.org/abs/2404.18911)|null|
+|**2024-04-29**|**Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting**|Fangcheng Liu et.al.|[2404.18911](http://arxiv.org/abs/2404.18911)|**[link](https://github.com/Equationliu/Kangaroo)**|
 |**2024-04-29**|**Sample-Efficient Robust Multi-Agent Reinforcement Learning in the Face of Environmental Uncertainty**|Laixi Shi et.al.|[2404.18909](http://arxiv.org/abs/2404.18909)|null|
 |**2024-04-29**|**Detecting critical treatment effect bias in small subgroups**|Piersilvio De Bartolomeis et.al.|[2404.18905](http://arxiv.org/abs/2404.18905)|**[link](https://github.com/jaabmar/kernel-test-bias)**|
 |**2024-04-29**|**Overcoming Knowledge Barriers: Online Imitation Learning from Observation with Pretrained World Models**|Xingyuan Zhang et.al.|[2404.18896](http://arxiv.org/abs/2404.18896)|null|
@@ -167,7 +167,7 @@ layout: default
 |**2024-04-18**|**Gradient-Regularized Out-of-Distribution Detection**|Sina Sharifi et.al.|[2404.12368](http://arxiv.org/abs/2404.12368)|null|
 |**2024-04-18**|**Information theory unifies atomistic machine learning, uncertainty quantification, and materials thermodynamics**|Daniel Schwalbe-Koda et.al.|[2404.12367](http://arxiv.org/abs/2404.12367)|**[link](https://github.com/dskoda/quests)**|
 |**2024-04-18**|**Accounting for AI and Users Shaping One Another: The Role of Mathematical Models**|Sarah Dean et.al.|[2404.12366](http://arxiv.org/abs/2404.12366)|null|
-|**2024-04-18**|**When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes**|Asaf Yehudai et.al.|[2404.12365](http://arxiv.org/abs/2404.12365)|null|
+|**2024-04-18**|**When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes**|Asaf Yehudai et.al.|[2404.12365](http://arxiv.org/abs/2404.12365)|**[link](https://github.com/ibm/fastfit)**|
 |**2024-04-18**|**Transformer tricks: Removing weights for skipless transformers**|Nils Graef et.al.|[2404.12362](http://arxiv.org/abs/2404.12362)|**[link](https://github.com/openmachine-ai/transformer-tricks)**|
 |**2024-04-17**|**Learning to Solve the Constrained Most Probable Explanation Task in Probabilistic Graphical Models**|Shivvrat Arya et.al.|[2404.11606](http://arxiv.org/abs/2404.11606)|null|
 |**2024-04-17**|**Variational Bayesian Last Layers**|James Harrison et.al.|[2404.11599](http://arxiv.org/abs/2404.11599)|**[link](https://github.com/vectorinstitute/vbll)**|
@@ -186,7 +186,7 @@ layout: default
 |**2024-04-16**|**Confidential Federated Computations**|Hubert Eichner et.al.|[2404.10764](http://arxiv.org/abs/2404.10764)|**[link](https://github.com/google-parfait/confidential-federated-compute)**|
 |**2024-04-17**|**TorchSurv: A Lightweight Package for Deep Survival Analysis**|Mélodie Monod et.al.|[2404.10761](http://arxiv.org/abs/2404.10761)|**[link](https://github.com/novartis/torchsurv)**|
 |**2024-04-16**|**Laplace-HDC: Understanding the geometry of binary hyperdimensional computing**|Saeid Pourmand et.al.|[2404.10759](http://arxiv.org/abs/2404.10759)|null|
-|**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757](http://arxiv.org/abs/2404.10757)|null|
+|**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757](http://arxiv.org/abs/2404.10757)|**[link](https://github.com/yu-yang-li/starwhisper)**|
 |**2024-04-16**|**Interpolation and differentiation of alchemical degrees of freedom in machine learning interatomic potentials**|Juno Nam et.al.|[2404.10746](http://arxiv.org/abs/2404.10746)|**[link](https://github.com/learningmatter-mit/alchemical-mlip)**|
 |**2024-04-16**|**Settling Constant Regrets in Linear Markov Decision Processes**|Weitong Zhang et.al.|[2404.10745](http://arxiv.org/abs/2404.10745)|null|
 |**2024-04-15**|**A replica analysis of under-bagging**|Takashi Takahashi et.al.|[2404.09779](http://arxiv.org/abs/2404.09779)|null|
@@ -497,7 +497,7 @@ layout: default
 |**2024-05-07**|**Toward In-Context Teaching: Adapting Examples to Students' Misconceptions**|Alexis Ross et.al.|[2405.04495](http://arxiv.org/abs/2405.04495)|null|
 |**2024-05-07**|**Representation Learning of Daily Movement Data Using Text Encoders**|Alexander Capstick et.al.|[2405.04494](http://arxiv.org/abs/2405.04494)|**[link](https://github.com/alexcapstick/text-encoders-for-daily-movement-data)**|
 |**2024-05-07**|**TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters**|Jonathan Wilder Lavington et.al.|[2405.04491](http://arxiv.org/abs/2405.04491)|null|
-|**2024-05-06**|**Large Language Models Reveal Information Operation Goals, Tactics, and Narrative Frames**|Keith Burghardt et.al.|[2405.03688](http://arxiv.org/abs/2405.03688)|null|
+|**2024-05-06**|**Large Language Models Reveal Information Operation Goals, Tactics, and Narrative Frames**|Keith Burghardt et.al.|[2405.03688](http://arxiv.org/abs/2405.03688)|**[link](https://github.com/KeithBurghardt/LLM_Coordination)**|
 |**2024-05-06**|**Language-Image Models with 3D Understanding**|Jang Hyun Cho et.al.|[2405.03685](http://arxiv.org/abs/2405.03685)|null|
 |**2024-05-06**|**Why is SAM Robust to Label Noise?**|Christina Baek et.al.|[2405.03676](http://arxiv.org/abs/2405.03676)|null|
 |**2024-05-06**|**Cutting through buggy adversarial example defenses: fixing 1 line of code breaks Sabre**|Nicholas Carlini et.al.|[2405.03672](http://arxiv.org/abs/2405.03672)|null|
@@ -507,7 +507,7 @@ layout: default
 |**2024-05-06**|**A review on data-driven constitutive laws for solids**|Jan Niklas Fuhg et.al.|[2405.03658](http://arxiv.org/abs/2405.03658)|null|
 |**2024-05-06**|**Adaptive Retrieval and Scalable Indexing for k-NN Search with Cross-Encoders**|Nishant Yadav et.al.|[2405.03651](http://arxiv.org/abs/2405.03651)|null|
 |**2024-05-06**|**Generated Contents Enrichment**|Mahdi Naseri et.al.|[2405.03650](http://arxiv.org/abs/2405.03650)|null|
-|**2024-05-03**|**An error-mitigated photonic quantum circuit Born machine**|Alexia Salavrakos et.al.|[2405.02277](http://arxiv.org/abs/2405.02277)|null|
+|**2024-05-03**|**An error-mitigated photonic quantum circuit Born machine**|Alexia Salavrakos et.al.|[2405.02277](http://arxiv.org/abs/2405.02277)|**[link](https://github.com/Quandela/photonic-qcbm)**|
 |**2024-05-03**|**Structural Pruning of Pre-trained Language Models via Neural Architecture Search**|Aaron Klein et.al.|[2405.02267](http://arxiv.org/abs/2405.02267)|null|
 |**2024-05-03**|**Leveraging Large Language Models to Enhance Domain Expert Inclusion in Data Science Workflows**|Jasmine Y. Shih et.al.|[2405.02260](http://arxiv.org/abs/2405.02260)|null|
 |**2024-05-03**|**Deep Learning of ab initio Hessians for Transition State Optimization**|Eric C. -Y. Yuan et.al.|[2405.02247](http://arxiv.org/abs/2405.02247)|null|
@@ -515,7 +515,7 @@ layout: default
 |**2024-05-03**|**Learning Optimal Deterministic Policies with Stochastic Policy Gradients**|Alessandro Montenegro et.al.|[2405.02235](http://arxiv.org/abs/2405.02235)|null|
 |**2024-05-03**|**Fair Risk Control: A Generalized Framework for Calibrating Multi-group Fairness Risks**|Lujing Zhang et.al.|[2405.02225](http://arxiv.org/abs/2405.02225)|null|
 |**2024-05-03**|**Discretization Error of Fourier Neural Operators**|Samuel Lanthaler et.al.|[2405.02221](http://arxiv.org/abs/2405.02221)|null|
-|**2024-05-03**|**Designed Dithering Sign Activation for Binary Neural Networks**|Brayan Monroy et.al.|[2405.02220](http://arxiv.org/abs/2405.02220)|null|
+|**2024-05-03**|**Designed Dithering Sign Activation for Binary Neural Networks**|Brayan Monroy et.al.|[2405.02220](http://arxiv.org/abs/2405.02220)|**[link](https://github.com/bemc22/design)**|
 |**2024-05-03**|**Automatic Programming: Large Language Models and Beyond**|Michael R. Lyu et.al.|[2405.02213](http://arxiv.org/abs/2405.02213)|null|
 |**2024-05-02**|**Multi-Space Alignments Towards Universal LiDAR Segmentation**|Youquan Liu et.al.|[2405.01538](http://arxiv.org/abs/2405.01538)|null|
 |**2024-05-02**|**Customizing Text-to-Image Models with a Single Image Pair**|Maxwell Jones et.al.|[2405.01536](http://arxiv.org/abs/2405.01536)|null|
@@ -550,7 +550,7 @@ layout: default
 |**2024-04-29**|**Stylus: Automatic Adapter Selection for Diffusion Models**|Michael Luo et.al.|[2404.18928](http://arxiv.org/abs/2404.18928)|null|
 |**2024-04-29**|**Point Cloud Models Improve Visual Robustness in Robotic Learners**|Skand Peri et.al.|[2404.18926](http://arxiv.org/abs/2404.18926)|null|
 |**2024-04-29**|**DPO Meets PPO: Reinforced Token Optimization for RLHF**|Han Zhong et.al.|[2404.18922](http://arxiv.org/abs/2404.18922)|null|
-|**2024-04-29**|**Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting**|Fangcheng Liu et.al.|[2404.18911](http://arxiv.org/abs/2404.18911)|null|
+|**2024-04-29**|**Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting**|Fangcheng Liu et.al.|[2404.18911](http://arxiv.org/abs/2404.18911)|**[link](https://github.com/Equationliu/Kangaroo)**|
 |**2024-04-29**|**Sample-Efficient Robust Multi-Agent Reinforcement Learning in the Face of Environmental Uncertainty**|Laixi Shi et.al.|[2404.18909](http://arxiv.org/abs/2404.18909)|null|
 |**2024-04-29**|**Detecting critical treatment effect bias in small subgroups**|Piersilvio De Bartolomeis et.al.|[2404.18905](http://arxiv.org/abs/2404.18905)|**[link](https://github.com/jaabmar/kernel-test-bias)**|
 |**2024-04-29**|**Overcoming Knowledge Barriers: Online Imitation Learning from Observation with Pretrained World Models**|Xingyuan Zhang et.al.|[2404.18896](http://arxiv.org/abs/2404.18896)|null|
@@ -625,7 +625,7 @@ layout: default
 |**2024-04-18**|**Gradient-Regularized Out-of-Distribution Detection**|Sina Sharifi et.al.|[2404.12368](http://arxiv.org/abs/2404.12368)|null|
 |**2024-04-18**|**Information theory unifies atomistic machine learning, uncertainty quantification, and materials thermodynamics**|Daniel Schwalbe-Koda et.al.|[2404.12367](http://arxiv.org/abs/2404.12367)|**[link](https://github.com/dskoda/quests)**|
 |**2024-04-18**|**Accounting for AI and Users Shaping One Another: The Role of Mathematical Models**|Sarah Dean et.al.|[2404.12366](http://arxiv.org/abs/2404.12366)|null|
-|**2024-04-18**|**When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes**|Asaf Yehudai et.al.|[2404.12365](http://arxiv.org/abs/2404.12365)|null|
+|**2024-04-18**|**When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes**|Asaf Yehudai et.al.|[2404.12365](http://arxiv.org/abs/2404.12365)|**[link](https://github.com/ibm/fastfit)**|
 |**2024-04-18**|**Transformer tricks: Removing weights for skipless transformers**|Nils Graef et.al.|[2404.12362](http://arxiv.org/abs/2404.12362)|**[link](https://github.com/openmachine-ai/transformer-tricks)**|
 |**2024-04-17**|**Learning to Solve the Constrained Most Probable Explanation Task in Probabilistic Graphical Models**|Shivvrat Arya et.al.|[2404.11606](http://arxiv.org/abs/2404.11606)|null|
 |**2024-04-17**|**Variational Bayesian Last Layers**|James Harrison et.al.|[2404.11599](http://arxiv.org/abs/2404.11599)|**[link](https://github.com/vectorinstitute/vbll)**|
@@ -644,7 +644,7 @@ layout: default
 |**2024-04-16**|**Confidential Federated Computations**|Hubert Eichner et.al.|[2404.10764](http://arxiv.org/abs/2404.10764)|**[link](https://github.com/google-parfait/confidential-federated-compute)**|
 |**2024-04-17**|**TorchSurv: A Lightweight Package for Deep Survival Analysis**|Mélodie Monod et.al.|[2404.10761](http://arxiv.org/abs/2404.10761)|**[link](https://github.com/novartis/torchsurv)**|
 |**2024-04-16**|**Laplace-HDC: Understanding the geometry of binary hyperdimensional computing**|Saeid Pourmand et.al.|[2404.10759](http://arxiv.org/abs/2404.10759)|null|
-|**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757](http://arxiv.org/abs/2404.10757)|null|
+|**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757](http://arxiv.org/abs/2404.10757)|**[link](https://github.com/yu-yang-li/starwhisper)**|
 |**2024-04-16**|**Interpolation and differentiation of alchemical degrees of freedom in machine learning interatomic potentials**|Juno Nam et.al.|[2404.10746](http://arxiv.org/abs/2404.10746)|**[link](https://github.com/learningmatter-mit/alchemical-mlip)**|
 |**2024-04-16**|**Settling Constant Regrets in Linear Markov Decision Processes**|Weitong Zhang et.al.|[2404.10745](http://arxiv.org/abs/2404.10745)|null|
 |**2024-04-15**|**A replica analysis of under-bagging**|Takashi Takahashi et.al.|[2404.09779](http://arxiv.org/abs/2404.09779)|null|
