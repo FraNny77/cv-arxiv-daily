@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|null|
+|**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636](http://arxiv.org/abs/2405.06636)|null|
+|**2024-05-10**|**Conformal Validity Guarantees Exist for Any Data Distribution**|Drew Prinster et.al.|[2405.06627](http://arxiv.org/abs/2405.06627)|**[link](https://github.com/drewprinster/conformal-mfcs)**|
+|**2024-05-10**|**Characterizing the Accuracy - Efficiency Trade-off of Low-rank Decomposition in Language Models**|Chakshu Moar et.al.|[2405.06626](http://arxiv.org/abs/2405.06626)|null|
+|**2024-05-10**|**Calo-VQ: Vector-Quantized Two-Stage Generative Model in Calorimeter Simulation**|Qibin Liu et.al.|[2405.06605](http://arxiv.org/abs/2405.06605)|null|
+|**2024-05-10**|**Explaining Text Similarity in Transformer Models**|Alexandros Vasileiou et.al.|[2405.06604](http://arxiv.org/abs/2405.06604)|null|
+|**2024-05-10**|**Ice phase classification made easy with score-based denoising**|Hong Sun et.al.|[2405.06599](http://arxiv.org/abs/2405.06599)|null|
+|**2024-05-10**|**Non-Uniform Spatial Alignment Errors in sUAS Imagery From Wide-Area Disasters**|Thomas Manzini et.al.|[2405.06593](http://arxiv.org/abs/2405.06593)|null|
+|**2024-05-10**|**Decomposing weather forecasting into advection and convection with neural networks**|Mengxuan Chen et.al.|[2405.06590](http://arxiv.org/abs/2405.06590)|null|
+|**2024-05-10**|**The Role of Learning Algorithms in Collective Action**|Omri Ben-Dov et.al.|[2405.06582](http://arxiv.org/abs/2405.06582)|null|
 |**2024-05-09**|**Learned harmonic mean estimation of the Bayesian evidence with normalizing flows**|Alicja Polanska et.al.|[2405.05969](http://arxiv.org/abs/2405.05969)|**[link](https://github.com/astro-informatics/harmonic)**|
 |**2024-05-09**|**A Universal Growth Rate for Learning with Smooth Surrogate Losses**|Anqi Mao et.al.|[2405.05968](http://arxiv.org/abs/2405.05968)|null|
 |**2024-05-09**|**Distilling Diffusion Models into Conditional GANs**|Minguk Kang et.al.|[2405.05967](http://arxiv.org/abs/2405.05967)|null|
@@ -467,6 +477,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|null|
+|**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636](http://arxiv.org/abs/2405.06636)|null|
+|**2024-05-10**|**Conformal Validity Guarantees Exist for Any Data Distribution**|Drew Prinster et.al.|[2405.06627](http://arxiv.org/abs/2405.06627)|**[link](https://github.com/drewprinster/conformal-mfcs)**|
+|**2024-05-10**|**Characterizing the Accuracy - Efficiency Trade-off of Low-rank Decomposition in Language Models**|Chakshu Moar et.al.|[2405.06626](http://arxiv.org/abs/2405.06626)|null|
+|**2024-05-10**|**Calo-VQ: Vector-Quantized Two-Stage Generative Model in Calorimeter Simulation**|Qibin Liu et.al.|[2405.06605](http://arxiv.org/abs/2405.06605)|null|
+|**2024-05-10**|**Explaining Text Similarity in Transformer Models**|Alexandros Vasileiou et.al.|[2405.06604](http://arxiv.org/abs/2405.06604)|null|
+|**2024-05-10**|**Ice phase classification made easy with score-based denoising**|Hong Sun et.al.|[2405.06599](http://arxiv.org/abs/2405.06599)|null|
+|**2024-05-10**|**Non-Uniform Spatial Alignment Errors in sUAS Imagery From Wide-Area Disasters**|Thomas Manzini et.al.|[2405.06593](http://arxiv.org/abs/2405.06593)|null|
+|**2024-05-10**|**Decomposing weather forecasting into advection and convection with neural networks**|Mengxuan Chen et.al.|[2405.06590](http://arxiv.org/abs/2405.06590)|null|
+|**2024-05-10**|**The Role of Learning Algorithms in Collective Action**|Omri Ben-Dov et.al.|[2405.06582](http://arxiv.org/abs/2405.06582)|null|
 |**2024-05-09**|**Learned harmonic mean estimation of the Bayesian evidence with normalizing flows**|Alicja Polanska et.al.|[2405.05969](http://arxiv.org/abs/2405.05969)|**[link](https://github.com/astro-informatics/harmonic)**|
 |**2024-05-09**|**A Universal Growth Rate for Learning with Smooth Surrogate Losses**|Anqi Mao et.al.|[2405.05968](http://arxiv.org/abs/2405.05968)|null|
 |**2024-05-09**|**Distilling Diffusion Models into Conditional GANs**|Minguk Kang et.al.|[2405.05967](http://arxiv.org/abs/2405.05967)|null|
