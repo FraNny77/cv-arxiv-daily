@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.05.13
+## Updated on 2024.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|null|
+|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|**[link](https://github.com/idanshen/Value-Augmented-Sampling)**|
 |**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636](http://arxiv.org/abs/2405.06636)|null|
 |**2024-05-10**|**Conformal Validity Guarantees Exist for Any Data Distribution**|Drew Prinster et.al.|[2405.06627](http://arxiv.org/abs/2405.06627)|**[link](https://github.com/drewprinster/conformal-mfcs)**|
 |**2024-05-10**|**Characterizing the Accuracy - Efficiency Trade-off of Low-rank Decomposition in Language Models**|Chakshu Moar et.al.|[2405.06626](http://arxiv.org/abs/2405.06626)|null|
@@ -477,7 +477,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|null|
+|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|**[link](https://github.com/idanshen/Value-Augmented-Sampling)**|
 |**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636](http://arxiv.org/abs/2405.06636)|null|
 |**2024-05-10**|**Conformal Validity Guarantees Exist for Any Data Distribution**|Drew Prinster et.al.|[2405.06627](http://arxiv.org/abs/2405.06627)|**[link](https://github.com/drewprinster/conformal-mfcs)**|
 |**2024-05-10**|**Characterizing the Accuracy - Efficiency Trade-off of Low-rank Decomposition in Language Models**|Chakshu Moar et.al.|[2405.06626](http://arxiv.org/abs/2405.06626)|null|
