@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**Spectral complexity of deep neural networks**|Simmaco Di Lillo et.al.|[2405.09541](http://arxiv.org/abs/2405.09541)|null|
+|**2024-05-15**|**Wasserstein Gradient Boosting: A General Framework with Applications to Posterior Regression**|Takuo Matsubara et.al.|[2405.09536](http://arxiv.org/abs/2405.09536)|null|
+|**2024-05-15**|**Restoring balance: principled under/oversampling of data for optimal classification**|Emanuele Loffredo et.al.|[2405.09535](http://arxiv.org/abs/2405.09535)|null|
+|**2024-05-15**|**Improved classical shadows from local symmetries in the Schur basis**|Daniel Grier et.al.|[2405.09525](http://arxiv.org/abs/2405.09525)|null|
+|**2024-05-15**|**ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations**|Artur Grigorev et.al.|[2405.09522](http://arxiv.org/abs/2405.09522)|null|
+|**2024-05-15**|**Generalization Bounds for Causal Regression: Insights, Guarantees and Sensitivity Analysis**|Daniel Csillag et.al.|[2405.09516](http://arxiv.org/abs/2405.09516)|null|
+|**2024-05-15**|**Tackling Distribution Shifts in Task-Oriented Communication with Information Bottleneck**|Hongru Li et.al.|[2405.09514](http://arxiv.org/abs/2405.09514)|null|
+|**2024-05-15**|**Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming**|Bushi Xiao et.al.|[2405.09508](http://arxiv.org/abs/2405.09508)|null|
+|**2024-05-15**|**A Comprehensive Survey on SmartNICs: Architectures, Development Models, Applications, and Research Directions**|Elie Kfoury et.al.|[2405.09499](http://arxiv.org/abs/2405.09499)|null|
+|**2024-05-15**|**Constrained Learning for Causal Inference and Semiparametric Statistics**|Tiffany Tianhui Cai et.al.|[2405.09493](http://arxiv.org/abs/2405.09493)|null|
 |**2024-05-14**|**CinePile: A Long Video Question Answering Dataset and Benchmark**|Ruchit Rawal et.al.|[2405.08813](http://arxiv.org/abs/2405.08813)|null|
 |**2024-05-15**|**Prospects of Privacy Advantage in Quantum Machine Learning**|Jamie Heredge et.al.|[2405.08801](http://arxiv.org/abs/2405.08801)|null|
 |**2024-05-14**|**Ambiguous Annotations: When is a Pedestrian not a Pedestrian?**|Luisa Schwirten et.al.|[2405.08794](http://arxiv.org/abs/2405.08794)|null|
@@ -504,6 +514,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**Spectral complexity of deep neural networks**|Simmaco Di Lillo et.al.|[2405.09541](http://arxiv.org/abs/2405.09541)|null|
+|**2024-05-15**|**Wasserstein Gradient Boosting: A General Framework with Applications to Posterior Regression**|Takuo Matsubara et.al.|[2405.09536](http://arxiv.org/abs/2405.09536)|null|
+|**2024-05-15**|**Restoring balance: principled under/oversampling of data for optimal classification**|Emanuele Loffredo et.al.|[2405.09535](http://arxiv.org/abs/2405.09535)|null|
+|**2024-05-15**|**Improved classical shadows from local symmetries in the Schur basis**|Daniel Grier et.al.|[2405.09525](http://arxiv.org/abs/2405.09525)|null|
+|**2024-05-15**|**ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations**|Artur Grigorev et.al.|[2405.09522](http://arxiv.org/abs/2405.09522)|null|
+|**2024-05-15**|**Generalization Bounds for Causal Regression: Insights, Guarantees and Sensitivity Analysis**|Daniel Csillag et.al.|[2405.09516](http://arxiv.org/abs/2405.09516)|null|
+|**2024-05-15**|**Tackling Distribution Shifts in Task-Oriented Communication with Information Bottleneck**|Hongru Li et.al.|[2405.09514](http://arxiv.org/abs/2405.09514)|null|
+|**2024-05-15**|**Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming**|Bushi Xiao et.al.|[2405.09508](http://arxiv.org/abs/2405.09508)|null|
+|**2024-05-15**|**A Comprehensive Survey on SmartNICs: Architectures, Development Models, Applications, and Research Directions**|Elie Kfoury et.al.|[2405.09499](http://arxiv.org/abs/2405.09499)|null|
+|**2024-05-15**|**Constrained Learning for Causal Inference and Semiparametric Statistics**|Tiffany Tianhui Cai et.al.|[2405.09493](http://arxiv.org/abs/2405.09493)|null|
 |**2024-05-14**|**CinePile: A Long Video Question Answering Dataset and Benchmark**|Ruchit Rawal et.al.|[2405.08813](http://arxiv.org/abs/2405.08813)|null|
 |**2024-05-15**|**Prospects of Privacy Advantage in Quantum Machine Learning**|Jamie Heredge et.al.|[2405.08801](http://arxiv.org/abs/2405.08801)|null|
 |**2024-05-14**|**Ambiguous Annotations: When is a Pedestrian not a Pedestrian?**|Luisa Schwirten et.al.|[2405.08794](http://arxiv.org/abs/2405.08794)|null|
