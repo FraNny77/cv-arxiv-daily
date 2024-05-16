@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.15
+## Updated on 2024.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -10,12 +10,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-14**|**CinePile: A Long Video Question Answering Dataset and Benchmark**|Ruchit Rawal et.al.|[2405.08813](http://arxiv.org/abs/2405.08813)|null|
-|**2024-05-14**|**Prospects of Privacy Advantage in Quantum Machine Learning**|Jamie Heredge et.al.|[2405.08801](http://arxiv.org/abs/2405.08801)|null|
+|**2024-05-15**|**Prospects of Privacy Advantage in Quantum Machine Learning**|Jamie Heredge et.al.|[2405.08801](http://arxiv.org/abs/2405.08801)|null|
 |**2024-05-14**|**Ambiguous Annotations: When is a Pedestrian not a Pedestrian?**|Luisa Schwirten et.al.|[2405.08794](http://arxiv.org/abs/2405.08794)|null|
 |**2024-05-14**|**A Brief Introduction to Causal Inference in Machine Learning**|Kyunghyun Cho et.al.|[2405.08793](http://arxiv.org/abs/2405.08793)|null|
 |**2024-05-14**|**Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs**|Edison Jair Bejarano Sepulveda et.al.|[2405.08792](http://arxiv.org/abs/2405.08792)|null|
 |**2024-05-14**|**Kolmogorov-Arnold Networks (KANs) for Time Series Analysis**|Cristian J. Vaca-Rubio et.al.|[2405.08790](http://arxiv.org/abs/2405.08790)|null|
-|**2024-05-14**|**Jacobian Regularizer-based Neural Granger Causality**|Wanqi Zhou et.al.|[2405.08779](http://arxiv.org/abs/2405.08779)|null|
+|**2024-05-14**|**Jacobian Regularizer-based Neural Granger Causality**|Wanqi Zhou et.al.|[2405.08779](http://arxiv.org/abs/2405.08779)|**[link](https://github.com/ElleZWQ/JRNGC)**|
 |**2024-05-14**|**EfficientTrain++: Generalized Curriculum Learning for Efficient Visual Backbone Training**|Yulin Wang et.al.|[2405.08768](http://arxiv.org/abs/2405.08768)|**[link](https://github.com/leaplabthu/efficienttrain)**|
 |**2024-05-14**|**Energy-based Hopfield Boosting for Out-of-Distribution Detection**|Claus Hofmann et.al.|[2405.08766](http://arxiv.org/abs/2405.08766)|**[link](https://github.com/ml-jku/hopfield-boosting)**|
 |**2024-05-14**|**Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes**|Samuel Tesfazgi et.al.|[2405.08756](http://arxiv.org/abs/2405.08756)|null|
@@ -498,12 +498,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-14**|**CinePile: A Long Video Question Answering Dataset and Benchmark**|Ruchit Rawal et.al.|[2405.08813](http://arxiv.org/abs/2405.08813)|null|
-|**2024-05-14**|**Prospects of Privacy Advantage in Quantum Machine Learning**|Jamie Heredge et.al.|[2405.08801](http://arxiv.org/abs/2405.08801)|null|
+|**2024-05-15**|**Prospects of Privacy Advantage in Quantum Machine Learning**|Jamie Heredge et.al.|[2405.08801](http://arxiv.org/abs/2405.08801)|null|
 |**2024-05-14**|**Ambiguous Annotations: When is a Pedestrian not a Pedestrian?**|Luisa Schwirten et.al.|[2405.08794](http://arxiv.org/abs/2405.08794)|null|
 |**2024-05-14**|**A Brief Introduction to Causal Inference in Machine Learning**|Kyunghyun Cho et.al.|[2405.08793](http://arxiv.org/abs/2405.08793)|null|
 |**2024-05-14**|**Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs**|Edison Jair Bejarano Sepulveda et.al.|[2405.08792](http://arxiv.org/abs/2405.08792)|null|
 |**2024-05-14**|**Kolmogorov-Arnold Networks (KANs) for Time Series Analysis**|Cristian J. Vaca-Rubio et.al.|[2405.08790](http://arxiv.org/abs/2405.08790)|null|
-|**2024-05-14**|**Jacobian Regularizer-based Neural Granger Causality**|Wanqi Zhou et.al.|[2405.08779](http://arxiv.org/abs/2405.08779)|null|
+|**2024-05-14**|**Jacobian Regularizer-based Neural Granger Causality**|Wanqi Zhou et.al.|[2405.08779](http://arxiv.org/abs/2405.08779)|**[link](https://github.com/ElleZWQ/JRNGC)**|
 |**2024-05-14**|**EfficientTrain++: Generalized Curriculum Learning for Efficient Visual Backbone Training**|Yulin Wang et.al.|[2405.08768](http://arxiv.org/abs/2405.08768)|**[link](https://github.com/leaplabthu/efficienttrain)**|
 |**2024-05-14**|**Energy-based Hopfield Boosting for Out-of-Distribution Detection**|Claus Hofmann et.al.|[2405.08766](http://arxiv.org/abs/2405.08766)|**[link](https://github.com/ml-jku/hopfield-boosting)**|
 |**2024-05-14**|**Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes**|Samuel Tesfazgi et.al.|[2405.08756](http://arxiv.org/abs/2405.08756)|null|

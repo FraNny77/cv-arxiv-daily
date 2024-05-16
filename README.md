@@ -1,4 +1,4 @@
-## Updated on 2024.05.15
+## Updated on 2024.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,12 +15,12 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-14**|**CinePile: A Long Video Question Answering Dataset and Benchmark**|Ruchit Rawal et.al.|[2405.08813](http://arxiv.org/abs/2405.08813)|null|
-|**2024-05-14**|**Prospects of Privacy Advantage in Quantum Machine Learning**|Jamie Heredge et.al.|[2405.08801](http://arxiv.org/abs/2405.08801)|null|
+|**2024-05-15**|**Prospects of Privacy Advantage in Quantum Machine Learning**|Jamie Heredge et.al.|[2405.08801](http://arxiv.org/abs/2405.08801)|null|
 |**2024-05-14**|**Ambiguous Annotations: When is a Pedestrian not a Pedestrian?**|Luisa Schwirten et.al.|[2405.08794](http://arxiv.org/abs/2405.08794)|null|
 |**2024-05-14**|**A Brief Introduction to Causal Inference in Machine Learning**|Kyunghyun Cho et.al.|[2405.08793](http://arxiv.org/abs/2405.08793)|null|
 |**2024-05-14**|**Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs**|Edison Jair Bejarano Sepulveda et.al.|[2405.08792](http://arxiv.org/abs/2405.08792)|null|
 |**2024-05-14**|**Kolmogorov-Arnold Networks (KANs) for Time Series Analysis**|Cristian J. Vaca-Rubio et.al.|[2405.08790](http://arxiv.org/abs/2405.08790)|null|
-|**2024-05-14**|**Jacobian Regularizer-based Neural Granger Causality**|Wanqi Zhou et.al.|[2405.08779](http://arxiv.org/abs/2405.08779)|null|
+|**2024-05-14**|**Jacobian Regularizer-based Neural Granger Causality**|Wanqi Zhou et.al.|[2405.08779](http://arxiv.org/abs/2405.08779)|**[link](https://github.com/ElleZWQ/JRNGC)**|
 |**2024-05-14**|**EfficientTrain++: Generalized Curriculum Learning for Efficient Visual Backbone Training**|Yulin Wang et.al.|[2405.08768](http://arxiv.org/abs/2405.08768)|**[link](https://github.com/leaplabthu/efficienttrain)**|
 |**2024-05-14**|**Energy-based Hopfield Boosting for Out-of-Distribution Detection**|Claus Hofmann et.al.|[2405.08766](http://arxiv.org/abs/2405.08766)|**[link](https://github.com/ml-jku/hopfield-boosting)**|
 |**2024-05-14**|**Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes**|Samuel Tesfazgi et.al.|[2405.08756](http://arxiv.org/abs/2405.08756)|null|
@@ -498,19 +498,19 @@
 |**2017-07-27**|**High Dimensional Random Walks Can Appear Low Dimensional: Application to Influenza H3N2 Evolution**|James Moore et.al.|[1707.09361](http://arxiv.org/abs/1707.09361)|null|
 |**2008-07-20**|**Design and Production of Specifically and with High Affinity Reacting Peptides**|Jan C Biro et.al.|[0807.3038](http://arxiv.org/abs/0807.3038)|null|
 
-<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240516>back to top</a>)</p>
 
 ## Peptide
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-14**|**CinePile: A Long Video Question Answering Dataset and Benchmark**|Ruchit Rawal et.al.|[2405.08813](http://arxiv.org/abs/2405.08813)|null|
-|**2024-05-14**|**Prospects of Privacy Advantage in Quantum Machine Learning**|Jamie Heredge et.al.|[2405.08801](http://arxiv.org/abs/2405.08801)|null|
+|**2024-05-15**|**Prospects of Privacy Advantage in Quantum Machine Learning**|Jamie Heredge et.al.|[2405.08801](http://arxiv.org/abs/2405.08801)|null|
 |**2024-05-14**|**Ambiguous Annotations: When is a Pedestrian not a Pedestrian?**|Luisa Schwirten et.al.|[2405.08794](http://arxiv.org/abs/2405.08794)|null|
 |**2024-05-14**|**A Brief Introduction to Causal Inference in Machine Learning**|Kyunghyun Cho et.al.|[2405.08793](http://arxiv.org/abs/2405.08793)|null|
 |**2024-05-14**|**Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs**|Edison Jair Bejarano Sepulveda et.al.|[2405.08792](http://arxiv.org/abs/2405.08792)|null|
 |**2024-05-14**|**Kolmogorov-Arnold Networks (KANs) for Time Series Analysis**|Cristian J. Vaca-Rubio et.al.|[2405.08790](http://arxiv.org/abs/2405.08790)|null|
-|**2024-05-14**|**Jacobian Regularizer-based Neural Granger Causality**|Wanqi Zhou et.al.|[2405.08779](http://arxiv.org/abs/2405.08779)|null|
+|**2024-05-14**|**Jacobian Regularizer-based Neural Granger Causality**|Wanqi Zhou et.al.|[2405.08779](http://arxiv.org/abs/2405.08779)|**[link](https://github.com/ElleZWQ/JRNGC)**|
 |**2024-05-14**|**EfficientTrain++: Generalized Curriculum Learning for Efficient Visual Backbone Training**|Yulin Wang et.al.|[2405.08768](http://arxiv.org/abs/2405.08768)|**[link](https://github.com/leaplabthu/efficienttrain)**|
 |**2024-05-14**|**Energy-based Hopfield Boosting for Out-of-Distribution Detection**|Claus Hofmann et.al.|[2405.08766](http://arxiv.org/abs/2405.08766)|**[link](https://github.com/ml-jku/hopfield-boosting)**|
 |**2024-05-14**|**Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes**|Samuel Tesfazgi et.al.|[2405.08756](http://arxiv.org/abs/2405.08756)|null|
@@ -990,7 +990,7 @@
 |**2018-11-13**|**PepCVAE: Semi-Supervised Targeted Design of Antimicrobial Peptide Sequences**|Payel Das et.al.|[1810.07743](http://arxiv.org/abs/1810.07743)|null|
 |**2009-11-23**|**Silver-staining of proteins in polyacrylamide gels: a general overview**|Thierry Rabilloud et.al.|[0911.4458](http://arxiv.org/abs/0911.4458)|null|
 
-<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240516>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1007,5 +1007,5 @@
 |**2024-02-21**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|**[link](https://github.com/allenai/tess-diffusion)**|
 |**2023-05-13**|**Diffusion Models for Non-autoregressive Text Generation: A Survey**|Yifan Li et.al.|[2303.06574](http://arxiv.org/abs/2303.06574)|**[link](https://github.com/rucaibox/awesome-text-diffusion-models)**|
 
-<p align=right>(<a href=#updated-on-20240515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240516>back to top</a>)</p>
 
