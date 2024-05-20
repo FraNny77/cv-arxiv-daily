@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Probabilistic transfer learning methodology to expedite high fidelity simulation of reactive flows**|Bruno S. Soriano et.al.|[2405.10944](http://arxiv.org/abs/2405.10944)|null|
+|**2024-05-17**|**DINO as a von Mises-Fisher mixture model**|Hariprasath Govindarajan et.al.|[2405.10939](http://arxiv.org/abs/2405.10939)|null|
+|**2024-05-17**|**Observational Scaling Laws and the Predictability of Language Model Performance**|Yangjun Ruan et.al.|[2405.10938](http://arxiv.org/abs/2405.10938)|null|
+|**2024-05-17**|**Learning low-degree quantum objects**|Srinivasan Arunachalam et.al.|[2405.10933](http://arxiv.org/abs/2405.10933)|null|
+|**2024-05-17**|**Submodular Information Selection for Hypothesis Testing with Misclassification Penalties**|Jayanth Bhargav et.al.|[2405.10930](http://arxiv.org/abs/2405.10930)|null|
+|**2024-05-17**|**The Local Interaction Basis: Identifying Computationally-Relevant and Sparsely Interacting Features in Neural Networks**|Lucius Bushnaq et.al.|[2405.10928](http://arxiv.org/abs/2405.10928)|null|
+|**2024-05-17**|**Using Degeneracy in the Loss Landscape for Mechanistic Interpretability**|Lucius Bushnaq et.al.|[2405.10927](http://arxiv.org/abs/2405.10927)|null|
+|**2024-05-17**|**High-dimensional multiple imputation (HDMI) for partially observed confounders including natural language processing-derived auxiliary covariates**|Janick Weberpals et.al.|[2405.10925](http://arxiv.org/abs/2405.10925)|null|
+|**2024-05-17**|**Boosting Few-Pixel Robustness Verification via Covering Verification Designs**|Yuval Shapira et.al.|[2405.10924](http://arxiv.org/abs/2405.10924)|null|
+|**2024-05-17**|**GenToC: Leveraging Partially-Labeled Data for Product Attribute-Value Identification**|D. Subhalingam et.al.|[2405.10918](http://arxiv.org/abs/2405.10918)|null|
 |**2024-05-16**|**TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction**|Yunfan Jiang et.al.|[2405.10315](http://arxiv.org/abs/2405.10315)|null|
 |**2024-05-16**|**How Far Are We From AGI**|Tao Feng et.al.|[2405.10313](http://arxiv.org/abs/2405.10313)|**[link](https://github.com/ulab-uiuc/agi-survey)**|
 |**2024-05-16**|**Stochastic Q-learning for Large Discrete Action Spaces**|Fares Fourati et.al.|[2405.10310](http://arxiv.org/abs/2405.10310)|null|
@@ -517,6 +527,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Probabilistic transfer learning methodology to expedite high fidelity simulation of reactive flows**|Bruno S. Soriano et.al.|[2405.10944](http://arxiv.org/abs/2405.10944)|null|
+|**2024-05-17**|**DINO as a von Mises-Fisher mixture model**|Hariprasath Govindarajan et.al.|[2405.10939](http://arxiv.org/abs/2405.10939)|null|
+|**2024-05-17**|**Observational Scaling Laws and the Predictability of Language Model Performance**|Yangjun Ruan et.al.|[2405.10938](http://arxiv.org/abs/2405.10938)|null|
+|**2024-05-17**|**Learning low-degree quantum objects**|Srinivasan Arunachalam et.al.|[2405.10933](http://arxiv.org/abs/2405.10933)|null|
+|**2024-05-17**|**Submodular Information Selection for Hypothesis Testing with Misclassification Penalties**|Jayanth Bhargav et.al.|[2405.10930](http://arxiv.org/abs/2405.10930)|null|
+|**2024-05-17**|**The Local Interaction Basis: Identifying Computationally-Relevant and Sparsely Interacting Features in Neural Networks**|Lucius Bushnaq et.al.|[2405.10928](http://arxiv.org/abs/2405.10928)|null|
+|**2024-05-17**|**Using Degeneracy in the Loss Landscape for Mechanistic Interpretability**|Lucius Bushnaq et.al.|[2405.10927](http://arxiv.org/abs/2405.10927)|null|
+|**2024-05-17**|**High-dimensional multiple imputation (HDMI) for partially observed confounders including natural language processing-derived auxiliary covariates**|Janick Weberpals et.al.|[2405.10925](http://arxiv.org/abs/2405.10925)|null|
+|**2024-05-17**|**Boosting Few-Pixel Robustness Verification via Covering Verification Designs**|Yuval Shapira et.al.|[2405.10924](http://arxiv.org/abs/2405.10924)|null|
+|**2024-05-17**|**GenToC: Leveraging Partially-Labeled Data for Product Attribute-Value Identification**|D. Subhalingam et.al.|[2405.10918](http://arxiv.org/abs/2405.10918)|null|
 |**2024-05-16**|**TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction**|Yunfan Jiang et.al.|[2405.10315](http://arxiv.org/abs/2405.10315)|null|
 |**2024-05-16**|**How Far Are We From AGI**|Tao Feng et.al.|[2405.10313](http://arxiv.org/abs/2405.10313)|**[link](https://github.com/ulab-uiuc/agi-survey)**|
 |**2024-05-16**|**Stochastic Q-learning for Large Discrete Action Spaces**|Fares Fourati et.al.|[2405.10310](http://arxiv.org/abs/2405.10310)|null|
