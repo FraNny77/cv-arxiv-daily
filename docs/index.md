@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Reducing Transformer Key-Value Cache Size with Cross-Layer Attention**|William Brandon et.al.|[2405.12981](http://arxiv.org/abs/2405.12981)|null|
+|**2024-05-21**|**Can We Treat Noisy Labels as Accurate?**|Yuxiang Zheng et.al.|[2405.12969](http://arxiv.org/abs/2405.12969)|**[link](https://github.com/KevinCarpricorn/EchoAlign)**|
+|**2024-05-21**|**The future of cosmological likelihood-based inference: accelerated high-dimensional parameter estimation and model comparison**|Davide Piras et.al.|[2405.12965](http://arxiv.org/abs/2405.12965)|**[link](https://github.com/dpiras/cosmopower-jax)**|
+|**2024-05-21**|**Comprehensive Multimodal Deep Learning Survival Prediction Enabled by a Transformer Architecture: A Multicenter Study in Glioblastoma**|Ahmed Gomaa et.al.|[2405.12963](http://arxiv.org/abs/2405.12963)|null|
+|**2024-05-21**|**Energy Rank Alignment: Using Preference Optimization to Search Chemical Space at Scale**|Shriram Chennakesavalu et.al.|[2405.12961](http://arxiv.org/abs/2405.12961)|null|
+|**2024-05-21**|**Online Learning of Halfspaces with Massart Noise**|Ilias Diakonikolas et.al.|[2405.12958](http://arxiv.org/abs/2405.12958)|null|
+|**2024-05-21**|**Truncated Variance Reduced Value Iteration**|Yujia Jin et.al.|[2405.12952](http://arxiv.org/abs/2405.12952)|null|
+|**2024-05-21**|**Tutorly: Turning Programming Videos Into Apprenticeship Learning Environments with LLMs**|Wengxi Li et.al.|[2405.12946](http://arxiv.org/abs/2405.12946)|null|
+|**2024-05-21**|**Learning the Infinitesimal Generator of Stochastic Diffusion Processes**|Vladimir R. Kostic et.al.|[2405.12940](http://arxiv.org/abs/2405.12940)|null|
+|**2024-05-21**|**Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs**|Bilgehan Sel et.al.|[2405.12933](http://arxiv.org/abs/2405.12933)|null|
 |**2024-05-20**|**Images that Sound: Composing Images and Sounds on a Single Canvas**|Ziyang Chen et.al.|[2405.12221](http://arxiv.org/abs/2405.12221)|null|
 |**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|**[link](https://github.com/jameszhou-gl/icl-distribution-shift)**|
 |**2024-05-20**|**Octo: An Open-Source Generalist Robot Policy**|Octo Model Team et.al.|[2405.12213](http://arxiv.org/abs/2405.12213)|null|
@@ -537,6 +547,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Reducing Transformer Key-Value Cache Size with Cross-Layer Attention**|William Brandon et.al.|[2405.12981](http://arxiv.org/abs/2405.12981)|null|
+|**2024-05-21**|**Can We Treat Noisy Labels as Accurate?**|Yuxiang Zheng et.al.|[2405.12969](http://arxiv.org/abs/2405.12969)|**[link](https://github.com/KevinCarpricorn/EchoAlign)**|
+|**2024-05-21**|**The future of cosmological likelihood-based inference: accelerated high-dimensional parameter estimation and model comparison**|Davide Piras et.al.|[2405.12965](http://arxiv.org/abs/2405.12965)|**[link](https://github.com/dpiras/cosmopower-jax)**|
+|**2024-05-21**|**Comprehensive Multimodal Deep Learning Survival Prediction Enabled by a Transformer Architecture: A Multicenter Study in Glioblastoma**|Ahmed Gomaa et.al.|[2405.12963](http://arxiv.org/abs/2405.12963)|null|
+|**2024-05-21**|**Energy Rank Alignment: Using Preference Optimization to Search Chemical Space at Scale**|Shriram Chennakesavalu et.al.|[2405.12961](http://arxiv.org/abs/2405.12961)|null|
+|**2024-05-21**|**Online Learning of Halfspaces with Massart Noise**|Ilias Diakonikolas et.al.|[2405.12958](http://arxiv.org/abs/2405.12958)|null|
+|**2024-05-21**|**Truncated Variance Reduced Value Iteration**|Yujia Jin et.al.|[2405.12952](http://arxiv.org/abs/2405.12952)|null|
+|**2024-05-21**|**Tutorly: Turning Programming Videos Into Apprenticeship Learning Environments with LLMs**|Wengxi Li et.al.|[2405.12946](http://arxiv.org/abs/2405.12946)|null|
+|**2024-05-21**|**Learning the Infinitesimal Generator of Stochastic Diffusion Processes**|Vladimir R. Kostic et.al.|[2405.12940](http://arxiv.org/abs/2405.12940)|null|
+|**2024-05-21**|**Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs**|Bilgehan Sel et.al.|[2405.12933](http://arxiv.org/abs/2405.12933)|null|
 |**2024-05-20**|**Images that Sound: Composing Images and Sounds on a Single Canvas**|Ziyang Chen et.al.|[2405.12221](http://arxiv.org/abs/2405.12221)|null|
 |**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|**[link](https://github.com/jameszhou-gl/icl-distribution-shift)**|
 |**2024-05-20**|**Octo: An Open-Source Generalist Robot Policy**|Octo Model Team et.al.|[2405.12213](http://arxiv.org/abs/2405.12213)|null|
