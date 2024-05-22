@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -10,14 +10,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-20**|**Images that Sound: Composing Images and Sounds on a Single Canvas**|Ziyang Chen et.al.|[2405.12221](http://arxiv.org/abs/2405.12221)|null|
-|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|null|
+|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|**[link](https://github.com/jameszhou-gl/icl-distribution-shift)**|
 |**2024-05-20**|**Octo: An Open-Source Generalist Robot Policy**|Octo Model Team et.al.|[2405.12213](http://arxiv.org/abs/2405.12213)|null|
 |**2024-05-20**|**Optimistic Query Routing in Clustering-based Approximate Maximum Inner Product Search**|Sebastian Bruch et.al.|[2405.12207](http://arxiv.org/abs/2405.12207)|null|
 |**2024-05-20**|**Modeling citation worthiness by using attention-based bidirectional long short-term memory networks and interpretable models**|Tong Zeng et.al.|[2405.12206](http://arxiv.org/abs/2405.12206)|**[link](https://github.com/sciosci/cite-worthiness)**|
 |**2024-05-20**|**Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving**|Aniket Didolkar et.al.|[2405.12205](http://arxiv.org/abs/2405.12205)|null|
 |**2024-05-20**|**Accelerating Relative Entropy Coding with Space Partitioning**|Jiajun He et.al.|[2405.12203](http://arxiv.org/abs/2405.12203)|null|
-|**2024-05-20**|**Training Data Attribution via Approximate Unrolled Differentation**|Juhan Bae et.al.|[2405.12186](http://arxiv.org/abs/2405.12186)|null|
-|**2024-05-20**|**Multi-order Graph Clustering with Adaptive Node-level Weight Learning**|Ye Liu et.al.|[2405.12183](http://arxiv.org/abs/2405.12183)|null|
+|**2024-05-21**|**Training Data Attribution via Approximate Unrolled Differentiation**|Juhan Bae et.al.|[2405.12186](http://arxiv.org/abs/2405.12186)|**[link](https://github.com/pomonam/kronfluence)**|
+|**2024-05-20**|**Multi-order Graph Clustering with Adaptive Node-level Weight Learning**|Ye Liu et.al.|[2405.12183](http://arxiv.org/abs/2405.12183)|**[link](https://github.com/scutft-ml/mogc)**|
 |**2024-05-20**|**Building Temporal Kernels with Orthogonal Polynomials**|Yan Ru Pei et.al.|[2405.12179](http://arxiv.org/abs/2405.12179)|**[link](https://github.com/peabrane/pleiades)**|
 |**2024-05-17**|**Probabilistic transfer learning methodology to expedite high fidelity simulation of reactive flows**|Bruno S. Soriano et.al.|[2405.10944](http://arxiv.org/abs/2405.10944)|null|
 |**2024-05-17**|**DINO as a von Mises-Fisher mixture model**|Hariprasath Govindarajan et.al.|[2405.10939](http://arxiv.org/abs/2405.10939)|null|
@@ -538,14 +538,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-20**|**Images that Sound: Composing Images and Sounds on a Single Canvas**|Ziyang Chen et.al.|[2405.12221](http://arxiv.org/abs/2405.12221)|null|
-|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|null|
+|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|**[link](https://github.com/jameszhou-gl/icl-distribution-shift)**|
 |**2024-05-20**|**Octo: An Open-Source Generalist Robot Policy**|Octo Model Team et.al.|[2405.12213](http://arxiv.org/abs/2405.12213)|null|
 |**2024-05-20**|**Optimistic Query Routing in Clustering-based Approximate Maximum Inner Product Search**|Sebastian Bruch et.al.|[2405.12207](http://arxiv.org/abs/2405.12207)|null|
 |**2024-05-20**|**Modeling citation worthiness by using attention-based bidirectional long short-term memory networks and interpretable models**|Tong Zeng et.al.|[2405.12206](http://arxiv.org/abs/2405.12206)|**[link](https://github.com/sciosci/cite-worthiness)**|
 |**2024-05-20**|**Metacognitive Capabilities of LLMs: An Exploration in Mathematical Problem Solving**|Aniket Didolkar et.al.|[2405.12205](http://arxiv.org/abs/2405.12205)|null|
 |**2024-05-20**|**Accelerating Relative Entropy Coding with Space Partitioning**|Jiajun He et.al.|[2405.12203](http://arxiv.org/abs/2405.12203)|null|
-|**2024-05-20**|**Training Data Attribution via Approximate Unrolled Differentation**|Juhan Bae et.al.|[2405.12186](http://arxiv.org/abs/2405.12186)|null|
-|**2024-05-20**|**Multi-order Graph Clustering with Adaptive Node-level Weight Learning**|Ye Liu et.al.|[2405.12183](http://arxiv.org/abs/2405.12183)|null|
+|**2024-05-21**|**Training Data Attribution via Approximate Unrolled Differentiation**|Juhan Bae et.al.|[2405.12186](http://arxiv.org/abs/2405.12186)|**[link](https://github.com/pomonam/kronfluence)**|
+|**2024-05-20**|**Multi-order Graph Clustering with Adaptive Node-level Weight Learning**|Ye Liu et.al.|[2405.12183](http://arxiv.org/abs/2405.12183)|**[link](https://github.com/scutft-ml/mogc)**|
 |**2024-05-20**|**Building Temporal Kernels with Orthogonal Polynomials**|Yan Ru Pei et.al.|[2405.12179](http://arxiv.org/abs/2405.12179)|**[link](https://github.com/peabrane/pleiades)**|
 |**2024-05-17**|**Probabilistic transfer learning methodology to expedite high fidelity simulation of reactive flows**|Bruno S. Soriano et.al.|[2405.10944](http://arxiv.org/abs/2405.10944)|null|
 |**2024-05-17**|**DINO as a von Mises-Fisher mixture model**|Hariprasath Govindarajan et.al.|[2405.10939](http://arxiv.org/abs/2405.10939)|null|
