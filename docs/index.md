@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868](http://arxiv.org/abs/2405.14868)|null|
+|**2024-05-23**|**A Nurse is Blue and Elephant is Rugby: Cross Domain Alignment in Large Language Models Reveal Human-like Patterns**|Asaf Yehudai et.al.|[2405.14863](http://arxiv.org/abs/2405.14863)|null|
+|**2024-05-23**|**Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models**|Gen Li et.al.|[2405.14861](http://arxiv.org/abs/2405.14861)|null|
+|**2024-05-23**|**Not All Language Model Features Are Linear**|Joshua Engels et.al.|[2405.14860](http://arxiv.org/abs/2405.14860)|**[link](https://github.com/joshengels/multidimensionalfeatures)**|
+|**2024-05-23**|**Semantica: An Adaptable Image-Conditioned Diffusion Model**|Manoj Kumar et.al.|[2405.14857](http://arxiv.org/abs/2405.14857)|null|
+|**2024-05-23**|**TerDiT: Ternary Diffusion Models with Transformers**|Xudong Lu et.al.|[2405.14854](http://arxiv.org/abs/2405.14854)|**[link](https://github.com/Lucky-Lance/TerDiT)**|
+|**2024-05-23**|**Privileged Sensing Scaffolds Reinforcement Learning**|Edward S. Hu et.al.|[2405.14853](http://arxiv.org/abs/2405.14853)|null|
+|**2024-05-23**|**PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression**|Vladimir Malinovskii et.al.|[2405.14852](http://arxiv.org/abs/2405.14852)|null|
+|**2024-05-23**|**Local Causal Discovery for Structural Evidence of Direct Discrimination**|Jacqueline Maasch et.al.|[2405.14848](http://arxiv.org/abs/2405.14848)|null|
+|**2024-05-23**|**Differentiable Annealed Importance Sampling Minimizes The Jensen-Shannon Divergence Between Initial and Target Distribution**|Johannes Zenn et.al.|[2405.14840](http://arxiv.org/abs/2405.14840)|**[link](https://github.com/jzenn/dais0)**|
 |**2024-05-21**|**Reducing Transformer Key-Value Cache Size with Cross-Layer Attention**|William Brandon et.al.|[2405.12981](http://arxiv.org/abs/2405.12981)|null|
 |**2024-05-21**|**Can We Treat Noisy Labels as Accurate?**|Yuxiang Zheng et.al.|[2405.12969](http://arxiv.org/abs/2405.12969)|**[link](https://github.com/KevinCarpricorn/EchoAlign)**|
 |**2024-05-21**|**The future of cosmological likelihood-based inference: accelerated high-dimensional parameter estimation and model comparison**|Davide Piras et.al.|[2405.12965](http://arxiv.org/abs/2405.12965)|**[link](https://github.com/dpiras/cosmopower-jax)**|
@@ -547,6 +557,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868](http://arxiv.org/abs/2405.14868)|null|
+|**2024-05-23**|**A Nurse is Blue and Elephant is Rugby: Cross Domain Alignment in Large Language Models Reveal Human-like Patterns**|Asaf Yehudai et.al.|[2405.14863](http://arxiv.org/abs/2405.14863)|null|
+|**2024-05-23**|**Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models**|Gen Li et.al.|[2405.14861](http://arxiv.org/abs/2405.14861)|null|
+|**2024-05-23**|**Not All Language Model Features Are Linear**|Joshua Engels et.al.|[2405.14860](http://arxiv.org/abs/2405.14860)|**[link](https://github.com/joshengels/multidimensionalfeatures)**|
+|**2024-05-23**|**Semantica: An Adaptable Image-Conditioned Diffusion Model**|Manoj Kumar et.al.|[2405.14857](http://arxiv.org/abs/2405.14857)|null|
+|**2024-05-23**|**TerDiT: Ternary Diffusion Models with Transformers**|Xudong Lu et.al.|[2405.14854](http://arxiv.org/abs/2405.14854)|**[link](https://github.com/Lucky-Lance/TerDiT)**|
+|**2024-05-23**|**Privileged Sensing Scaffolds Reinforcement Learning**|Edward S. Hu et.al.|[2405.14853](http://arxiv.org/abs/2405.14853)|null|
+|**2024-05-23**|**PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression**|Vladimir Malinovskii et.al.|[2405.14852](http://arxiv.org/abs/2405.14852)|null|
+|**2024-05-23**|**Local Causal Discovery for Structural Evidence of Direct Discrimination**|Jacqueline Maasch et.al.|[2405.14848](http://arxiv.org/abs/2405.14848)|null|
+|**2024-05-23**|**Differentiable Annealed Importance Sampling Minimizes The Jensen-Shannon Divergence Between Initial and Target Distribution**|Johannes Zenn et.al.|[2405.14840](http://arxiv.org/abs/2405.14840)|**[link](https://github.com/jzenn/dais0)**|
 |**2024-05-21**|**Reducing Transformer Key-Value Cache Size with Cross-Layer Attention**|William Brandon et.al.|[2405.12981](http://arxiv.org/abs/2405.12981)|null|
 |**2024-05-21**|**Can We Treat Noisy Labels as Accurate?**|Yuxiang Zheng et.al.|[2405.12969](http://arxiv.org/abs/2405.12969)|**[link](https://github.com/KevinCarpricorn/EchoAlign)**|
 |**2024-05-21**|**The future of cosmological likelihood-based inference: accelerated high-dimensional parameter estimation and model comparison**|Davide Piras et.al.|[2405.12965](http://arxiv.org/abs/2405.12965)|**[link](https://github.com/dpiras/cosmopower-jax)**|
