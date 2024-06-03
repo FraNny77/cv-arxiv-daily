@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Generalization Beyond Data Imbalance: A Controlled Study on CLIP for Transferable Insights**|Xin Wen et.al.|[2405.21070](http://arxiv.org/abs/2405.21070)|**[link](https://github.com/cvmi-lab/clip-beyond-tail)**|
+|**2024-05-31**|**Recurrent neural networks: vanishing and exploding gradients are not the end of the story**|Nicolas Zucchet et.al.|[2405.21064](http://arxiv.org/abs/2405.21064)|null|
+|**2024-05-31**|**Neural Network Verification with Branch-and-Bound for General Nonlinearities**|Zhouxing Shi et.al.|[2405.21063](http://arxiv.org/abs/2405.21063)|null|
+|**2024-05-31**|**Graph External Attention Enhanced Transformer**|Jianqing Liang et.al.|[2405.21061](http://arxiv.org/abs/2405.21061)|**[link](https://github.com/icm1018/geaet)**|
+|**2024-05-31**|**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality**|Tri Dao et.al.|[2405.21060](http://arxiv.org/abs/2405.21060)|null|
+|**2024-05-31**|**Factors Influencing Performance of Students in Software Automated Test Tools Course**|Susmita Haldar et.al.|[2405.21055](http://arxiv.org/abs/2405.21055)|null|
+|**2024-05-31**|**Spectrum-Aware Parameter Efficient Fine-Tuning for Diffusion Models**|Xinxi Zhang et.al.|[2405.21050](http://arxiv.org/abs/2405.21050)|null|
+|**2024-05-31**|**Grammar-Aligned Decoding**|Kanghee Park et.al.|[2405.21047](http://arxiv.org/abs/2405.21047)|null|
+|**2024-05-31**|**Exploratory Preference Optimization: Harnessing Implicit Q*-Approximation for Sample-Efficient RLHF**|Tengyang Xie et.al.|[2405.21046](http://arxiv.org/abs/2405.21046)|null|
+|**2024-05-31**|**An Attention-Based Multi-Context Convolutional Encoder-Decoder Neural Network for Work Zone Traffic Impact Prediction**|Qinhua Jiang et.al.|[2405.21045](http://arxiv.org/abs/2405.21045)|null|
 |**2024-05-30**|**Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image**|Kailu Wu et.al.|[2405.20343](http://arxiv.org/abs/2405.20343)|null|
 |**2024-05-30**|**From Zero to Hero: Cold-Start Anomaly Detection**|Tal Reiss et.al.|[2405.20341](http://arxiv.org/abs/2405.20341)|**[link](https://github.com/talreiss/coldfusion)**|
 |**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331](http://arxiv.org/abs/2405.20331)|**[link](https://github.com/lkopf/cosy)**|
@@ -607,6 +617,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Generalization Beyond Data Imbalance: A Controlled Study on CLIP for Transferable Insights**|Xin Wen et.al.|[2405.21070](http://arxiv.org/abs/2405.21070)|**[link](https://github.com/cvmi-lab/clip-beyond-tail)**|
+|**2024-05-31**|**Recurrent neural networks: vanishing and exploding gradients are not the end of the story**|Nicolas Zucchet et.al.|[2405.21064](http://arxiv.org/abs/2405.21064)|null|
+|**2024-05-31**|**Neural Network Verification with Branch-and-Bound for General Nonlinearities**|Zhouxing Shi et.al.|[2405.21063](http://arxiv.org/abs/2405.21063)|null|
+|**2024-05-31**|**Graph External Attention Enhanced Transformer**|Jianqing Liang et.al.|[2405.21061](http://arxiv.org/abs/2405.21061)|**[link](https://github.com/icm1018/geaet)**|
+|**2024-05-31**|**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality**|Tri Dao et.al.|[2405.21060](http://arxiv.org/abs/2405.21060)|null|
+|**2024-05-31**|**Factors Influencing Performance of Students in Software Automated Test Tools Course**|Susmita Haldar et.al.|[2405.21055](http://arxiv.org/abs/2405.21055)|null|
+|**2024-05-31**|**Spectrum-Aware Parameter Efficient Fine-Tuning for Diffusion Models**|Xinxi Zhang et.al.|[2405.21050](http://arxiv.org/abs/2405.21050)|null|
+|**2024-05-31**|**Grammar-Aligned Decoding**|Kanghee Park et.al.|[2405.21047](http://arxiv.org/abs/2405.21047)|null|
+|**2024-05-31**|**Exploratory Preference Optimization: Harnessing Implicit Q*-Approximation for Sample-Efficient RLHF**|Tengyang Xie et.al.|[2405.21046](http://arxiv.org/abs/2405.21046)|null|
+|**2024-05-31**|**An Attention-Based Multi-Context Convolutional Encoder-Decoder Neural Network for Work Zone Traffic Impact Prediction**|Qinhua Jiang et.al.|[2405.21045](http://arxiv.org/abs/2405.21045)|null|
 |**2024-05-30**|**Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image**|Kailu Wu et.al.|[2405.20343](http://arxiv.org/abs/2405.20343)|null|
 |**2024-05-30**|**From Zero to Hero: Cold-Start Anomaly Detection**|Tal Reiss et.al.|[2405.20341](http://arxiv.org/abs/2405.20341)|**[link](https://github.com/talreiss/coldfusion)**|
 |**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331](http://arxiv.org/abs/2405.20331)|**[link](https://github.com/lkopf/cosy)**|
