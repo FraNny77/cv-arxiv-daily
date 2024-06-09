@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -10,8 +10,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**Verbalized Machine Learning: Revisiting Machine Learning with Language Models**|Tim Z. Xiao et.al.|[2406.04344](http://arxiv.org/abs/2406.04344)|null|
-|**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336](http://arxiv.org/abs/2406.04336)|null|
-|**2024-06-06**|**Coarse-To-Fine Tensor Trains for Compact Visual Representations**|Sebastian Loeschcke et.al.|[2406.04332](http://arxiv.org/abs/2406.04332)|null|
+|**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336](http://arxiv.org/abs/2406.04336)|**[link](https://github.com/LingxiaoShawn/EPNN-Experiments)**|
+|**2024-06-06**|**Coarse-To-Fine Tensor Trains for Compact Visual Representations**|Sebastian Loeschcke et.al.|[2406.04332](http://arxiv.org/abs/2406.04332)|**[link](https://github.com/sebulo/PuTT)**|
 |**2024-06-06**|**PaCE: Parsimonious Concept Engineering for Large Language Models**|Jinqi Luo et.al.|[2406.04331](http://arxiv.org/abs/2406.04331)|**[link](https://github.com/peterljq/parsimonious-concept-engineering)**|
 |**2024-06-06**|**Simplified and Generalized Masked Diffusion for Discrete Data**|Jiaxin Shi et.al.|[2406.04329](http://arxiv.org/abs/2406.04329)|null|
 |**2024-06-06**|**The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning**|Dulhan Jayalath et.al.|[2406.04328](http://arxiv.org/abs/2406.04328)|null|
@@ -648,8 +648,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**Verbalized Machine Learning: Revisiting Machine Learning with Language Models**|Tim Z. Xiao et.al.|[2406.04344](http://arxiv.org/abs/2406.04344)|null|
-|**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336](http://arxiv.org/abs/2406.04336)|null|
-|**2024-06-06**|**Coarse-To-Fine Tensor Trains for Compact Visual Representations**|Sebastian Loeschcke et.al.|[2406.04332](http://arxiv.org/abs/2406.04332)|null|
+|**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336](http://arxiv.org/abs/2406.04336)|**[link](https://github.com/LingxiaoShawn/EPNN-Experiments)**|
+|**2024-06-06**|**Coarse-To-Fine Tensor Trains for Compact Visual Representations**|Sebastian Loeschcke et.al.|[2406.04332](http://arxiv.org/abs/2406.04332)|**[link](https://github.com/sebulo/PuTT)**|
 |**2024-06-06**|**PaCE: Parsimonious Concept Engineering for Large Language Models**|Jinqi Luo et.al.|[2406.04331](http://arxiv.org/abs/2406.04331)|**[link](https://github.com/peterljq/parsimonious-concept-engineering)**|
 |**2024-06-06**|**Simplified and Generalized Masked Diffusion for Discrete Data**|Jiaxin Shi et.al.|[2406.04329](http://arxiv.org/abs/2406.04329)|null|
 |**2024-06-06**|**The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning**|Dulhan Jayalath et.al.|[2406.04328](http://arxiv.org/abs/2406.04328)|null|
