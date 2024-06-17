@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Quantifying Variance in Evaluation Benchmarks**|Lovish Madaan et.al.|[2406.10229](http://arxiv.org/abs/2406.10229)|null|
+|**2024-06-14**|**Diffusion Synthesizer for Efficient Multilingual Speech to Speech Translation**|Nameer Hirschkind et.al.|[2406.10223](http://arxiv.org/abs/2406.10223)|null|
+|**2024-06-14**|**Semantic Membership Inference Attack against Large Language Models**|Hamid Mozaffari et.al.|[2406.10218](http://arxiv.org/abs/2406.10218)|null|
+|**2024-06-14**|**DevBench: A multimodal developmental benchmark for language learning**|Alvin Wei Ming Tan et.al.|[2406.10215](http://arxiv.org/abs/2406.10215)|null|
+|**2024-06-14**|**Universal randomised signatures for generative time series modelling**|Francesca Biagini et.al.|[2406.10214](http://arxiv.org/abs/2406.10214)|**[link](https://github.com/niklaswalter/randomised-signature-timeseries-generation)**|
+|**2024-06-14**|**Selecting Interpretability Techniques for Healthcare Machine Learning models**|Daniel Sierra-Botero et.al.|[2406.10213](http://arxiv.org/abs/2406.10213)|null|
+|**2024-06-14**|**Crafting Parts for Expressive Object Composition**|Harsh Rangwani et.al.|[2406.10197](http://arxiv.org/abs/2406.10197)|null|
+|**2024-06-14**|**Hyperbolic embedding of brain networks as a tool for epileptic seizures forecasting**|Martin Guillemaud et.al.|[2406.10184](http://arxiv.org/abs/2406.10184)|null|
+|**2024-06-14**|**Misam: Using ML in Dataflow Selection of Sparse-Sparse Matrix Multiplication**|Sanjali Yadav et.al.|[2406.10166](http://arxiv.org/abs/2406.10166)|null|
+|**2024-06-14**|**On the Computability of Robust PAC Learning**|Pascale Gourdeau et.al.|[2406.10161](http://arxiv.org/abs/2406.10161)|null|
 |**2024-06-13**|**Rethinking Score Distillation as a Bridge Between Image Distributions**|David McAllister et.al.|[2406.09417](http://arxiv.org/abs/2406.09417)|null|
 |**2024-06-13**|**An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels**|Duy-Kien Nguyen et.al.|[2406.09415](http://arxiv.org/abs/2406.09415)|null|
 |**2024-06-13**|**Interpreting the Weight Space of Customized Diffusion Models**|Amil Dravid et.al.|[2406.09413](http://arxiv.org/abs/2406.09413)|**[link](https://github.com/snap-research/weights2weights)**|
@@ -704,6 +714,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Quantifying Variance in Evaluation Benchmarks**|Lovish Madaan et.al.|[2406.10229](http://arxiv.org/abs/2406.10229)|null|
+|**2024-06-14**|**Diffusion Synthesizer for Efficient Multilingual Speech to Speech Translation**|Nameer Hirschkind et.al.|[2406.10223](http://arxiv.org/abs/2406.10223)|null|
+|**2024-06-14**|**Semantic Membership Inference Attack against Large Language Models**|Hamid Mozaffari et.al.|[2406.10218](http://arxiv.org/abs/2406.10218)|null|
+|**2024-06-14**|**DevBench: A multimodal developmental benchmark for language learning**|Alvin Wei Ming Tan et.al.|[2406.10215](http://arxiv.org/abs/2406.10215)|null|
+|**2024-06-14**|**Universal randomised signatures for generative time series modelling**|Francesca Biagini et.al.|[2406.10214](http://arxiv.org/abs/2406.10214)|**[link](https://github.com/niklaswalter/randomised-signature-timeseries-generation)**|
+|**2024-06-14**|**Selecting Interpretability Techniques for Healthcare Machine Learning models**|Daniel Sierra-Botero et.al.|[2406.10213](http://arxiv.org/abs/2406.10213)|null|
+|**2024-06-14**|**Crafting Parts for Expressive Object Composition**|Harsh Rangwani et.al.|[2406.10197](http://arxiv.org/abs/2406.10197)|null|
+|**2024-06-14**|**Hyperbolic embedding of brain networks as a tool for epileptic seizures forecasting**|Martin Guillemaud et.al.|[2406.10184](http://arxiv.org/abs/2406.10184)|null|
+|**2024-06-14**|**Misam: Using ML in Dataflow Selection of Sparse-Sparse Matrix Multiplication**|Sanjali Yadav et.al.|[2406.10166](http://arxiv.org/abs/2406.10166)|null|
+|**2024-06-14**|**On the Computability of Robust PAC Learning**|Pascale Gourdeau et.al.|[2406.10161](http://arxiv.org/abs/2406.10161)|null|
 |**2024-06-13**|**Rethinking Score Distillation as a Bridge Between Image Distributions**|David McAllister et.al.|[2406.09417](http://arxiv.org/abs/2406.09417)|null|
 |**2024-06-13**|**An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels**|Duy-Kien Nguyen et.al.|[2406.09415](http://arxiv.org/abs/2406.09415)|null|
 |**2024-06-13**|**Interpreting the Weight Space of Customized Diffusion Models**|Amil Dravid et.al.|[2406.09413](http://arxiv.org/abs/2406.09413)|**[link](https://github.com/snap-research/weights2weights)**|
