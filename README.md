@@ -41,7 +41,7 @@
 |**2024-06-11**|**Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance**|Kuan Heng Lin et.al.|[2406.07540](http://arxiv.org/abs/2406.07540)|null|
 |**2024-06-11**|**Towards Fundamentally Scalable Model Selection: Asymptotically Fast Update and Selection**|Wenxiao Wang et.al.|[2406.07536](http://arxiv.org/abs/2406.07536)|null|
 |**2024-06-11**|**Hearing Anything Anywhere**|Mason Wang et.al.|[2406.07532](http://arxiv.org/abs/2406.07532)|**[link](https://github.com/maswang32/hearinganythinganywhere)**|
-|**2024-06-11**|**MAP: Low-compute Model Merging with Amortized Pareto Fronts via Quadratic Approximation**|Lu Li et.al.|[2406.07529](http://arxiv.org/abs/2406.07529)|null|
+|**2024-06-11**|**MAP: Low-compute Model Merging with Amortized Pareto Fronts via Quadratic Approximation**|Lu Li et.al.|[2406.07529](http://arxiv.org/abs/2406.07529)|**[link](https://github.com/luli-git/MAP)**|
 |**2024-06-11**|**QuickLLaMA: Query-aware Inference Acceleration for Large Language Models**|Jingyao Li et.al.|[2406.07528](http://arxiv.org/abs/2406.07528)|**[link](https://github.com/dvlab-research/q-llm)**|
 |**2024-06-11**|**Simple and Effective Masked Diffusion Language Models**|Subham Sekhar Sahoo et.al.|[2406.07524](http://arxiv.org/abs/2406.07524)|**[link](https://github.com/kuleshov-group/mdlm)**|
 |**2024-06-10**|**Decentralized Personalized Federated Learning**|Salma Kharrat et.al.|[2406.06520](http://arxiv.org/abs/2406.06520)|null|
@@ -54,7 +54,7 @@
 |**2024-06-10**|**Equivariant Neural Tangent Kernels**|Philipp Misof et.al.|[2406.06504](http://arxiv.org/abs/2406.06504)|null|
 |**2024-06-10**|**Adaptive Opponent Policy Detection in Multi-Agent MDPs: Real-Time Strategy Switch Identification Using Running Error Estimation**|Mohidul Haque Mridul et.al.|[2406.06500](http://arxiv.org/abs/2406.06500)|null|
 |**2024-06-10**|**Direct Preference Optimization for Suppressing Hallucinated Prior Exams in Radiology Report Generation**|Oishi Banerjee et.al.|[2406.06496](http://arxiv.org/abs/2406.06496)|null|
-|**2024-06-07**|**3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs**|Jianing Yang et.al.|[2406.05132](http://arxiv.org/abs/2406.05132)|null|
+|**2024-06-07**|**3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs**|Jianing Yang et.al.|[2406.05132](http://arxiv.org/abs/2406.05132)|**[link](https://github.com/sled-group/3D-GRAND)**|
 |**2024-06-07**|**Compositional Curvature Bounds for Deep Neural Networks**|Taha Entesari et.al.|[2406.05119](http://arxiv.org/abs/2406.05119)|null|
 |**2024-06-07**|**The Expanding Scope of the Stability Gap: Unveiling its Presence in Joint Incremental Learning of Homogeneous Tasks**|Sandesh Kamath et.al.|[2406.05114](http://arxiv.org/abs/2406.05114)|null|
 |**2024-06-07**|**LLavaGuard: VLM-based Safeguards for Vision Dataset Curation and Safety Assessment**|Lukas Helff et.al.|[2406.05113](http://arxiv.org/abs/2406.05113)|null|
@@ -70,7 +70,7 @@
 |**2024-06-06**|**PaCE: Parsimonious Concept Engineering for Large Language Models**|Jinqi Luo et.al.|[2406.04331](http://arxiv.org/abs/2406.04331)|**[link](https://github.com/peterljq/parsimonious-concept-engineering)**|
 |**2024-06-06**|**Simplified and Generalized Masked Diffusion for Discrete Data**|Jiaxin Shi et.al.|[2406.04329](http://arxiv.org/abs/2406.04329)|null|
 |**2024-06-06**|**The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning**|Dulhan Jayalath et.al.|[2406.04328](http://arxiv.org/abs/2406.04328)|null|
-|**2024-06-06**|**Causal Estimation of Memorisation Profiles**|Pietro Lesci et.al.|[2406.04327](http://arxiv.org/abs/2406.04327)|null|
+|**2024-06-06**|**Causal Estimation of Memorisation Profiles**|Pietro Lesci et.al.|[2406.04327](http://arxiv.org/abs/2406.04327)|**[link](https://github.com/pietrolesci/memorisation-profiles)**|
 |**2024-06-06**|**ATraDiff: Accelerating Online Reinforcement Learning with Imaginary Trajectories**|Qianlan Yang et.al.|[2406.04323](http://arxiv.org/abs/2406.04323)|null|
 |**2024-06-06**|**VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling**|Zeyue Tian et.al.|[2406.04321](http://arxiv.org/abs/2406.04321)|**[link](https://github.com/zeyuet/vidmuse)**|
 |**2024-06-06**|**Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models**|Ali Behrouz et.al.|[2406.04320](http://arxiv.org/abs/2406.04320)|null|
@@ -104,7 +104,7 @@
 |**2024-05-31**|**Grammar-Aligned Decoding**|Kanghee Park et.al.|[2405.21047](http://arxiv.org/abs/2405.21047)|null|
 |**2024-05-31**|**Exploratory Preference Optimization: Harnessing Implicit Q*-Approximation for Sample-Efficient RLHF**|Tengyang Xie et.al.|[2405.21046](http://arxiv.org/abs/2405.21046)|null|
 |**2024-05-31**|**An Attention-Based Multi-Context Convolutional Encoder-Decoder Neural Network for Work Zone Traffic Impact Prediction**|Qinhua Jiang et.al.|[2405.21045](http://arxiv.org/abs/2405.21045)|null|
-|**2024-05-30**|**Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image**|Kailu Wu et.al.|[2405.20343](http://arxiv.org/abs/2405.20343)|null|
+|**2024-05-30**|**Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image**|Kailu Wu et.al.|[2405.20343](http://arxiv.org/abs/2405.20343)|**[link](https://github.com/AiuniAI/Unique3D)**|
 |**2024-05-30**|**From Zero to Hero: Cold-Start Anomaly Detection**|Tal Reiss et.al.|[2405.20341](http://arxiv.org/abs/2405.20341)|**[link](https://github.com/talreiss/coldfusion)**|
 |**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331](http://arxiv.org/abs/2405.20331)|**[link](https://github.com/lkopf/cosy)**|
 |**2024-05-30**|**Don't drop your samples! Coherence-aware training benefits Conditional diffusion**|Nicolas Dufour et.al.|[2405.20324](http://arxiv.org/abs/2405.20324)|null|
@@ -349,7 +349,7 @@
 |**2024-04-25**|**Meta-Transfer Derm-Diagnosis: Exploring Few-Shot Learning and Transfer Learning for Skin Disease Classification in Long-Tail Distribution**|Zeynep Özdemir et.al.|[2404.16814](http://arxiv.org/abs/2404.16814)|null|
 |**2024-04-25**|**ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs**|Xinning Hui et.al.|[2404.16812](http://arxiv.org/abs/2404.16812)|null|
 |**2024-04-25**|**AAPL: Adding Attributes to Prompt Learning for Vision-Language Models**|Gahyeon Kim et.al.|[2404.16804](http://arxiv.org/abs/2404.16804)|**[link](https://github.com/Gahyeonkim09/AAPL)**|
-|**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795](http://arxiv.org/abs/2404.16795)|null|
+|**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795](http://arxiv.org/abs/2404.16795)|**[link](https://github.com/automl/ifbo)**|
 |**2024-04-25**|**Weak-to-Strong Extrapolation Expedites Alignment**|Chujie Zheng et.al.|[2404.16792](http://arxiv.org/abs/2404.16792)|**[link](https://github.com/chujiezheng/llm-extrapolation)**|
 |**2024-04-25**|**Continual Learning of Large Language Models: A Comprehensive Survey**|Haizhou Shi et.al.|[2404.16789](http://arxiv.org/abs/2404.16789)|**[link](https://github.com/wang-ml-lab/llm-continual-learning-survey)**|
 |**2024-04-25**|**Enhancing Quality of Experience in Telecommunication Networks: A Review of Frameworks and Machine Learning Algorithms**|Parsa H. S. Panahi et.al.|[2404.16787](http://arxiv.org/abs/2404.16787)|null|
@@ -731,7 +731,7 @@
 |**2024-06-11**|**Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance**|Kuan Heng Lin et.al.|[2406.07540](http://arxiv.org/abs/2406.07540)|null|
 |**2024-06-11**|**Towards Fundamentally Scalable Model Selection: Asymptotically Fast Update and Selection**|Wenxiao Wang et.al.|[2406.07536](http://arxiv.org/abs/2406.07536)|null|
 |**2024-06-11**|**Hearing Anything Anywhere**|Mason Wang et.al.|[2406.07532](http://arxiv.org/abs/2406.07532)|**[link](https://github.com/maswang32/hearinganythinganywhere)**|
-|**2024-06-11**|**MAP: Low-compute Model Merging with Amortized Pareto Fronts via Quadratic Approximation**|Lu Li et.al.|[2406.07529](http://arxiv.org/abs/2406.07529)|null|
+|**2024-06-11**|**MAP: Low-compute Model Merging with Amortized Pareto Fronts via Quadratic Approximation**|Lu Li et.al.|[2406.07529](http://arxiv.org/abs/2406.07529)|**[link](https://github.com/luli-git/MAP)**|
 |**2024-06-11**|**QuickLLaMA: Query-aware Inference Acceleration for Large Language Models**|Jingyao Li et.al.|[2406.07528](http://arxiv.org/abs/2406.07528)|**[link](https://github.com/dvlab-research/q-llm)**|
 |**2024-06-11**|**Simple and Effective Masked Diffusion Language Models**|Subham Sekhar Sahoo et.al.|[2406.07524](http://arxiv.org/abs/2406.07524)|**[link](https://github.com/kuleshov-group/mdlm)**|
 |**2024-06-10**|**Decentralized Personalized Federated Learning**|Salma Kharrat et.al.|[2406.06520](http://arxiv.org/abs/2406.06520)|null|
@@ -744,7 +744,7 @@
 |**2024-06-10**|**Equivariant Neural Tangent Kernels**|Philipp Misof et.al.|[2406.06504](http://arxiv.org/abs/2406.06504)|null|
 |**2024-06-10**|**Adaptive Opponent Policy Detection in Multi-Agent MDPs: Real-Time Strategy Switch Identification Using Running Error Estimation**|Mohidul Haque Mridul et.al.|[2406.06500](http://arxiv.org/abs/2406.06500)|null|
 |**2024-06-10**|**Direct Preference Optimization for Suppressing Hallucinated Prior Exams in Radiology Report Generation**|Oishi Banerjee et.al.|[2406.06496](http://arxiv.org/abs/2406.06496)|null|
-|**2024-06-07**|**3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs**|Jianing Yang et.al.|[2406.05132](http://arxiv.org/abs/2406.05132)|null|
+|**2024-06-07**|**3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs**|Jianing Yang et.al.|[2406.05132](http://arxiv.org/abs/2406.05132)|**[link](https://github.com/sled-group/3D-GRAND)**|
 |**2024-06-07**|**Compositional Curvature Bounds for Deep Neural Networks**|Taha Entesari et.al.|[2406.05119](http://arxiv.org/abs/2406.05119)|null|
 |**2024-06-07**|**The Expanding Scope of the Stability Gap: Unveiling its Presence in Joint Incremental Learning of Homogeneous Tasks**|Sandesh Kamath et.al.|[2406.05114](http://arxiv.org/abs/2406.05114)|null|
 |**2024-06-07**|**LLavaGuard: VLM-based Safeguards for Vision Dataset Curation and Safety Assessment**|Lukas Helff et.al.|[2406.05113](http://arxiv.org/abs/2406.05113)|null|
@@ -760,7 +760,7 @@
 |**2024-06-06**|**PaCE: Parsimonious Concept Engineering for Large Language Models**|Jinqi Luo et.al.|[2406.04331](http://arxiv.org/abs/2406.04331)|**[link](https://github.com/peterljq/parsimonious-concept-engineering)**|
 |**2024-06-06**|**Simplified and Generalized Masked Diffusion for Discrete Data**|Jiaxin Shi et.al.|[2406.04329](http://arxiv.org/abs/2406.04329)|null|
 |**2024-06-06**|**The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning**|Dulhan Jayalath et.al.|[2406.04328](http://arxiv.org/abs/2406.04328)|null|
-|**2024-06-06**|**Causal Estimation of Memorisation Profiles**|Pietro Lesci et.al.|[2406.04327](http://arxiv.org/abs/2406.04327)|null|
+|**2024-06-06**|**Causal Estimation of Memorisation Profiles**|Pietro Lesci et.al.|[2406.04327](http://arxiv.org/abs/2406.04327)|**[link](https://github.com/pietrolesci/memorisation-profiles)**|
 |**2024-06-06**|**ATraDiff: Accelerating Online Reinforcement Learning with Imaginary Trajectories**|Qianlan Yang et.al.|[2406.04323](http://arxiv.org/abs/2406.04323)|null|
 |**2024-06-06**|**VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling**|Zeyue Tian et.al.|[2406.04321](http://arxiv.org/abs/2406.04321)|**[link](https://github.com/zeyuet/vidmuse)**|
 |**2024-06-06**|**Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models**|Ali Behrouz et.al.|[2406.04320](http://arxiv.org/abs/2406.04320)|null|
@@ -794,7 +794,7 @@
 |**2024-05-31**|**Grammar-Aligned Decoding**|Kanghee Park et.al.|[2405.21047](http://arxiv.org/abs/2405.21047)|null|
 |**2024-05-31**|**Exploratory Preference Optimization: Harnessing Implicit Q*-Approximation for Sample-Efficient RLHF**|Tengyang Xie et.al.|[2405.21046](http://arxiv.org/abs/2405.21046)|null|
 |**2024-05-31**|**An Attention-Based Multi-Context Convolutional Encoder-Decoder Neural Network for Work Zone Traffic Impact Prediction**|Qinhua Jiang et.al.|[2405.21045](http://arxiv.org/abs/2405.21045)|null|
-|**2024-05-30**|**Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image**|Kailu Wu et.al.|[2405.20343](http://arxiv.org/abs/2405.20343)|null|
+|**2024-05-30**|**Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image**|Kailu Wu et.al.|[2405.20343](http://arxiv.org/abs/2405.20343)|**[link](https://github.com/AiuniAI/Unique3D)**|
 |**2024-05-30**|**From Zero to Hero: Cold-Start Anomaly Detection**|Tal Reiss et.al.|[2405.20341](http://arxiv.org/abs/2405.20341)|**[link](https://github.com/talreiss/coldfusion)**|
 |**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331](http://arxiv.org/abs/2405.20331)|**[link](https://github.com/lkopf/cosy)**|
 |**2024-05-30**|**Don't drop your samples! Coherence-aware training benefits Conditional diffusion**|Nicolas Dufour et.al.|[2405.20324](http://arxiv.org/abs/2405.20324)|null|
@@ -1039,7 +1039,7 @@
 |**2024-04-25**|**Meta-Transfer Derm-Diagnosis: Exploring Few-Shot Learning and Transfer Learning for Skin Disease Classification in Long-Tail Distribution**|Zeynep Özdemir et.al.|[2404.16814](http://arxiv.org/abs/2404.16814)|null|
 |**2024-04-25**|**ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs**|Xinning Hui et.al.|[2404.16812](http://arxiv.org/abs/2404.16812)|null|
 |**2024-04-25**|**AAPL: Adding Attributes to Prompt Learning for Vision-Language Models**|Gahyeon Kim et.al.|[2404.16804](http://arxiv.org/abs/2404.16804)|**[link](https://github.com/Gahyeonkim09/AAPL)**|
-|**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795](http://arxiv.org/abs/2404.16795)|null|
+|**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795](http://arxiv.org/abs/2404.16795)|**[link](https://github.com/automl/ifbo)**|
 |**2024-04-25**|**Weak-to-Strong Extrapolation Expedites Alignment**|Chujie Zheng et.al.|[2404.16792](http://arxiv.org/abs/2404.16792)|**[link](https://github.com/chujiezheng/llm-extrapolation)**|
 |**2024-04-25**|**Continual Learning of Large Language Models: A Comprehensive Survey**|Haizhou Shi et.al.|[2404.16789](http://arxiv.org/abs/2404.16789)|**[link](https://github.com/wang-ml-lab/llm-continual-learning-survey)**|
 |**2024-04-25**|**Enhancing Quality of Experience in Telecommunication Networks: A Review of Frameworks and Machine Learning Algorithms**|Parsa H. S. Panahi et.al.|[2404.16787](http://arxiv.org/abs/2404.16787)|null|
