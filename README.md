@@ -35,7 +35,7 @@
 |**2024-07-02**|**Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative A.I**|Harrie Oosterhuis et.al.|[2407.02464](http://arxiv.org/abs/2407.02464)|null|
 |**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461](http://arxiv.org/abs/2407.02461)|null|
 |**2024-06-28**|**LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**|Xiang Li et.al.|[2406.20095](http://arxiv.org/abs/2406.20095)|**[link](https://github.com/lostxine/llara)**|
-|**2024-06-28**|**Scaling Synthetic Data Creation with 1,000,000,000 Personas**|Xin Chan et.al.|[2406.20094](http://arxiv.org/abs/2406.20094)|null|
+|**2024-06-28**|**Scaling Synthetic Data Creation with 1,000,000,000 Personas**|Xin Chan et.al.|[2406.20094](http://arxiv.org/abs/2406.20094)|**[link](https://github.com/tencent-ailab/persona-hub)**|
 |**2024-06-28**|**Minimax And Adaptive Transfer Learning for Nonparametric Classification under Distributed Differential Privacy Constraints**|Arnab Auddy et.al.|[2406.20088](http://arxiv.org/abs/2406.20088)|null|
 |**2024-06-28**|**ProgressGym: Alignment with a Millennium of Moral Progress**|Tianyi Qiu et.al.|[2406.20087](http://arxiv.org/abs/2406.20087)|null|
 |**2024-06-28**|**Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs**|Sheridan Feucht et.al.|[2406.20086](http://arxiv.org/abs/2406.20086)|null|
@@ -65,7 +65,7 @@
 |**2024-06-26**|**Scalable tomography of many-body quantum environments with low temporal entanglement**|Ilia A. Luchnikov et.al.|[2406.18458](http://arxiv.org/abs/2406.18458)|null|
 |**2024-06-26**|**Boundary Detection Algorithm Inspired by Locally Linear Embedding**|Pei-Cheng Kuo et.al.|[2406.18456](http://arxiv.org/abs/2406.18456)|null|
 |**2024-06-25**|**EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data**|Jesse Zhang et.al.|[2406.17768](http://arxiv.org/abs/2406.17768)|null|
-|**2024-06-25**|**DiffusionPDE: Generative PDE-Solving Under Partial Observation**|Jiahe Huang et.al.|[2406.17763](http://arxiv.org/abs/2406.17763)|null|
+|**2024-06-25**|**DiffusionPDE: Generative PDE-Solving Under Partial Observation**|Jiahe Huang et.al.|[2406.17763](http://arxiv.org/abs/2406.17763)|**[link](https://github.com/jhhuangchloe/DiffusionPDE)**|
 |**2024-06-25**|**Solving Hard Mizar Problems with Instantiation and Strategy Invention**|Jan Jakubův et.al.|[2406.17762](http://arxiv.org/abs/2406.17762)|null|
 |**2024-06-25**|**CaLMQA: Exploring culturally specific long-form question answering across 23 languages**|Shane Arora et.al.|[2406.17761](http://arxiv.org/abs/2406.17761)|**[link](https://github.com/2015aroras/calmqa)**|
 |**2024-06-25**|**Interpreting Attention Layer Outputs with Sparse Autoencoders**|Connor Kissane et.al.|[2406.17759](http://arxiv.org/abs/2406.17759)|**[link](https://github.com/ckkissane/attention-output-saes)**|
@@ -845,7 +845,7 @@
 |**2024-07-02**|**Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative A.I**|Harrie Oosterhuis et.al.|[2407.02464](http://arxiv.org/abs/2407.02464)|null|
 |**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461](http://arxiv.org/abs/2407.02461)|null|
 |**2024-06-28**|**LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**|Xiang Li et.al.|[2406.20095](http://arxiv.org/abs/2406.20095)|**[link](https://github.com/lostxine/llara)**|
-|**2024-06-28**|**Scaling Synthetic Data Creation with 1,000,000,000 Personas**|Xin Chan et.al.|[2406.20094](http://arxiv.org/abs/2406.20094)|null|
+|**2024-06-28**|**Scaling Synthetic Data Creation with 1,000,000,000 Personas**|Xin Chan et.al.|[2406.20094](http://arxiv.org/abs/2406.20094)|**[link](https://github.com/tencent-ailab/persona-hub)**|
 |**2024-06-28**|**Minimax And Adaptive Transfer Learning for Nonparametric Classification under Distributed Differential Privacy Constraints**|Arnab Auddy et.al.|[2406.20088](http://arxiv.org/abs/2406.20088)|null|
 |**2024-06-28**|**ProgressGym: Alignment with a Millennium of Moral Progress**|Tianyi Qiu et.al.|[2406.20087](http://arxiv.org/abs/2406.20087)|null|
 |**2024-06-28**|**Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs**|Sheridan Feucht et.al.|[2406.20086](http://arxiv.org/abs/2406.20086)|null|
@@ -875,7 +875,7 @@
 |**2024-06-26**|**Scalable tomography of many-body quantum environments with low temporal entanglement**|Ilia A. Luchnikov et.al.|[2406.18458](http://arxiv.org/abs/2406.18458)|null|
 |**2024-06-26**|**Boundary Detection Algorithm Inspired by Locally Linear Embedding**|Pei-Cheng Kuo et.al.|[2406.18456](http://arxiv.org/abs/2406.18456)|null|
 |**2024-06-25**|**EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data**|Jesse Zhang et.al.|[2406.17768](http://arxiv.org/abs/2406.17768)|null|
-|**2024-06-25**|**DiffusionPDE: Generative PDE-Solving Under Partial Observation**|Jiahe Huang et.al.|[2406.17763](http://arxiv.org/abs/2406.17763)|null|
+|**2024-06-25**|**DiffusionPDE: Generative PDE-Solving Under Partial Observation**|Jiahe Huang et.al.|[2406.17763](http://arxiv.org/abs/2406.17763)|**[link](https://github.com/jhhuangchloe/DiffusionPDE)**|
 |**2024-06-25**|**Solving Hard Mizar Problems with Instantiation and Strategy Invention**|Jan Jakubův et.al.|[2406.17762](http://arxiv.org/abs/2406.17762)|null|
 |**2024-06-25**|**CaLMQA: Exploring culturally specific long-form question answering across 23 languages**|Shane Arora et.al.|[2406.17761](http://arxiv.org/abs/2406.17761)|**[link](https://github.com/2015aroras/calmqa)**|
 |**2024-06-25**|**Interpreting Attention Layer Outputs with Sparse Autoencoders**|Connor Kissane et.al.|[2406.17759](http://arxiv.org/abs/2406.17759)|**[link](https://github.com/ckkissane/attention-output-saes)**|
