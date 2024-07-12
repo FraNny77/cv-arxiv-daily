@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -17,7 +17,7 @@ layout: default
 |**2024-07-10**|**Vegetable Peeling: A Case Study in Constrained Dexterous Manipulation**|Tao Chen et.al.|[2407.07884](http://arxiv.org/abs/2407.07884)|null|
 |**2024-07-10**|**Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization**|Junkang Wu et.al.|[2407.07880](http://arxiv.org/abs/2407.07880)|**[link](https://github.com/junkangwu/dr_dpo)**|
 |**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875](http://arxiv.org/abs/2407.07875)|null|
-|**2024-07-10**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874](http://arxiv.org/abs/2407.07874)|null|
+|**2024-07-11**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874](http://arxiv.org/abs/2407.07874)|null|
 |**2024-07-10**|**Dynamical Measure Transport and Neural PDE Solvers for Sampling**|Jingtong Sun et.al.|[2407.07873](http://arxiv.org/abs/2407.07873)|null|
 |**2024-07-09**|**FBI-LLM: Scaling Up Fully Binarized LLMs from Scratch via Autoregressive Distillation**|Liqun Ma et.al.|[2407.07093](http://arxiv.org/abs/2407.07093)|**[link](https://github.com/liqunma/fbi-llm)**|
 |**2024-07-09**|**Fine-Tuning Linear Layers Only Is a Simple yet Effective Way for Task Arithmetic**|Ruochen Jin et.al.|[2407.07089](http://arxiv.org/abs/2407.07089)|null|
@@ -865,7 +865,7 @@ layout: default
 |**2024-07-10**|**Vegetable Peeling: A Case Study in Constrained Dexterous Manipulation**|Tao Chen et.al.|[2407.07884](http://arxiv.org/abs/2407.07884)|null|
 |**2024-07-10**|**Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization**|Junkang Wu et.al.|[2407.07880](http://arxiv.org/abs/2407.07880)|**[link](https://github.com/junkangwu/dr_dpo)**|
 |**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875](http://arxiv.org/abs/2407.07875)|null|
-|**2024-07-10**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874](http://arxiv.org/abs/2407.07874)|null|
+|**2024-07-11**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874](http://arxiv.org/abs/2407.07874)|null|
 |**2024-07-10**|**Dynamical Measure Transport and Neural PDE Solvers for Sampling**|Jingtong Sun et.al.|[2407.07873](http://arxiv.org/abs/2407.07873)|null|
 |**2024-07-09**|**FBI-LLM: Scaling Up Fully Binarized LLMs from Scratch via Autoregressive Distillation**|Liqun Ma et.al.|[2407.07093](http://arxiv.org/abs/2407.07093)|**[link](https://github.com/liqunma/fbi-llm)**|
 |**2024-07-09**|**Fine-Tuning Linear Layers Only Is a Simple yet Effective Way for Task Arithmetic**|Ruochen Jin et.al.|[2407.07089](http://arxiv.org/abs/2407.07089)|null|
