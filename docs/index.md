@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.13
+## Updated on 2024.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -12,7 +12,7 @@ layout: default
 |**2024-07-11**|**Video Diffusion Alignment via Reward Gradients**|Mihir Prabhudesai et.al.|[2407.08737](http://arxiv.org/abs/2407.08737)|**[link](https://github.com/mihirp1998/vader)**|
 |**2024-07-11**|**Transformer Circuit Faithfulness Metrics are not Robust**|Joseph Miller et.al.|[2407.08734](http://arxiv.org/abs/2407.08734)|**[link](https://github.com/ufo-101/auto-circuit)**|
 |**2024-07-11**|**BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud Registration**|Stefanos Pertigkiozoglou et.al.|[2407.08729](http://arxiv.org/abs/2407.08729)|null|
-|**2024-07-11**|**Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723](http://arxiv.org/abs/2407.08723)|null|
+|**2024-07-11**|**Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723](http://arxiv.org/abs/2407.08723)|**[link](https://github.com/rorondre/TDAGeneralization)**|
 |**2024-07-11**|**Unifying 3D Representation and Control of Diverse Robots with a Single Camera**|Sizhe Lester Li et.al.|[2407.08722](http://arxiv.org/abs/2407.08722)|null|
 |**2024-07-11**|**Sensor-Aware Classifiers for Energy-Efficient Time Series Applications on IoT Devices**|Dina Hussein et.al.|[2407.08715](http://arxiv.org/abs/2407.08715)|null|
 |**2024-07-11**|**eyeballvul: a future-proof benchmark for vulnerability detection in the wild**|Timothee Chauvin et.al.|[2407.08708](http://arxiv.org/abs/2407.08708)|**[link](https://github.com/timothee-chauvin/eyeballvul_experiments)**|
@@ -870,7 +870,7 @@ layout: default
 |**2024-07-11**|**Video Diffusion Alignment via Reward Gradients**|Mihir Prabhudesai et.al.|[2407.08737](http://arxiv.org/abs/2407.08737)|**[link](https://github.com/mihirp1998/vader)**|
 |**2024-07-11**|**Transformer Circuit Faithfulness Metrics are not Robust**|Joseph Miller et.al.|[2407.08734](http://arxiv.org/abs/2407.08734)|**[link](https://github.com/ufo-101/auto-circuit)**|
 |**2024-07-11**|**BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud Registration**|Stefanos Pertigkiozoglou et.al.|[2407.08729](http://arxiv.org/abs/2407.08729)|null|
-|**2024-07-11**|**Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723](http://arxiv.org/abs/2407.08723)|null|
+|**2024-07-11**|**Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723](http://arxiv.org/abs/2407.08723)|**[link](https://github.com/rorondre/TDAGeneralization)**|
 |**2024-07-11**|**Unifying 3D Representation and Control of Diverse Robots with a Single Camera**|Sizhe Lester Li et.al.|[2407.08722](http://arxiv.org/abs/2407.08722)|null|
 |**2024-07-11**|**Sensor-Aware Classifiers for Energy-Efficient Time Series Applications on IoT Devices**|Dina Hussein et.al.|[2407.08715](http://arxiv.org/abs/2407.08715)|null|
 |**2024-07-11**|**eyeballvul: a future-proof benchmark for vulnerability detection in the wild**|Timothee Chauvin et.al.|[2407.08708](http://arxiv.org/abs/2407.08708)|**[link](https://github.com/timothee-chauvin/eyeballvul_experiments)**|

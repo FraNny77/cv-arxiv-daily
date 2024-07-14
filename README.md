@@ -1,4 +1,4 @@
-## Updated on 2024.07.13
+## Updated on 2024.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 |**2024-07-11**|**Video Diffusion Alignment via Reward Gradients**|Mihir Prabhudesai et.al.|[2407.08737](http://arxiv.org/abs/2407.08737)|**[link](https://github.com/mihirp1998/vader)**|
 |**2024-07-11**|**Transformer Circuit Faithfulness Metrics are not Robust**|Joseph Miller et.al.|[2407.08734](http://arxiv.org/abs/2407.08734)|**[link](https://github.com/ufo-101/auto-circuit)**|
 |**2024-07-11**|**BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud Registration**|Stefanos Pertigkiozoglou et.al.|[2407.08729](http://arxiv.org/abs/2407.08729)|null|
-|**2024-07-11**|**Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723](http://arxiv.org/abs/2407.08723)|null|
+|**2024-07-11**|**Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723](http://arxiv.org/abs/2407.08723)|**[link](https://github.com/rorondre/TDAGeneralization)**|
 |**2024-07-11**|**Unifying 3D Representation and Control of Diverse Robots with a Single Camera**|Sizhe Lester Li et.al.|[2407.08722](http://arxiv.org/abs/2407.08722)|null|
 |**2024-07-11**|**Sensor-Aware Classifiers for Energy-Efficient Time Series Applications on IoT Devices**|Dina Hussein et.al.|[2407.08715](http://arxiv.org/abs/2407.08715)|null|
 |**2024-07-11**|**eyeballvul: a future-proof benchmark for vulnerability detection in the wild**|Timothee Chauvin et.al.|[2407.08708](http://arxiv.org/abs/2407.08708)|**[link](https://github.com/timothee-chauvin/eyeballvul_experiments)**|
@@ -868,7 +868,7 @@
 |**2017-07-27**|**High Dimensional Random Walks Can Appear Low Dimensional: Application to Influenza H3N2 Evolution**|James Moore et.al.|[1707.09361](http://arxiv.org/abs/1707.09361)|null|
 |**2008-07-20**|**Design and Production of Specifically and with High Affinity Reacting Peptides**|Jan C Biro et.al.|[0807.3038](http://arxiv.org/abs/0807.3038)|null|
 
-<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
 
 ## Peptide
 
@@ -877,7 +877,7 @@
 |**2024-07-11**|**Video Diffusion Alignment via Reward Gradients**|Mihir Prabhudesai et.al.|[2407.08737](http://arxiv.org/abs/2407.08737)|**[link](https://github.com/mihirp1998/vader)**|
 |**2024-07-11**|**Transformer Circuit Faithfulness Metrics are not Robust**|Joseph Miller et.al.|[2407.08734](http://arxiv.org/abs/2407.08734)|**[link](https://github.com/ufo-101/auto-circuit)**|
 |**2024-07-11**|**BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud Registration**|Stefanos Pertigkiozoglou et.al.|[2407.08729](http://arxiv.org/abs/2407.08729)|null|
-|**2024-07-11**|**Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723](http://arxiv.org/abs/2407.08723)|null|
+|**2024-07-11**|**Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723](http://arxiv.org/abs/2407.08723)|**[link](https://github.com/rorondre/TDAGeneralization)**|
 |**2024-07-11**|**Unifying 3D Representation and Control of Diverse Robots with a Single Camera**|Sizhe Lester Li et.al.|[2407.08722](http://arxiv.org/abs/2407.08722)|null|
 |**2024-07-11**|**Sensor-Aware Classifiers for Energy-Efficient Time Series Applications on IoT Devices**|Dina Hussein et.al.|[2407.08715](http://arxiv.org/abs/2407.08715)|null|
 |**2024-07-11**|**eyeballvul: a future-proof benchmark for vulnerability detection in the wild**|Timothee Chauvin et.al.|[2407.08708](http://arxiv.org/abs/2407.08708)|**[link](https://github.com/timothee-chauvin/eyeballvul_experiments)**|
@@ -1730,7 +1730,7 @@
 |**2018-11-13**|**PepCVAE: Semi-Supervised Targeted Design of Antimicrobial Peptide Sequences**|Payel Das et.al.|[1810.07743](http://arxiv.org/abs/1810.07743)|null|
 |**2009-11-23**|**Silver-staining of proteins in polyacrylamide gels: a general overview**|Thierry Rabilloud et.al.|[0911.4458](http://arxiv.org/abs/0911.4458)|null|
 
-<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1747,5 +1747,5 @@
 |**2024-02-21**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|**[link](https://github.com/allenai/tess-diffusion)**|
 |**2023-05-13**|**Diffusion Models for Non-autoregressive Text Generation: A Survey**|Yifan Li et.al.|[2303.06574](http://arxiv.org/abs/2303.06574)|**[link](https://github.com/rucaibox/awesome-text-diffusion-models)**|
 
-<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
 
