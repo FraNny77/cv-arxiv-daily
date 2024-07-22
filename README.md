@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Nonlinear Schrödinger Network**|Yiming Zhou et.al.|[2407.14504](http://arxiv.org/abs/2407.14504)|null|
+|**2024-07-19**|**Catastrophic Goodhart: regularizing RLHF with KL divergence does not mitigate heavy-tailed reward misspecification**|Thomas Kwa et.al.|[2407.14503](http://arxiv.org/abs/2407.14503)|null|
+|**2024-07-19**|**Indoor Air Quality Dataset with Activities of Daily Living in Low to Middle-income Communities**|Prasenjit Karmakar et.al.|[2407.14501](http://arxiv.org/abs/2407.14501)|**[link](https://github.com/prasenjit52282/dalton-dataset)**|
+|**2024-07-19**|**Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery**|Sukrut Rao et.al.|[2407.14499](http://arxiv.org/abs/2407.14499)|**[link](https://github.com/neuroexplicit-saar/discover-then-name)**|
+|**2024-07-19**|**Conformal Thresholded Intervals for Efficient Regression**|Rui Luo et.al.|[2407.14495](http://arxiv.org/abs/2407.14495)|null|
+|**2024-07-19**|**InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques**|Rohan Gupta et.al.|[2407.14494](http://arxiv.org/abs/2407.14494)|null|
+|**2024-07-19**|**ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities**|Peng Xu et.al.|[2407.14482](http://arxiv.org/abs/2407.14482)|null|
+|**2024-07-19**|**Data-Centric Human Preference Optimization with Rationales**|Hoang Anh Just et.al.|[2407.14477](http://arxiv.org/abs/2407.14477)|null|
+|**2024-07-19**|**MLMT-CNN for Object Detection and Segmentation in Multi-layer and Multi-spectral Images**|Majedaldein Almahasneh et.al.|[2407.14473](http://arxiv.org/abs/2407.14473)|null|
+|**2024-07-19**|**SurvReLU: Inherently Interpretable Survival Analysis via Deep ReLU Networks**|Xiaotong Sun et.al.|[2407.14463](http://arxiv.org/abs/2407.14463)|**[link](https://github.com/xs018/survrelu)**|
 |**2024-07-18**|**Random Latent Exploration for Deep Reinforcement Learning**|Srinath Mahankali et.al.|[2407.13755](http://arxiv.org/abs/2407.13755)|null|
 |**2024-07-18**|**Multi-Label Learning with Stronger Consistency Guarantees**|Anqi Mao et.al.|[2407.13746](http://arxiv.org/abs/2407.13746)|null|
 |**2024-07-18**|**Optimistic Q-learning for average reward and episodic reinforcement learning**|Priyank Agrawal et.al.|[2407.13743](http://arxiv.org/abs/2407.13743)|null|
@@ -924,6 +934,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Nonlinear Schrödinger Network**|Yiming Zhou et.al.|[2407.14504](http://arxiv.org/abs/2407.14504)|null|
+|**2024-07-19**|**Catastrophic Goodhart: regularizing RLHF with KL divergence does not mitigate heavy-tailed reward misspecification**|Thomas Kwa et.al.|[2407.14503](http://arxiv.org/abs/2407.14503)|null|
+|**2024-07-19**|**Indoor Air Quality Dataset with Activities of Daily Living in Low to Middle-income Communities**|Prasenjit Karmakar et.al.|[2407.14501](http://arxiv.org/abs/2407.14501)|**[link](https://github.com/prasenjit52282/dalton-dataset)**|
+|**2024-07-19**|**Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery**|Sukrut Rao et.al.|[2407.14499](http://arxiv.org/abs/2407.14499)|**[link](https://github.com/neuroexplicit-saar/discover-then-name)**|
+|**2024-07-19**|**Conformal Thresholded Intervals for Efficient Regression**|Rui Luo et.al.|[2407.14495](http://arxiv.org/abs/2407.14495)|null|
+|**2024-07-19**|**InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques**|Rohan Gupta et.al.|[2407.14494](http://arxiv.org/abs/2407.14494)|null|
+|**2024-07-19**|**ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities**|Peng Xu et.al.|[2407.14482](http://arxiv.org/abs/2407.14482)|null|
+|**2024-07-19**|**Data-Centric Human Preference Optimization with Rationales**|Hoang Anh Just et.al.|[2407.14477](http://arxiv.org/abs/2407.14477)|null|
+|**2024-07-19**|**MLMT-CNN for Object Detection and Segmentation in Multi-layer and Multi-spectral Images**|Majedaldein Almahasneh et.al.|[2407.14473](http://arxiv.org/abs/2407.14473)|null|
+|**2024-07-19**|**SurvReLU: Inherently Interpretable Survival Analysis via Deep ReLU Networks**|Xiaotong Sun et.al.|[2407.14463](http://arxiv.org/abs/2407.14463)|**[link](https://github.com/xs018/survrelu)**|
 |**2024-07-18**|**Random Latent Exploration for Deep Reinforcement Learning**|Srinath Mahankali et.al.|[2407.13755](http://arxiv.org/abs/2407.13755)|null|
 |**2024-07-18**|**Multi-Label Learning with Stronger Consistency Guarantees**|Anqi Mao et.al.|[2407.13746](http://arxiv.org/abs/2407.13746)|null|
 |**2024-07-18**|**Optimistic Q-learning for average reward and episodic reinforcement learning**|Priyank Agrawal et.al.|[2407.13743](http://arxiv.org/abs/2407.13743)|null|
