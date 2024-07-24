@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|null|
+|**2024-07-23**|**Automatic Equalization for Individual Instrument Tracks Using Convolutional Neural Networks**|Florian Mockenhaupt et.al.|[2407.16691](http://arxiv.org/abs/2407.16691)|null|
+|**2024-07-23**|**Signatures of paracrystallinity in amorphous silicon**|Louise A. M. Rosset et.al.|[2407.16681](http://arxiv.org/abs/2407.16681)|null|
+|**2024-07-23**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/abs/2407.16680)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
+|**2024-07-23**|**From Imitation to Refinement -- Residual RL for Precise Visual Assembly**|Lars Ankile et.al.|[2407.16677](http://arxiv.org/abs/2407.16677)|null|
+|**2024-07-23**|**KAN or MLP: A Fairer Comparison**|Runpeng Yu et.al.|[2407.16674](http://arxiv.org/abs/2407.16674)|**[link](https://github.com/yu-rp/kanbefair)**|
+|**2024-07-23**|**Computable learning of natural hypothesis classes**|Matthew Harrison-Trainor et.al.|[2407.16663](http://arxiv.org/abs/2407.16663)|null|
+|**2024-07-23**|**Global Minima by Penalized Full-dimensional Scaling**|Jan de Leeuw et.al.|[2407.16645](http://arxiv.org/abs/2407.16645)|null|
+|**2024-07-23**|**Synthesizer Sound Matching Using Audio Spectrogram Transformers**|Fred Bruford et.al.|[2407.16643](http://arxiv.org/abs/2407.16643)|null|
+|**2024-07-23**|**Aggregation of expert advice, revisited**|Aryeh Kontorovich et.al.|[2407.16642](http://arxiv.org/abs/2407.16642)|null|
 |**2024-07-22**|**Reconstructing Training Data From Real World Models Trained with Transfer Learning**|Yakir Oz et.al.|[2407.15845](http://arxiv.org/abs/2407.15845)|null|
 |**2024-07-22**|**HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning**|Eugene Valassakis et.al.|[2407.15844](http://arxiv.org/abs/2407.15844)|null|
 |**2024-07-22**|**Towards Effective Collaboration between Software Engineers and Data Scientists developing Machine Learning-Enabled Systems**|Gabriel Busquim et.al.|[2407.15821](http://arxiv.org/abs/2407.15821)|null|
@@ -937,6 +947,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|null|
+|**2024-07-23**|**Automatic Equalization for Individual Instrument Tracks Using Convolutional Neural Networks**|Florian Mockenhaupt et.al.|[2407.16691](http://arxiv.org/abs/2407.16691)|null|
+|**2024-07-23**|**Signatures of paracrystallinity in amorphous silicon**|Louise A. M. Rosset et.al.|[2407.16681](http://arxiv.org/abs/2407.16681)|null|
+|**2024-07-23**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/abs/2407.16680)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
+|**2024-07-23**|**From Imitation to Refinement -- Residual RL for Precise Visual Assembly**|Lars Ankile et.al.|[2407.16677](http://arxiv.org/abs/2407.16677)|null|
+|**2024-07-23**|**KAN or MLP: A Fairer Comparison**|Runpeng Yu et.al.|[2407.16674](http://arxiv.org/abs/2407.16674)|**[link](https://github.com/yu-rp/kanbefair)**|
+|**2024-07-23**|**Computable learning of natural hypothesis classes**|Matthew Harrison-Trainor et.al.|[2407.16663](http://arxiv.org/abs/2407.16663)|null|
+|**2024-07-23**|**Global Minima by Penalized Full-dimensional Scaling**|Jan de Leeuw et.al.|[2407.16645](http://arxiv.org/abs/2407.16645)|null|
+|**2024-07-23**|**Synthesizer Sound Matching Using Audio Spectrogram Transformers**|Fred Bruford et.al.|[2407.16643](http://arxiv.org/abs/2407.16643)|null|
+|**2024-07-23**|**Aggregation of expert advice, revisited**|Aryeh Kontorovich et.al.|[2407.16642](http://arxiv.org/abs/2407.16642)|null|
 |**2024-07-22**|**Reconstructing Training Data From Real World Models Trained with Transfer Learning**|Yakir Oz et.al.|[2407.15845](http://arxiv.org/abs/2407.15845)|null|
 |**2024-07-22**|**HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning**|Eugene Valassakis et.al.|[2407.15844](http://arxiv.org/abs/2407.15844)|null|
 |**2024-07-22**|**Towards Effective Collaboration between Software Engineers and Data Scientists developing Machine Learning-Enabled Systems**|Gabriel Busquim et.al.|[2407.15821](http://arxiv.org/abs/2407.15821)|null|
