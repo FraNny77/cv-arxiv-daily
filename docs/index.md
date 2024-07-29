@@ -21,7 +21,7 @@ layout: default
 |**2024-07-25**|**Sparse Incremental Aggregation in Multi-Hop Federated Learning**|Sourav Mukherjee et.al.|[2407.18200](http://arxiv.org/abs/2407.18200)|null|
 |**2024-07-24**|**CMR Scaling Law: Predicting Critical Mixture Ratios for Continual Pre-training of Language Models**|Jiawei Gu et.al.|[2407.17467](http://arxiv.org/abs/2407.17467)|null|
 |**2024-07-24**|**Traversing Pareto Optimal Policies: Provably Efficient Multi-Objective Reinforcement Learning**|Shuang Qiu et.al.|[2407.17466](http://arxiv.org/abs/2407.17466)|null|
-|**2024-07-24**|**u- $μ$ P: The Unit-Scaled Maximal Update Parametrization**|Charlie Blake et.al.|[2407.17465](http://arxiv.org/abs/2407.17465)|null|
+|**2024-07-24**|**u- $μ$ P: The Unit-Scaled Maximal Update Parametrization**|Charlie Blake et.al.|[2407.17465](http://arxiv.org/abs/2407.17465)|**[link](https://github.com/graphcore-research/unit-scaling)**|
 |**2024-07-24**|**SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning**|Jianpeng Yao et.al.|[2407.17460](http://arxiv.org/abs/2407.17460)|null|
 |**2024-07-24**|**Hidden or Inferred: Fair Learning-To-Rank with Unknown Demographics**|Oluseun Olulana et.al.|[2407.17459](http://arxiv.org/abs/2407.17459)|**[link](https://github.com/sewen007/hoiltr)**|
 |**2024-07-24**|**EuroCropsML: A Time Series Benchmark Dataset For Few-Shot Crop Type Classification**|Joana Reuss et.al.|[2407.17458](http://arxiv.org/abs/2407.17458)|null|
@@ -29,14 +29,14 @@ layout: default
 |**2024-07-25**|**Looking at Model Debiasing through the Lens of Anomaly Detection**|Vito Paolo Pastore et.al.|[2407.17449](http://arxiv.org/abs/2407.17449)|null|
 |**2024-07-24**|**Fractional signature: a generalisation of the signature inspired by fractional calculus**|José Manuel Corcuera et.al.|[2407.17446](http://arxiv.org/abs/2407.17446)|null|
 |**2024-07-24**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438](http://arxiv.org/abs/2407.17438)|**[link](https://github.com/zhenzhiwang/humanvid)**|
-|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|null|
+|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|**[link](https://github.com/ink-usc/lifelong-icl)**|
 |**2024-07-23**|**Automatic Equalization for Individual Instrument Tracks Using Convolutional Neural Networks**|Florian Mockenhaupt et.al.|[2407.16691](http://arxiv.org/abs/2407.16691)|null|
 |**2024-07-23**|**Signatures of paracrystallinity in amorphous silicon**|Louise A. M. Rosset et.al.|[2407.16681](http://arxiv.org/abs/2407.16681)|null|
 |**2024-07-24**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/abs/2407.16680)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
 |**2024-07-23**|**From Imitation to Refinement -- Residual RL for Precise Visual Assembly**|Lars Ankile et.al.|[2407.16677](http://arxiv.org/abs/2407.16677)|null|
 |**2024-07-23**|**KAN or MLP: A Fairer Comparison**|Runpeng Yu et.al.|[2407.16674](http://arxiv.org/abs/2407.16674)|**[link](https://github.com/yu-rp/kanbefair)**|
 |**2024-07-23**|**Computable learning of natural hypothesis classes**|Matthew Harrison-Trainor et.al.|[2407.16663](http://arxiv.org/abs/2407.16663)|null|
-|**2024-07-23**|**Global Minima by Penalized Full-dimensional Scaling**|Jan de Leeuw et.al.|[2407.16645](http://arxiv.org/abs/2407.16645)|null|
+|**2024-07-23**|**Global Minima by Penalized Full-dimensional Scaling**|Jan de Leeuw et.al.|[2407.16645](http://arxiv.org/abs/2407.16645)|**[link](https://github.com/deleeuw/sPenalty)**|
 |**2024-07-23**|**Synthesizer Sound Matching Using Audio Spectrogram Transformers**|Fred Bruford et.al.|[2407.16643](http://arxiv.org/abs/2407.16643)|null|
 |**2024-07-23**|**Aggregation of expert advice, revisited**|Aryeh Kontorovich et.al.|[2407.16642](http://arxiv.org/abs/2407.16642)|null|
 |**2024-07-22**|**Reconstructing Training Data From Real World Models Trained with Transfer Learning**|Yakir Oz et.al.|[2407.15845](http://arxiv.org/abs/2407.15845)|null|
@@ -48,15 +48,15 @@ layout: default
 |**2024-07-22**|**Robust Mixture Learning when Outliers Overwhelm Small Groups**|Daniil Dmitriev et.al.|[2407.15792](http://arxiv.org/abs/2407.15792)|null|
 |**2024-07-22**|**Concept-Based Interpretable Reinforcement Learning with Limited to No Human Labels**|Zhuorui Ye et.al.|[2407.15786](http://arxiv.org/abs/2407.15786)|null|
 |**2024-07-22**|**Explaining Decisions in ML Models: a Parameterized Complexity Analysis**|Sebastian Ordyniak et.al.|[2407.15780](http://arxiv.org/abs/2407.15780)|null|
-|**2024-07-22**|**Analyzing the Impact of the Automatic Ball-Strike System in Professional Baseball: A Case Study on KBO League Data**|Kichang Lee et.al.|[2407.15779](http://arxiv.org/abs/2407.15779)|null|
+|**2024-07-22**|**Analyzing the Impact of the Automatic Ball-Strike System in Professional Baseball: A Case Study on KBO League Data**|Kichang Lee et.al.|[2407.15779](http://arxiv.org/abs/2407.15779)|**[link](https://github.com/eis-lab/where-do-the-robot-umpires-see)**|
 |**2024-07-19**|**Nonlinear Schrödinger Network**|Yiming Zhou et.al.|[2407.14504](http://arxiv.org/abs/2407.14504)|null|
 |**2024-07-19**|**Catastrophic Goodhart: regularizing RLHF with KL divergence does not mitigate heavy-tailed reward misspecification**|Thomas Kwa et.al.|[2407.14503](http://arxiv.org/abs/2407.14503)|null|
 |**2024-07-19**|**Indoor Air Quality Dataset with Activities of Daily Living in Low to Middle-income Communities**|Prasenjit Karmakar et.al.|[2407.14501](http://arxiv.org/abs/2407.14501)|**[link](https://github.com/prasenjit52282/dalton-dataset)**|
 |**2024-07-19**|**Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery**|Sukrut Rao et.al.|[2407.14499](http://arxiv.org/abs/2407.14499)|**[link](https://github.com/neuroexplicit-saar/discover-then-name)**|
 |**2024-07-19**|**Conformal Thresholded Intervals for Efficient Regression**|Rui Luo et.al.|[2407.14495](http://arxiv.org/abs/2407.14495)|null|
-|**2024-07-19**|**InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques**|Rohan Gupta et.al.|[2407.14494](http://arxiv.org/abs/2407.14494)|null|
+|**2024-07-19**|**InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques**|Rohan Gupta et.al.|[2407.14494](http://arxiv.org/abs/2407.14494)|**[link](https://github.com/FlyingPumba/circuits-benchmark)**|
 |**2024-07-19**|**ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities**|Peng Xu et.al.|[2407.14482](http://arxiv.org/abs/2407.14482)|null|
-|**2024-07-19**|**Data-Centric Human Preference Optimization with Rationales**|Hoang Anh Just et.al.|[2407.14477](http://arxiv.org/abs/2407.14477)|null|
+|**2024-07-19**|**Data-Centric Human Preference Optimization with Rationales**|Hoang Anh Just et.al.|[2407.14477](http://arxiv.org/abs/2407.14477)|**[link](https://github.com/reds-lab/preference-learning-with-rationales)**|
 |**2024-07-19**|**MLMT-CNN for Object Detection and Segmentation in Multi-layer and Multi-spectral Images**|Majedaldein Almahasneh et.al.|[2407.14473](http://arxiv.org/abs/2407.14473)|null|
 |**2024-07-19**|**SurvReLU: Inherently Interpretable Survival Analysis via Deep ReLU Networks**|Xiaotong Sun et.al.|[2407.14463](http://arxiv.org/abs/2407.14463)|**[link](https://github.com/xs018/survrelu)**|
 |**2024-07-18**|**Random Latent Exploration for Deep Reinforcement Learning**|Srinath Mahankali et.al.|[2407.13755](http://arxiv.org/abs/2407.13755)|null|
@@ -64,7 +64,7 @@ layout: default
 |**2024-07-18**|**Optimistic Q-learning for average reward and episodic reinforcement learning**|Priyank Agrawal et.al.|[2407.13743](http://arxiv.org/abs/2407.13743)|null|
 |**2024-07-18**|**Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review**|Masatoshi Uehara et.al.|[2407.13734](http://arxiv.org/abs/2407.13734)|**[link](https://github.com/masa-ue/RLfinetuning_Diffusion_Bioseq)**|
 |**2024-07-18**|**Realizable $H$ -Consistent and Bayes-Consistent Loss Functions for Learning to Defer**|Anqi Mao et.al.|[2407.13732](http://arxiv.org/abs/2407.13732)|null|
-|**2024-07-18**|**Predictive Low Rank Matrix Learning under Partial Observations: Mixed-Projection ADMM**|Dimitris Bertsimas et.al.|[2407.13731](http://arxiv.org/abs/2407.13731)|null|
+|**2024-07-18**|**Predictive Low Rank Matrix Learning under Partial Observations: Mixed-Projection ADMM**|Dimitris Bertsimas et.al.|[2407.13731](http://arxiv.org/abs/2407.13731)|**[link](https://github.com/NicholasJohnson2020/LearningLowRankMatrices)**|
 |**2024-07-18**|**Compressing Structured Tensor Algebra**|Mahdi Ghorbani et.al.|[2407.13726](http://arxiv.org/abs/2407.13726)|null|
 |**2024-07-18**|**Enhanced $H$ -Consistency Bounds**|Anqi Mao et.al.|[2407.13722](http://arxiv.org/abs/2407.13722)|null|
 |**2024-07-18**|**Attention Based Simple Primitives for Open World Compositional Zero-Shot Learning**|Ans Munir et.al.|[2407.13715](http://arxiv.org/abs/2407.13715)|**[link](https://github.com/ans92/ASP)**|
@@ -341,7 +341,7 @@ layout: default
 |**2024-06-06**|**Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models**|Ali Behrouz et.al.|[2406.04320](http://arxiv.org/abs/2406.04320)|null|
 |**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496](http://arxiv.org/abs/2406.03496)|null|
 |**2024-06-05**|**Grokking Modular Polynomials**|Darshil Doshi et.al.|[2406.03495](http://arxiv.org/abs/2406.03495)|null|
-|**2024-06-05**|**Solving Poisson Equations using Neural Walk-on-Spheres**|Hong Chul Nam et.al.|[2406.03494](http://arxiv.org/abs/2406.03494)|null|
+|**2024-06-05**|**Solving Poisson Equations using Neural Walk-on-Spheres**|Hong Chul Nam et.al.|[2406.03494](http://arxiv.org/abs/2406.03494)|**[link](https://github.com/bizoffermark/neural_wos)**|
 |**2024-06-05**|**Highway Value Iteration Networks**|Yuhui Wang et.al.|[2406.03485](http://arxiv.org/abs/2406.03485)|null|
 |**2024-06-05**|**QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead**|Amir Zandieh et.al.|[2406.03482](http://arxiv.org/abs/2406.03482)|**[link](https://github.com/amirzandieh/qjl)**|
 |**2024-06-05**|**Unpacking Approaches to Learning and Teaching Machine Learning in K-12 Education: Transparency, Ethics, and Design Activities**|Luis Morales-Navarro et.al.|[2406.03480](http://arxiv.org/abs/2406.03480)|null|
@@ -474,7 +474,7 @@ layout: default
 |**2024-05-15**|**Restoring balance: principled under/oversampling of data for optimal classification**|Emanuele Loffredo et.al.|[2405.09535](http://arxiv.org/abs/2405.09535)|**[link](https://github.com/Eloffredo/RestoringDataBalance)**|
 |**2024-05-15**|**Improved classical shadows from local symmetries in the Schur basis**|Daniel Grier et.al.|[2405.09525](http://arxiv.org/abs/2405.09525)|null|
 |**2024-05-15**|**ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations**|Artur Grigorev et.al.|[2405.09522](http://arxiv.org/abs/2405.09522)|null|
-|**2024-05-15**|**Generalization Bounds for Causal Regression: Insights, Guarantees and Sensitivity Analysis**|Daniel Csillag et.al.|[2405.09516](http://arxiv.org/abs/2405.09516)|null|
+|**2024-05-15**|**Generalization Bounds for Causal Regression: Insights, Guarantees and Sensitivity Analysis**|Daniel Csillag et.al.|[2405.09516](http://arxiv.org/abs/2405.09516)|**[link](https://github.com/dccsillag/experiments-causal-generalization-bounds)**|
 |**2024-05-15**|**Tackling Distribution Shifts in Task-Oriented Communication with Information Bottleneck**|Hongru Li et.al.|[2405.09514](http://arxiv.org/abs/2405.09514)|null|
 |**2024-05-15**|**Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming**|Bushi Xiao et.al.|[2405.09508](http://arxiv.org/abs/2405.09508)|null|
 |**2024-05-15**|**A Comprehensive Survey on SmartNICs: Architectures, Development Models, Applications, and Research Directions**|Elie Kfoury et.al.|[2405.09499](http://arxiv.org/abs/2405.09499)|null|
@@ -655,7 +655,7 @@ layout: default
 |**2024-04-19**|**Single-loop Projection-free and Projected Gradient-based Algorithms for Nonconvex-concave Saddle Point Problems with Bilevel Structure**|Mohammad Mahdi Ahmadi et.al.|[2404.13021](http://arxiv.org/abs/2404.13021)|null|
 |**2024-04-19**|**Stronger Random Baselines for In-Context Learning**|Gregory Yauney et.al.|[2404.13020](http://arxiv.org/abs/2404.13020)|**[link](https://github.com/gyauney/max-random-baseline)**|
 |**2024-04-19**|**Optimizing Calibration by Gaining Aware of Prediction Correctness**|Yuchi Liu et.al.|[2404.13016](http://arxiv.org/abs/2404.13016)|**[link](https://github.com/liuyvchi/correctness-aware-calibration)**|
-|**2024-04-19**|**Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models**|Chuofan Ma et.al.|[2404.13013](http://arxiv.org/abs/2404.13013)|null|
+|**2024-04-19**|**Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models**|Chuofan Ma et.al.|[2404.13013](http://arxiv.org/abs/2404.13013)|**[link](https://github.com/FoundationVision/Groma)**|
 |**2024-04-19**|**Towards Robust Ferrous Scrap Material Classification with Deep Learning and Conformal Prediction**|Paulo Henrique dos Santos et.al.|[2404.13002](http://arxiv.org/abs/2404.13002)|null|
 |**2024-04-19**|**RadRotator: 3D Rotation of Radiographs with Diffusion Models**|Pouria Rouzrokh et.al.|[2404.13000](http://arxiv.org/abs/2404.13000)|null|
 |**2024-04-19**|**Goal Exploration via Adaptive Skill Distribution for Goal-Conditioned Reinforcement Learning**|Lisheng Wu et.al.|[2404.12999](http://arxiv.org/abs/2404.12999)|null|
@@ -854,7 +854,7 @@ layout: default
 |**2024-03-22**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617](http://arxiv.org/abs/2403.14617)|null|
 |**2024-03-21**|**DreamReward: Text-to-3D Generation with Human Preference**|Junliang Ye et.al.|[2403.14613](http://arxiv.org/abs/2403.14613)|null|
 |**2024-03-21**|**Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey**|Zeyu Han et.al.|[2403.14608](http://arxiv.org/abs/2403.14608)|null|
-|**2024-03-21**|**The Elements of Differentiable Programming**|Mathieu Blondel et.al.|[2403.14606](http://arxiv.org/abs/2403.14606)|null|
+|**2024-03-21**|**The Elements of Differentiable Programming**|Mathieu Blondel et.al.|[2403.14606](http://arxiv.org/abs/2403.14606)|**[link](https://github.com/diffprog/code)**|
 |**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602](http://arxiv.org/abs/2403.14602)|null|
 |**2024-03-21**|**Extended Reality for Enhanced Human-Robot Collaboration: a Human-in-the-Loop Approach**|Yehor Karpichev et.al.|[2403.14597](http://arxiv.org/abs/2403.14597)|null|
 |**2024-03-21**|**Rethinking Adversarial Inverse Reinforcement Learning: From the Angles of Policy Imitation and Transferable Reward Recovery**|Yangchun Zhang et.al.|[2403.14593](http://arxiv.org/abs/2403.14593)|**[link](https://github.com/garyzyr001/rethinking-airl)**|
@@ -979,7 +979,7 @@ layout: default
 |**2024-07-25**|**Sparse Incremental Aggregation in Multi-Hop Federated Learning**|Sourav Mukherjee et.al.|[2407.18200](http://arxiv.org/abs/2407.18200)|null|
 |**2024-07-24**|**CMR Scaling Law: Predicting Critical Mixture Ratios for Continual Pre-training of Language Models**|Jiawei Gu et.al.|[2407.17467](http://arxiv.org/abs/2407.17467)|null|
 |**2024-07-24**|**Traversing Pareto Optimal Policies: Provably Efficient Multi-Objective Reinforcement Learning**|Shuang Qiu et.al.|[2407.17466](http://arxiv.org/abs/2407.17466)|null|
-|**2024-07-24**|**u- $μ$ P: The Unit-Scaled Maximal Update Parametrization**|Charlie Blake et.al.|[2407.17465](http://arxiv.org/abs/2407.17465)|null|
+|**2024-07-24**|**u- $μ$ P: The Unit-Scaled Maximal Update Parametrization**|Charlie Blake et.al.|[2407.17465](http://arxiv.org/abs/2407.17465)|**[link](https://github.com/graphcore-research/unit-scaling)**|
 |**2024-07-24**|**SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning**|Jianpeng Yao et.al.|[2407.17460](http://arxiv.org/abs/2407.17460)|null|
 |**2024-07-24**|**Hidden or Inferred: Fair Learning-To-Rank with Unknown Demographics**|Oluseun Olulana et.al.|[2407.17459](http://arxiv.org/abs/2407.17459)|**[link](https://github.com/sewen007/hoiltr)**|
 |**2024-07-24**|**EuroCropsML: A Time Series Benchmark Dataset For Few-Shot Crop Type Classification**|Joana Reuss et.al.|[2407.17458](http://arxiv.org/abs/2407.17458)|null|
@@ -987,14 +987,14 @@ layout: default
 |**2024-07-25**|**Looking at Model Debiasing through the Lens of Anomaly Detection**|Vito Paolo Pastore et.al.|[2407.17449](http://arxiv.org/abs/2407.17449)|null|
 |**2024-07-24**|**Fractional signature: a generalisation of the signature inspired by fractional calculus**|José Manuel Corcuera et.al.|[2407.17446](http://arxiv.org/abs/2407.17446)|null|
 |**2024-07-24**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438](http://arxiv.org/abs/2407.17438)|**[link](https://github.com/zhenzhiwang/humanvid)**|
-|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|null|
+|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|**[link](https://github.com/ink-usc/lifelong-icl)**|
 |**2024-07-23**|**Automatic Equalization for Individual Instrument Tracks Using Convolutional Neural Networks**|Florian Mockenhaupt et.al.|[2407.16691](http://arxiv.org/abs/2407.16691)|null|
 |**2024-07-23**|**Signatures of paracrystallinity in amorphous silicon**|Louise A. M. Rosset et.al.|[2407.16681](http://arxiv.org/abs/2407.16681)|null|
 |**2024-07-24**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/abs/2407.16680)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
 |**2024-07-23**|**From Imitation to Refinement -- Residual RL for Precise Visual Assembly**|Lars Ankile et.al.|[2407.16677](http://arxiv.org/abs/2407.16677)|null|
 |**2024-07-23**|**KAN or MLP: A Fairer Comparison**|Runpeng Yu et.al.|[2407.16674](http://arxiv.org/abs/2407.16674)|**[link](https://github.com/yu-rp/kanbefair)**|
 |**2024-07-23**|**Computable learning of natural hypothesis classes**|Matthew Harrison-Trainor et.al.|[2407.16663](http://arxiv.org/abs/2407.16663)|null|
-|**2024-07-23**|**Global Minima by Penalized Full-dimensional Scaling**|Jan de Leeuw et.al.|[2407.16645](http://arxiv.org/abs/2407.16645)|null|
+|**2024-07-23**|**Global Minima by Penalized Full-dimensional Scaling**|Jan de Leeuw et.al.|[2407.16645](http://arxiv.org/abs/2407.16645)|**[link](https://github.com/deleeuw/sPenalty)**|
 |**2024-07-23**|**Synthesizer Sound Matching Using Audio Spectrogram Transformers**|Fred Bruford et.al.|[2407.16643](http://arxiv.org/abs/2407.16643)|null|
 |**2024-07-23**|**Aggregation of expert advice, revisited**|Aryeh Kontorovich et.al.|[2407.16642](http://arxiv.org/abs/2407.16642)|null|
 |**2024-07-22**|**Reconstructing Training Data From Real World Models Trained with Transfer Learning**|Yakir Oz et.al.|[2407.15845](http://arxiv.org/abs/2407.15845)|null|
@@ -1006,15 +1006,15 @@ layout: default
 |**2024-07-22**|**Robust Mixture Learning when Outliers Overwhelm Small Groups**|Daniil Dmitriev et.al.|[2407.15792](http://arxiv.org/abs/2407.15792)|null|
 |**2024-07-22**|**Concept-Based Interpretable Reinforcement Learning with Limited to No Human Labels**|Zhuorui Ye et.al.|[2407.15786](http://arxiv.org/abs/2407.15786)|null|
 |**2024-07-22**|**Explaining Decisions in ML Models: a Parameterized Complexity Analysis**|Sebastian Ordyniak et.al.|[2407.15780](http://arxiv.org/abs/2407.15780)|null|
-|**2024-07-22**|**Analyzing the Impact of the Automatic Ball-Strike System in Professional Baseball: A Case Study on KBO League Data**|Kichang Lee et.al.|[2407.15779](http://arxiv.org/abs/2407.15779)|null|
+|**2024-07-22**|**Analyzing the Impact of the Automatic Ball-Strike System in Professional Baseball: A Case Study on KBO League Data**|Kichang Lee et.al.|[2407.15779](http://arxiv.org/abs/2407.15779)|**[link](https://github.com/eis-lab/where-do-the-robot-umpires-see)**|
 |**2024-07-19**|**Nonlinear Schrödinger Network**|Yiming Zhou et.al.|[2407.14504](http://arxiv.org/abs/2407.14504)|null|
 |**2024-07-19**|**Catastrophic Goodhart: regularizing RLHF with KL divergence does not mitigate heavy-tailed reward misspecification**|Thomas Kwa et.al.|[2407.14503](http://arxiv.org/abs/2407.14503)|null|
 |**2024-07-19**|**Indoor Air Quality Dataset with Activities of Daily Living in Low to Middle-income Communities**|Prasenjit Karmakar et.al.|[2407.14501](http://arxiv.org/abs/2407.14501)|**[link](https://github.com/prasenjit52282/dalton-dataset)**|
 |**2024-07-19**|**Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery**|Sukrut Rao et.al.|[2407.14499](http://arxiv.org/abs/2407.14499)|**[link](https://github.com/neuroexplicit-saar/discover-then-name)**|
 |**2024-07-19**|**Conformal Thresholded Intervals for Efficient Regression**|Rui Luo et.al.|[2407.14495](http://arxiv.org/abs/2407.14495)|null|
-|**2024-07-19**|**InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques**|Rohan Gupta et.al.|[2407.14494](http://arxiv.org/abs/2407.14494)|null|
+|**2024-07-19**|**InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques**|Rohan Gupta et.al.|[2407.14494](http://arxiv.org/abs/2407.14494)|**[link](https://github.com/FlyingPumba/circuits-benchmark)**|
 |**2024-07-19**|**ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities**|Peng Xu et.al.|[2407.14482](http://arxiv.org/abs/2407.14482)|null|
-|**2024-07-19**|**Data-Centric Human Preference Optimization with Rationales**|Hoang Anh Just et.al.|[2407.14477](http://arxiv.org/abs/2407.14477)|null|
+|**2024-07-19**|**Data-Centric Human Preference Optimization with Rationales**|Hoang Anh Just et.al.|[2407.14477](http://arxiv.org/abs/2407.14477)|**[link](https://github.com/reds-lab/preference-learning-with-rationales)**|
 |**2024-07-19**|**MLMT-CNN for Object Detection and Segmentation in Multi-layer and Multi-spectral Images**|Majedaldein Almahasneh et.al.|[2407.14473](http://arxiv.org/abs/2407.14473)|null|
 |**2024-07-19**|**SurvReLU: Inherently Interpretable Survival Analysis via Deep ReLU Networks**|Xiaotong Sun et.al.|[2407.14463](http://arxiv.org/abs/2407.14463)|**[link](https://github.com/xs018/survrelu)**|
 |**2024-07-18**|**Random Latent Exploration for Deep Reinforcement Learning**|Srinath Mahankali et.al.|[2407.13755](http://arxiv.org/abs/2407.13755)|null|
@@ -1022,7 +1022,7 @@ layout: default
 |**2024-07-18**|**Optimistic Q-learning for average reward and episodic reinforcement learning**|Priyank Agrawal et.al.|[2407.13743](http://arxiv.org/abs/2407.13743)|null|
 |**2024-07-18**|**Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review**|Masatoshi Uehara et.al.|[2407.13734](http://arxiv.org/abs/2407.13734)|**[link](https://github.com/masa-ue/RLfinetuning_Diffusion_Bioseq)**|
 |**2024-07-18**|**Realizable $H$ -Consistent and Bayes-Consistent Loss Functions for Learning to Defer**|Anqi Mao et.al.|[2407.13732](http://arxiv.org/abs/2407.13732)|null|
-|**2024-07-18**|**Predictive Low Rank Matrix Learning under Partial Observations: Mixed-Projection ADMM**|Dimitris Bertsimas et.al.|[2407.13731](http://arxiv.org/abs/2407.13731)|null|
+|**2024-07-18**|**Predictive Low Rank Matrix Learning under Partial Observations: Mixed-Projection ADMM**|Dimitris Bertsimas et.al.|[2407.13731](http://arxiv.org/abs/2407.13731)|**[link](https://github.com/NicholasJohnson2020/LearningLowRankMatrices)**|
 |**2024-07-18**|**Compressing Structured Tensor Algebra**|Mahdi Ghorbani et.al.|[2407.13726](http://arxiv.org/abs/2407.13726)|null|
 |**2024-07-18**|**Enhanced $H$ -Consistency Bounds**|Anqi Mao et.al.|[2407.13722](http://arxiv.org/abs/2407.13722)|null|
 |**2024-07-18**|**Attention Based Simple Primitives for Open World Compositional Zero-Shot Learning**|Ans Munir et.al.|[2407.13715](http://arxiv.org/abs/2407.13715)|**[link](https://github.com/ans92/ASP)**|
@@ -1299,7 +1299,7 @@ layout: default
 |**2024-06-06**|**Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models**|Ali Behrouz et.al.|[2406.04320](http://arxiv.org/abs/2406.04320)|null|
 |**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496](http://arxiv.org/abs/2406.03496)|null|
 |**2024-06-05**|**Grokking Modular Polynomials**|Darshil Doshi et.al.|[2406.03495](http://arxiv.org/abs/2406.03495)|null|
-|**2024-06-05**|**Solving Poisson Equations using Neural Walk-on-Spheres**|Hong Chul Nam et.al.|[2406.03494](http://arxiv.org/abs/2406.03494)|null|
+|**2024-06-05**|**Solving Poisson Equations using Neural Walk-on-Spheres**|Hong Chul Nam et.al.|[2406.03494](http://arxiv.org/abs/2406.03494)|**[link](https://github.com/bizoffermark/neural_wos)**|
 |**2024-06-05**|**Highway Value Iteration Networks**|Yuhui Wang et.al.|[2406.03485](http://arxiv.org/abs/2406.03485)|null|
 |**2024-06-05**|**QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead**|Amir Zandieh et.al.|[2406.03482](http://arxiv.org/abs/2406.03482)|**[link](https://github.com/amirzandieh/qjl)**|
 |**2024-06-05**|**Unpacking Approaches to Learning and Teaching Machine Learning in K-12 Education: Transparency, Ethics, and Design Activities**|Luis Morales-Navarro et.al.|[2406.03480](http://arxiv.org/abs/2406.03480)|null|
@@ -1432,7 +1432,7 @@ layout: default
 |**2024-05-15**|**Restoring balance: principled under/oversampling of data for optimal classification**|Emanuele Loffredo et.al.|[2405.09535](http://arxiv.org/abs/2405.09535)|**[link](https://github.com/Eloffredo/RestoringDataBalance)**|
 |**2024-05-15**|**Improved classical shadows from local symmetries in the Schur basis**|Daniel Grier et.al.|[2405.09525](http://arxiv.org/abs/2405.09525)|null|
 |**2024-05-15**|**ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations**|Artur Grigorev et.al.|[2405.09522](http://arxiv.org/abs/2405.09522)|null|
-|**2024-05-15**|**Generalization Bounds for Causal Regression: Insights, Guarantees and Sensitivity Analysis**|Daniel Csillag et.al.|[2405.09516](http://arxiv.org/abs/2405.09516)|null|
+|**2024-05-15**|**Generalization Bounds for Causal Regression: Insights, Guarantees and Sensitivity Analysis**|Daniel Csillag et.al.|[2405.09516](http://arxiv.org/abs/2405.09516)|**[link](https://github.com/dccsillag/experiments-causal-generalization-bounds)**|
 |**2024-05-15**|**Tackling Distribution Shifts in Task-Oriented Communication with Information Bottleneck**|Hongru Li et.al.|[2405.09514](http://arxiv.org/abs/2405.09514)|null|
 |**2024-05-15**|**Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming**|Bushi Xiao et.al.|[2405.09508](http://arxiv.org/abs/2405.09508)|null|
 |**2024-05-15**|**A Comprehensive Survey on SmartNICs: Architectures, Development Models, Applications, and Research Directions**|Elie Kfoury et.al.|[2405.09499](http://arxiv.org/abs/2405.09499)|null|
@@ -1613,7 +1613,7 @@ layout: default
 |**2024-04-19**|**Single-loop Projection-free and Projected Gradient-based Algorithms for Nonconvex-concave Saddle Point Problems with Bilevel Structure**|Mohammad Mahdi Ahmadi et.al.|[2404.13021](http://arxiv.org/abs/2404.13021)|null|
 |**2024-04-19**|**Stronger Random Baselines for In-Context Learning**|Gregory Yauney et.al.|[2404.13020](http://arxiv.org/abs/2404.13020)|**[link](https://github.com/gyauney/max-random-baseline)**|
 |**2024-04-19**|**Optimizing Calibration by Gaining Aware of Prediction Correctness**|Yuchi Liu et.al.|[2404.13016](http://arxiv.org/abs/2404.13016)|**[link](https://github.com/liuyvchi/correctness-aware-calibration)**|
-|**2024-04-19**|**Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models**|Chuofan Ma et.al.|[2404.13013](http://arxiv.org/abs/2404.13013)|null|
+|**2024-04-19**|**Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models**|Chuofan Ma et.al.|[2404.13013](http://arxiv.org/abs/2404.13013)|**[link](https://github.com/FoundationVision/Groma)**|
 |**2024-04-19**|**Towards Robust Ferrous Scrap Material Classification with Deep Learning and Conformal Prediction**|Paulo Henrique dos Santos et.al.|[2404.13002](http://arxiv.org/abs/2404.13002)|null|
 |**2024-04-19**|**RadRotator: 3D Rotation of Radiographs with Diffusion Models**|Pouria Rouzrokh et.al.|[2404.13000](http://arxiv.org/abs/2404.13000)|null|
 |**2024-04-19**|**Goal Exploration via Adaptive Skill Distribution for Goal-Conditioned Reinforcement Learning**|Lisheng Wu et.al.|[2404.12999](http://arxiv.org/abs/2404.12999)|null|
@@ -1812,7 +1812,7 @@ layout: default
 |**2024-03-22**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617](http://arxiv.org/abs/2403.14617)|null|
 |**2024-03-21**|**DreamReward: Text-to-3D Generation with Human Preference**|Junliang Ye et.al.|[2403.14613](http://arxiv.org/abs/2403.14613)|null|
 |**2024-03-21**|**Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey**|Zeyu Han et.al.|[2403.14608](http://arxiv.org/abs/2403.14608)|null|
-|**2024-03-21**|**The Elements of Differentiable Programming**|Mathieu Blondel et.al.|[2403.14606](http://arxiv.org/abs/2403.14606)|null|
+|**2024-03-21**|**The Elements of Differentiable Programming**|Mathieu Blondel et.al.|[2403.14606](http://arxiv.org/abs/2403.14606)|**[link](https://github.com/diffprog/code)**|
 |**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602](http://arxiv.org/abs/2403.14602)|null|
 |**2024-03-21**|**Extended Reality for Enhanced Human-Robot Collaboration: a Human-in-the-Loop Approach**|Yehor Karpichev et.al.|[2403.14597](http://arxiv.org/abs/2403.14597)|null|
 |**2024-03-21**|**Rethinking Adversarial Inverse Reinforcement Learning: From the Angles of Policy Imitation and Transferable Reward Recovery**|Yangchun Zhang et.al.|[2403.14593](http://arxiv.org/abs/2403.14593)|**[link](https://github.com/garyzyr001/rethinking-airl)**|
