@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Mission Impossible: A Statistical Perspective on Jailbreaking LLMs**|Jingtong Su et.al.|[2408.01420](http://arxiv.org/abs/2408.01420)|null|
+|**2024-08-02**|**Talk Less, Interact Better: Evaluating In-context Conversational Adaptation in Multimodal LLMs**|Yilun Hua et.al.|[2408.01417](http://arxiv.org/abs/2408.01417)|null|
+|**2024-08-02**|**The Quest for the Right Mediator: A History, Survey, and Theoretical Grounding of Causal Interpretability**|Aaron Mueller et.al.|[2408.01416](http://arxiv.org/abs/2408.01416)|null|
+|**2024-08-02**|**Conditional LoRA Parameter Generation**|Xiaolong Jin et.al.|[2408.01415](http://arxiv.org/abs/2408.01415)|null|
+|**2024-08-02**|**Derivation of Back-propagation for Graph Convolutional Networks using Matrix Calculus and its Application to Explainable Artificial Intelligence**|Yen-Che Hsiao et.al.|[2408.01408](http://arxiv.org/abs/2408.01408)|null|
+|**2024-08-02**|**Digitized Phase Change Material Heterostack for Diffractive Optical Neural Network**|Ruiyang Chen et.al.|[2408.01404](http://arxiv.org/abs/2408.01404)|null|
+|**2024-08-02**|**Pre-trained Language Models Improve the Few-shot Prompt Ability of Decision Transformer**|Yu Yang et.al.|[2408.01402](http://arxiv.org/abs/2408.01402)|null|
+|**2024-08-02**|**FT K-Means: A High-Performance K-Means on GPU with Fault Tolerance**|Shixun Wu et.al.|[2408.01391](http://arxiv.org/abs/2408.01391)|null|
+|**2024-08-02**|**NeuralBeta: Estimating Beta Using Deep Learning**|Yuxin Liu et.al.|[2408.01387](http://arxiv.org/abs/2408.01387)|null|
+|**2024-08-02**|**PLIC-Net: A Machine Learning Approach for 3D Interface Reconstruction in Volume of Fluid Methods**|Andrew Cahaly et.al.|[2408.01383](http://arxiv.org/abs/2408.01383)|null|
 |**2024-08-01**|**AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation**|Mengkang Hu et.al.|[2408.00764](http://arxiv.org/abs/2408.00764)|null|
 |**2024-08-01**|**Tamper-Resistant Safeguards for Open-Weight LLMs**|Rishub Tamirisa et.al.|[2408.00761](http://arxiv.org/abs/2408.00761)|null|
 |**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760](http://arxiv.org/abs/2408.00760)|null|
@@ -1024,6 +1034,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Mission Impossible: A Statistical Perspective on Jailbreaking LLMs**|Jingtong Su et.al.|[2408.01420](http://arxiv.org/abs/2408.01420)|null|
+|**2024-08-02**|**Talk Less, Interact Better: Evaluating In-context Conversational Adaptation in Multimodal LLMs**|Yilun Hua et.al.|[2408.01417](http://arxiv.org/abs/2408.01417)|null|
+|**2024-08-02**|**The Quest for the Right Mediator: A History, Survey, and Theoretical Grounding of Causal Interpretability**|Aaron Mueller et.al.|[2408.01416](http://arxiv.org/abs/2408.01416)|null|
+|**2024-08-02**|**Conditional LoRA Parameter Generation**|Xiaolong Jin et.al.|[2408.01415](http://arxiv.org/abs/2408.01415)|null|
+|**2024-08-02**|**Derivation of Back-propagation for Graph Convolutional Networks using Matrix Calculus and its Application to Explainable Artificial Intelligence**|Yen-Che Hsiao et.al.|[2408.01408](http://arxiv.org/abs/2408.01408)|null|
+|**2024-08-02**|**Digitized Phase Change Material Heterostack for Diffractive Optical Neural Network**|Ruiyang Chen et.al.|[2408.01404](http://arxiv.org/abs/2408.01404)|null|
+|**2024-08-02**|**Pre-trained Language Models Improve the Few-shot Prompt Ability of Decision Transformer**|Yu Yang et.al.|[2408.01402](http://arxiv.org/abs/2408.01402)|null|
+|**2024-08-02**|**FT K-Means: A High-Performance K-Means on GPU with Fault Tolerance**|Shixun Wu et.al.|[2408.01391](http://arxiv.org/abs/2408.01391)|null|
+|**2024-08-02**|**NeuralBeta: Estimating Beta Using Deep Learning**|Yuxin Liu et.al.|[2408.01387](http://arxiv.org/abs/2408.01387)|null|
+|**2024-08-02**|**PLIC-Net: A Machine Learning Approach for 3D Interface Reconstruction in Volume of Fluid Methods**|Andrew Cahaly et.al.|[2408.01383](http://arxiv.org/abs/2408.01383)|null|
 |**2024-08-01**|**AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation**|Mengkang Hu et.al.|[2408.00764](http://arxiv.org/abs/2408.00764)|null|
 |**2024-08-01**|**Tamper-Resistant Safeguards for Open-Weight LLMs**|Rishub Tamirisa et.al.|[2408.00761](http://arxiv.org/abs/2408.00761)|null|
 |**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760](http://arxiv.org/abs/2408.00760)|null|
