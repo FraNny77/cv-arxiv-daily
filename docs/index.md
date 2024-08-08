@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -15,8 +15,8 @@ layout: default
 |**2024-08-06**|**Pre-training and in-context learning IS Bayesian inference a la De Finetti**|Naimeng Ye et.al.|[2408.03307](http://arxiv.org/abs/2408.03307)|null|
 |**2024-08-06**|**Fusing Forces: Deep-Human-Guided Refinement of Segmentation Masks**|Rafael Sterzinger et.al.|[2408.03304](http://arxiv.org/abs/2408.03304)|null|
 |**2024-08-06**|**SARA: Singular-Value Based Adaptive Low-Rank Adaption**|Jihao Gu et.al.|[2408.03290](http://arxiv.org/abs/2408.03290)|null|
-|**2024-08-06**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287](http://arxiv.org/abs/2408.03287)|null|
-|**2024-08-06**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281](http://arxiv.org/abs/2408.03281)|null|
+|**2024-08-07**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287](http://arxiv.org/abs/2408.03287)|null|
+|**2024-08-07**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281](http://arxiv.org/abs/2408.03281)|**[link](https://github.com/c-box/structeval)**|
 |**2024-08-06**|**Compress and Compare: Interactively Evaluating Efficiency and Behavior Across ML Model Compression Experiments**|Angie Boggust et.al.|[2408.03274](http://arxiv.org/abs/2408.03274)|null|
 |**2024-08-06**|**Multiscale modeling framework of a constrained fluid with complex boundaries using twin neural networks**|Peiyuan Gao et.al.|[2408.03263](http://arxiv.org/abs/2408.03263)|null|
 |**2024-08-05**|**On Using Quasirandom Sequences in Machine Learning for Model Weight Initialization**|Andriy Miranskyy et.al.|[2408.02654](http://arxiv.org/abs/2408.02654)|null|
@@ -1053,8 +1053,8 @@ layout: default
 |**2024-08-06**|**Pre-training and in-context learning IS Bayesian inference a la De Finetti**|Naimeng Ye et.al.|[2408.03307](http://arxiv.org/abs/2408.03307)|null|
 |**2024-08-06**|**Fusing Forces: Deep-Human-Guided Refinement of Segmentation Masks**|Rafael Sterzinger et.al.|[2408.03304](http://arxiv.org/abs/2408.03304)|null|
 |**2024-08-06**|**SARA: Singular-Value Based Adaptive Low-Rank Adaption**|Jihao Gu et.al.|[2408.03290](http://arxiv.org/abs/2408.03290)|null|
-|**2024-08-06**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287](http://arxiv.org/abs/2408.03287)|null|
-|**2024-08-06**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281](http://arxiv.org/abs/2408.03281)|null|
+|**2024-08-07**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287](http://arxiv.org/abs/2408.03287)|null|
+|**2024-08-07**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281](http://arxiv.org/abs/2408.03281)|**[link](https://github.com/c-box/structeval)**|
 |**2024-08-06**|**Compress and Compare: Interactively Evaluating Efficiency and Behavior Across ML Model Compression Experiments**|Angie Boggust et.al.|[2408.03274](http://arxiv.org/abs/2408.03274)|null|
 |**2024-08-06**|**Multiscale modeling framework of a constrained fluid with complex boundaries using twin neural networks**|Peiyuan Gao et.al.|[2408.03263](http://arxiv.org/abs/2408.03263)|null|
 |**2024-08-05**|**On Using Quasirandom Sequences in Machine Learning for Model Weight Initialization**|Andriy Miranskyy et.al.|[2408.02654](http://arxiv.org/abs/2408.02654)|null|
