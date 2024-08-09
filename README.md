@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Regularized Unconstrained Weakly Submodular Maximization**|Yanhui Zhu et.al.|[2408.04620](http://arxiv.org/abs/2408.04620)|null|
+|**2024-08-08**|**Transformer Explainer: Interactive Learning of Text-Generative Models**|Aeree Cho et.al.|[2408.04619](http://arxiv.org/abs/2408.04619)|null|
+|**2024-08-08**|**Better Alignment with Instruction Back-and-Forth Translation**|Thao Nguyen et.al.|[2408.04614](http://arxiv.org/abs/2408.04614)|null|
+|**2024-08-08**|**Risk and cross validation in ridge regression with correlated samples**|Alexander Atanasov et.al.|[2408.04607](http://arxiv.org/abs/2408.04607)|null|
+|**2024-08-08**|**Inference with the Upper Confidence Bound Algorithm**|Koulik Khamaru et.al.|[2408.04595](http://arxiv.org/abs/2408.04595)|**[link](https://github.com/koulikberkeley/ucb-stability-plots)**|
+|**2024-08-08**|**Learn To Learn More Precisely**|Runxi Cheng et.al.|[2408.04590](http://arxiv.org/abs/2408.04590)|null|
+|**2024-08-08**|**Sampling for View Synthesis: From Local Light Field Fusion to Neural Radiance Fields and Beyond**|Ravi Ramamoorthi et.al.|[2408.04586](http://arxiv.org/abs/2408.04586)|null|
+|**2024-08-08**|**Unveiling the Power of Sparse Neural Networks for Feature Selection**|Zahra Atashgahi et.al.|[2408.04583](http://arxiv.org/abs/2408.04583)|**[link](https://github.com/zahraatashgahi/neuron-attribution)**|
+|**2024-08-08**|**Mathematical Programming For Adaptive Experiments**|Ethan Che et.al.|[2408.04570](http://arxiv.org/abs/2408.04570)|null|
+|**2024-08-08**|**Activation thresholds and expressiveness of polynomial neural networks**|Bella Finkel et.al.|[2408.04569](http://arxiv.org/abs/2408.04569)|null|
 |**2024-08-07**|**SLIM-RAFT: A Novel Fine-Tuning Approach to Improve Cross-Linguistic Performance for Mercosur Common Nomenclature**|Vinícius Di Oliveira et.al.|[2408.03936](http://arxiv.org/abs/2408.03936)|null|
 |**2024-08-07**|**Building spectral templates and reconstructing parameters for core collapse supernovae with CASTOR**|Andrea Simongini et.al.|[2408.03916](http://arxiv.org/abs/2408.03916)|null|
 |**2024-08-07**|**Hard to Explain: On the Computational Hardness of In-Distribution Model Interpretation**|Guy Amir et.al.|[2408.03915](http://arxiv.org/abs/2408.03915)|null|
@@ -1064,6 +1074,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Regularized Unconstrained Weakly Submodular Maximization**|Yanhui Zhu et.al.|[2408.04620](http://arxiv.org/abs/2408.04620)|null|
+|**2024-08-08**|**Transformer Explainer: Interactive Learning of Text-Generative Models**|Aeree Cho et.al.|[2408.04619](http://arxiv.org/abs/2408.04619)|null|
+|**2024-08-08**|**Better Alignment with Instruction Back-and-Forth Translation**|Thao Nguyen et.al.|[2408.04614](http://arxiv.org/abs/2408.04614)|null|
+|**2024-08-08**|**Risk and cross validation in ridge regression with correlated samples**|Alexander Atanasov et.al.|[2408.04607](http://arxiv.org/abs/2408.04607)|null|
+|**2024-08-08**|**Inference with the Upper Confidence Bound Algorithm**|Koulik Khamaru et.al.|[2408.04595](http://arxiv.org/abs/2408.04595)|**[link](https://github.com/koulikberkeley/ucb-stability-plots)**|
+|**2024-08-08**|**Learn To Learn More Precisely**|Runxi Cheng et.al.|[2408.04590](http://arxiv.org/abs/2408.04590)|null|
+|**2024-08-08**|**Sampling for View Synthesis: From Local Light Field Fusion to Neural Radiance Fields and Beyond**|Ravi Ramamoorthi et.al.|[2408.04586](http://arxiv.org/abs/2408.04586)|null|
+|**2024-08-08**|**Unveiling the Power of Sparse Neural Networks for Feature Selection**|Zahra Atashgahi et.al.|[2408.04583](http://arxiv.org/abs/2408.04583)|**[link](https://github.com/zahraatashgahi/neuron-attribution)**|
+|**2024-08-08**|**Mathematical Programming For Adaptive Experiments**|Ethan Che et.al.|[2408.04570](http://arxiv.org/abs/2408.04570)|null|
+|**2024-08-08**|**Activation thresholds and expressiveness of polynomial neural networks**|Bella Finkel et.al.|[2408.04569](http://arxiv.org/abs/2408.04569)|null|
 |**2024-08-07**|**SLIM-RAFT: A Novel Fine-Tuning Approach to Improve Cross-Linguistic Performance for Mercosur Common Nomenclature**|Vinícius Di Oliveira et.al.|[2408.03936](http://arxiv.org/abs/2408.03936)|null|
 |**2024-08-07**|**Building spectral templates and reconstructing parameters for core collapse supernovae with CASTOR**|Andrea Simongini et.al.|[2408.03916](http://arxiv.org/abs/2408.03916)|null|
 |**2024-08-07**|**Hard to Explain: On the Computational Hardness of In-Distribution Model Interpretation**|Guy Amir et.al.|[2408.03915](http://arxiv.org/abs/2408.03915)|null|
@@ -2116,6 +2136,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Diffusion Guided Language Modeling**|Justin Lovelace et.al.|[2408.04220](http://arxiv.org/abs/2408.04220)|**[link](https://github.com/justinlovelace/diffusion-guided-lm)**|
 |**2024-02-29**|**TEncDM: Understanding the Properties of Diffusion Model in the Space of Language Model Encodings**|Alexander Shabalin et.al.|[2402.19097](http://arxiv.org/abs/2402.19097)|null|
 |**2024-02-19**|**Text Diffusion with Reinforced Conditioning**|Yuxuan Liu et.al.|[2402.14843](http://arxiv.org/abs/2402.14843)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
