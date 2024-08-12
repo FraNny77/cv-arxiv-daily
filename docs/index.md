@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-10**|**Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions**|Michele Miranda et.al.|[2408.05212](http://arxiv.org/abs/2408.05212)|null|
+|**2024-08-09**|**Cell Morphology-Guided Small Molecule Generation with GFlowNets**|Stephen Zhewen Lu et.al.|[2408.05196](http://arxiv.org/abs/2408.05196)|**[link](https://github.com/thematrixmaster/omics-guided-gfn)**|
+|**2024-08-09**|**HistoKernel: Whole Slide Image Level Maximum Mean Discrepancy Kernels for Pan-Cancer Predictive Modelling**|Piotr Keller et.al.|[2408.05195](http://arxiv.org/abs/2408.05195)|**[link](https://github.com/pkeller00/histokernel)**|
+|**2024-08-09**|**ECG-FM: An Open Electrocardiogram Foundation Model**|Kaden McKeen et.al.|[2408.05178](http://arxiv.org/abs/2408.05178)|**[link](https://github.com/bowang-lab/ecg-fm)**|
+|**2024-08-09**|**Beyond Closure Models: Learning Chaotic-Systems via Physics-Informed Neural Operators**|Chuwei Wang et.al.|[2408.05177](http://arxiv.org/abs/2408.05177)|null|
+|**2024-08-09**|**Decoding Quantum LDPC Codes Using Graph Neural Networks**|Vukan Ninkovic et.al.|[2408.05170](http://arxiv.org/abs/2408.05170)|null|
+|**2024-08-09**|**Federated Hypergraph Learning with Hyperedge Completion**|Linfeng Luo et.al.|[2408.05160](http://arxiv.org/abs/2408.05160)|null|
+|**2024-08-09**|**Meta-Learning Guided Label Noise Distillation for Robust Signal Modulation Classification**|Xiaoyang Hao et.al.|[2408.05151](http://arxiv.org/abs/2408.05151)|null|
+|**2024-08-09**|**Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications**|Sanjif Shanmugavelu et.al.|[2408.05148](http://arxiv.org/abs/2408.05148)|null|
+|**2024-08-09**|**Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2**|Tom Lieberum et.al.|[2408.05147](http://arxiv.org/abs/2408.05147)|null|
 |**2024-08-08**|**Regularized Unconstrained Weakly Submodular Maximization**|Yanhui Zhu et.al.|[2408.04620](http://arxiv.org/abs/2408.04620)|null|
 |**2024-08-08**|**Transformer Explainer: Interactive Learning of Text-Generative Models**|Aeree Cho et.al.|[2408.04619](http://arxiv.org/abs/2408.04619)|null|
 |**2024-08-08**|**Better Alignment with Instruction Back-and-Forth Translation**|Thao Nguyen et.al.|[2408.04614](http://arxiv.org/abs/2408.04614)|null|
@@ -1067,6 +1077,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-10**|**Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions**|Michele Miranda et.al.|[2408.05212](http://arxiv.org/abs/2408.05212)|null|
+|**2024-08-09**|**Cell Morphology-Guided Small Molecule Generation with GFlowNets**|Stephen Zhewen Lu et.al.|[2408.05196](http://arxiv.org/abs/2408.05196)|**[link](https://github.com/thematrixmaster/omics-guided-gfn)**|
+|**2024-08-09**|**HistoKernel: Whole Slide Image Level Maximum Mean Discrepancy Kernels for Pan-Cancer Predictive Modelling**|Piotr Keller et.al.|[2408.05195](http://arxiv.org/abs/2408.05195)|**[link](https://github.com/pkeller00/histokernel)**|
+|**2024-08-09**|**ECG-FM: An Open Electrocardiogram Foundation Model**|Kaden McKeen et.al.|[2408.05178](http://arxiv.org/abs/2408.05178)|**[link](https://github.com/bowang-lab/ecg-fm)**|
+|**2024-08-09**|**Beyond Closure Models: Learning Chaotic-Systems via Physics-Informed Neural Operators**|Chuwei Wang et.al.|[2408.05177](http://arxiv.org/abs/2408.05177)|null|
+|**2024-08-09**|**Decoding Quantum LDPC Codes Using Graph Neural Networks**|Vukan Ninkovic et.al.|[2408.05170](http://arxiv.org/abs/2408.05170)|null|
+|**2024-08-09**|**Federated Hypergraph Learning with Hyperedge Completion**|Linfeng Luo et.al.|[2408.05160](http://arxiv.org/abs/2408.05160)|null|
+|**2024-08-09**|**Meta-Learning Guided Label Noise Distillation for Robust Signal Modulation Classification**|Xiaoyang Hao et.al.|[2408.05151](http://arxiv.org/abs/2408.05151)|null|
+|**2024-08-09**|**Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications**|Sanjif Shanmugavelu et.al.|[2408.05148](http://arxiv.org/abs/2408.05148)|null|
+|**2024-08-09**|**Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2**|Tom Lieberum et.al.|[2408.05147](http://arxiv.org/abs/2408.05147)|null|
 |**2024-08-08**|**Regularized Unconstrained Weakly Submodular Maximization**|Yanhui Zhu et.al.|[2408.04620](http://arxiv.org/abs/2408.04620)|null|
 |**2024-08-08**|**Transformer Explainer: Interactive Learning of Text-Generative Models**|Aeree Cho et.al.|[2408.04619](http://arxiv.org/abs/2408.04619)|null|
 |**2024-08-08**|**Better Alignment with Instruction Back-and-Forth Translation**|Thao Nguyen et.al.|[2408.04614](http://arxiv.org/abs/2408.04614)|null|
