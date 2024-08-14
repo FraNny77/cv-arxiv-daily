@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Approaches for enhancing extrapolability in process-based and data-driven models in hydrology**|Haiyang Shi et.al.|[2408.07071](http://arxiv.org/abs/2408.07071)|null|
+|**2024-08-13**|**Diversity Empowers Intelligence: Integrating Expertise of Software Engineering Agents**|Kexun Zhang et.al.|[2408.07060](http://arxiv.org/abs/2408.07060)|null|
+|**2024-08-13**|**A Survey on Model MoErging: Recycling and Routing Among Specialized Experts for Collaborative Learning**|Prateek Yadav et.al.|[2408.07057](http://arxiv.org/abs/2408.07057)|null|
+|**2024-08-13**|**LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs**|Yushi Bai et.al.|[2408.07055](http://arxiv.org/abs/2408.07055)|**[link](https://github.com/thudm/longwriter)**|
+|**2024-08-13**|**TableGuard -- Securing Structured & Unstructured Data**|Anantha Sharma et.al.|[2408.07045](http://arxiv.org/abs/2408.07045)|null|
+|**2024-08-13**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC Codes**|Arshpreet Singh Maan et.al.|[2408.07038](http://arxiv.org/abs/2408.07038)|null|
+|**2024-08-13**|**Defining and Measuring Disentanglement for non-Independent Factors of Variation**|Antonio Almudévar et.al.|[2408.07016](http://arxiv.org/abs/2408.07016)|null|
+|**2024-08-13**|**Casper: Prompt Sanitization for Protecting User Privacy in Web-Based Large Language Models**|Chun Jie Chong et.al.|[2408.07004](http://arxiv.org/abs/2408.07004)|null|
+|**2024-08-13**|**Faster Private Minimum Spanning Trees**|Rasmus Pagh et.al.|[2408.06997](http://arxiv.org/abs/2408.06997)|null|
+|**2024-08-13**|**Blessing of Dimensionality for Approximating Sobolev Classes on Manifolds**|Hong Ye Tan et.al.|[2408.06996](http://arxiv.org/abs/2408.06996)|null|
 |**2024-08-12**|**LOLgorithm: Integrating Semantic,Syntactic and Contextual Elements for Humor Classification**|Tanisha Khurana et.al.|[2408.06335](http://arxiv.org/abs/2408.06335)|null|
 |**2024-08-12**|**Discovering High-Entropy Oxides with a Machine-Learning Interatomic Potential**|Jacob T. Sivak et.al.|[2408.06322](http://arxiv.org/abs/2408.06322)|null|
 |**2024-08-12**|**Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example**|Yanan Chen et.al.|[2408.06318](http://arxiv.org/abs/2408.06318)|null|
@@ -1094,6 +1104,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Approaches for enhancing extrapolability in process-based and data-driven models in hydrology**|Haiyang Shi et.al.|[2408.07071](http://arxiv.org/abs/2408.07071)|null|
+|**2024-08-13**|**Diversity Empowers Intelligence: Integrating Expertise of Software Engineering Agents**|Kexun Zhang et.al.|[2408.07060](http://arxiv.org/abs/2408.07060)|null|
+|**2024-08-13**|**A Survey on Model MoErging: Recycling and Routing Among Specialized Experts for Collaborative Learning**|Prateek Yadav et.al.|[2408.07057](http://arxiv.org/abs/2408.07057)|null|
+|**2024-08-13**|**LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs**|Yushi Bai et.al.|[2408.07055](http://arxiv.org/abs/2408.07055)|**[link](https://github.com/thudm/longwriter)**|
+|**2024-08-13**|**TableGuard -- Securing Structured & Unstructured Data**|Anantha Sharma et.al.|[2408.07045](http://arxiv.org/abs/2408.07045)|null|
+|**2024-08-13**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC Codes**|Arshpreet Singh Maan et.al.|[2408.07038](http://arxiv.org/abs/2408.07038)|null|
+|**2024-08-13**|**Defining and Measuring Disentanglement for non-Independent Factors of Variation**|Antonio Almudévar et.al.|[2408.07016](http://arxiv.org/abs/2408.07016)|null|
+|**2024-08-13**|**Casper: Prompt Sanitization for Protecting User Privacy in Web-Based Large Language Models**|Chun Jie Chong et.al.|[2408.07004](http://arxiv.org/abs/2408.07004)|null|
+|**2024-08-13**|**Faster Private Minimum Spanning Trees**|Rasmus Pagh et.al.|[2408.06997](http://arxiv.org/abs/2408.06997)|null|
+|**2024-08-13**|**Blessing of Dimensionality for Approximating Sobolev Classes on Manifolds**|Hong Ye Tan et.al.|[2408.06996](http://arxiv.org/abs/2408.06996)|null|
 |**2024-08-12**|**LOLgorithm: Integrating Semantic,Syntactic and Contextual Elements for Humor Classification**|Tanisha Khurana et.al.|[2408.06335](http://arxiv.org/abs/2408.06335)|null|
 |**2024-08-12**|**Discovering High-Entropy Oxides with a Machine-Learning Interatomic Potential**|Jacob T. Sivak et.al.|[2408.06322](http://arxiv.org/abs/2408.06322)|null|
 |**2024-08-12**|**Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example**|Yanan Chen et.al.|[2408.06318](http://arxiv.org/abs/2408.06318)|null|
