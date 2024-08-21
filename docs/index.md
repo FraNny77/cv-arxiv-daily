@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Accelerating Goal-Conditioned RL Algorithms and Research**|Michał Bortkiewicz et.al.|[2408.11052](http://arxiv.org/abs/2408.11052)|**[link](https://github.com/michalbortkiewicz/jaxgcrl)**|
+|**2024-08-20**|**RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands**|Yi Zhao et.al.|[2408.11048](http://arxiv.org/abs/2408.11048)|null|
+|**2024-08-20**|**Quantum Machine Learning Algorithms for Anomaly Detection: a Survey**|Sebastiano Corli et.al.|[2408.11047](http://arxiv.org/abs/2408.11047)|null|
+|**2024-08-20**|**GraphFSA: A Finite State Automaton Framework for Algorithmic Learning on Graphs**|Florian Grötschla et.al.|[2408.11042](http://arxiv.org/abs/2408.11042)|null|
+|**2024-08-20**|**Atmospheric Transport Modeling of CO $_2$ with Neural Networks**|Vitus Benson et.al.|[2408.11032](http://arxiv.org/abs/2408.11032)|**[link](https://github.com/vitusbenson/carbonbench)**|
+|**2024-08-20**|**An Overlooked Role of Context-Sensitive Dendrites**|Mohsin Raza et.al.|[2408.11019](http://arxiv.org/abs/2408.11019)|null|
+|**2024-08-20**|**Towards a Standardized Representation for Deep Learning Collective Algorithms**|Jinsun Yoo et.al.|[2408.11008](http://arxiv.org/abs/2408.11008)|null|
+|**2024-08-20**|**Audio Match Cutting: Finding and Creating Matching Audio Transitions in Movies and Videos**|Dennis Fedorishin et.al.|[2408.10998](http://arxiv.org/abs/2408.10998)|null|
+|**2024-08-20**|**Approximation Rates for Shallow ReLU $^k$ Neural Networks on Sobolev Spaces via the Radon Transform**|Tong Mao et.al.|[2408.10996](http://arxiv.org/abs/2408.10996)|null|
+|**2024-08-20**|**Kernel-Based Differentiable Learning of Non-Parametric Directed Acyclic Graphical Models**|Yurou Liang et.al.|[2408.10976](http://arxiv.org/abs/2408.10976)|null|
 |**2024-08-19**|**KAN 2.0: Kolmogorov-Arnold Networks Meet Science**|Ziming Liu et.al.|[2408.10205](http://arxiv.org/abs/2408.10205)|null|
 |**2024-08-19**|**Criticality Leveraged Adversarial Training (CLAT) for Boosted Performance via Parameter Efficiency**|Bhavna Gopal et.al.|[2408.10204](http://arxiv.org/abs/2408.10204)|null|
 |**2024-08-19**|**Area under the ROC Curve has the Most Consistent Evaluation for Binary Classification**|Jing Li et.al.|[2408.10193](http://arxiv.org/abs/2408.10193)|null|
@@ -1137,6 +1147,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Accelerating Goal-Conditioned RL Algorithms and Research**|Michał Bortkiewicz et.al.|[2408.11052](http://arxiv.org/abs/2408.11052)|**[link](https://github.com/michalbortkiewicz/jaxgcrl)**|
+|**2024-08-20**|**RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands**|Yi Zhao et.al.|[2408.11048](http://arxiv.org/abs/2408.11048)|null|
+|**2024-08-20**|**Quantum Machine Learning Algorithms for Anomaly Detection: a Survey**|Sebastiano Corli et.al.|[2408.11047](http://arxiv.org/abs/2408.11047)|null|
+|**2024-08-20**|**GraphFSA: A Finite State Automaton Framework for Algorithmic Learning on Graphs**|Florian Grötschla et.al.|[2408.11042](http://arxiv.org/abs/2408.11042)|null|
+|**2024-08-20**|**Atmospheric Transport Modeling of CO $_2$ with Neural Networks**|Vitus Benson et.al.|[2408.11032](http://arxiv.org/abs/2408.11032)|**[link](https://github.com/vitusbenson/carbonbench)**|
+|**2024-08-20**|**An Overlooked Role of Context-Sensitive Dendrites**|Mohsin Raza et.al.|[2408.11019](http://arxiv.org/abs/2408.11019)|null|
+|**2024-08-20**|**Towards a Standardized Representation for Deep Learning Collective Algorithms**|Jinsun Yoo et.al.|[2408.11008](http://arxiv.org/abs/2408.11008)|null|
+|**2024-08-20**|**Audio Match Cutting: Finding and Creating Matching Audio Transitions in Movies and Videos**|Dennis Fedorishin et.al.|[2408.10998](http://arxiv.org/abs/2408.10998)|null|
+|**2024-08-20**|**Approximation Rates for Shallow ReLU $^k$ Neural Networks on Sobolev Spaces via the Radon Transform**|Tong Mao et.al.|[2408.10996](http://arxiv.org/abs/2408.10996)|null|
+|**2024-08-20**|**Kernel-Based Differentiable Learning of Non-Parametric Directed Acyclic Graphical Models**|Yurou Liang et.al.|[2408.10976](http://arxiv.org/abs/2408.10976)|null|
 |**2024-08-19**|**KAN 2.0: Kolmogorov-Arnold Networks Meet Science**|Ziming Liu et.al.|[2408.10205](http://arxiv.org/abs/2408.10205)|null|
 |**2024-08-19**|**Criticality Leveraged Adversarial Training (CLAT) for Boosted Performance via Parameter Efficiency**|Bhavna Gopal et.al.|[2408.10204](http://arxiv.org/abs/2408.10204)|null|
 |**2024-08-19**|**Area under the ROC Curve has the Most Consistent Evaluation for Binary Classification**|Jing Li et.al.|[2408.10193](http://arxiv.org/abs/2408.10193)|null|
