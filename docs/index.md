@@ -27,7 +27,7 @@ layout: default
 |**2024-08-22**|**Optical ISAC: Fundamental Performance Limits and Transceiver Design**|Alireza Ghazavi Khorasgani et.al.|[2408.11792](http://arxiv.org/abs/2408.11792)|null|
 |**2024-08-21**|**Critique-out-Loud Reward Models**|Zachary Ankner et.al.|[2408.11791](http://arxiv.org/abs/2408.11791)|**[link](https://github.com/zankner/cloud)**|
 |**2024-08-21**|**Rapid Statistical-Physical Adversarial Downscaling Reveals Bangladesh's Rising Rainfall Risk in a Warming Climate**|Anamitra Saha et.al.|[2408.11790](http://arxiv.org/abs/2408.11790)|null|
-|**2024-08-21**|**RFID based Health Adherence Medicine Case Using Fair Federated Learning**|Ali Kamrani khodaei et.al.|[2408.11782](http://arxiv.org/abs/2408.11782)|null|
+|**2024-08-21**|**RFID based Health Adherence Medicine Case Using Fair Federated Learning**|Ali Kamrani khodaei et.al.|[2408.11782](http://arxiv.org/abs/2408.11782)|**[link](https://github.com/MibclAric/Smart-Pill-Case)**|
 |**2024-08-21**|**Sum of Squares Circuits**|Lorenzo Loconte et.al.|[2408.11778](http://arxiv.org/abs/2408.11778)|null|
 |**2024-08-20**|**Accelerating Goal-Conditioned RL Algorithms and Research**|Michał Bortkiewicz et.al.|[2408.11052](http://arxiv.org/abs/2408.11052)|**[link](https://github.com/michalbortkiewicz/jaxgcrl)**|
 |**2024-08-20**|**RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands**|Yi Zhao et.al.|[2408.11048](http://arxiv.org/abs/2408.11048)|null|
@@ -39,14 +39,14 @@ layout: default
 |**2024-08-20**|**Audio Match Cutting: Finding and Creating Matching Audio Transitions in Movies and Videos**|Dennis Fedorishin et.al.|[2408.10998](http://arxiv.org/abs/2408.10998)|null|
 |**2024-08-20**|**Approximation Rates for Shallow ReLU $^k$ Neural Networks on Sobolev Spaces via the Radon Transform**|Tong Mao et.al.|[2408.10996](http://arxiv.org/abs/2408.10996)|null|
 |**2024-08-20**|**Kernel-Based Differentiable Learning of Non-Parametric Directed Acyclic Graphical Models**|Yurou Liang et.al.|[2408.10976](http://arxiv.org/abs/2408.10976)|null|
-|**2024-08-19**|**KAN 2.0: Kolmogorov-Arnold Networks Meet Science**|Ziming Liu et.al.|[2408.10205](http://arxiv.org/abs/2408.10205)|null|
+|**2024-08-19**|**KAN 2.0: Kolmogorov-Arnold Networks Meet Science**|Ziming Liu et.al.|[2408.10205](http://arxiv.org/abs/2408.10205)|**[link](https://github.com/kindxiaoming/pykan)**|
 |**2024-08-19**|**Criticality Leveraged Adversarial Training (CLAT) for Boosted Performance via Parameter Efficiency**|Bhavna Gopal et.al.|[2408.10204](http://arxiv.org/abs/2408.10204)|null|
 |**2024-08-19**|**Area under the ROC Curve has the Most Consistent Evaluation for Binary Classification**|Jing Li et.al.|[2408.10193](http://arxiv.org/abs/2408.10193)|null|
 |**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189](http://arxiv.org/abs/2408.10189)|null|
 |**2024-08-19**|**Assessment of Spectral based Solutions for the Detection of Floating Marine Debris**|Muhammad Alì et.al.|[2408.10187](http://arxiv.org/abs/2408.10187)|null|
 |**2024-08-19**|**SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models**|Anke Tang et.al.|[2408.10174](http://arxiv.org/abs/2408.10174)|**[link](https://github.com/tanganke/fusion_bench)**|
 |**2024-08-19**|**Physics-Aware Combinatorial Assembly Planning using Deep Reinforcement Learning**|Ruixuan Liu et.al.|[2408.10162](http://arxiv.org/abs/2408.10162)|null|
-|**2024-08-19**|**Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models**|Amey Hengle et.al.|[2408.10151](http://arxiv.org/abs/2408.10151)|null|
+|**2024-08-19**|**Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models**|Amey Hengle et.al.|[2408.10151](http://arxiv.org/abs/2408.10151)|**[link](https://github.com/AmeyHengle/multilingual-needle-in-a-haystack)**|
 |**2024-08-19**|**In-Context Learning with Representations: Contextual Generalization of Trained Transformers**|Tong Yang et.al.|[2408.10147](http://arxiv.org/abs/2408.10147)|null|
 |**2024-08-19**|**Robust spectral clustering with rank statistics**|Joshua Cape et.al.|[2408.10136](http://arxiv.org/abs/2408.10136)|null|
 |**2024-08-16**|**Accelerating Giant Impact Simulations with Machine Learning**|Caleb Lammers et.al.|[2408.08873](http://arxiv.org/abs/2408.08873)|**[link](https://github.com/caleblammers/ml_for_collisions)**|
@@ -133,7 +133,7 @@ layout: default
 |**2024-08-06**|**Hedge Fund Portfolio Construction Using PolyModel Theory and iTransformer**|Siqiao Zhao et.al.|[2408.03320](http://arxiv.org/abs/2408.03320)|null|
 |**2024-08-06**|**Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters**|Charlie Snell et.al.|[2408.03314](http://arxiv.org/abs/2408.03314)|null|
 |**2024-08-06**|**Pre-training and in-context learning IS Bayesian inference a la De Finetti**|Naimeng Ye et.al.|[2408.03307](http://arxiv.org/abs/2408.03307)|null|
-|**2024-08-06**|**Fusing Forces: Deep-Human-Guided Refinement of Segmentation Masks**|Rafael Sterzinger et.al.|[2408.03304](http://arxiv.org/abs/2408.03304)|null|
+|**2024-08-06**|**Fusing Forces: Deep-Human-Guided Refinement of Segmentation Masks**|Rafael Sterzinger et.al.|[2408.03304](http://arxiv.org/abs/2408.03304)|**[link](https://github.com/rafaelsterzinger/etmira-interaction)**|
 |**2024-08-06**|**SARA: Singular-Value Based Adaptive Low-Rank Adaption**|Jihao Gu et.al.|[2408.03290](http://arxiv.org/abs/2408.03290)|null|
 |**2024-08-07**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287](http://arxiv.org/abs/2408.03287)|null|
 |**2024-08-07**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281](http://arxiv.org/abs/2408.03281)|**[link](https://github.com/c-box/structeval)**|
@@ -750,7 +750,7 @@ layout: default
 |**2024-05-06**|**Adaptive Retrieval and Scalable Indexing for k-NN Search with Cross-Encoders**|Nishant Yadav et.al.|[2405.03651](http://arxiv.org/abs/2405.03651)|null|
 |**2024-05-06**|**Generated Contents Enrichment**|Mahdi Naseri et.al.|[2405.03650](http://arxiv.org/abs/2405.03650)|null|
 |**2024-05-03**|**An error-mitigated photonic quantum circuit Born machine**|Alexia Salavrakos et.al.|[2405.02277](http://arxiv.org/abs/2405.02277)|**[link](https://github.com/Quandela/photonic-qcbm)**|
-|**2024-05-03**|**Structural Pruning of Pre-trained Language Models via Neural Architecture Search**|Aaron Klein et.al.|[2405.02267](http://arxiv.org/abs/2405.02267)|null|
+|**2024-05-03**|**Structural Pruning of Pre-trained Language Models via Neural Architecture Search**|Aaron Klein et.al.|[2405.02267](http://arxiv.org/abs/2405.02267)|**[link](https://github.com/whittle-org/plm_pruning)**|
 |**2024-05-03**|**Leveraging Large Language Models to Enhance Domain Expert Inclusion in Data Science Workflows**|Jasmine Y. Shih et.al.|[2405.02260](http://arxiv.org/abs/2405.02260)|null|
 |**2024-05-03**|**Deep Learning of ab initio Hessians for Transition State Optimization**|Eric C. -Y. Yuan et.al.|[2405.02247](http://arxiv.org/abs/2405.02247)|null|
 |**2024-05-03**|**Subgraph2vec: A random walk-based algorithm for embedding knowledge graphs**|Elika Bozorgi et.al.|[2405.02240](http://arxiv.org/abs/2405.02240)|null|
@@ -1185,7 +1185,7 @@ layout: default
 |**2024-08-22**|**Optical ISAC: Fundamental Performance Limits and Transceiver Design**|Alireza Ghazavi Khorasgani et.al.|[2408.11792](http://arxiv.org/abs/2408.11792)|null|
 |**2024-08-21**|**Critique-out-Loud Reward Models**|Zachary Ankner et.al.|[2408.11791](http://arxiv.org/abs/2408.11791)|**[link](https://github.com/zankner/cloud)**|
 |**2024-08-21**|**Rapid Statistical-Physical Adversarial Downscaling Reveals Bangladesh's Rising Rainfall Risk in a Warming Climate**|Anamitra Saha et.al.|[2408.11790](http://arxiv.org/abs/2408.11790)|null|
-|**2024-08-21**|**RFID based Health Adherence Medicine Case Using Fair Federated Learning**|Ali Kamrani khodaei et.al.|[2408.11782](http://arxiv.org/abs/2408.11782)|null|
+|**2024-08-21**|**RFID based Health Adherence Medicine Case Using Fair Federated Learning**|Ali Kamrani khodaei et.al.|[2408.11782](http://arxiv.org/abs/2408.11782)|**[link](https://github.com/MibclAric/Smart-Pill-Case)**|
 |**2024-08-21**|**Sum of Squares Circuits**|Lorenzo Loconte et.al.|[2408.11778](http://arxiv.org/abs/2408.11778)|null|
 |**2024-08-20**|**Accelerating Goal-Conditioned RL Algorithms and Research**|Michał Bortkiewicz et.al.|[2408.11052](http://arxiv.org/abs/2408.11052)|**[link](https://github.com/michalbortkiewicz/jaxgcrl)**|
 |**2024-08-20**|**RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands**|Yi Zhao et.al.|[2408.11048](http://arxiv.org/abs/2408.11048)|null|
@@ -1197,14 +1197,14 @@ layout: default
 |**2024-08-20**|**Audio Match Cutting: Finding and Creating Matching Audio Transitions in Movies and Videos**|Dennis Fedorishin et.al.|[2408.10998](http://arxiv.org/abs/2408.10998)|null|
 |**2024-08-20**|**Approximation Rates for Shallow ReLU $^k$ Neural Networks on Sobolev Spaces via the Radon Transform**|Tong Mao et.al.|[2408.10996](http://arxiv.org/abs/2408.10996)|null|
 |**2024-08-20**|**Kernel-Based Differentiable Learning of Non-Parametric Directed Acyclic Graphical Models**|Yurou Liang et.al.|[2408.10976](http://arxiv.org/abs/2408.10976)|null|
-|**2024-08-19**|**KAN 2.0: Kolmogorov-Arnold Networks Meet Science**|Ziming Liu et.al.|[2408.10205](http://arxiv.org/abs/2408.10205)|null|
+|**2024-08-19**|**KAN 2.0: Kolmogorov-Arnold Networks Meet Science**|Ziming Liu et.al.|[2408.10205](http://arxiv.org/abs/2408.10205)|**[link](https://github.com/kindxiaoming/pykan)**|
 |**2024-08-19**|**Criticality Leveraged Adversarial Training (CLAT) for Boosted Performance via Parameter Efficiency**|Bhavna Gopal et.al.|[2408.10204](http://arxiv.org/abs/2408.10204)|null|
 |**2024-08-19**|**Area under the ROC Curve has the Most Consistent Evaluation for Binary Classification**|Jing Li et.al.|[2408.10193](http://arxiv.org/abs/2408.10193)|null|
 |**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189](http://arxiv.org/abs/2408.10189)|null|
 |**2024-08-19**|**Assessment of Spectral based Solutions for the Detection of Floating Marine Debris**|Muhammad Alì et.al.|[2408.10187](http://arxiv.org/abs/2408.10187)|null|
 |**2024-08-19**|**SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models**|Anke Tang et.al.|[2408.10174](http://arxiv.org/abs/2408.10174)|**[link](https://github.com/tanganke/fusion_bench)**|
 |**2024-08-19**|**Physics-Aware Combinatorial Assembly Planning using Deep Reinforcement Learning**|Ruixuan Liu et.al.|[2408.10162](http://arxiv.org/abs/2408.10162)|null|
-|**2024-08-19**|**Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models**|Amey Hengle et.al.|[2408.10151](http://arxiv.org/abs/2408.10151)|null|
+|**2024-08-19**|**Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models**|Amey Hengle et.al.|[2408.10151](http://arxiv.org/abs/2408.10151)|**[link](https://github.com/AmeyHengle/multilingual-needle-in-a-haystack)**|
 |**2024-08-19**|**In-Context Learning with Representations: Contextual Generalization of Trained Transformers**|Tong Yang et.al.|[2408.10147](http://arxiv.org/abs/2408.10147)|null|
 |**2024-08-19**|**Robust spectral clustering with rank statistics**|Joshua Cape et.al.|[2408.10136](http://arxiv.org/abs/2408.10136)|null|
 |**2024-08-16**|**Accelerating Giant Impact Simulations with Machine Learning**|Caleb Lammers et.al.|[2408.08873](http://arxiv.org/abs/2408.08873)|**[link](https://github.com/caleblammers/ml_for_collisions)**|
@@ -1291,7 +1291,7 @@ layout: default
 |**2024-08-06**|**Hedge Fund Portfolio Construction Using PolyModel Theory and iTransformer**|Siqiao Zhao et.al.|[2408.03320](http://arxiv.org/abs/2408.03320)|null|
 |**2024-08-06**|**Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters**|Charlie Snell et.al.|[2408.03314](http://arxiv.org/abs/2408.03314)|null|
 |**2024-08-06**|**Pre-training and in-context learning IS Bayesian inference a la De Finetti**|Naimeng Ye et.al.|[2408.03307](http://arxiv.org/abs/2408.03307)|null|
-|**2024-08-06**|**Fusing Forces: Deep-Human-Guided Refinement of Segmentation Masks**|Rafael Sterzinger et.al.|[2408.03304](http://arxiv.org/abs/2408.03304)|null|
+|**2024-08-06**|**Fusing Forces: Deep-Human-Guided Refinement of Segmentation Masks**|Rafael Sterzinger et.al.|[2408.03304](http://arxiv.org/abs/2408.03304)|**[link](https://github.com/rafaelsterzinger/etmira-interaction)**|
 |**2024-08-06**|**SARA: Singular-Value Based Adaptive Low-Rank Adaption**|Jihao Gu et.al.|[2408.03290](http://arxiv.org/abs/2408.03290)|null|
 |**2024-08-07**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287](http://arxiv.org/abs/2408.03287)|null|
 |**2024-08-07**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281](http://arxiv.org/abs/2408.03281)|**[link](https://github.com/c-box/structeval)**|
@@ -1908,7 +1908,7 @@ layout: default
 |**2024-05-06**|**Adaptive Retrieval and Scalable Indexing for k-NN Search with Cross-Encoders**|Nishant Yadav et.al.|[2405.03651](http://arxiv.org/abs/2405.03651)|null|
 |**2024-05-06**|**Generated Contents Enrichment**|Mahdi Naseri et.al.|[2405.03650](http://arxiv.org/abs/2405.03650)|null|
 |**2024-05-03**|**An error-mitigated photonic quantum circuit Born machine**|Alexia Salavrakos et.al.|[2405.02277](http://arxiv.org/abs/2405.02277)|**[link](https://github.com/Quandela/photonic-qcbm)**|
-|**2024-05-03**|**Structural Pruning of Pre-trained Language Models via Neural Architecture Search**|Aaron Klein et.al.|[2405.02267](http://arxiv.org/abs/2405.02267)|null|
+|**2024-05-03**|**Structural Pruning of Pre-trained Language Models via Neural Architecture Search**|Aaron Klein et.al.|[2405.02267](http://arxiv.org/abs/2405.02267)|**[link](https://github.com/whittle-org/plm_pruning)**|
 |**2024-05-03**|**Leveraging Large Language Models to Enhance Domain Expert Inclusion in Data Science Workflows**|Jasmine Y. Shih et.al.|[2405.02260](http://arxiv.org/abs/2405.02260)|null|
 |**2024-05-03**|**Deep Learning of ab initio Hessians for Transition State Optimization**|Eric C. -Y. Yuan et.al.|[2405.02247](http://arxiv.org/abs/2405.02247)|null|
 |**2024-05-03**|**Subgraph2vec: A random walk-based algorithm for embedding knowledge graphs**|Elika Bozorgi et.al.|[2405.02240](http://arxiv.org/abs/2405.02240)|null|
