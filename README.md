@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**A Practitioner's Guide to Continual Multimodal Pretraining**|Karsten Roth et.al.|[2408.14471](http://arxiv.org/abs/2408.14471)|**[link](https://github.com/explainableml/fomo_in_flux)**|
+|**2024-08-26**|**Bayesian functional data analysis in astronomy**|Thomas Loredo et.al.|[2408.14466](http://arxiv.org/abs/2408.14466)|null|
+|**2024-08-26**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
+|**2024-08-26**|**Reconstructing physiological signals from fMRI across the adult lifespan**|Shiyu Wang et.al.|[2408.14453](http://arxiv.org/abs/2408.14453)|null|
+|**2024-08-26**|**Discovery of 118 New Ultracool Dwarf Candidates Using Machine Learning Techniques**|Hunter Brooks et.al.|[2408.14447](http://arxiv.org/abs/2408.14447)|null|
+|**2024-08-26**|**Symmetry & Critical Points**|Yossi Arjevani et.al.|[2408.14445](http://arxiv.org/abs/2408.14445)|null|
+|**2024-08-26**|**Model Parallel Training and Transfer Learning for Convolutional Neural Networks by Domain Decomposition**|Axel Klawonn et.al.|[2408.14442](http://arxiv.org/abs/2408.14442)|null|
+|**2024-08-26**|**Social perception of faces in a vision-language model**|Carina I. Hausladen et.al.|[2408.14435](http://arxiv.org/abs/2408.14435)|**[link](https://github.com/carinahausladen/clip-face-bias)**|
+|**2024-08-26**|**Employing Artificial Intelligence to Steer Exascale Workflows with Colmena**|Logan Ward et.al.|[2408.14434](http://arxiv.org/abs/2408.14434)|null|
+|**2024-08-26**|**Contextual Bandit with Herding Effects: Algorithms and Recommendation Applications**|Luyue Xu et.al.|[2408.14432](http://arxiv.org/abs/2408.14432)|null|
 |**2024-08-23**|**How Diffusion Models Learn to Factorize and Compose**|Qiyao Liang et.al.|[2408.13256](http://arxiv.org/abs/2408.13256)|null|
 |**2024-08-23**|**Foundational Model for Electron Micrograph Analysis: Instruction-Tuning Small-Scale Language-and-Vision Assistant for Enterprise Adoption**|Sakhinana Sagar Srinivas et.al.|[2408.13248](http://arxiv.org/abs/2408.13248)|null|
 |**2024-08-23**|**Data Exposure from LLM Apps: An In-depth Investigation of OpenAI's GPTs**|Evin Jaff et.al.|[2408.13247](http://arxiv.org/abs/2408.13247)|null|
@@ -1184,6 +1194,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**A Practitioner's Guide to Continual Multimodal Pretraining**|Karsten Roth et.al.|[2408.14471](http://arxiv.org/abs/2408.14471)|**[link](https://github.com/explainableml/fomo_in_flux)**|
+|**2024-08-26**|**Bayesian functional data analysis in astronomy**|Thomas Loredo et.al.|[2408.14466](http://arxiv.org/abs/2408.14466)|null|
+|**2024-08-26**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
+|**2024-08-26**|**Reconstructing physiological signals from fMRI across the adult lifespan**|Shiyu Wang et.al.|[2408.14453](http://arxiv.org/abs/2408.14453)|null|
+|**2024-08-26**|**Discovery of 118 New Ultracool Dwarf Candidates Using Machine Learning Techniques**|Hunter Brooks et.al.|[2408.14447](http://arxiv.org/abs/2408.14447)|null|
+|**2024-08-26**|**Symmetry & Critical Points**|Yossi Arjevani et.al.|[2408.14445](http://arxiv.org/abs/2408.14445)|null|
+|**2024-08-26**|**Model Parallel Training and Transfer Learning for Convolutional Neural Networks by Domain Decomposition**|Axel Klawonn et.al.|[2408.14442](http://arxiv.org/abs/2408.14442)|null|
+|**2024-08-26**|**Social perception of faces in a vision-language model**|Carina I. Hausladen et.al.|[2408.14435](http://arxiv.org/abs/2408.14435)|**[link](https://github.com/carinahausladen/clip-face-bias)**|
+|**2024-08-26**|**Employing Artificial Intelligence to Steer Exascale Workflows with Colmena**|Logan Ward et.al.|[2408.14434](http://arxiv.org/abs/2408.14434)|null|
+|**2024-08-26**|**Contextual Bandit with Herding Effects: Algorithms and Recommendation Applications**|Luyue Xu et.al.|[2408.14432](http://arxiv.org/abs/2408.14432)|null|
 |**2024-08-23**|**How Diffusion Models Learn to Factorize and Compose**|Qiyao Liang et.al.|[2408.13256](http://arxiv.org/abs/2408.13256)|null|
 |**2024-08-23**|**Foundational Model for Electron Micrograph Analysis: Instruction-Tuning Small-Scale Language-and-Vision Assistant for Enterprise Adoption**|Sakhinana Sagar Srinivas et.al.|[2408.13248](http://arxiv.org/abs/2408.13248)|null|
 |**2024-08-23**|**Data Exposure from LLM Apps: An In-depth Investigation of OpenAI's GPTs**|Evin Jaff et.al.|[2408.13247](http://arxiv.org/abs/2408.13247)|null|
