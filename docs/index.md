@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.27
+## Updated on 2024.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-26**|**A Practitioner's Guide to Continual Multimodal Pretraining**|Karsten Roth et.al.|[2408.14471](http://arxiv.org/abs/2408.14471)|**[link](https://github.com/explainableml/fomo_in_flux)**|
 |**2024-08-26**|**Bayesian functional data analysis in astronomy**|Thomas Loredo et.al.|[2408.14466](http://arxiv.org/abs/2408.14466)|null|
-|**2024-08-26**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
+|**2024-08-27**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
 |**2024-08-26**|**Reconstructing physiological signals from fMRI across the adult lifespan**|Shiyu Wang et.al.|[2408.14453](http://arxiv.org/abs/2408.14453)|null|
 |**2024-08-26**|**Discovery of 118 New Ultracool Dwarf Candidates Using Machine Learning Techniques**|Hunter Brooks et.al.|[2408.14447](http://arxiv.org/abs/2408.14447)|null|
 |**2024-08-26**|**Symmetry & Critical Points**|Yossi Arjevani et.al.|[2408.14445](http://arxiv.org/abs/2408.14445)|null|
@@ -1189,7 +1189,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-26**|**A Practitioner's Guide to Continual Multimodal Pretraining**|Karsten Roth et.al.|[2408.14471](http://arxiv.org/abs/2408.14471)|**[link](https://github.com/explainableml/fomo_in_flux)**|
 |**2024-08-26**|**Bayesian functional data analysis in astronomy**|Thomas Loredo et.al.|[2408.14466](http://arxiv.org/abs/2408.14466)|null|
-|**2024-08-26**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
+|**2024-08-27**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
 |**2024-08-26**|**Reconstructing physiological signals from fMRI across the adult lifespan**|Shiyu Wang et.al.|[2408.14453](http://arxiv.org/abs/2408.14453)|null|
 |**2024-08-26**|**Discovery of 118 New Ultracool Dwarf Candidates Using Machine Learning Techniques**|Hunter Brooks et.al.|[2408.14447](http://arxiv.org/abs/2408.14447)|null|
 |**2024-08-26**|**Symmetry & Critical Points**|Yossi Arjevani et.al.|[2408.14445](http://arxiv.org/abs/2408.14445)|null|

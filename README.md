@@ -1,4 +1,4 @@
-## Updated on 2024.08.27
+## Updated on 2024.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 |**2024-08-26**|**A Practitioner's Guide to Continual Multimodal Pretraining**|Karsten Roth et.al.|[2408.14471](http://arxiv.org/abs/2408.14471)|**[link](https://github.com/explainableml/fomo_in_flux)**|
 |**2024-08-26**|**Bayesian functional data analysis in astronomy**|Thomas Loredo et.al.|[2408.14466](http://arxiv.org/abs/2408.14466)|null|
-|**2024-08-26**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
+|**2024-08-27**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
 |**2024-08-26**|**Reconstructing physiological signals from fMRI across the adult lifespan**|Shiyu Wang et.al.|[2408.14453](http://arxiv.org/abs/2408.14453)|null|
 |**2024-08-26**|**Discovery of 118 New Ultracool Dwarf Candidates Using Machine Learning Techniques**|Hunter Brooks et.al.|[2408.14447](http://arxiv.org/abs/2408.14447)|null|
 |**2024-08-26**|**Symmetry & Critical Points**|Yossi Arjevani et.al.|[2408.14445](http://arxiv.org/abs/2408.14445)|null|
@@ -1188,7 +1188,7 @@
 |**2017-07-27**|**High Dimensional Random Walks Can Appear Low Dimensional: Application to Influenza H3N2 Evolution**|James Moore et.al.|[1707.09361](http://arxiv.org/abs/1707.09361)|null|
 |**2008-07-20**|**Design and Production of Specifically and with High Affinity Reacting Peptides**|Jan C Biro et.al.|[0807.3038](http://arxiv.org/abs/0807.3038)|null|
 
-<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
 
 ## Peptide
 
@@ -1196,7 +1196,7 @@
 |---|---|---|---|---|
 |**2024-08-26**|**A Practitioner's Guide to Continual Multimodal Pretraining**|Karsten Roth et.al.|[2408.14471](http://arxiv.org/abs/2408.14471)|**[link](https://github.com/explainableml/fomo_in_flux)**|
 |**2024-08-26**|**Bayesian functional data analysis in astronomy**|Thomas Loredo et.al.|[2408.14466](http://arxiv.org/abs/2408.14466)|null|
-|**2024-08-26**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
+|**2024-08-27**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
 |**2024-08-26**|**Reconstructing physiological signals from fMRI across the adult lifespan**|Shiyu Wang et.al.|[2408.14453](http://arxiv.org/abs/2408.14453)|null|
 |**2024-08-26**|**Discovery of 118 New Ultracool Dwarf Candidates Using Machine Learning Techniques**|Hunter Brooks et.al.|[2408.14447](http://arxiv.org/abs/2408.14447)|null|
 |**2024-08-26**|**Symmetry & Critical Points**|Yossi Arjevani et.al.|[2408.14445](http://arxiv.org/abs/2408.14445)|null|
@@ -2370,7 +2370,7 @@
 |**2018-11-13**|**PepCVAE: Semi-Supervised Targeted Design of Antimicrobial Peptide Sequences**|Payel Das et.al.|[1810.07743](http://arxiv.org/abs/1810.07743)|null|
 |**2009-11-23**|**Silver-staining of proteins in polyacrylamide gels: a general overview**|Thierry Rabilloud et.al.|[0911.4458](http://arxiv.org/abs/0911.4458)|null|
 
-<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2388,5 +2388,5 @@
 |**2024-02-21**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|**[link](https://github.com/allenai/tess-diffusion)**|
 |**2023-05-13**|**Diffusion Models for Non-autoregressive Text Generation: A Survey**|Yifan Li et.al.|[2303.06574](http://arxiv.org/abs/2303.06574)|**[link](https://github.com/rucaibox/awesome-text-diffusion-models)**|
 
-<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
 
