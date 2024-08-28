@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Photometric Redshifts Probability Density Estimation from Recurrent Neural Networks in the DECam Local Volume Exploration Survey Data Release 2**|G. Teixeira et.al.|[2408.15243](http://arxiv.org/abs/2408.15243)|null|
+|**2024-08-27**|**Generative Verifiers: Reward Modeling as Next-Token Prediction**|Lunjun Zhang et.al.|[2408.15240](http://arxiv.org/abs/2408.15240)|null|
+|**2024-08-27**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237](http://arxiv.org/abs/2408.15237)|**[link](https://github.com/jxiw/mambainllama)**|
+|**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|null|
+|**2024-08-27**|**LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet**|Nathaniel Li et.al.|[2408.15221](http://arxiv.org/abs/2408.15221)|null|
+|**2024-08-27**|**Automatic 8-tissue Segmentation for 6-month Infant Brains**|Yilan Dong et.al.|[2408.15198](http://arxiv.org/abs/2408.15198)|null|
+|**2024-08-27**|**On latent dynamics learning in nonlinear reduced order modeling**|Nicola Farenga et.al.|[2408.15183](http://arxiv.org/abs/2408.15183)|null|
+|**2024-08-27**|**Exploiting Approximate Symmetry for Efficient Multi-Agent Reinforcement Learning**|Batuhan Yardim et.al.|[2408.15173](http://arxiv.org/abs/2408.15173)|null|
+|**2024-08-27**|**Latent Ewald summation for machine learning of long-range interactions**|Bingqing Cheng et.al.|[2408.15165](http://arxiv.org/abs/2408.15165)|null|
+|**2024-08-27**|**Delay as Payoff in MAB**|Ofir Schlisselberg et.al.|[2408.15158](http://arxiv.org/abs/2408.15158)|null|
 |**2024-08-26**|**A Practitioner's Guide to Continual Multimodal Pretraining**|Karsten Roth et.al.|[2408.14471](http://arxiv.org/abs/2408.14471)|**[link](https://github.com/explainableml/fomo_in_flux)**|
 |**2024-08-26**|**Bayesian functional data analysis in astronomy**|Thomas Loredo et.al.|[2408.14466](http://arxiv.org/abs/2408.14466)|null|
 |**2024-08-27**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
@@ -1194,6 +1204,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Photometric Redshifts Probability Density Estimation from Recurrent Neural Networks in the DECam Local Volume Exploration Survey Data Release 2**|G. Teixeira et.al.|[2408.15243](http://arxiv.org/abs/2408.15243)|null|
+|**2024-08-27**|**Generative Verifiers: Reward Modeling as Next-Token Prediction**|Lunjun Zhang et.al.|[2408.15240](http://arxiv.org/abs/2408.15240)|null|
+|**2024-08-27**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237](http://arxiv.org/abs/2408.15237)|**[link](https://github.com/jxiw/mambainllama)**|
+|**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|null|
+|**2024-08-27**|**LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet**|Nathaniel Li et.al.|[2408.15221](http://arxiv.org/abs/2408.15221)|null|
+|**2024-08-27**|**Automatic 8-tissue Segmentation for 6-month Infant Brains**|Yilan Dong et.al.|[2408.15198](http://arxiv.org/abs/2408.15198)|null|
+|**2024-08-27**|**On latent dynamics learning in nonlinear reduced order modeling**|Nicola Farenga et.al.|[2408.15183](http://arxiv.org/abs/2408.15183)|null|
+|**2024-08-27**|**Exploiting Approximate Symmetry for Efficient Multi-Agent Reinforcement Learning**|Batuhan Yardim et.al.|[2408.15173](http://arxiv.org/abs/2408.15173)|null|
+|**2024-08-27**|**Latent Ewald summation for machine learning of long-range interactions**|Bingqing Cheng et.al.|[2408.15165](http://arxiv.org/abs/2408.15165)|null|
+|**2024-08-27**|**Delay as Payoff in MAB**|Ofir Schlisselberg et.al.|[2408.15158](http://arxiv.org/abs/2408.15158)|null|
 |**2024-08-26**|**A Practitioner's Guide to Continual Multimodal Pretraining**|Karsten Roth et.al.|[2408.14471](http://arxiv.org/abs/2408.14471)|**[link](https://github.com/explainableml/fomo_in_flux)**|
 |**2024-08-26**|**Bayesian functional data analysis in astronomy**|Thomas Loredo et.al.|[2408.14466](http://arxiv.org/abs/2408.14466)|null|
 |**2024-08-27**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
