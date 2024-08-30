@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.29
+## Updated on 2024.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -2408,7 +2408,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-08**|**Diffusion Guided Language Modeling**|Justin Lovelace et.al.|[2408.04220](http://arxiv.org/abs/2408.04220)|**[link](https://github.com/justinlovelace/diffusion-guided-lm)**|
-|**2024-02-29**|**TEncDM: Understanding the Properties of Diffusion Model in the Space of Language Model Encodings**|Alexander Shabalin et.al.|[2402.19097](http://arxiv.org/abs/2402.19097)|null|
+|**2024-08-29**|**TEncDM: Understanding the Properties of Diffusion Model in the Space of Language Model Encodings**|Alexander Shabalin et.al.|[2402.19097](http://arxiv.org/abs/2402.19097)|null|
 |**2024-02-19**|**Text Diffusion with Reinforced Conditioning**|Yuxuan Liu et.al.|[2402.14843](http://arxiv.org/abs/2402.14843)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 |**2024-03-03**|**Diffusion-based Blind Text Image Super-Resolution**|Yuzhe Zhang et.al.|[2312.08886](http://arxiv.org/abs/2312.08886)|**[link](https://github.com/YuzheZhang-1999/DiffTSR)**|
