@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.01
+## Updated on 2024.09.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -11,11 +11,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-29**|**A Score-Based Density Formula, with Applications in Diffusion Generative Models**|Gen Li et.al.|[2408.16765](http://arxiv.org/abs/2408.16765)|null|
 |**2024-08-29**|**UV-free Texture Generation with Denoising and Geodesic Heat Diffusions**|Simone Foti et.al.|[2408.16762](http://arxiv.org/abs/2408.16762)|**[link](https://github.com/simofoti/uv3-ted)**|
-|**2024-08-29**|**Dissecting Out-of-Distribution Detection and Open-Set Recognition: A Critical Analysis of Methods and Benchmarks**|Hongjun Wang et.al.|[2408.16757](http://arxiv.org/abs/2408.16757)|**[link](https://github.com/visual-ai/dissect-ood-osr)**|
+|**2024-08-30**|**Dissecting Out-of-Distribution Detection and Open-Set Recognition: A Critical Analysis of Methods and Benchmarks**|Hongjun Wang et.al.|[2408.16757](http://arxiv.org/abs/2408.16757)|**[link](https://github.com/visual-ai/dissect-ood-osr)**|
 |**2024-08-29**|**Reinforcement Learning without Human Feedback for Last Mile Fine-Tuning of Large Language Models**|Alec Solway et.al.|[2408.16753](http://arxiv.org/abs/2408.16753)|null|
 |**2024-08-29**|**A Gradient Analysis Framework for Rewarding Good and Penalizing Bad Examples in Language Models**|Yi-Lin Tuan et.al.|[2408.16751](http://arxiv.org/abs/2408.16751)|null|
 |**2024-08-29**|**Automatic detection of Mild Cognitive Impairment using high-dimensional acoustic features in spontaneous speech**|Cong Zhang et.al.|[2408.16732](http://arxiv.org/abs/2408.16732)|null|
-|**2024-08-29**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725](http://arxiv.org/abs/2408.16725)|null|
+|**2024-08-30**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725](http://arxiv.org/abs/2408.16725)|**[link](https://github.com/gpt-omni/mini-omni)**|
 |**2024-08-29**|**A GREAT Architecture for Edge-Based Graph Problems Like TSP**|Attila Lischka et.al.|[2408.16717](http://arxiv.org/abs/2408.16717)|null|
 |**2024-08-29**|**Hydrogen reaction rate modeling based on convolutional neural network for large eddy simulation**|Quentin Malé et.al.|[2408.16709](http://arxiv.org/abs/2408.16709)|null|
 |**2024-08-29**|**Enhanced forecasting of stock prices based on variational mode decomposition, PatchTST, and adaptive scale-weighted layer**|Xiaorui Xue et.al.|[2408.16707](http://arxiv.org/abs/2408.16707)|null|
@@ -1219,11 +1219,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-29**|**A Score-Based Density Formula, with Applications in Diffusion Generative Models**|Gen Li et.al.|[2408.16765](http://arxiv.org/abs/2408.16765)|null|
 |**2024-08-29**|**UV-free Texture Generation with Denoising and Geodesic Heat Diffusions**|Simone Foti et.al.|[2408.16762](http://arxiv.org/abs/2408.16762)|**[link](https://github.com/simofoti/uv3-ted)**|
-|**2024-08-29**|**Dissecting Out-of-Distribution Detection and Open-Set Recognition: A Critical Analysis of Methods and Benchmarks**|Hongjun Wang et.al.|[2408.16757](http://arxiv.org/abs/2408.16757)|**[link](https://github.com/visual-ai/dissect-ood-osr)**|
+|**2024-08-30**|**Dissecting Out-of-Distribution Detection and Open-Set Recognition: A Critical Analysis of Methods and Benchmarks**|Hongjun Wang et.al.|[2408.16757](http://arxiv.org/abs/2408.16757)|**[link](https://github.com/visual-ai/dissect-ood-osr)**|
 |**2024-08-29**|**Reinforcement Learning without Human Feedback for Last Mile Fine-Tuning of Large Language Models**|Alec Solway et.al.|[2408.16753](http://arxiv.org/abs/2408.16753)|null|
 |**2024-08-29**|**A Gradient Analysis Framework for Rewarding Good and Penalizing Bad Examples in Language Models**|Yi-Lin Tuan et.al.|[2408.16751](http://arxiv.org/abs/2408.16751)|null|
 |**2024-08-29**|**Automatic detection of Mild Cognitive Impairment using high-dimensional acoustic features in spontaneous speech**|Cong Zhang et.al.|[2408.16732](http://arxiv.org/abs/2408.16732)|null|
-|**2024-08-29**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725](http://arxiv.org/abs/2408.16725)|null|
+|**2024-08-30**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725](http://arxiv.org/abs/2408.16725)|**[link](https://github.com/gpt-omni/mini-omni)**|
 |**2024-08-29**|**A GREAT Architecture for Edge-Based Graph Problems Like TSP**|Attila Lischka et.al.|[2408.16717](http://arxiv.org/abs/2408.16717)|null|
 |**2024-08-29**|**Hydrogen reaction rate modeling based on convolutional neural network for large eddy simulation**|Quentin Malé et.al.|[2408.16709](http://arxiv.org/abs/2408.16709)|null|
 |**2024-08-29**|**Enhanced forecasting of stock prices based on variational mode decomposition, PatchTST, and adaptive scale-weighted layer**|Xiaorui Xue et.al.|[2408.16707](http://arxiv.org/abs/2408.16707)|null|
