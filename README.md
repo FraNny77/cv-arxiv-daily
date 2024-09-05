@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Learning Density Functionals from Noisy Quantum Data**|Emiel Koridon et.al.|[2409.02921](http://arxiv.org/abs/2409.02921)|null|
+|**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
+|**2024-09-04**|**Topological Methods in Machine Learning: A Tutorial for Practitioners**|Baris Coskunuzer et.al.|[2409.02901](http://arxiv.org/abs/2409.02901)|**[link](https://github.com/cakcora/topologyforml)**|
+|**2024-09-04**|**Regional data-driven weather modeling with a global stretched-grid**|Thomas Nils Nipen et.al.|[2409.02891](http://arxiv.org/abs/2409.02891)|null|
+|**2024-09-04**|**Benchmarking Spurious Bias in Few-Shot Image Classifiers**|Guangtao Zheng et.al.|[2409.02882](http://arxiv.org/abs/2409.02882)|**[link](https://github.com/gtzheng/fewstab)**|
+|**2024-09-04**|**Configurable Foundation Models: Building LLMs from a Modular Perspective**|Chaojun Xiao et.al.|[2409.02877](http://arxiv.org/abs/2409.02877)|null|
+|**2024-09-04**|**Hybrid Imitation-Learning Motion Planner for Urban Driving**|Cristian Gariboldi et.al.|[2409.02871](http://arxiv.org/abs/2409.02871)|null|
+|**2024-09-04**|**Look Into the LITE in Deep Learning for Time Series Classification**|Ali Ismail-Fawaz et.al.|[2409.02869](http://arxiv.org/abs/2409.02869)|null|
+|**2024-09-04**|**Building a Scalable, Effective, and Steerable Search and Ranking Platform**|Marjan Celikik et.al.|[2409.02856](http://arxiv.org/abs/2409.02856)|null|
+|**2024-09-04**|**Oops, I Sampled it Again: Reinterpreting Confidence Intervals in Few-Shot Learning**|Raphael Lafargue et.al.|[2409.02850](http://arxiv.org/abs/2409.02850)|**[link](https://github.com/raflaf/fsl-benchmark-again)**|
 |**2024-08-30**|**The picasso gas model: Painting intracluster gas on gravity-only simulations**|F. Kéruzoré et.al.|[2408.17445](http://arxiv.org/abs/2408.17445)|null|
 |**2024-08-30**|**SelectTTS: Synthesizing Anyone's Voice via Discrete Unit-Based Frame Selection**|Ismail Rasim Ulgen et.al.|[2408.17432](http://arxiv.org/abs/2408.17432)|null|
 |**2024-08-30**|**Virtual EVE: a Deep Learning Model for Solar Irradiance Prediction**|Manuel Indaco et.al.|[2408.17430](http://arxiv.org/abs/2408.17430)|null|
@@ -1234,6 +1244,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Learning Density Functionals from Noisy Quantum Data**|Emiel Koridon et.al.|[2409.02921](http://arxiv.org/abs/2409.02921)|null|
+|**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
+|**2024-09-04**|**Topological Methods in Machine Learning: A Tutorial for Practitioners**|Baris Coskunuzer et.al.|[2409.02901](http://arxiv.org/abs/2409.02901)|**[link](https://github.com/cakcora/topologyforml)**|
+|**2024-09-04**|**Regional data-driven weather modeling with a global stretched-grid**|Thomas Nils Nipen et.al.|[2409.02891](http://arxiv.org/abs/2409.02891)|null|
+|**2024-09-04**|**Benchmarking Spurious Bias in Few-Shot Image Classifiers**|Guangtao Zheng et.al.|[2409.02882](http://arxiv.org/abs/2409.02882)|**[link](https://github.com/gtzheng/fewstab)**|
+|**2024-09-04**|**Configurable Foundation Models: Building LLMs from a Modular Perspective**|Chaojun Xiao et.al.|[2409.02877](http://arxiv.org/abs/2409.02877)|null|
+|**2024-09-04**|**Hybrid Imitation-Learning Motion Planner for Urban Driving**|Cristian Gariboldi et.al.|[2409.02871](http://arxiv.org/abs/2409.02871)|null|
+|**2024-09-04**|**Look Into the LITE in Deep Learning for Time Series Classification**|Ali Ismail-Fawaz et.al.|[2409.02869](http://arxiv.org/abs/2409.02869)|null|
+|**2024-09-04**|**Building a Scalable, Effective, and Steerable Search and Ranking Platform**|Marjan Celikik et.al.|[2409.02856](http://arxiv.org/abs/2409.02856)|null|
+|**2024-09-04**|**Oops, I Sampled it Again: Reinterpreting Confidence Intervals in Few-Shot Learning**|Raphael Lafargue et.al.|[2409.02850](http://arxiv.org/abs/2409.02850)|**[link](https://github.com/raflaf/fsl-benchmark-again)**|
 |**2024-08-30**|**The picasso gas model: Painting intracluster gas on gravity-only simulations**|F. Kéruzoré et.al.|[2408.17445](http://arxiv.org/abs/2408.17445)|null|
 |**2024-08-30**|**SelectTTS: Synthesizing Anyone's Voice via Discrete Unit-Based Frame Selection**|Ismail Rasim Ulgen et.al.|[2408.17432](http://arxiv.org/abs/2408.17432)|null|
 |**2024-08-30**|**Virtual EVE: a Deep Learning Model for Solar Irradiance Prediction**|Manuel Indaco et.al.|[2408.17430](http://arxiv.org/abs/2408.17430)|null|
