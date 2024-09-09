@@ -31,7 +31,7 @@
 |**2024-09-04**|**Benchmarking Spurious Bias in Few-Shot Image Classifiers**|Guangtao Zheng et.al.|[2409.02882](http://arxiv.org/abs/2409.02882)|**[link](https://github.com/gtzheng/fewstab)**|
 |**2024-09-04**|**Configurable Foundation Models: Building LLMs from a Modular Perspective**|Chaojun Xiao et.al.|[2409.02877](http://arxiv.org/abs/2409.02877)|null|
 |**2024-09-04**|**Hybrid Imitation-Learning Motion Planner for Urban Driving**|Cristian Gariboldi et.al.|[2409.02871](http://arxiv.org/abs/2409.02871)|null|
-|**2024-09-04**|**Look Into the LITE in Deep Learning for Time Series Classification**|Ali Ismail-Fawaz et.al.|[2409.02869](http://arxiv.org/abs/2409.02869)|null|
+|**2024-09-04**|**Look Into the LITE in Deep Learning for Time Series Classification**|Ali Ismail-Fawaz et.al.|[2409.02869](http://arxiv.org/abs/2409.02869)|**[link](https://github.com/MSD-IRIMAS/LITE)**|
 |**2024-09-04**|**Building a Scalable, Effective, and Steerable Search and Ranking Platform**|Marjan Celikik et.al.|[2409.02856](http://arxiv.org/abs/2409.02856)|null|
 |**2024-09-04**|**Oops, I Sampled it Again: Reinterpreting Confidence Intervals in Few-Shot Learning**|Raphael Lafargue et.al.|[2409.02850](http://arxiv.org/abs/2409.02850)|**[link](https://github.com/raflaf/fsl-benchmark-again)**|
 |**2024-08-30**|**The picasso gas model: Painting intracluster gas on gravity-only simulations**|F. Kéruzoré et.al.|[2408.17445](http://arxiv.org/abs/2408.17445)|null|
@@ -247,7 +247,7 @@
 |**2024-08-01**|**AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation**|Mengkang Hu et.al.|[2408.00764](http://arxiv.org/abs/2408.00764)|null|
 |**2024-08-01**|**Tamper-Resistant Safeguards for Open-Weight LLMs**|Rishub Tamirisa et.al.|[2408.00761](http://arxiv.org/abs/2408.00761)|**[link](https://github.com/rishub-tamirisa/tamper-resistance)**|
 |**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760](http://arxiv.org/abs/2408.00760)|null|
-|**2024-08-01**|**Thermal Conductivity Predictions with Foundation Atomistic Models**|Balázs Póta et.al.|[2408.00755](http://arxiv.org/abs/2408.00755)|null|
+|**2024-08-01**|**Thermal Conductivity Predictions with Foundation Atomistic Models**|Balázs Póta et.al.|[2408.00755](http://arxiv.org/abs/2408.00755)|**[link](https://github.com/msimoncelli/fmlp_conductivity)**|
 |**2024-08-01**|**Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal Language Model**|Benlin Liu et.al.|[2408.00754](http://arxiv.org/abs/2408.00754)|null|
 |**2024-08-01**|**A Policy-Gradient Approach to Solving Imperfect-Information Games with Iterate Convergence**|Mingyang Liu et.al.|[2408.00751](http://arxiv.org/abs/2408.00751)|null|
 |**2024-08-01**|**Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer**|Venkat Margapuri et.al.|[2408.00749](http://arxiv.org/abs/2408.00749)|null|
@@ -1271,7 +1271,7 @@
 |**2024-09-04**|**Benchmarking Spurious Bias in Few-Shot Image Classifiers**|Guangtao Zheng et.al.|[2409.02882](http://arxiv.org/abs/2409.02882)|**[link](https://github.com/gtzheng/fewstab)**|
 |**2024-09-04**|**Configurable Foundation Models: Building LLMs from a Modular Perspective**|Chaojun Xiao et.al.|[2409.02877](http://arxiv.org/abs/2409.02877)|null|
 |**2024-09-04**|**Hybrid Imitation-Learning Motion Planner for Urban Driving**|Cristian Gariboldi et.al.|[2409.02871](http://arxiv.org/abs/2409.02871)|null|
-|**2024-09-04**|**Look Into the LITE in Deep Learning for Time Series Classification**|Ali Ismail-Fawaz et.al.|[2409.02869](http://arxiv.org/abs/2409.02869)|null|
+|**2024-09-04**|**Look Into the LITE in Deep Learning for Time Series Classification**|Ali Ismail-Fawaz et.al.|[2409.02869](http://arxiv.org/abs/2409.02869)|**[link](https://github.com/MSD-IRIMAS/LITE)**|
 |**2024-09-04**|**Building a Scalable, Effective, and Steerable Search and Ranking Platform**|Marjan Celikik et.al.|[2409.02856](http://arxiv.org/abs/2409.02856)|null|
 |**2024-09-04**|**Oops, I Sampled it Again: Reinterpreting Confidence Intervals in Few-Shot Learning**|Raphael Lafargue et.al.|[2409.02850](http://arxiv.org/abs/2409.02850)|**[link](https://github.com/raflaf/fsl-benchmark-again)**|
 |**2024-08-30**|**The picasso gas model: Painting intracluster gas on gravity-only simulations**|F. Kéruzoré et.al.|[2408.17445](http://arxiv.org/abs/2408.17445)|null|
@@ -1487,7 +1487,7 @@
 |**2024-08-01**|**AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation**|Mengkang Hu et.al.|[2408.00764](http://arxiv.org/abs/2408.00764)|null|
 |**2024-08-01**|**Tamper-Resistant Safeguards for Open-Weight LLMs**|Rishub Tamirisa et.al.|[2408.00761](http://arxiv.org/abs/2408.00761)|**[link](https://github.com/rishub-tamirisa/tamper-resistance)**|
 |**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760](http://arxiv.org/abs/2408.00760)|null|
-|**2024-08-01**|**Thermal Conductivity Predictions with Foundation Atomistic Models**|Balázs Póta et.al.|[2408.00755](http://arxiv.org/abs/2408.00755)|null|
+|**2024-08-01**|**Thermal Conductivity Predictions with Foundation Atomistic Models**|Balázs Póta et.al.|[2408.00755](http://arxiv.org/abs/2408.00755)|**[link](https://github.com/msimoncelli/fmlp_conductivity)**|
 |**2024-08-01**|**Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal Language Model**|Benlin Liu et.al.|[2408.00754](http://arxiv.org/abs/2408.00754)|null|
 |**2024-08-01**|**A Policy-Gradient Approach to Solving Imperfect-Information Games with Iterate Convergence**|Mingyang Liu et.al.|[2408.00751](http://arxiv.org/abs/2408.00751)|null|
 |**2024-08-01**|**Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer**|Venkat Margapuri et.al.|[2408.00749](http://arxiv.org/abs/2408.00749)|null|
