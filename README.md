@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**DANCE: Deep Learning-Assisted Analysis of Protein Sequences Using Chaos Enhanced Kaleidoscopic Images**|Taslim Murad et.al.|[2409.06694](http://arxiv.org/abs/2409.06694)|null|
+|**2024-09-10**|**HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs**|Umair Qudus et.al.|[2409.06692](http://arxiv.org/abs/2409.06692)|**[link](https://github.com/dice-group/hybridfc)**|
+|**2024-09-10**|**Geometric-Averaged Preference Optimization for Soft Preference Labels**|Hiroki Furuta et.al.|[2409.06691](http://arxiv.org/abs/2409.06691)|null|
+|**2024-09-10**|**A study on deep feature extraction to detect and classify Acute Lymphoblastic Leukemia (ALL)**|Sabit Ahamed Preanto et.al.|[2409.06687](http://arxiv.org/abs/2409.06687)|null|
+|**2024-09-10**|**Frequency principle for quantum machine learning via Fourier analysis**|Yi-Hang Xu et.al.|[2409.06682](http://arxiv.org/abs/2409.06682)|null|
+|**2024-09-10**|**Liability and Insurance for Catastrophic Losses: the Nuclear Power Precedent and Lessons for AI**|Cristian Trout et.al.|[2409.06673](http://arxiv.org/abs/2409.06673)|null|
+|**2024-09-10**|**Insuring Uninsurable Risks from AI: The State as Insurer of Last Resort**|Cristian Trout et.al.|[2409.06672](http://arxiv.org/abs/2409.06672)|null|
+|**2024-09-10**|**DA-MoE: Towards Dynamic Expert Allocation for Mixture-of-Experts Models**|Maryam Akhavan Aghdam et.al.|[2409.06669](http://arxiv.org/abs/2409.06669)|null|
+|**2024-09-10**|**Sortformer: Seamless Integration of Speaker Diarization and ASR by Bridging Timestamps and Tokens**|Taejin Park et.al.|[2409.06656](http://arxiv.org/abs/2409.06656)|null|
+|**2024-09-10**|**Estimation and Inference for Causal Functions with Multiway Clustered Data**|Nan Liu et.al.|[2409.06654](http://arxiv.org/abs/2409.06654)|null|
 |**2024-09-09**|**A Framework for Evaluating PM2.5 Forecasts from the Perspective of Individual Decision Making**|Renato Berlinghieri et.al.|[2409.05866](http://arxiv.org/abs/2409.05866)|null|
 |**2024-09-09**|**Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments**|Haritheja Etukuru et.al.|[2409.05865](http://arxiv.org/abs/2409.05865)|null|
 |**2024-09-09**|**Neural MP: A Generalist Neural Motion Planner**|Murtaza Dalal et.al.|[2409.05864](http://arxiv.org/abs/2409.05864)|null|
@@ -1274,6 +1284,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**DANCE: Deep Learning-Assisted Analysis of Protein Sequences Using Chaos Enhanced Kaleidoscopic Images**|Taslim Murad et.al.|[2409.06694](http://arxiv.org/abs/2409.06694)|null|
+|**2024-09-10**|**HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs**|Umair Qudus et.al.|[2409.06692](http://arxiv.org/abs/2409.06692)|**[link](https://github.com/dice-group/hybridfc)**|
+|**2024-09-10**|**Geometric-Averaged Preference Optimization for Soft Preference Labels**|Hiroki Furuta et.al.|[2409.06691](http://arxiv.org/abs/2409.06691)|null|
+|**2024-09-10**|**A study on deep feature extraction to detect and classify Acute Lymphoblastic Leukemia (ALL)**|Sabit Ahamed Preanto et.al.|[2409.06687](http://arxiv.org/abs/2409.06687)|null|
+|**2024-09-10**|**Frequency principle for quantum machine learning via Fourier analysis**|Yi-Hang Xu et.al.|[2409.06682](http://arxiv.org/abs/2409.06682)|null|
+|**2024-09-10**|**Liability and Insurance for Catastrophic Losses: the Nuclear Power Precedent and Lessons for AI**|Cristian Trout et.al.|[2409.06673](http://arxiv.org/abs/2409.06673)|null|
+|**2024-09-10**|**Insuring Uninsurable Risks from AI: The State as Insurer of Last Resort**|Cristian Trout et.al.|[2409.06672](http://arxiv.org/abs/2409.06672)|null|
+|**2024-09-10**|**DA-MoE: Towards Dynamic Expert Allocation for Mixture-of-Experts Models**|Maryam Akhavan Aghdam et.al.|[2409.06669](http://arxiv.org/abs/2409.06669)|null|
+|**2024-09-10**|**Sortformer: Seamless Integration of Speaker Diarization and ASR by Bridging Timestamps and Tokens**|Taejin Park et.al.|[2409.06656](http://arxiv.org/abs/2409.06656)|null|
+|**2024-09-10**|**Estimation and Inference for Causal Functions with Multiway Clustered Data**|Nan Liu et.al.|[2409.06654](http://arxiv.org/abs/2409.06654)|null|
 |**2024-09-09**|**A Framework for Evaluating PM2.5 Forecasts from the Perspective of Individual Decision Making**|Renato Berlinghieri et.al.|[2409.05866](http://arxiv.org/abs/2409.05866)|null|
 |**2024-09-09**|**Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments**|Haritheja Etukuru et.al.|[2409.05865](http://arxiv.org/abs/2409.05865)|null|
 |**2024-09-09**|**Neural MP: A Generalist Neural Motion Planner**|Murtaza Dalal et.al.|[2409.05864](http://arxiv.org/abs/2409.05864)|null|
