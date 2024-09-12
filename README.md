@@ -1,4 +1,4 @@
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Introducing Perturb-ability Score (PS) to Enhance Robustness Against Evasion Adversarial Attacks on ML-NIDS**|Mohamed elShehaby et.al.|[2409.07448](http://arxiv.org/abs/2409.07448)|null|
+|**2024-09-11**|**Adaptive Adapter Routing for Long-Tailed Class-Incremental Learning**|Zhi-Hong Qi et.al.|[2409.07446](http://arxiv.org/abs/2409.07446)|**[link](https://github.com/vita-qzh/apart)**|
+|**2024-09-11**|**SUPER: Evaluating Agents on Setting Up and Executing Tasks from Research Repositories**|Ben Bogin et.al.|[2409.07440](http://arxiv.org/abs/2409.07440)|**[link](https://github.com/allenai/super-benchmark)**|
+|**2024-09-11**|**Asymptotics of Stochastic Gradient Descent with Dropout Regularization in Linear Models**|Jiaqi Li et.al.|[2409.07434](http://arxiv.org/abs/2409.07434)|**[link](https://github.com/jiaqili97/dropout_sgd)**|
+|**2024-09-11**|**Synthetic continued pretraining**|Zitong Yang et.al.|[2409.07431](http://arxiv.org/abs/2409.07431)|**[link](https://github.com/zitongyang/synthetic_continued_pretraining)**|
+|**2024-09-11**|**Deep Neural Network-Based Sign Language Recognition: A Comprehensive Approach Using Transfer Learning with Explainability**|A. E. M Ridwan et.al.|[2409.07426](http://arxiv.org/abs/2409.07426)|null|
+|**2024-09-11**|**Towards Fairer Health Recommendations: finding informative unbiased samples via Word Sense Disambiguation**|Gavin Butts et.al.|[2409.07424](http://arxiv.org/abs/2409.07424)|null|
+|**2024-09-11**|**Hierarchical Reinforcement Learning for Temporal Abstraction of Listwise Recommendation**|Luo Ji et.al.|[2409.07416](http://arxiv.org/abs/2409.07416)|null|
+|**2024-09-11**|**SoK: Security and Privacy Risks of Medical AI**|Yuanhaur Chang et.al.|[2409.07415](http://arxiv.org/abs/2409.07415)|null|
+|**2024-09-11**|**Manifold Learning via Foliations and Knowledge Transfer**|E. Tron et.al.|[2409.07412](http://arxiv.org/abs/2409.07412)|null|
 |**2024-09-10**|**DANCE: Deep Learning-Assisted Analysis of Protein Sequences Using Chaos Enhanced Kaleidoscopic Images**|Taslim Murad et.al.|[2409.06694](http://arxiv.org/abs/2409.06694)|null|
 |**2024-09-10**|**HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs**|Umair Qudus et.al.|[2409.06692](http://arxiv.org/abs/2409.06692)|**[link](https://github.com/dice-group/hybridfc)**|
 |**2024-09-10**|**Geometric-Averaged Preference Optimization for Soft Preference Labels**|Hiroki Furuta et.al.|[2409.06691](http://arxiv.org/abs/2409.06691)|null|
@@ -1278,12 +1288,22 @@
 |**2017-07-27**|**High Dimensional Random Walks Can Appear Low Dimensional: Application to Influenza H3N2 Evolution**|James Moore et.al.|[1707.09361](http://arxiv.org/abs/1707.09361)|null|
 |**2008-07-20**|**Design and Production of Specifically and with High Affinity Reacting Peptides**|Jan C Biro et.al.|[0807.3038](http://arxiv.org/abs/0807.3038)|null|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
 ## Peptide
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Introducing Perturb-ability Score (PS) to Enhance Robustness Against Evasion Adversarial Attacks on ML-NIDS**|Mohamed elShehaby et.al.|[2409.07448](http://arxiv.org/abs/2409.07448)|null|
+|**2024-09-11**|**Adaptive Adapter Routing for Long-Tailed Class-Incremental Learning**|Zhi-Hong Qi et.al.|[2409.07446](http://arxiv.org/abs/2409.07446)|**[link](https://github.com/vita-qzh/apart)**|
+|**2024-09-11**|**SUPER: Evaluating Agents on Setting Up and Executing Tasks from Research Repositories**|Ben Bogin et.al.|[2409.07440](http://arxiv.org/abs/2409.07440)|**[link](https://github.com/allenai/super-benchmark)**|
+|**2024-09-11**|**Asymptotics of Stochastic Gradient Descent with Dropout Regularization in Linear Models**|Jiaqi Li et.al.|[2409.07434](http://arxiv.org/abs/2409.07434)|**[link](https://github.com/jiaqili97/dropout_sgd)**|
+|**2024-09-11**|**Synthetic continued pretraining**|Zitong Yang et.al.|[2409.07431](http://arxiv.org/abs/2409.07431)|**[link](https://github.com/zitongyang/synthetic_continued_pretraining)**|
+|**2024-09-11**|**Deep Neural Network-Based Sign Language Recognition: A Comprehensive Approach Using Transfer Learning with Explainability**|A. E. M Ridwan et.al.|[2409.07426](http://arxiv.org/abs/2409.07426)|null|
+|**2024-09-11**|**Towards Fairer Health Recommendations: finding informative unbiased samples via Word Sense Disambiguation**|Gavin Butts et.al.|[2409.07424](http://arxiv.org/abs/2409.07424)|null|
+|**2024-09-11**|**Hierarchical Reinforcement Learning for Temporal Abstraction of Listwise Recommendation**|Luo Ji et.al.|[2409.07416](http://arxiv.org/abs/2409.07416)|null|
+|**2024-09-11**|**SoK: Security and Privacy Risks of Medical AI**|Yuanhaur Chang et.al.|[2409.07415](http://arxiv.org/abs/2409.07415)|null|
+|**2024-09-11**|**Manifold Learning via Foliations and Knowledge Transfer**|E. Tron et.al.|[2409.07412](http://arxiv.org/abs/2409.07412)|null|
 |**2024-09-10**|**DANCE: Deep Learning-Assisted Analysis of Protein Sequences Using Chaos Enhanced Kaleidoscopic Images**|Taslim Murad et.al.|[2409.06694](http://arxiv.org/abs/2409.06694)|null|
 |**2024-09-10**|**HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs**|Umair Qudus et.al.|[2409.06692](http://arxiv.org/abs/2409.06692)|**[link](https://github.com/dice-group/hybridfc)**|
 |**2024-09-10**|**Geometric-Averaged Preference Optimization for Soft Preference Labels**|Hiroki Furuta et.al.|[2409.06691](http://arxiv.org/abs/2409.06691)|null|
@@ -2550,7 +2570,7 @@
 |**2018-11-13**|**PepCVAE: Semi-Supervised Targeted Design of Antimicrobial Peptide Sequences**|Payel Das et.al.|[1810.07743](http://arxiv.org/abs/1810.07743)|null|
 |**2009-11-23**|**Silver-staining of proteins in polyacrylamide gels: a general overview**|Thierry Rabilloud et.al.|[0911.4458](http://arxiv.org/abs/0911.4458)|null|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2568,5 +2588,5 @@
 |**2024-02-21**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|**[link](https://github.com/allenai/tess-diffusion)**|
 |**2023-05-13**|**Diffusion Models for Non-autoregressive Text Generation: A Survey**|Yifan Li et.al.|[2303.06574](http://arxiv.org/abs/2303.06574)|**[link](https://github.com/rucaibox/awesome-text-diffusion-models)**|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
