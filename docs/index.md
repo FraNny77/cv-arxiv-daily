@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**The unknotting number, hard unknot diagrams, and reinforcement learning**|Taylor Applebaum et.al.|[2409.09032](http://arxiv.org/abs/2409.09032)|null|
+|**2024-09-13**|**Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy**|Michael W. Toomey et.al.|[2409.09029](http://arxiv.org/abs/2409.09029)|null|
+|**2024-09-13**|**INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction**|Soumitra Kundu et.al.|[2409.09021](http://arxiv.org/abs/2409.09021)|null|
+|**2024-09-13**|**An Efficient and Streaming Audio Visual Active Speaker Detection System**|Arnav Kundu et.al.|[2409.09018](http://arxiv.org/abs/2409.09018)|null|
+|**2024-09-13**|**VAE Explainer: Supplement Learning Variational Autoencoders with Interactive Visualization**|Donald Bertucci et.al.|[2409.09011](http://arxiv.org/abs/2409.09011)|**[link](https://github.com/xnought/vae-explainer)**|
+|**2024-09-13**|**SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity**|Qitian Wu et.al.|[2409.09007](http://arxiv.org/abs/2409.09007)|**[link](https://github.com/qitianwu/sgformer)**|
+|**2024-09-13**|**Model-independent variable selection via the rule-based variable priorit**|Min Lu et.al.|[2409.09003](http://arxiv.org/abs/2409.09003)|null|
+|**2024-09-13**|**Biomimetic Frontend for Differentiable Audio Processing**|Ruolan Leslie Famularo et.al.|[2409.08997](http://arxiv.org/abs/2409.08997)|**[link](https://github.com/pirl-lab/diffAudNeuro)**|
+|**2024-09-13**|**Clean Label Attacks against SLU Systems**|Henry Li Xinyuan et.al.|[2409.08985](http://arxiv.org/abs/2409.08985)|null|
+|**2024-09-13**|**Predicting Trust In Autonomous Vehicles: Modeling Young Adult Psychosocial Traits, Risk-Benefit Attitudes, And Driving Factors With Machine Learning**|Robert Kaufman et.al.|[2409.08980](http://arxiv.org/abs/2409.08980)|null|
 |**2024-09-12**|**Click2Mask: Local Editing with Dynamic Mask Generation**|Omer Regev et.al.|[2409.08272](http://arxiv.org/abs/2409.08272)|null|
 |**2024-09-12**|**DreamBeast: Distilling 3D Fantastical Animals with Part-Aware Knowledge Transfer**|Runjia Li et.al.|[2409.08271](http://arxiv.org/abs/2409.08271)|null|
 |**2024-09-12**|**Learning incomplete factorization preconditioners for GMRES**|Paul Häusner et.al.|[2409.08262](http://arxiv.org/abs/2409.08262)|**[link](https://github.com/paulhausner/neural-incomplete-factorization)**|
@@ -1297,6 +1307,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**The unknotting number, hard unknot diagrams, and reinforcement learning**|Taylor Applebaum et.al.|[2409.09032](http://arxiv.org/abs/2409.09032)|null|
+|**2024-09-13**|**Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy**|Michael W. Toomey et.al.|[2409.09029](http://arxiv.org/abs/2409.09029)|null|
+|**2024-09-13**|**INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction**|Soumitra Kundu et.al.|[2409.09021](http://arxiv.org/abs/2409.09021)|null|
+|**2024-09-13**|**An Efficient and Streaming Audio Visual Active Speaker Detection System**|Arnav Kundu et.al.|[2409.09018](http://arxiv.org/abs/2409.09018)|null|
+|**2024-09-13**|**VAE Explainer: Supplement Learning Variational Autoencoders with Interactive Visualization**|Donald Bertucci et.al.|[2409.09011](http://arxiv.org/abs/2409.09011)|**[link](https://github.com/xnought/vae-explainer)**|
+|**2024-09-13**|**SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity**|Qitian Wu et.al.|[2409.09007](http://arxiv.org/abs/2409.09007)|**[link](https://github.com/qitianwu/sgformer)**|
+|**2024-09-13**|**Model-independent variable selection via the rule-based variable priorit**|Min Lu et.al.|[2409.09003](http://arxiv.org/abs/2409.09003)|null|
+|**2024-09-13**|**Biomimetic Frontend for Differentiable Audio Processing**|Ruolan Leslie Famularo et.al.|[2409.08997](http://arxiv.org/abs/2409.08997)|**[link](https://github.com/pirl-lab/diffAudNeuro)**|
+|**2024-09-13**|**Clean Label Attacks against SLU Systems**|Henry Li Xinyuan et.al.|[2409.08985](http://arxiv.org/abs/2409.08985)|null|
+|**2024-09-13**|**Predicting Trust In Autonomous Vehicles: Modeling Young Adult Psychosocial Traits, Risk-Benefit Attitudes, And Driving Factors With Machine Learning**|Robert Kaufman et.al.|[2409.08980](http://arxiv.org/abs/2409.08980)|null|
 |**2024-09-12**|**Click2Mask: Local Editing with Dynamic Mask Generation**|Omer Regev et.al.|[2409.08272](http://arxiv.org/abs/2409.08272)|null|
 |**2024-09-12**|**DreamBeast: Distilling 3D Fantastical Animals with Part-Aware Knowledge Transfer**|Runjia Li et.al.|[2409.08271](http://arxiv.org/abs/2409.08271)|null|
 |**2024-09-12**|**Learning incomplete factorization preconditioners for GMRES**|Paul Häusner et.al.|[2409.08262](http://arxiv.org/abs/2409.08262)|**[link](https://github.com/paulhausner/neural-incomplete-factorization)**|
