@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -15,7 +15,7 @@ layout: default
 |**2024-09-16**|**Causal Language Modeling Can Elicit Search and Reasoning Capabilities on Logic Puzzles**|Kulin Shah et.al.|[2409.10502](http://arxiv.org/abs/2409.10502)|null|
 |**2024-09-16**|**Partial Distribution Matching via Partial Wasserstein Adversarial Networks**|Zi-Ming Wang et.al.|[2409.10499](http://arxiv.org/abs/2409.10499)|null|
 |**2024-09-16**|**MusicLIME: Explainable Multimodal Music Understanding**|Theodoros Sotirou et.al.|[2409.10496](http://arxiv.org/abs/2409.10496)|**[link](https://github.com/iamtheo2000/musiclime)**|
-|**2024-09-16**|**Flash STU: Fast Spectral Transform Units**|Y. Isabel Liu et.al.|[2409.10489](http://arxiv.org/abs/2409.10489)|null|
+|**2024-09-17**|**Flash STU: Fast Spectral Transform Units**|Y. Isabel Liu et.al.|[2409.10489](http://arxiv.org/abs/2409.10489)|null|
 |**2024-09-16**|**Local SGD for Near-Quadratic Problems: Improving Convergence under Unconstrained Noise Conditions**|Andrey Sadchikov et.al.|[2409.10478](http://arxiv.org/abs/2409.10478)|null|
 |**2024-09-16**|**Online Nonconvex Bilevel Optimization with Bregman Divergences**|Jason Bohne et.al.|[2409.10470](http://arxiv.org/abs/2409.10470)|null|
 |**2024-09-16**|**Kolmogorov-Arnold Networks in Low-Data Regimes: A Comparative Study with Multilayer Perceptrons**|Farhad Pourkamali-Anaraki et.al.|[2409.10463](http://arxiv.org/abs/2409.10463)|null|
@@ -1323,7 +1323,7 @@ layout: default
 |**2024-09-16**|**Causal Language Modeling Can Elicit Search and Reasoning Capabilities on Logic Puzzles**|Kulin Shah et.al.|[2409.10502](http://arxiv.org/abs/2409.10502)|null|
 |**2024-09-16**|**Partial Distribution Matching via Partial Wasserstein Adversarial Networks**|Zi-Ming Wang et.al.|[2409.10499](http://arxiv.org/abs/2409.10499)|null|
 |**2024-09-16**|**MusicLIME: Explainable Multimodal Music Understanding**|Theodoros Sotirou et.al.|[2409.10496](http://arxiv.org/abs/2409.10496)|**[link](https://github.com/iamtheo2000/musiclime)**|
-|**2024-09-16**|**Flash STU: Fast Spectral Transform Units**|Y. Isabel Liu et.al.|[2409.10489](http://arxiv.org/abs/2409.10489)|null|
+|**2024-09-17**|**Flash STU: Fast Spectral Transform Units**|Y. Isabel Liu et.al.|[2409.10489](http://arxiv.org/abs/2409.10489)|null|
 |**2024-09-16**|**Local SGD for Near-Quadratic Problems: Improving Convergence under Unconstrained Noise Conditions**|Andrey Sadchikov et.al.|[2409.10478](http://arxiv.org/abs/2409.10478)|null|
 |**2024-09-16**|**Online Nonconvex Bilevel Optimization with Bregman Divergences**|Jason Bohne et.al.|[2409.10470](http://arxiv.org/abs/2409.10470)|null|
 |**2024-09-16**|**Kolmogorov-Arnold Networks in Low-Data Regimes: A Comparative Study with Multilayer Perceptrons**|Farhad Pourkamali-Anaraki et.al.|[2409.10463](http://arxiv.org/abs/2409.10463)|null|

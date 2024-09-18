@@ -1,4 +1,4 @@
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2024-09-16**|**Causal Language Modeling Can Elicit Search and Reasoning Capabilities on Logic Puzzles**|Kulin Shah et.al.|[2409.10502](http://arxiv.org/abs/2409.10502)|null|
 |**2024-09-16**|**Partial Distribution Matching via Partial Wasserstein Adversarial Networks**|Zi-Ming Wang et.al.|[2409.10499](http://arxiv.org/abs/2409.10499)|null|
 |**2024-09-16**|**MusicLIME: Explainable Multimodal Music Understanding**|Theodoros Sotirou et.al.|[2409.10496](http://arxiv.org/abs/2409.10496)|**[link](https://github.com/iamtheo2000/musiclime)**|
-|**2024-09-16**|**Flash STU: Fast Spectral Transform Units**|Y. Isabel Liu et.al.|[2409.10489](http://arxiv.org/abs/2409.10489)|null|
+|**2024-09-17**|**Flash STU: Fast Spectral Transform Units**|Y. Isabel Liu et.al.|[2409.10489](http://arxiv.org/abs/2409.10489)|null|
 |**2024-09-16**|**Local SGD for Near-Quadratic Problems: Improving Convergence under Unconstrained Noise Conditions**|Andrey Sadchikov et.al.|[2409.10478](http://arxiv.org/abs/2409.10478)|null|
 |**2024-09-16**|**Online Nonconvex Bilevel Optimization with Bregman Divergences**|Jason Bohne et.al.|[2409.10470](http://arxiv.org/abs/2409.10470)|null|
 |**2024-09-16**|**Kolmogorov-Arnold Networks in Low-Data Regimes: A Comparative Study with Multilayer Perceptrons**|Farhad Pourkamali-Anaraki et.al.|[2409.10463](http://arxiv.org/abs/2409.10463)|null|
@@ -1318,7 +1318,7 @@
 |**2017-07-27**|**High Dimensional Random Walks Can Appear Low Dimensional: Application to Influenza H3N2 Evolution**|James Moore et.al.|[1707.09361](http://arxiv.org/abs/1707.09361)|null|
 |**2008-07-20**|**Design and Production of Specifically and with High Affinity Reacting Peptides**|Jan C Biro et.al.|[0807.3038](http://arxiv.org/abs/0807.3038)|null|
 
-<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
 
 ## Peptide
 
@@ -1330,7 +1330,7 @@
 |**2024-09-16**|**Causal Language Modeling Can Elicit Search and Reasoning Capabilities on Logic Puzzles**|Kulin Shah et.al.|[2409.10502](http://arxiv.org/abs/2409.10502)|null|
 |**2024-09-16**|**Partial Distribution Matching via Partial Wasserstein Adversarial Networks**|Zi-Ming Wang et.al.|[2409.10499](http://arxiv.org/abs/2409.10499)|null|
 |**2024-09-16**|**MusicLIME: Explainable Multimodal Music Understanding**|Theodoros Sotirou et.al.|[2409.10496](http://arxiv.org/abs/2409.10496)|**[link](https://github.com/iamtheo2000/musiclime)**|
-|**2024-09-16**|**Flash STU: Fast Spectral Transform Units**|Y. Isabel Liu et.al.|[2409.10489](http://arxiv.org/abs/2409.10489)|null|
+|**2024-09-17**|**Flash STU: Fast Spectral Transform Units**|Y. Isabel Liu et.al.|[2409.10489](http://arxiv.org/abs/2409.10489)|null|
 |**2024-09-16**|**Local SGD for Near-Quadratic Problems: Improving Convergence under Unconstrained Noise Conditions**|Andrey Sadchikov et.al.|[2409.10478](http://arxiv.org/abs/2409.10478)|null|
 |**2024-09-16**|**Online Nonconvex Bilevel Optimization with Bregman Divergences**|Jason Bohne et.al.|[2409.10470](http://arxiv.org/abs/2409.10470)|null|
 |**2024-09-16**|**Kolmogorov-Arnold Networks in Low-Data Regimes: A Comparative Study with Multilayer Perceptrons**|Farhad Pourkamali-Anaraki et.al.|[2409.10463](http://arxiv.org/abs/2409.10463)|null|
@@ -2630,7 +2630,7 @@
 |**2018-11-13**|**PepCVAE: Semi-Supervised Targeted Design of Antimicrobial Peptide Sequences**|Payel Das et.al.|[1810.07743](http://arxiv.org/abs/1810.07743)|null|
 |**2009-11-23**|**Silver-staining of proteins in polyacrylamide gels: a general overview**|Thierry Rabilloud et.al.|[0911.4458](http://arxiv.org/abs/0911.4458)|null|
 
-<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2648,5 +2648,5 @@
 |**2024-02-21**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|**[link](https://github.com/allenai/tess-diffusion)**|
 |**2023-05-13**|**Diffusion Models for Non-autoregressive Text Generation: A Survey**|Yifan Li et.al.|[2303.06574](http://arxiv.org/abs/2303.06574)|**[link](https://github.com/rucaibox/awesome-text-diffusion-models)**|
 
-<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
 
