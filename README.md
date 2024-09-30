@@ -1,4 +1,4 @@
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2024-09-26**|**Infer Human's Intentions Before Following Natural Language Instructions**|Yanming Wan et.al.|[2409.18073](http://arxiv.org/abs/2409.18073)|null|
 |**2024-09-26**|**Prediction of the Infrared Absorbance Intensities and Frequencies of Hydrocarbons:A Message Passing Neural Network Approach**|Maliheh Shaban Tameh et.al.|[2409.18070](http://arxiv.org/abs/2409.18070)|null|
 |**2024-09-26**|**Optimal Protocols for Continual Learning via Statistical Physics and Control Theory**|Francesco Mori et.al.|[2409.18061](http://arxiv.org/abs/2409.18061)|null|
-|**2024-09-26**|**Explaining Explaining**|Sergei Nirenburg et.al.|[2409.18052](http://arxiv.org/abs/2409.18052)|null|
+|**2024-09-27**|**Explaining Explaining**|Sergei Nirenburg et.al.|[2409.18052](http://arxiv.org/abs/2409.18052)|null|
 |**2024-09-26**|**Inverse Reinforcement Learning with Multiple Planning Horizons**|Jiayu Yao et.al.|[2409.18051](http://arxiv.org/abs/2409.18051)|null|
 |**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049](http://arxiv.org/abs/2409.18049)|**[link](https://github.com/anyloc/revisit-anything)**|
 |**2024-09-25**|**Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models**|Matt Deitke et.al.|[2409.17146](http://arxiv.org/abs/2409.17146)|null|
@@ -1368,7 +1368,7 @@
 |**2017-07-27**|**High Dimensional Random Walks Can Appear Low Dimensional: Application to Influenza H3N2 Evolution**|James Moore et.al.|[1707.09361](http://arxiv.org/abs/1707.09361)|null|
 |**2008-07-20**|**Design and Production of Specifically and with High Affinity Reacting Peptides**|Jan C Biro et.al.|[0807.3038](http://arxiv.org/abs/0807.3038)|null|
 
-<p align=right>(<a href=#updated-on-20240929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
 
 ## Peptide
 
@@ -1381,7 +1381,7 @@
 |**2024-09-26**|**Infer Human's Intentions Before Following Natural Language Instructions**|Yanming Wan et.al.|[2409.18073](http://arxiv.org/abs/2409.18073)|null|
 |**2024-09-26**|**Prediction of the Infrared Absorbance Intensities and Frequencies of Hydrocarbons:A Message Passing Neural Network Approach**|Maliheh Shaban Tameh et.al.|[2409.18070](http://arxiv.org/abs/2409.18070)|null|
 |**2024-09-26**|**Optimal Protocols for Continual Learning via Statistical Physics and Control Theory**|Francesco Mori et.al.|[2409.18061](http://arxiv.org/abs/2409.18061)|null|
-|**2024-09-26**|**Explaining Explaining**|Sergei Nirenburg et.al.|[2409.18052](http://arxiv.org/abs/2409.18052)|null|
+|**2024-09-27**|**Explaining Explaining**|Sergei Nirenburg et.al.|[2409.18052](http://arxiv.org/abs/2409.18052)|null|
 |**2024-09-26**|**Inverse Reinforcement Learning with Multiple Planning Horizons**|Jiayu Yao et.al.|[2409.18051](http://arxiv.org/abs/2409.18051)|null|
 |**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049](http://arxiv.org/abs/2409.18049)|**[link](https://github.com/anyloc/revisit-anything)**|
 |**2024-09-25**|**Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models**|Matt Deitke et.al.|[2409.17146](http://arxiv.org/abs/2409.17146)|null|
@@ -2730,7 +2730,7 @@
 |**2018-11-13**|**PepCVAE: Semi-Supervised Targeted Design of Antimicrobial Peptide Sequences**|Payel Das et.al.|[1810.07743](http://arxiv.org/abs/1810.07743)|null|
 |**2009-11-23**|**Silver-staining of proteins in polyacrylamide gels: a general overview**|Thierry Rabilloud et.al.|[0911.4458](http://arxiv.org/abs/0911.4458)|null|
 
-<p align=right>(<a href=#updated-on-20240929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2748,5 +2748,5 @@
 |**2024-02-21**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|**[link](https://github.com/allenai/tess-diffusion)**|
 |**2023-05-13**|**Diffusion Models for Non-autoregressive Text Generation: A Survey**|Yifan Li et.al.|[2303.06574](http://arxiv.org/abs/2303.06574)|**[link](https://github.com/rucaibox/awesome-text-diffusion-models)**|
 
-<p align=right>(<a href=#updated-on-20240929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
 
