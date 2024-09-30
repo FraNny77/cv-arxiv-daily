@@ -38,7 +38,7 @@
 |**2024-09-24**|**Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation**|Homanga Bharadhwaj et.al.|[2409.16283](http://arxiv.org/abs/2409.16283)|null|
 |**2024-09-24**|**A Critical Review of Safe Reinforcement Learning Techniques in Smart Grid Applications**|Van-Hai Bui et.al.|[2409.16256](http://arxiv.org/abs/2409.16256)|null|
 |**2024-09-24**|**Learning To Help: Training Models to Assist Legacy Devices**|Yu Wu et.al.|[2409.16253](http://arxiv.org/abs/2409.16253)|null|
-|**2024-09-24**|**Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation**|Hannah Kerner et.al.|[2409.16252](http://arxiv.org/abs/2409.16252)|null|
+|**2024-09-24**|**Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation**|Hannah Kerner et.al.|[2409.16252](http://arxiv.org/abs/2409.16252)|**[link](https://github.com/fieldsoftheworld/ftw-baselines)**|
 |**2024-09-24**|**A Deep Learning Earth System Model for Stable and Efficient Simulation of the Current Climate**|Nathaniel Cresswell-Clay et.al.|[2409.16247](http://arxiv.org/abs/2409.16247)|null|
 |**2024-09-24**|**Predicting Deterioration in Mild Cognitive Impairment with Survival Transformers, Extreme Gradient Boosting and Cox Proportional Hazard Modelling**|Henry Musto et.al.|[2409.16231](http://arxiv.org/abs/2409.16231)|null|
 |**2024-09-24**|**Fine-Tuning is Fine, if Calibrated**|Zheda Mai et.al.|[2409.16223](http://arxiv.org/abs/2409.16223)|null|
@@ -75,7 +75,7 @@
 |**2024-09-16**|**Online Nonconvex Bilevel Optimization with Bregman Divergences**|Jason Bohne et.al.|[2409.10470](http://arxiv.org/abs/2409.10470)|null|
 |**2024-09-16**|**Kolmogorov-Arnold Networks in Low-Data Regimes: A Comparative Study with Multilayer Perceptrons**|Farhad Pourkamali-Anaraki et.al.|[2409.10463](http://arxiv.org/abs/2409.10463)|null|
 |**2024-09-13**|**The unknotting number, hard unknot diagrams, and reinforcement learning**|Taylor Applebaum et.al.|[2409.09032](http://arxiv.org/abs/2409.09032)|null|
-|**2024-09-13**|**Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy**|Michael W. Toomey et.al.|[2409.09029](http://arxiv.org/abs/2409.09029)|null|
+|**2024-09-13**|**Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy**|Michael W. Toomey et.al.|[2409.09029](http://arxiv.org/abs/2409.09029)|**[link](https://github.com/mwt5345/class_ede)**|
 |**2024-09-13**|**INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction**|Soumitra Kundu et.al.|[2409.09021](http://arxiv.org/abs/2409.09021)|null|
 |**2024-09-13**|**An Efficient and Streaming Audio Visual Active Speaker Detection System**|Arnav Kundu et.al.|[2409.09018](http://arxiv.org/abs/2409.09018)|null|
 |**2024-09-13**|**VAE Explainer: Supplement Learning Variational Autoencoders with Interactive Visualization**|Donald Bertucci et.al.|[2409.09011](http://arxiv.org/abs/2409.09011)|**[link](https://github.com/xnought/vae-explainer)**|
@@ -1398,7 +1398,7 @@
 |**2024-09-24**|**Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation**|Homanga Bharadhwaj et.al.|[2409.16283](http://arxiv.org/abs/2409.16283)|null|
 |**2024-09-24**|**A Critical Review of Safe Reinforcement Learning Techniques in Smart Grid Applications**|Van-Hai Bui et.al.|[2409.16256](http://arxiv.org/abs/2409.16256)|null|
 |**2024-09-24**|**Learning To Help: Training Models to Assist Legacy Devices**|Yu Wu et.al.|[2409.16253](http://arxiv.org/abs/2409.16253)|null|
-|**2024-09-24**|**Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation**|Hannah Kerner et.al.|[2409.16252](http://arxiv.org/abs/2409.16252)|null|
+|**2024-09-24**|**Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation**|Hannah Kerner et.al.|[2409.16252](http://arxiv.org/abs/2409.16252)|**[link](https://github.com/fieldsoftheworld/ftw-baselines)**|
 |**2024-09-24**|**A Deep Learning Earth System Model for Stable and Efficient Simulation of the Current Climate**|Nathaniel Cresswell-Clay et.al.|[2409.16247](http://arxiv.org/abs/2409.16247)|null|
 |**2024-09-24**|**Predicting Deterioration in Mild Cognitive Impairment with Survival Transformers, Extreme Gradient Boosting and Cox Proportional Hazard Modelling**|Henry Musto et.al.|[2409.16231](http://arxiv.org/abs/2409.16231)|null|
 |**2024-09-24**|**Fine-Tuning is Fine, if Calibrated**|Zheda Mai et.al.|[2409.16223](http://arxiv.org/abs/2409.16223)|null|
@@ -1435,7 +1435,7 @@
 |**2024-09-16**|**Online Nonconvex Bilevel Optimization with Bregman Divergences**|Jason Bohne et.al.|[2409.10470](http://arxiv.org/abs/2409.10470)|null|
 |**2024-09-16**|**Kolmogorov-Arnold Networks in Low-Data Regimes: A Comparative Study with Multilayer Perceptrons**|Farhad Pourkamali-Anaraki et.al.|[2409.10463](http://arxiv.org/abs/2409.10463)|null|
 |**2024-09-13**|**The unknotting number, hard unknot diagrams, and reinforcement learning**|Taylor Applebaum et.al.|[2409.09032](http://arxiv.org/abs/2409.09032)|null|
-|**2024-09-13**|**Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy**|Michael W. Toomey et.al.|[2409.09029](http://arxiv.org/abs/2409.09029)|null|
+|**2024-09-13**|**Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy**|Michael W. Toomey et.al.|[2409.09029](http://arxiv.org/abs/2409.09029)|**[link](https://github.com/mwt5345/class_ede)**|
 |**2024-09-13**|**INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction**|Soumitra Kundu et.al.|[2409.09021](http://arxiv.org/abs/2409.09021)|null|
 |**2024-09-13**|**An Efficient and Streaming Audio Visual Active Speaker Detection System**|Arnav Kundu et.al.|[2409.09018](http://arxiv.org/abs/2409.09018)|null|
 |**2024-09-13**|**VAE Explainer: Supplement Learning Variational Autoencoders with Interactive Visualization**|Donald Bertucci et.al.|[2409.09011](http://arxiv.org/abs/2409.09011)|**[link](https://github.com/xnought/vae-explainer)**|
