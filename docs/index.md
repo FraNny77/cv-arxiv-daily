@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -15,9 +15,9 @@ layout: default
 |**2024-09-30**|**LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**|Xiaopan Zhang et.al.|[2409.20560](http://arxiv.org/abs/2409.20560)|null|
 |**2024-09-30**|**Supervised Multi-Modal Fission Learning**|Lingchao Mao et.al.|[2409.20559](http://arxiv.org/abs/2409.20559)|null|
 |**2024-09-30**|**Annealing Flow Generative Model Towards Sampling High-Dimensional and Multi-Modal Distributions**|Dongze Wu et.al.|[2409.20547](http://arxiv.org/abs/2409.20547)|null|
-|**2024-09-30**|**Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers**|Lirui Wang et.al.|[2409.20537](http://arxiv.org/abs/2409.20537)|null|
-|**2024-09-30**|**Best Practices for Responsible Machine Learning in Credit Scoring**|Giovani Valdrighi et.al.|[2409.20536](http://arxiv.org/abs/2409.20536)|null|
-|**2024-09-30**|**End-to-End Conformal Calibration for Optimization Under Uncertainty**|Christopher Yeh et.al.|[2409.20534](http://arxiv.org/abs/2409.20534)|null|
+|**2024-09-30**|**Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers**|Lirui Wang et.al.|[2409.20537](http://arxiv.org/abs/2409.20537)|**[link](https://github.com/liruiw/HPT)**|
+|**2024-09-30**|**Best Practices for Responsible Machine Learning in Credit Scoring**|Giovani Valdrighi et.al.|[2409.20536](http://arxiv.org/abs/2409.20536)|**[link](https://github.com/hiaac-finance/credit_pipeline)**|
+|**2024-09-30**|**End-to-End Conformal Calibration for Optimization Under Uncertainty**|Christopher Yeh et.al.|[2409.20534](http://arxiv.org/abs/2409.20534)|**[link](https://github.com/chrisyeh96/e2e-conformal)**|
 |**2024-09-30**|**Dual Encoder GAN Inversion for High-Fidelity 3D Head Reconstruction from Single Images**|Bahri Batuhan Bilecen et.al.|[2409.20530](http://arxiv.org/abs/2409.20530)|null|
 |**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964](http://arxiv.org/abs/2409.18964)|**[link](https://github.com/stevenlsw/physgen)**|
 |**2024-09-27**|**Exploring Token Pruning in Vision State Space Models**|Zheng Zhan et.al.|[2409.18962](http://arxiv.org/abs/2409.18962)|null|
@@ -1393,9 +1393,9 @@ layout: default
 |**2024-09-30**|**LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**|Xiaopan Zhang et.al.|[2409.20560](http://arxiv.org/abs/2409.20560)|null|
 |**2024-09-30**|**Supervised Multi-Modal Fission Learning**|Lingchao Mao et.al.|[2409.20559](http://arxiv.org/abs/2409.20559)|null|
 |**2024-09-30**|**Annealing Flow Generative Model Towards Sampling High-Dimensional and Multi-Modal Distributions**|Dongze Wu et.al.|[2409.20547](http://arxiv.org/abs/2409.20547)|null|
-|**2024-09-30**|**Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers**|Lirui Wang et.al.|[2409.20537](http://arxiv.org/abs/2409.20537)|null|
-|**2024-09-30**|**Best Practices for Responsible Machine Learning in Credit Scoring**|Giovani Valdrighi et.al.|[2409.20536](http://arxiv.org/abs/2409.20536)|null|
-|**2024-09-30**|**End-to-End Conformal Calibration for Optimization Under Uncertainty**|Christopher Yeh et.al.|[2409.20534](http://arxiv.org/abs/2409.20534)|null|
+|**2024-09-30**|**Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers**|Lirui Wang et.al.|[2409.20537](http://arxiv.org/abs/2409.20537)|**[link](https://github.com/liruiw/HPT)**|
+|**2024-09-30**|**Best Practices for Responsible Machine Learning in Credit Scoring**|Giovani Valdrighi et.al.|[2409.20536](http://arxiv.org/abs/2409.20536)|**[link](https://github.com/hiaac-finance/credit_pipeline)**|
+|**2024-09-30**|**End-to-End Conformal Calibration for Optimization Under Uncertainty**|Christopher Yeh et.al.|[2409.20534](http://arxiv.org/abs/2409.20534)|**[link](https://github.com/chrisyeh96/e2e-conformal)**|
 |**2024-09-30**|**Dual Encoder GAN Inversion for High-Fidelity 3D Head Reconstruction from Single Images**|Bahri Batuhan Bilecen et.al.|[2409.20530](http://arxiv.org/abs/2409.20530)|null|
 |**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964](http://arxiv.org/abs/2409.18964)|**[link](https://github.com/stevenlsw/physgen)**|
 |**2024-09-27**|**Exploring Token Pruning in Vision State Space Models**|Zheng Zhan et.al.|[2409.18962](http://arxiv.org/abs/2409.18962)|null|
