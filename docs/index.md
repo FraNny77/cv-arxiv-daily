@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models**|Ce Zhang et.al.|[2410.12790](http://arxiv.org/abs/2410.12790)|null|
+|**2024-10-16**|**Metal Price Spike Prediction via a Neurosymbolic Ensemble Approach**|Nathaniel Lee et.al.|[2410.12785](http://arxiv.org/abs/2410.12785)|null|
+|**2024-10-16**|**JudgeBench: A Benchmark for Evaluating LLM-based Judges**|Sijun Tan et.al.|[2410.12784](http://arxiv.org/abs/2410.12784)|null|
+|**2024-10-16**|**Context-Scaling versus Task-Scaling in In-Context Learning**|Amirhesam Abedsoltan et.al.|[2410.12783](http://arxiv.org/abs/2410.12783)|null|
+|**2024-10-16**|**Geometry-Aware Generative Autoencoders for Warped Riemannian Metric Learning and Generative Modeling on Data Manifolds**|Xingzhi Sun et.al.|[2410.12779](http://arxiv.org/abs/2410.12779)|null|
+|**2024-10-16**|**Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts**|Hongcheng Gao et.al.|[2410.12777](http://arxiv.org/abs/2410.12777)|null|
+|**2024-10-16**|**The Non-Local Model Merging Problem: Permutation Symmetries and Variance Collapse**|Ekansh Sharma et.al.|[2410.12766](http://arxiv.org/abs/2410.12766)|null|
+|**2024-10-16**|**SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation**|Jaehong Yoon et.al.|[2410.12761](http://arxiv.org/abs/2410.12761)|null|
+|**2024-10-16**|**StyleDistance: Stronger Content-Independent Style Embeddings with Synthetic Parallel Examples**|Ajay Patel et.al.|[2410.12757](http://arxiv.org/abs/2410.12757)|null|
+|**2024-10-16**|**Initialization Method for Factorization Machine Based on Low-Rank Approximation for Constructing a Corrected Approximate Ising Model**|Yuya Seki et.al.|[2410.12747](http://arxiv.org/abs/2410.12747)|null|
 |**2024-10-15**|**MoH: Multi-Head Attention as Mixture-of-Head Attention**|Peng Jin et.al.|[2410.11842](http://arxiv.org/abs/2410.11842)|**[link](https://github.com/skyworkai/moh)**|
 |**2024-10-15**|**A Hitchhiker's Guide to Scaling Law Estimation**|Leshem Choshen et.al.|[2410.11840](http://arxiv.org/abs/2410.11840)|null|
 |**2024-10-15**|**Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions**|Ayush Jain et.al.|[2410.11833](http://arxiv.org/abs/2410.11833)|null|
@@ -1477,6 +1487,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models**|Ce Zhang et.al.|[2410.12790](http://arxiv.org/abs/2410.12790)|null|
+|**2024-10-16**|**Metal Price Spike Prediction via a Neurosymbolic Ensemble Approach**|Nathaniel Lee et.al.|[2410.12785](http://arxiv.org/abs/2410.12785)|null|
+|**2024-10-16**|**JudgeBench: A Benchmark for Evaluating LLM-based Judges**|Sijun Tan et.al.|[2410.12784](http://arxiv.org/abs/2410.12784)|null|
+|**2024-10-16**|**Context-Scaling versus Task-Scaling in In-Context Learning**|Amirhesam Abedsoltan et.al.|[2410.12783](http://arxiv.org/abs/2410.12783)|null|
+|**2024-10-16**|**Geometry-Aware Generative Autoencoders for Warped Riemannian Metric Learning and Generative Modeling on Data Manifolds**|Xingzhi Sun et.al.|[2410.12779](http://arxiv.org/abs/2410.12779)|null|
+|**2024-10-16**|**Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts**|Hongcheng Gao et.al.|[2410.12777](http://arxiv.org/abs/2410.12777)|null|
+|**2024-10-16**|**The Non-Local Model Merging Problem: Permutation Symmetries and Variance Collapse**|Ekansh Sharma et.al.|[2410.12766](http://arxiv.org/abs/2410.12766)|null|
+|**2024-10-16**|**SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation**|Jaehong Yoon et.al.|[2410.12761](http://arxiv.org/abs/2410.12761)|null|
+|**2024-10-16**|**StyleDistance: Stronger Content-Independent Style Embeddings with Synthetic Parallel Examples**|Ajay Patel et.al.|[2410.12757](http://arxiv.org/abs/2410.12757)|null|
+|**2024-10-16**|**Initialization Method for Factorization Machine Based on Low-Rank Approximation for Constructing a Corrected Approximate Ising Model**|Yuya Seki et.al.|[2410.12747](http://arxiv.org/abs/2410.12747)|null|
 |**2024-10-15**|**MoH: Multi-Head Attention as Mixture-of-Head Attention**|Peng Jin et.al.|[2410.11842](http://arxiv.org/abs/2410.11842)|**[link](https://github.com/skyworkai/moh)**|
 |**2024-10-15**|**A Hitchhiker's Guide to Scaling Law Estimation**|Leshem Choshen et.al.|[2410.11840](http://arxiv.org/abs/2410.11840)|null|
 |**2024-10-15**|**Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions**|Ayush Jain et.al.|[2410.11833](http://arxiv.org/abs/2410.11833)|null|
