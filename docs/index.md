@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs**|Michael S. Ryoo et.al.|[2410.16267](http://arxiv.org/abs/2410.16267)|null|
+|**2024-10-21**|**Revisiting Deep Feature Reconstruction for Logical and Structural Industrial Anomaly Detection**|Sukanya Patra et.al.|[2410.16255](http://arxiv.org/abs/2410.16255)|**[link](https://github.com/sukanyapatra1997/ulsad-2024)**|
+|**2024-10-21**|**Distribution Learning with Valid Outputs Beyond the Worst-Case**|Nick Rittler et.al.|[2410.16253](http://arxiv.org/abs/2410.16253)|null|
+|**2024-10-21**|**Random Spin Committee Approach For Smooth Interatomic Potentials**|Vlad Cărare et.al.|[2410.16252](http://arxiv.org/abs/2410.16252)|null|
+|**2024-10-21**|**Implicit Regularization for Tubal Tensor Factorizations via Gradient Descent**|Santhosh Karnik et.al.|[2410.16247](http://arxiv.org/abs/2410.16247)|null|
+|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|null|
+|**2024-10-21**|**Deep Radiomics Detection of Clinically Significant Prostate Cancer on Multicenter MRI: Initial Comparison to PI-RADS Assessment**|G. A. Nketiah et.al.|[2410.16238](http://arxiv.org/abs/2410.16238)|null|
+|**2024-10-21**|**A Realistic Threat Model for Large Language Model Jailbreaks**|Valentyn Boreiko et.al.|[2410.16222](http://arxiv.org/abs/2410.16222)|null|
+|**2024-10-21**|**Asymmetries in Financial Spillovers**|Florian Huber et.al.|[2410.16214](http://arxiv.org/abs/2410.16214)|null|
+|**2024-10-21**|**Comprehensive benchmarking of large language models for RNA secondary structure prediction**|L. I. Zablocki et.al.|[2410.16212](http://arxiv.org/abs/2410.16212)|**[link](https://github.com/sinc-lab/rna-llm-folding)**|
 |**2024-10-18**|**Self-supervised contrastive learning performs non-linear system identification**|Rodrigo González Laiz et.al.|[2410.14673](http://arxiv.org/abs/2410.14673)|**[link](https://github.com/dynamical-inference/dyncl)**|
 |**2024-10-18**|**Decomposing The Dark Matter of Sparse Autoencoders**|Joshua Engels et.al.|[2410.14670](http://arxiv.org/abs/2410.14670)|**[link](https://github.com/joshengels/sae-dark-matter)**|
 |**2024-10-18**|**Stochastic Gradient Descent Jittering for Inverse Problems: Alleviating the Accuracy-Robustness Tradeoff**|Peimeng Guan et.al.|[2410.14667](http://arxiv.org/abs/2410.14667)|null|
@@ -1507,6 +1517,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs**|Michael S. Ryoo et.al.|[2410.16267](http://arxiv.org/abs/2410.16267)|null|
+|**2024-10-21**|**Revisiting Deep Feature Reconstruction for Logical and Structural Industrial Anomaly Detection**|Sukanya Patra et.al.|[2410.16255](http://arxiv.org/abs/2410.16255)|**[link](https://github.com/sukanyapatra1997/ulsad-2024)**|
+|**2024-10-21**|**Distribution Learning with Valid Outputs Beyond the Worst-Case**|Nick Rittler et.al.|[2410.16253](http://arxiv.org/abs/2410.16253)|null|
+|**2024-10-21**|**Random Spin Committee Approach For Smooth Interatomic Potentials**|Vlad Cărare et.al.|[2410.16252](http://arxiv.org/abs/2410.16252)|null|
+|**2024-10-21**|**Implicit Regularization for Tubal Tensor Factorizations via Gradient Descent**|Santhosh Karnik et.al.|[2410.16247](http://arxiv.org/abs/2410.16247)|null|
+|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|null|
+|**2024-10-21**|**Deep Radiomics Detection of Clinically Significant Prostate Cancer on Multicenter MRI: Initial Comparison to PI-RADS Assessment**|G. A. Nketiah et.al.|[2410.16238](http://arxiv.org/abs/2410.16238)|null|
+|**2024-10-21**|**A Realistic Threat Model for Large Language Model Jailbreaks**|Valentyn Boreiko et.al.|[2410.16222](http://arxiv.org/abs/2410.16222)|null|
+|**2024-10-21**|**Asymmetries in Financial Spillovers**|Florian Huber et.al.|[2410.16214](http://arxiv.org/abs/2410.16214)|null|
+|**2024-10-21**|**Comprehensive benchmarking of large language models for RNA secondary structure prediction**|L. I. Zablocki et.al.|[2410.16212](http://arxiv.org/abs/2410.16212)|**[link](https://github.com/sinc-lab/rna-llm-folding)**|
 |**2024-10-18**|**Self-supervised contrastive learning performs non-linear system identification**|Rodrigo González Laiz et.al.|[2410.14673](http://arxiv.org/abs/2410.14673)|**[link](https://github.com/dynamical-inference/dyncl)**|
 |**2024-10-18**|**Decomposing The Dark Matter of Sparse Autoencoders**|Joshua Engels et.al.|[2410.14670](http://arxiv.org/abs/2410.14670)|**[link](https://github.com/joshengels/sae-dark-matter)**|
 |**2024-10-18**|**Stochastic Gradient Descent Jittering for Inverse Problems: Alleviating the Accuracy-Robustness Tradeoff**|Peimeng Guan et.al.|[2410.14667](http://arxiv.org/abs/2410.14667)|null|
