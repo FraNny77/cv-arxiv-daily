@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**PixelGaussian: Generalizable 3D Gaussian Reconstruction from Arbitrary Views**|Xin Fei et.al.|[2410.18979](http://arxiv.org/abs/2410.18979)|**[link](https://github.com/barrybarry-smith/pixelgaussian)**|
+|**2024-10-24**|**CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**|Sara Ghaboura et.al.|[2410.18976](http://arxiv.org/abs/2410.18976)|null|
+|**2024-10-24**|**Unbounded: A Generative Infinite Game of Character Life Simulation**|Jialu Li et.al.|[2410.18975](http://arxiv.org/abs/2410.18975)|null|
+|**2024-10-24**|**Tuning-free coreset Markov chain Monte Carlo**|Naitong Chen et.al.|[2410.18973](http://arxiv.org/abs/2410.18973)|**[link](https://github.com/NaitongChen/automated-coreset-mcmc-experiments)**|
+|**2024-10-24**|**Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**|David Ortiz-Perez et.al.|[2410.18972](http://arxiv.org/abs/2410.18972)|null|
+|**2024-10-24**|**ConceptDrift: Uncovering Biases through the Lens of Foundational Models**|Cristian Daniel Păduraru et.al.|[2410.18970](http://arxiv.org/abs/2410.18970)|null|
+|**2024-10-24**|**Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms**|Zhangheng Li et.al.|[2410.18967](http://arxiv.org/abs/2410.18967)|null|
+|**2024-10-24**|**On the Crucial Role of Initialization for Matrix Factorization**|Bingcong Li et.al.|[2410.18965](http://arxiv.org/abs/2410.18965)|null|
+|**2024-10-24**|**Learning to Look: Seeking Information for Decision Making via Policy Factorization**|Shivin Dass et.al.|[2410.18964](http://arxiv.org/abs/2410.18964)|null|
+|**2024-10-24**|**Context is Key: A Benchmark for Forecasting with Essential Textual Information**|Andrew Robert Williams et.al.|[2410.18959](http://arxiv.org/abs/2410.18959)|**[link](https://github.com/servicenow/context-is-key-forecasting)**|
 |**2024-10-23**|**Prioritized Generative Replay**|Renhao Wang et.al.|[2410.18082](http://arxiv.org/abs/2410.18082)|null|
 |**2024-10-23**|**ALTA: Compiler-Based Analysis of Transformers**|Peter Shaw et.al.|[2410.18077](http://arxiv.org/abs/2410.18077)|**[link](https://github.com/google-deepmind/alta)**|
 |**2024-10-23**|**Leveraging Skills from Unlabeled Prior Data for Efficient Online Exploration**|Max Wilcoxson et.al.|[2410.18076](http://arxiv.org/abs/2410.18076)|null|
@@ -1544,6 +1554,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**PixelGaussian: Generalizable 3D Gaussian Reconstruction from Arbitrary Views**|Xin Fei et.al.|[2410.18979](http://arxiv.org/abs/2410.18979)|**[link](https://github.com/barrybarry-smith/pixelgaussian)**|
+|**2024-10-24**|**CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**|Sara Ghaboura et.al.|[2410.18976](http://arxiv.org/abs/2410.18976)|null|
+|**2024-10-24**|**Unbounded: A Generative Infinite Game of Character Life Simulation**|Jialu Li et.al.|[2410.18975](http://arxiv.org/abs/2410.18975)|null|
+|**2024-10-24**|**Tuning-free coreset Markov chain Monte Carlo**|Naitong Chen et.al.|[2410.18973](http://arxiv.org/abs/2410.18973)|**[link](https://github.com/NaitongChen/automated-coreset-mcmc-experiments)**|
+|**2024-10-24**|**Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**|David Ortiz-Perez et.al.|[2410.18972](http://arxiv.org/abs/2410.18972)|null|
+|**2024-10-24**|**ConceptDrift: Uncovering Biases through the Lens of Foundational Models**|Cristian Daniel Păduraru et.al.|[2410.18970](http://arxiv.org/abs/2410.18970)|null|
+|**2024-10-24**|**Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms**|Zhangheng Li et.al.|[2410.18967](http://arxiv.org/abs/2410.18967)|null|
+|**2024-10-24**|**On the Crucial Role of Initialization for Matrix Factorization**|Bingcong Li et.al.|[2410.18965](http://arxiv.org/abs/2410.18965)|null|
+|**2024-10-24**|**Learning to Look: Seeking Information for Decision Making via Policy Factorization**|Shivin Dass et.al.|[2410.18964](http://arxiv.org/abs/2410.18964)|null|
+|**2024-10-24**|**Context is Key: A Benchmark for Forecasting with Essential Textual Information**|Andrew Robert Williams et.al.|[2410.18959](http://arxiv.org/abs/2410.18959)|**[link](https://github.com/servicenow/context-is-key-forecasting)**|
 |**2024-10-23**|**Prioritized Generative Replay**|Renhao Wang et.al.|[2410.18082](http://arxiv.org/abs/2410.18082)|null|
 |**2024-10-23**|**ALTA: Compiler-Based Analysis of Transformers**|Peter Shaw et.al.|[2410.18077](http://arxiv.org/abs/2410.18077)|**[link](https://github.com/google-deepmind/alta)**|
 |**2024-10-23**|**Leveraging Skills from Unlabeled Prior Data for Efficient Online Exploration**|Max Wilcoxson et.al.|[2410.18076](http://arxiv.org/abs/2410.18076)|null|
