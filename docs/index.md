@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**Online Weighted Paging with Unknown Weights**|Orin Levy et.al.|[2410.21266](http://arxiv.org/abs/2410.21266)|null|
+|**2024-10-28**|**Modular Duality in Deep Learning**|Jeremy Bernstein et.al.|[2410.21265](http://arxiv.org/abs/2410.21265)|null|
+|**2024-10-28**|**Adaptive Transfer Clustering: A Unified Framework**|Yuqi Gu et.al.|[2410.21263](http://arxiv.org/abs/2410.21263)|null|
+|**2024-10-28**|**BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference**|Changwoo Lee et.al.|[2410.21262](http://arxiv.org/abs/2410.21262)|**[link](https://github.com/changwoolee/blast)**|
+|**2024-10-28**|**Quantum computing and persistence in topological data analysis**|Casper Gyurik et.al.|[2410.21258](http://arxiv.org/abs/2410.21258)|null|
+|**2024-10-28**|**One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation**|Zhendong Wang et.al.|[2410.21257](http://arxiv.org/abs/2410.21257)|null|
+|**2024-10-28**|**LongReward: Improving Long-context Large Language Models with AI Feedback**|Jiajie Zhang et.al.|[2410.21252](http://arxiv.org/abs/2410.21252)|null|
+|**2024-10-28**|**Capacity-Aware Planning and Scheduling in Budget-Constrained Monotonic MDPs: A Meta-RL Approach**|Manav Vora et.al.|[2410.21249](http://arxiv.org/abs/2410.21249)|null|
+|**2024-10-28**|**Zero-Shot Dense Retrieval with Embeddings from Relevance Feedback**|Nour Jedidi et.al.|[2410.21242](http://arxiv.org/abs/2410.21242)|null|
+|**2024-10-28**|**Flaming-hot Initiation with Regular Execution Sampling for Large Language Models**|Weizhe Chen et.al.|[2410.21236](http://arxiv.org/abs/2410.21236)|null|
 |**2024-10-25**|**cymyc -- Calabi-Yau Metrics, Yukawas, and Curvature**|Per Berglund et.al.|[2410.19728](http://arxiv.org/abs/2410.19728)|null|
 |**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
 |**2024-10-25**|**On the Benefits of Active Data Collection in Operator Learning**|Unique Subedi et.al.|[2410.19725](http://arxiv.org/abs/2410.19725)|null|
@@ -1557,6 +1567,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**Online Weighted Paging with Unknown Weights**|Orin Levy et.al.|[2410.21266](http://arxiv.org/abs/2410.21266)|null|
+|**2024-10-28**|**Modular Duality in Deep Learning**|Jeremy Bernstein et.al.|[2410.21265](http://arxiv.org/abs/2410.21265)|null|
+|**2024-10-28**|**Adaptive Transfer Clustering: A Unified Framework**|Yuqi Gu et.al.|[2410.21263](http://arxiv.org/abs/2410.21263)|null|
+|**2024-10-28**|**BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference**|Changwoo Lee et.al.|[2410.21262](http://arxiv.org/abs/2410.21262)|**[link](https://github.com/changwoolee/blast)**|
+|**2024-10-28**|**Quantum computing and persistence in topological data analysis**|Casper Gyurik et.al.|[2410.21258](http://arxiv.org/abs/2410.21258)|null|
+|**2024-10-28**|**One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation**|Zhendong Wang et.al.|[2410.21257](http://arxiv.org/abs/2410.21257)|null|
+|**2024-10-28**|**LongReward: Improving Long-context Large Language Models with AI Feedback**|Jiajie Zhang et.al.|[2410.21252](http://arxiv.org/abs/2410.21252)|null|
+|**2024-10-28**|**Capacity-Aware Planning and Scheduling in Budget-Constrained Monotonic MDPs: A Meta-RL Approach**|Manav Vora et.al.|[2410.21249](http://arxiv.org/abs/2410.21249)|null|
+|**2024-10-28**|**Zero-Shot Dense Retrieval with Embeddings from Relevance Feedback**|Nour Jedidi et.al.|[2410.21242](http://arxiv.org/abs/2410.21242)|null|
+|**2024-10-28**|**Flaming-hot Initiation with Regular Execution Sampling for Large Language Models**|Weizhe Chen et.al.|[2410.21236](http://arxiv.org/abs/2410.21236)|null|
 |**2024-10-25**|**cymyc -- Calabi-Yau Metrics, Yukawas, and Curvature**|Per Berglund et.al.|[2410.19728](http://arxiv.org/abs/2410.19728)|null|
 |**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
 |**2024-10-25**|**On the Benefits of Active Data Collection in Operator Learning**|Unique Subedi et.al.|[2410.19725](http://arxiv.org/abs/2410.19725)|null|
