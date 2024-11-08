@@ -1,4 +1,4 @@
-## Updated on 2024.11.07
+## Updated on 2024.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,10 +18,10 @@
 |**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
 |**2024-11-06**|**Weighted Sobolev Approximation Rates for Neural Networks on Unbounded Domains**|Ahmed Abdeljawad et.al.|[2411.04108](http://arxiv.org/abs/2411.04108)|null|
 |**2024-11-06**|**A Comparative Study of Deep Reinforcement Learning for Crop Production Management**|Joseph Balderas et.al.|[2411.04106](http://arxiv.org/abs/2411.04106)|null|
-|**2024-11-06**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105](http://arxiv.org/abs/2411.04105)|null|
+|**2024-11-07**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105](http://arxiv.org/abs/2411.04105)|null|
 |**2024-11-06**|**Manifold Diffusion Geometry: Curvature, Tangent Spaces, and Dimension**|Iolo Jones et.al.|[2411.04100](http://arxiv.org/abs/2411.04100)|null|
 |**2024-11-06**|**Interpretable and Efficient Data-driven Discovery and Control of Distributed Systems**|Florian Wolf et.al.|[2411.04098](http://arxiv.org/abs/2411.04098)|null|
-|**2024-11-06**|**A Collaborative Content Moderation Framework for Toxicity Detection based on Conformalized Estimates of Annotation Disagreement**|Guillermo Villate-Castillo et.al.|[2411.04090](http://arxiv.org/abs/2411.04090)|**[link](https://github.com/themrguiller/collaborative-content-moderation)**|
+|**2024-11-07**|**A Collaborative Content Moderation Framework for Toxicity Detection based on Conformalized Estimates of Annotation Disagreement**|Guillermo Villate-Castillo et.al.|[2411.04090](http://arxiv.org/abs/2411.04090)|**[link](https://github.com/themrguiller/collaborative-content-moderation)**|
 |**2024-11-06**|**Distinguishing Coupled Dark Energy Models with Neural Networks**|L. W. K. Goh et.al.|[2411.04058](http://arxiv.org/abs/2411.04058)|**[link](https://github.com/IndiraOcampo/Growth_LSS_model_selection_CDE)**|
 |**2024-11-06**|**Problem Space Transformations for Generalisation in Behavioural Cloning**|Kiran Doshi et.al.|[2411.04056](http://arxiv.org/abs/2411.04056)|null|
 |**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
@@ -1628,7 +1628,7 @@
 |**2017-07-27**|**High Dimensional Random Walks Can Appear Low Dimensional: Application to Influenza H3N2 Evolution**|James Moore et.al.|[1707.09361](http://arxiv.org/abs/1707.09361)|null|
 |**2008-07-20**|**Design and Production of Specifically and with High Affinity Reacting Peptides**|Jan C Biro et.al.|[0807.3038](http://arxiv.org/abs/0807.3038)|null|
 
-<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
 
 ## Peptide
 
@@ -1638,10 +1638,10 @@
 |**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
 |**2024-11-06**|**Weighted Sobolev Approximation Rates for Neural Networks on Unbounded Domains**|Ahmed Abdeljawad et.al.|[2411.04108](http://arxiv.org/abs/2411.04108)|null|
 |**2024-11-06**|**A Comparative Study of Deep Reinforcement Learning for Crop Production Management**|Joseph Balderas et.al.|[2411.04106](http://arxiv.org/abs/2411.04106)|null|
-|**2024-11-06**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105](http://arxiv.org/abs/2411.04105)|null|
+|**2024-11-07**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105](http://arxiv.org/abs/2411.04105)|null|
 |**2024-11-06**|**Manifold Diffusion Geometry: Curvature, Tangent Spaces, and Dimension**|Iolo Jones et.al.|[2411.04100](http://arxiv.org/abs/2411.04100)|null|
 |**2024-11-06**|**Interpretable and Efficient Data-driven Discovery and Control of Distributed Systems**|Florian Wolf et.al.|[2411.04098](http://arxiv.org/abs/2411.04098)|null|
-|**2024-11-06**|**A Collaborative Content Moderation Framework for Toxicity Detection based on Conformalized Estimates of Annotation Disagreement**|Guillermo Villate-Castillo et.al.|[2411.04090](http://arxiv.org/abs/2411.04090)|**[link](https://github.com/themrguiller/collaborative-content-moderation)**|
+|**2024-11-07**|**A Collaborative Content Moderation Framework for Toxicity Detection based on Conformalized Estimates of Annotation Disagreement**|Guillermo Villate-Castillo et.al.|[2411.04090](http://arxiv.org/abs/2411.04090)|**[link](https://github.com/themrguiller/collaborative-content-moderation)**|
 |**2024-11-06**|**Distinguishing Coupled Dark Energy Models with Neural Networks**|L. W. K. Goh et.al.|[2411.04058](http://arxiv.org/abs/2411.04058)|**[link](https://github.com/IndiraOcampo/Growth_LSS_model_selection_CDE)**|
 |**2024-11-06**|**Problem Space Transformations for Generalisation in Behavioural Cloning**|Kiran Doshi et.al.|[2411.04056](http://arxiv.org/abs/2411.04056)|null|
 |**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
@@ -3250,7 +3250,7 @@
 |**2018-11-13**|**PepCVAE: Semi-Supervised Targeted Design of Antimicrobial Peptide Sequences**|Payel Das et.al.|[1810.07743](http://arxiv.org/abs/1810.07743)|null|
 |**2009-11-23**|**Silver-staining of proteins in polyacrylamide gels: a general overview**|Thierry Rabilloud et.al.|[0911.4458](http://arxiv.org/abs/0911.4458)|null|
 
-<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
 
 ## Diffusion
 
@@ -3270,5 +3270,5 @@
 |**2024-02-21**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|**[link](https://github.com/allenai/tess-diffusion)**|
 |**2023-05-13**|**Diffusion Models for Non-autoregressive Text Generation: A Survey**|Yifan Li et.al.|[2303.06574](http://arxiv.org/abs/2303.06574)|**[link](https://github.com/rucaibox/awesome-text-diffusion-models)**|
 
-<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
 

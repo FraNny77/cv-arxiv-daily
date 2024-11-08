@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.07
+## Updated on 2024.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -13,10 +13,10 @@ layout: default
 |**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
 |**2024-11-06**|**Weighted Sobolev Approximation Rates for Neural Networks on Unbounded Domains**|Ahmed Abdeljawad et.al.|[2411.04108](http://arxiv.org/abs/2411.04108)|null|
 |**2024-11-06**|**A Comparative Study of Deep Reinforcement Learning for Crop Production Management**|Joseph Balderas et.al.|[2411.04106](http://arxiv.org/abs/2411.04106)|null|
-|**2024-11-06**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105](http://arxiv.org/abs/2411.04105)|null|
+|**2024-11-07**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105](http://arxiv.org/abs/2411.04105)|null|
 |**2024-11-06**|**Manifold Diffusion Geometry: Curvature, Tangent Spaces, and Dimension**|Iolo Jones et.al.|[2411.04100](http://arxiv.org/abs/2411.04100)|null|
 |**2024-11-06**|**Interpretable and Efficient Data-driven Discovery and Control of Distributed Systems**|Florian Wolf et.al.|[2411.04098](http://arxiv.org/abs/2411.04098)|null|
-|**2024-11-06**|**A Collaborative Content Moderation Framework for Toxicity Detection based on Conformalized Estimates of Annotation Disagreement**|Guillermo Villate-Castillo et.al.|[2411.04090](http://arxiv.org/abs/2411.04090)|**[link](https://github.com/themrguiller/collaborative-content-moderation)**|
+|**2024-11-07**|**A Collaborative Content Moderation Framework for Toxicity Detection based on Conformalized Estimates of Annotation Disagreement**|Guillermo Villate-Castillo et.al.|[2411.04090](http://arxiv.org/abs/2411.04090)|**[link](https://github.com/themrguiller/collaborative-content-moderation)**|
 |**2024-11-06**|**Distinguishing Coupled Dark Energy Models with Neural Networks**|L. W. K. Goh et.al.|[2411.04058](http://arxiv.org/abs/2411.04058)|**[link](https://github.com/IndiraOcampo/Growth_LSS_model_selection_CDE)**|
 |**2024-11-06**|**Problem Space Transformations for Generalisation in Behavioural Cloning**|Kiran Doshi et.al.|[2411.04056](http://arxiv.org/abs/2411.04056)|null|
 |**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
@@ -1631,10 +1631,10 @@ layout: default
 |**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
 |**2024-11-06**|**Weighted Sobolev Approximation Rates for Neural Networks on Unbounded Domains**|Ahmed Abdeljawad et.al.|[2411.04108](http://arxiv.org/abs/2411.04108)|null|
 |**2024-11-06**|**A Comparative Study of Deep Reinforcement Learning for Crop Production Management**|Joseph Balderas et.al.|[2411.04106](http://arxiv.org/abs/2411.04106)|null|
-|**2024-11-06**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105](http://arxiv.org/abs/2411.04105)|null|
+|**2024-11-07**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105](http://arxiv.org/abs/2411.04105)|null|
 |**2024-11-06**|**Manifold Diffusion Geometry: Curvature, Tangent Spaces, and Dimension**|Iolo Jones et.al.|[2411.04100](http://arxiv.org/abs/2411.04100)|null|
 |**2024-11-06**|**Interpretable and Efficient Data-driven Discovery and Control of Distributed Systems**|Florian Wolf et.al.|[2411.04098](http://arxiv.org/abs/2411.04098)|null|
-|**2024-11-06**|**A Collaborative Content Moderation Framework for Toxicity Detection based on Conformalized Estimates of Annotation Disagreement**|Guillermo Villate-Castillo et.al.|[2411.04090](http://arxiv.org/abs/2411.04090)|**[link](https://github.com/themrguiller/collaborative-content-moderation)**|
+|**2024-11-07**|**A Collaborative Content Moderation Framework for Toxicity Detection based on Conformalized Estimates of Annotation Disagreement**|Guillermo Villate-Castillo et.al.|[2411.04090](http://arxiv.org/abs/2411.04090)|**[link](https://github.com/themrguiller/collaborative-content-moderation)**|
 |**2024-11-06**|**Distinguishing Coupled Dark Energy Models with Neural Networks**|L. W. K. Goh et.al.|[2411.04058](http://arxiv.org/abs/2411.04058)|**[link](https://github.com/IndiraOcampo/Growth_LSS_model_selection_CDE)**|
 |**2024-11-06**|**Problem Space Transformations for Generalisation in Behavioural Cloning**|Kiran Doshi et.al.|[2411.04056](http://arxiv.org/abs/2411.04056)|null|
 |**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
