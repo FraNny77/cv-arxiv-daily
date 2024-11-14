@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.13
+## Updated on 2024.11.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -13,10 +13,10 @@ layout: default
 |**2024-11-12**|**Leonardo vindicated: Pythagorean trees for minimal reconstruction of the natural branching structures**|Dymitr Ruta et.al.|[2411.08024](http://arxiv.org/abs/2411.08024)|null|
 |**2024-11-12**|**Language Models as Causal Effect Generators**|Lucius E. J. Bynum et.al.|[2411.08019](http://arxiv.org/abs/2411.08019)|**[link](https://github.com/lbynum/sequence-driven-scms)**|
 |**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|null|
-|**2024-11-12**|**Investigating the Effectiveness of Explainability Methods in Parkinson's Detection from Speech**|Eleonora Mancini et.al.|[2411.08013](http://arxiv.org/abs/2411.08013)|null|
+|**2024-11-13**|**Investigating the Effectiveness of Explainability Methods in Parkinson's Detection from Speech**|Eleonora Mancini et.al.|[2411.08013](http://arxiv.org/abs/2411.08013)|null|
 |**2024-11-12**|**Derivational Morphology Reveals Analogical Generalization in Large Language Models**|Valentin Hofmann et.al.|[2411.07990](http://arxiv.org/abs/2411.07990)|null|
 |**2024-11-12**|**Gini Coefficient as a Unified Metric for Evaluating Many-versus-Many Similarity in Vector Spaces**|Ben Fauber et.al.|[2411.07983](http://arxiv.org/abs/2411.07983)|null|
-|**2024-11-12**|**Exact, Tractable Gauss-Newton Optimization in Deep Reversible Architectures Reveal Poor Generalization**|Davide Buffelli et.al.|[2411.07979](http://arxiv.org/abs/2411.07979)|null|
+|**2024-11-13**|**Exact, Tractable Gauss-Newton Optimization in Deep Reversible Architectures Reveal Poor Generalization**|Davide Buffelli et.al.|[2411.07979](http://arxiv.org/abs/2411.07979)|null|
 |**2024-11-12**|**Doubly Robust Regression Discontinuity Designs**|Masahiro Kato et.al.|[2411.07978](http://arxiv.org/abs/2411.07978)|null|
 |**2024-11-12**|**Optimal Control of Mechanical Ventilators with Learned Respiratory Dynamics**|Isaac Ronald Ward et.al.|[2411.07971](http://arxiv.org/abs/2411.07971)|**[link](https://github.com/sisl/ventilators)**|
 |**2024-11-11**|**DeepONet as a Multi-Operator Extrapolation Model: Distributed Pretraining with Physics-Informed Fine-Tuning**|Zecheng Zhang et.al.|[2411.07239](http://arxiv.org/abs/2411.07239)|null|
@@ -1671,10 +1671,10 @@ layout: default
 |**2024-11-12**|**Leonardo vindicated: Pythagorean trees for minimal reconstruction of the natural branching structures**|Dymitr Ruta et.al.|[2411.08024](http://arxiv.org/abs/2411.08024)|null|
 |**2024-11-12**|**Language Models as Causal Effect Generators**|Lucius E. J. Bynum et.al.|[2411.08019](http://arxiv.org/abs/2411.08019)|**[link](https://github.com/lbynum/sequence-driven-scms)**|
 |**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|null|
-|**2024-11-12**|**Investigating the Effectiveness of Explainability Methods in Parkinson's Detection from Speech**|Eleonora Mancini et.al.|[2411.08013](http://arxiv.org/abs/2411.08013)|null|
+|**2024-11-13**|**Investigating the Effectiveness of Explainability Methods in Parkinson's Detection from Speech**|Eleonora Mancini et.al.|[2411.08013](http://arxiv.org/abs/2411.08013)|null|
 |**2024-11-12**|**Derivational Morphology Reveals Analogical Generalization in Large Language Models**|Valentin Hofmann et.al.|[2411.07990](http://arxiv.org/abs/2411.07990)|null|
 |**2024-11-12**|**Gini Coefficient as a Unified Metric for Evaluating Many-versus-Many Similarity in Vector Spaces**|Ben Fauber et.al.|[2411.07983](http://arxiv.org/abs/2411.07983)|null|
-|**2024-11-12**|**Exact, Tractable Gauss-Newton Optimization in Deep Reversible Architectures Reveal Poor Generalization**|Davide Buffelli et.al.|[2411.07979](http://arxiv.org/abs/2411.07979)|null|
+|**2024-11-13**|**Exact, Tractable Gauss-Newton Optimization in Deep Reversible Architectures Reveal Poor Generalization**|Davide Buffelli et.al.|[2411.07979](http://arxiv.org/abs/2411.07979)|null|
 |**2024-11-12**|**Doubly Robust Regression Discontinuity Designs**|Masahiro Kato et.al.|[2411.07978](http://arxiv.org/abs/2411.07978)|null|
 |**2024-11-12**|**Optimal Control of Mechanical Ventilators with Learned Respiratory Dynamics**|Isaac Ronald Ward et.al.|[2411.07971](http://arxiv.org/abs/2411.07971)|**[link](https://github.com/sisl/ventilators)**|
 |**2024-11-11**|**DeepONet as a Multi-Operator Extrapolation Model: Distributed Pretraining with Physics-Informed Fine-Tuning**|Zecheng Zhang et.al.|[2411.07239](http://arxiv.org/abs/2411.07239)|null|
