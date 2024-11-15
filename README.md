@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**On the Surprising Effectiveness of Attention Transfer for Vision Transformers**|Alexander C. Li et.al.|[2411.09702](http://arxiv.org/abs/2411.09702)|null|
+|**2024-11-14**|**Conditional regression for the Nonlinear Single-Variable Model**|Yantao Wu et.al.|[2411.09686](http://arxiv.org/abs/2411.09686)|null|
+|**2024-11-14**|**Towards a Classification of Open-Source ML Models and Datasets for Software Engineering**|Alexandra González et.al.|[2411.09683](http://arxiv.org/abs/2411.09683)|null|
+|**2024-11-14**|**NeuralDEM - Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678](http://arxiv.org/abs/2411.09678)|null|
+|**2024-11-14**|**Differentiable Land Model Reveals Global Environmental Controls on Ecological Parameters**|Jianing Fang et.al.|[2411.09654](http://arxiv.org/abs/2411.09654)|null|
+|**2024-11-14**|**How to implement the Bayes' formula in the age of ML?**|Amirhossein Taghvaei et.al.|[2411.09653](http://arxiv.org/abs/2411.09653)|null|
+|**2024-11-14**|**Med-Bot: An AI-Powered Assistant to Provide Accurate and Reliable Medical Information**|Ahan Bhatt et.al.|[2411.09648](http://arxiv.org/abs/2411.09648)|null|
+|**2024-11-14**|**How do Machine Learning Models Change?**|Joel Castaño et.al.|[2411.09645](http://arxiv.org/abs/2411.09645)|null|
+|**2024-11-14**|**Neural Operators Can Play Dynamic Stackelberg Games**|Guillermo Alvarez et.al.|[2411.09644](http://arxiv.org/abs/2411.09644)|null|
+|**2024-11-14**|**On the Limits of Language Generation: Trade-Offs Between Hallucination and Mode Collapse**|Alkis Kalavasis et.al.|[2411.09642](http://arxiv.org/abs/2411.09642)|null|
 |**2024-11-13**|**A Short Note on Evaluating RepNet for Temporal Repetition Counting in Videos**|Debidatta Dwibedi et.al.|[2411.08878](http://arxiv.org/abs/2411.08878)|**[link](https://github.com/google-research/google-research)**|
 |**2024-11-13**|**Large Wireless Model (LWM): A Foundation Model for Wireless Channels**|Sadjad Alikhani et.al.|[2411.08872](http://arxiv.org/abs/2411.08872)|null|
 |**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
@@ -1684,6 +1694,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**On the Surprising Effectiveness of Attention Transfer for Vision Transformers**|Alexander C. Li et.al.|[2411.09702](http://arxiv.org/abs/2411.09702)|null|
+|**2024-11-14**|**Conditional regression for the Nonlinear Single-Variable Model**|Yantao Wu et.al.|[2411.09686](http://arxiv.org/abs/2411.09686)|null|
+|**2024-11-14**|**Towards a Classification of Open-Source ML Models and Datasets for Software Engineering**|Alexandra González et.al.|[2411.09683](http://arxiv.org/abs/2411.09683)|null|
+|**2024-11-14**|**NeuralDEM - Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678](http://arxiv.org/abs/2411.09678)|null|
+|**2024-11-14**|**Differentiable Land Model Reveals Global Environmental Controls on Ecological Parameters**|Jianing Fang et.al.|[2411.09654](http://arxiv.org/abs/2411.09654)|null|
+|**2024-11-14**|**How to implement the Bayes' formula in the age of ML?**|Amirhossein Taghvaei et.al.|[2411.09653](http://arxiv.org/abs/2411.09653)|null|
+|**2024-11-14**|**Med-Bot: An AI-Powered Assistant to Provide Accurate and Reliable Medical Information**|Ahan Bhatt et.al.|[2411.09648](http://arxiv.org/abs/2411.09648)|null|
+|**2024-11-14**|**How do Machine Learning Models Change?**|Joel Castaño et.al.|[2411.09645](http://arxiv.org/abs/2411.09645)|null|
+|**2024-11-14**|**Neural Operators Can Play Dynamic Stackelberg Games**|Guillermo Alvarez et.al.|[2411.09644](http://arxiv.org/abs/2411.09644)|null|
+|**2024-11-14**|**On the Limits of Language Generation: Trade-Offs Between Hallucination and Mode Collapse**|Alkis Kalavasis et.al.|[2411.09642](http://arxiv.org/abs/2411.09642)|null|
 |**2024-11-13**|**A Short Note on Evaluating RepNet for Temporal Repetition Counting in Videos**|Debidatta Dwibedi et.al.|[2411.08878](http://arxiv.org/abs/2411.08878)|**[link](https://github.com/google-research/google-research)**|
 |**2024-11-13**|**Large Wireless Model (LWM): A Foundation Model for Wireless Channels**|Sadjad Alikhani et.al.|[2411.08872](http://arxiv.org/abs/2411.08872)|null|
 |**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
