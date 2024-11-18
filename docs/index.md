@@ -20,7 +20,7 @@ layout: default
 |**2024-11-14**|**Neural Operators Can Play Dynamic Stackelberg Games**|Guillermo Alvarez et.al.|[2411.09644](http://arxiv.org/abs/2411.09644)|null|
 |**2024-11-14**|**On the Limits of Language Generation: Trade-Offs Between Hallucination and Mode Collapse**|Alkis Kalavasis et.al.|[2411.09642](http://arxiv.org/abs/2411.09642)|null|
 |**2024-11-13**|**A Short Note on Evaluating RepNet for Temporal Repetition Counting in Videos**|Debidatta Dwibedi et.al.|[2411.08878](http://arxiv.org/abs/2411.08878)|**[link](https://github.com/google-research/google-research)**|
-|**2024-11-13**|**Large Wireless Model (LWM): A Foundation Model for Wireless Channels**|Sadjad Alikhani et.al.|[2411.08872](http://arxiv.org/abs/2411.08872)|null|
+|**2024-11-13**|**Large Wireless Model (LWM): A Foundation Model for Wireless Channels**|Sadjad Alikhani et.al.|[2411.08872](http://arxiv.org/abs/2411.08872)|**[link](https://huggingface.co/wi-lab/lwm)**|
 |**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
 |**2024-11-13**|**Unsupervised Parameter-free Outlier Detection using HDBSCAN* Outlier Profiles**|Kushankur Ghosh et.al.|[2411.08867](http://arxiv.org/abs/2411.08867)|null|
 |**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
@@ -32,7 +32,7 @@ layout: default
 |**2024-11-12**|**LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**|Anoop Cherian et.al.|[2411.08027](http://arxiv.org/abs/2411.08027)|null|
 |**2024-11-12**|**Leonardo vindicated: Pythagorean trees for minimal reconstruction of the natural branching structures**|Dymitr Ruta et.al.|[2411.08024](http://arxiv.org/abs/2411.08024)|null|
 |**2024-11-12**|**Language Models as Causal Effect Generators**|Lucius E. J. Bynum et.al.|[2411.08019](http://arxiv.org/abs/2411.08019)|**[link](https://github.com/lbynum/sequence-driven-scms)**|
-|**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|null|
+|**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|**[link](https://github.com/autodeskailab/wala)**|
 |**2024-11-13**|**Investigating the Effectiveness of Explainability Methods in Parkinson's Detection from Speech**|Eleonora Mancini et.al.|[2411.08013](http://arxiv.org/abs/2411.08013)|null|
 |**2024-11-12**|**Derivational Morphology Reveals Analogical Generalization in Large Language Models**|Valentin Hofmann et.al.|[2411.07990](http://arxiv.org/abs/2411.07990)|null|
 |**2024-11-12**|**Gini Coefficient as a Unified Metric for Evaluating Many-versus-Many Similarity in Vector Spaces**|Ben Fauber et.al.|[2411.07983](http://arxiv.org/abs/2411.07983)|null|
@@ -1138,7 +1138,7 @@ layout: default
 |**2024-05-24**|**CAFe: Cost and Age aware Federated Learning**|Sahan Liyanaarachchi et.al.|[2405.15744](http://arxiv.org/abs/2405.15744)|null|
 |**2024-05-24**|**Sparse maximal update parameterization: A holistic approach to sparse training dynamics**|Nolan Dey et.al.|[2405.15743](http://arxiv.org/abs/2405.15743)|**[link](https://github.com/eleutherai/nanogpt-mup)**|
 |**2024-05-24**|**Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias**|Andres Algaba et.al.|[2405.15739](http://arxiv.org/abs/2405.15739)|**[link](https://github.com/andresalgaba/llm_citation_patterns)**|
-|**2024-05-24**|**Neural Persistence Dynamics**|Sebastian Zeng et.al.|[2405.15732](http://arxiv.org/abs/2405.15732)|null|
+|**2024-05-24**|**Neural Persistence Dynamics**|Sebastian Zeng et.al.|[2405.15732](http://arxiv.org/abs/2405.15732)|**[link](https://github.com/plus-rkwitt/neural_persistence_dynamics)**|
 |**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868](http://arxiv.org/abs/2405.14868)|null|
 |**2024-05-23**|**A Nurse is Blue and Elephant is Rugby: Cross Domain Alignment in Large Language Models Reveal Human-like Patterns**|Asaf Yehudai et.al.|[2405.14863](http://arxiv.org/abs/2405.14863)|null|
 |**2024-05-23**|**Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models**|Gen Li et.al.|[2405.14861](http://arxiv.org/abs/2405.14861)|null|
@@ -1405,7 +1405,7 @@ layout: default
 |**2024-04-16**|**RapidVol: Rapid Reconstruction of 3D Ultrasound Volumes from Sensorless 2D Scans**|Mark C. Eid et.al.|[2404.10766](http://arxiv.org/abs/2404.10766)|null|
 |**2024-04-16**|**Confidential Federated Computations**|Hubert Eichner et.al.|[2404.10764](http://arxiv.org/abs/2404.10764)|**[link](https://github.com/google-parfait/confidential-federated-compute)**|
 |**2024-04-17**|**TorchSurv: A Lightweight Package for Deep Survival Analysis**|Mélodie Monod et.al.|[2404.10761](http://arxiv.org/abs/2404.10761)|**[link](https://github.com/novartis/torchsurv)**|
-|**2024-04-16**|**Laplace-HDC: Understanding the geometry of binary hyperdimensional computing**|Saeid Pourmand et.al.|[2404.10759](http://arxiv.org/abs/2404.10759)|null|
+|**2024-04-16**|**Laplace-HDC: Understanding the geometry of binary hyperdimensional computing**|Saeid Pourmand et.al.|[2404.10759](http://arxiv.org/abs/2404.10759)|**[link](https://github.com/hdstat/laplace-hdc)**|
 |**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757](http://arxiv.org/abs/2404.10757)|**[link](https://github.com/yu-yang-li/starwhisper)**|
 |**2024-04-16**|**Interpolation and differentiation of alchemical degrees of freedom in machine learning interatomic potentials**|Juno Nam et.al.|[2404.10746](http://arxiv.org/abs/2404.10746)|**[link](https://github.com/learningmatter-mit/alchemical-mlip)**|
 |**2024-04-16**|**Settling Constant Regrets in Linear Markov Decision Processes**|Weitong Zhang et.al.|[2404.10745](http://arxiv.org/abs/2404.10745)|null|
@@ -1698,7 +1698,7 @@ layout: default
 |**2024-11-14**|**Neural Operators Can Play Dynamic Stackelberg Games**|Guillermo Alvarez et.al.|[2411.09644](http://arxiv.org/abs/2411.09644)|null|
 |**2024-11-14**|**On the Limits of Language Generation: Trade-Offs Between Hallucination and Mode Collapse**|Alkis Kalavasis et.al.|[2411.09642](http://arxiv.org/abs/2411.09642)|null|
 |**2024-11-13**|**A Short Note on Evaluating RepNet for Temporal Repetition Counting in Videos**|Debidatta Dwibedi et.al.|[2411.08878](http://arxiv.org/abs/2411.08878)|**[link](https://github.com/google-research/google-research)**|
-|**2024-11-13**|**Large Wireless Model (LWM): A Foundation Model for Wireless Channels**|Sadjad Alikhani et.al.|[2411.08872](http://arxiv.org/abs/2411.08872)|null|
+|**2024-11-13**|**Large Wireless Model (LWM): A Foundation Model for Wireless Channels**|Sadjad Alikhani et.al.|[2411.08872](http://arxiv.org/abs/2411.08872)|**[link](https://huggingface.co/wi-lab/lwm)**|
 |**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
 |**2024-11-13**|**Unsupervised Parameter-free Outlier Detection using HDBSCAN* Outlier Profiles**|Kushankur Ghosh et.al.|[2411.08867](http://arxiv.org/abs/2411.08867)|null|
 |**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
@@ -1710,7 +1710,7 @@ layout: default
 |**2024-11-12**|**LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**|Anoop Cherian et.al.|[2411.08027](http://arxiv.org/abs/2411.08027)|null|
 |**2024-11-12**|**Leonardo vindicated: Pythagorean trees for minimal reconstruction of the natural branching structures**|Dymitr Ruta et.al.|[2411.08024](http://arxiv.org/abs/2411.08024)|null|
 |**2024-11-12**|**Language Models as Causal Effect Generators**|Lucius E. J. Bynum et.al.|[2411.08019](http://arxiv.org/abs/2411.08019)|**[link](https://github.com/lbynum/sequence-driven-scms)**|
-|**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|null|
+|**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|**[link](https://github.com/autodeskailab/wala)**|
 |**2024-11-13**|**Investigating the Effectiveness of Explainability Methods in Parkinson's Detection from Speech**|Eleonora Mancini et.al.|[2411.08013](http://arxiv.org/abs/2411.08013)|null|
 |**2024-11-12**|**Derivational Morphology Reveals Analogical Generalization in Large Language Models**|Valentin Hofmann et.al.|[2411.07990](http://arxiv.org/abs/2411.07990)|null|
 |**2024-11-12**|**Gini Coefficient as a Unified Metric for Evaluating Many-versus-Many Similarity in Vector Spaces**|Ben Fauber et.al.|[2411.07983](http://arxiv.org/abs/2411.07983)|null|
@@ -2816,7 +2816,7 @@ layout: default
 |**2024-05-24**|**CAFe: Cost and Age aware Federated Learning**|Sahan Liyanaarachchi et.al.|[2405.15744](http://arxiv.org/abs/2405.15744)|null|
 |**2024-05-24**|**Sparse maximal update parameterization: A holistic approach to sparse training dynamics**|Nolan Dey et.al.|[2405.15743](http://arxiv.org/abs/2405.15743)|**[link](https://github.com/eleutherai/nanogpt-mup)**|
 |**2024-05-24**|**Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias**|Andres Algaba et.al.|[2405.15739](http://arxiv.org/abs/2405.15739)|**[link](https://github.com/andresalgaba/llm_citation_patterns)**|
-|**2024-05-24**|**Neural Persistence Dynamics**|Sebastian Zeng et.al.|[2405.15732](http://arxiv.org/abs/2405.15732)|null|
+|**2024-05-24**|**Neural Persistence Dynamics**|Sebastian Zeng et.al.|[2405.15732](http://arxiv.org/abs/2405.15732)|**[link](https://github.com/plus-rkwitt/neural_persistence_dynamics)**|
 |**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868](http://arxiv.org/abs/2405.14868)|null|
 |**2024-05-23**|**A Nurse is Blue and Elephant is Rugby: Cross Domain Alignment in Large Language Models Reveal Human-like Patterns**|Asaf Yehudai et.al.|[2405.14863](http://arxiv.org/abs/2405.14863)|null|
 |**2024-05-23**|**Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models**|Gen Li et.al.|[2405.14861](http://arxiv.org/abs/2405.14861)|null|
@@ -3083,7 +3083,7 @@ layout: default
 |**2024-04-16**|**RapidVol: Rapid Reconstruction of 3D Ultrasound Volumes from Sensorless 2D Scans**|Mark C. Eid et.al.|[2404.10766](http://arxiv.org/abs/2404.10766)|null|
 |**2024-04-16**|**Confidential Federated Computations**|Hubert Eichner et.al.|[2404.10764](http://arxiv.org/abs/2404.10764)|**[link](https://github.com/google-parfait/confidential-federated-compute)**|
 |**2024-04-17**|**TorchSurv: A Lightweight Package for Deep Survival Analysis**|Mélodie Monod et.al.|[2404.10761](http://arxiv.org/abs/2404.10761)|**[link](https://github.com/novartis/torchsurv)**|
-|**2024-04-16**|**Laplace-HDC: Understanding the geometry of binary hyperdimensional computing**|Saeid Pourmand et.al.|[2404.10759](http://arxiv.org/abs/2404.10759)|null|
+|**2024-04-16**|**Laplace-HDC: Understanding the geometry of binary hyperdimensional computing**|Saeid Pourmand et.al.|[2404.10759](http://arxiv.org/abs/2404.10759)|**[link](https://github.com/hdstat/laplace-hdc)**|
 |**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757](http://arxiv.org/abs/2404.10757)|**[link](https://github.com/yu-yang-li/starwhisper)**|
 |**2024-04-16**|**Interpolation and differentiation of alchemical degrees of freedom in machine learning interatomic potentials**|Juno Nam et.al.|[2404.10746](http://arxiv.org/abs/2404.10746)|**[link](https://github.com/learningmatter-mit/alchemical-mlip)**|
 |**2024-04-16**|**Settling Constant Regrets in Linear Markov Decision Processes**|Weitong Zhang et.al.|[2404.10745](http://arxiv.org/abs/2404.10745)|null|
