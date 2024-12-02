@@ -25,7 +25,7 @@
 |**2024-11-27**|**TorchOptics: An open-source Python library for differentiable Fourier optics simulations**|Matthew J. Filipovich et.al.|[2411.18591](http://arxiv.org/abs/2411.18591)|**[link](https://github.com/matthewfilipovich/torchoptics)**|
 |**2024-11-27**|**Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation**|Nurshat Fateh Ali et.al.|[2411.18583](http://arxiv.org/abs/2411.18583)|null|
 |**2024-11-27**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691](http://arxiv.org/abs/2411.17691)|null|
-|**2024-11-26**|**Attamba: Attending To Multi-Token States**|Yash Akhauri et.al.|[2411.17685](http://arxiv.org/abs/2411.17685)|null|
+|**2024-11-26**|**Attamba: Attending To Multi-Token States**|Yash Akhauri et.al.|[2411.17685](http://arxiv.org/abs/2411.17685)|**[link](https://github.com/abdelfattah-lab/attamba)**|
 |**2024-11-26**|**RealSeal: Revolutionizing Media Authentication with Real-Time Realism Scoring**|Bhaktipriya Radharapu et.al.|[2411.17684](http://arxiv.org/abs/2411.17684)|null|
 |**2024-11-26**|**Instance-Aware Graph Prompt Learning**|Jiazheng Li et.al.|[2411.17676](http://arxiv.org/abs/2411.17676)|null|
 |**2024-11-26**|**Synthetic Data Generation with LLM for Improved Depression Prediction**|Andrea Kang et.al.|[2411.17672](http://arxiv.org/abs/2411.17672)|null|
@@ -37,18 +37,18 @@
 |**2024-11-25**|**Quark: Real-time, High-resolution, and General Neural View Synthesis**|John Flynn et.al.|[2411.16680](http://arxiv.org/abs/2411.16680)|null|
 |**2024-11-25**|**CatNet: Effective FDR Control in LSTM with Gaussian Mirrors and SHAP Feature Importance**|Jiaan Han et.al.|[2411.16666](http://arxiv.org/abs/2411.16666)|null|
 |**2024-11-25**|**Gaussian Process Priors for Boundary Value Problems of Linear Partial Differential Equations**|Jianlei Huang et.al.|[2411.16663](http://arxiv.org/abs/2411.16663)|**[link](https://github.com/jimmy000207/boundary-epgp)**|
-|**2024-11-25**|**A Supervised Machine Learning Approach for Assessing Grant Peer Review Reports**|Gabriel Okasa et.al.|[2411.16662](http://arxiv.org/abs/2411.16662)|null|
+|**2024-11-25**|**A Supervised Machine Learning Approach for Assessing Grant Peer Review Reports**|Gabriel Okasa et.al.|[2411.16662](http://arxiv.org/abs/2411.16662)|**[link](https://github.com/snsf-data/ml-peer-review-analysis)**|
 |**2024-11-25**|**Fast training of large kernel models with delayed projections**|Amirhesam Abedsoltan et.al.|[2411.16658](http://arxiv.org/abs/2411.16658)|null|
 |**2024-11-25**|**Self-Generated Critiques Boost Reward Modeling for Language Models**|Yue Yu et.al.|[2411.16646](http://arxiv.org/abs/2411.16646)|null|
 |**2024-11-25**|**Recommender Systems for Good (RS4Good): Survey of Use Cases and a Call to Action for Research that Matters**|Dietmar Jannach et.al.|[2411.16645](http://arxiv.org/abs/2411.16645)|null|
 |**2024-11-25**|**Exploring Discrete Flow Matching for 3D De Novo Molecule Generation**|Ian Dunn et.al.|[2411.16644](http://arxiv.org/abs/2411.16644)|**[link](https://github.com/dunni3/flowmol)**|
 |**2024-11-25**|**Inference-Time Policy Steering through Human Interactions**|Yanwei Wang et.al.|[2411.16627](http://arxiv.org/abs/2411.16627)|null|
 |**2024-11-25**|**Graph Pooling with Local Cluster Selection**|Yizhu Chen et.al.|[2411.16615](http://arxiv.org/abs/2411.16615)|null|
-|**2024-11-22**|**Emulating Recombination with Neural Networks using Universal Differential Equations**|Ben Pennell et.al.|[2411.15140](http://arxiv.org/abs/2411.15140)|null|
+|**2024-11-22**|**Emulating Recombination with Neural Networks using Universal Differential Equations**|Ben Pennell et.al.|[2411.15140](http://arxiv.org/abs/2411.15140)|**[link](https://github.com/benpennell/recombination-emulator)**|
 |**2024-11-22**|**WildLMa: Long Horizon Loco-Manipulation in the Wild**|Ri-Zhao Qiu et.al.|[2411.15131](http://arxiv.org/abs/2411.15131)|null|
 |**2024-11-22**|**Health AI Developer Foundations**|Atilla P. Kiraly et.al.|[2411.15128](http://arxiv.org/abs/2411.15128)|null|
 |**2024-11-22**|**PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision**|Arnav M. Das et.al.|[2411.15127](http://arxiv.org/abs/2411.15127)|null|
-|**2024-11-22**|**RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts**|Hjalmar Wijk et.al.|[2411.15114](http://arxiv.org/abs/2411.15114)|null|
+|**2024-11-22**|**RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts**|Hjalmar Wijk et.al.|[2411.15114](http://arxiv.org/abs/2411.15114)|**[link](https://github.com/METR/ai-rd-tasks)**|
 |**2024-11-22**|**Efficient Pruning of Text-to-Image Models: Insights from Pruning Stable Diffusion**|Samarth N Ramesh et.al.|[2411.15113](http://arxiv.org/abs/2411.15113)|null|
 |**2024-11-22**|**Learnable Activation Functions in Physics-Informed Neural Networks for Solving Partial Differential Equations**|Afrah Fareaa et.al.|[2411.15111](http://arxiv.org/abs/2411.15111)|**[link](https://github.com/afrah/pinn_learnable_activation)**|
 |**2024-11-22**|**Effective Littlestone Dimension**|Valentino Delle Rose et.al.|[2411.15109](http://arxiv.org/abs/2411.15109)|null|
@@ -59,7 +59,7 @@
 |**2024-11-21**|**Learning Fair Robustness via Domain Mixup**|Meiyu Zhong et.al.|[2411.14424](http://arxiv.org/abs/2411.14424)|null|
 |**2024-11-21**|**From RNNs to Foundation Models: An Empirical Study on Commercial Building Energy Consumption**|Shourya Bose et.al.|[2411.14421](http://arxiv.org/abs/2411.14421)|null|
 |**2024-11-22**|**Adversarial Poisoning Attack on Quantum Machine Learning Models**|Satwik Kundu et.al.|[2411.14412](http://arxiv.org/abs/2411.14412)|null|
-|**2024-11-21**|**Multi-Agent Environments for Vehicle Routing Problems**|Ricardo Gama et.al.|[2411.14411](http://arxiv.org/abs/2411.14411)|null|
+|**2024-11-21**|**Multi-Agent Environments for Vehicle Routing Problems**|Ricardo Gama et.al.|[2411.14411](http://arxiv.org/abs/2411.14411)|**[link](https://github.com/ricgama/maenvs4vrp)**|
 |**2024-11-21**|**Engineering spectro-temporal light states with physics-trained deep learning**|Shilong Liu et.al.|[2411.14410](http://arxiv.org/abs/2411.14410)|null|
 |**2024-11-21**|**Exploring Methods for Integrating and Augmenting Multimodal Data to Improve Prognostic Accuracy in Imbalanced Datasets for Intraoperative Aneurysm Occlusion**|Parisa Naghdi et.al.|[2411.14407](http://arxiv.org/abs/2411.14407)|null|
 |**2024-11-21**|**Multimodal Autoregressive Pre-training of Large Vision Encoders**|Enrico Fini et.al.|[2411.14402](http://arxiv.org/abs/2411.14402)|**[link](https://github.com/apple/ml-aim)**|
@@ -116,7 +116,7 @@
 |**2024-11-14**|**On the Limits of Language Generation: Trade-Offs Between Hallucination and Mode Collapse**|Alkis Kalavasis et.al.|[2411.09642](http://arxiv.org/abs/2411.09642)|null|
 |**2024-11-13**|**A Short Note on Evaluating RepNet for Temporal Repetition Counting in Videos**|Debidatta Dwibedi et.al.|[2411.08878](http://arxiv.org/abs/2411.08878)|**[link](https://github.com/google-research/google-research)**|
 |**2024-11-13**|**Large Wireless Model (LWM): A Foundation Model for Wireless Channels**|Sadjad Alikhani et.al.|[2411.08872](http://arxiv.org/abs/2411.08872)|**[link](https://huggingface.co/wi-lab/lwm)**|
-|**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
+|**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|**[link](https://github.com/taekb/eval-medical-dapt)**|
 |**2024-11-13**|**Unsupervised Parameter-free Outlier Detection using HDBSCAN* Outlier Profiles**|Kushankur Ghosh et.al.|[2411.08867](http://arxiv.org/abs/2411.08867)|null|
 |**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
 |**2024-11-13**|**Interaction Testing in Variation Analysis**|Drago Plecko et.al.|[2411.08861](http://arxiv.org/abs/2411.08861)|**[link](https://github.com/dplecko/ia-testing)**|
@@ -164,7 +164,7 @@
 |**2024-11-07**|**Which bits went where? Past and future transfer entropy decomposition with the information bottleneck**|Kieran A. Murphy et.al.|[2411.04992](http://arxiv.org/abs/2411.04992)|null|
 |**2024-11-07**|**Clustering in Causal Attention Masking**|Nikita Karagodin et.al.|[2411.04990](http://arxiv.org/abs/2411.04990)|null|
 |**2024-11-07**|**SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation**|Koichi Namekata et.al.|[2411.04989](http://arxiv.org/abs/2411.04989)|null|
-|**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|null|
+|**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|**[link](https://github.com/taekb/eval-medical-dapt)**|
 |**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
 |**2024-11-06**|**Weighted Sobolev Approximation Rates for Neural Networks on Unbounded Domains**|Ahmed Abdeljawad et.al.|[2411.04108](http://arxiv.org/abs/2411.04108)|null|
 |**2024-11-06**|**A Comparative Study of Deep Reinforcement Learning for Crop Production Management**|Joseph Balderas et.al.|[2411.04106](http://arxiv.org/abs/2411.04106)|null|
@@ -1047,7 +1047,7 @@
 |**2024-06-21**|**NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking**|Daniel Dauner et.al.|[2406.15349](http://arxiv.org/abs/2406.15349)|**[link](https://github.com/autonomousvision/navsim)**|
 |**2024-06-21**|**Privacy Preserved Blood Glucose Level Cross-Prediction: An Asynchronous Decentralized Federated Learning Approach**|Chengzhe Piao et.al.|[2406.15346](http://arxiv.org/abs/2406.15346)|**[link](https://github.com/chengzhepiao/coldstartbglp)**|
 |**2024-06-21**|**GenoTEX: A Benchmark for Evaluating LLM-Based Exploration of Gene Expression Data in Alignment with Bioinformaticians**|Haoyang Liu et.al.|[2406.15341](http://arxiv.org/abs/2406.15341)|**[link](https://github.com/liu-hy/genotex)**|
-|**2024-06-21**|**Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning**|Brandon Huang et.al.|[2406.15334](http://arxiv.org/abs/2406.15334)|null|
+|**2024-06-21**|**Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning**|Brandon Huang et.al.|[2406.15334](http://arxiv.org/abs/2406.15334)|**[link](https://github.com/brandon3964/multimodal-task-vector)**|
 |**2024-06-21**|**Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild**|Nadav Orzech et.al.|[2406.15331](http://arxiv.org/abs/2406.15331)|null|
 |**2024-06-21**|**Fine-grained Attention in Hierarchical Transformers for Tabular Time-series**|Raphael Azorin et.al.|[2406.15327](http://arxiv.org/abs/2406.15327)|**[link](https://github.com/raphaaal/fieldy)**|
 |**2024-06-21**|**LeapFrog: Getting the Jump on Multi-Scale Materials Simulations Using Machine Learning**|Damien Pinto et.al.|[2406.15326](http://arxiv.org/abs/2406.15326)|null|
@@ -1795,7 +1795,7 @@
 |**2024-11-27**|**TorchOptics: An open-source Python library for differentiable Fourier optics simulations**|Matthew J. Filipovich et.al.|[2411.18591](http://arxiv.org/abs/2411.18591)|**[link](https://github.com/matthewfilipovich/torchoptics)**|
 |**2024-11-27**|**Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation**|Nurshat Fateh Ali et.al.|[2411.18583](http://arxiv.org/abs/2411.18583)|null|
 |**2024-11-27**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691](http://arxiv.org/abs/2411.17691)|null|
-|**2024-11-26**|**Attamba: Attending To Multi-Token States**|Yash Akhauri et.al.|[2411.17685](http://arxiv.org/abs/2411.17685)|null|
+|**2024-11-26**|**Attamba: Attending To Multi-Token States**|Yash Akhauri et.al.|[2411.17685](http://arxiv.org/abs/2411.17685)|**[link](https://github.com/abdelfattah-lab/attamba)**|
 |**2024-11-26**|**RealSeal: Revolutionizing Media Authentication with Real-Time Realism Scoring**|Bhaktipriya Radharapu et.al.|[2411.17684](http://arxiv.org/abs/2411.17684)|null|
 |**2024-11-26**|**Instance-Aware Graph Prompt Learning**|Jiazheng Li et.al.|[2411.17676](http://arxiv.org/abs/2411.17676)|null|
 |**2024-11-26**|**Synthetic Data Generation with LLM for Improved Depression Prediction**|Andrea Kang et.al.|[2411.17672](http://arxiv.org/abs/2411.17672)|null|
@@ -1807,18 +1807,18 @@
 |**2024-11-25**|**Quark: Real-time, High-resolution, and General Neural View Synthesis**|John Flynn et.al.|[2411.16680](http://arxiv.org/abs/2411.16680)|null|
 |**2024-11-25**|**CatNet: Effective FDR Control in LSTM with Gaussian Mirrors and SHAP Feature Importance**|Jiaan Han et.al.|[2411.16666](http://arxiv.org/abs/2411.16666)|null|
 |**2024-11-25**|**Gaussian Process Priors for Boundary Value Problems of Linear Partial Differential Equations**|Jianlei Huang et.al.|[2411.16663](http://arxiv.org/abs/2411.16663)|**[link](https://github.com/jimmy000207/boundary-epgp)**|
-|**2024-11-25**|**A Supervised Machine Learning Approach for Assessing Grant Peer Review Reports**|Gabriel Okasa et.al.|[2411.16662](http://arxiv.org/abs/2411.16662)|null|
+|**2024-11-25**|**A Supervised Machine Learning Approach for Assessing Grant Peer Review Reports**|Gabriel Okasa et.al.|[2411.16662](http://arxiv.org/abs/2411.16662)|**[link](https://github.com/snsf-data/ml-peer-review-analysis)**|
 |**2024-11-25**|**Fast training of large kernel models with delayed projections**|Amirhesam Abedsoltan et.al.|[2411.16658](http://arxiv.org/abs/2411.16658)|null|
 |**2024-11-25**|**Self-Generated Critiques Boost Reward Modeling for Language Models**|Yue Yu et.al.|[2411.16646](http://arxiv.org/abs/2411.16646)|null|
 |**2024-11-25**|**Recommender Systems for Good (RS4Good): Survey of Use Cases and a Call to Action for Research that Matters**|Dietmar Jannach et.al.|[2411.16645](http://arxiv.org/abs/2411.16645)|null|
 |**2024-11-25**|**Exploring Discrete Flow Matching for 3D De Novo Molecule Generation**|Ian Dunn et.al.|[2411.16644](http://arxiv.org/abs/2411.16644)|**[link](https://github.com/dunni3/flowmol)**|
 |**2024-11-25**|**Inference-Time Policy Steering through Human Interactions**|Yanwei Wang et.al.|[2411.16627](http://arxiv.org/abs/2411.16627)|null|
 |**2024-11-25**|**Graph Pooling with Local Cluster Selection**|Yizhu Chen et.al.|[2411.16615](http://arxiv.org/abs/2411.16615)|null|
-|**2024-11-22**|**Emulating Recombination with Neural Networks using Universal Differential Equations**|Ben Pennell et.al.|[2411.15140](http://arxiv.org/abs/2411.15140)|null|
+|**2024-11-22**|**Emulating Recombination with Neural Networks using Universal Differential Equations**|Ben Pennell et.al.|[2411.15140](http://arxiv.org/abs/2411.15140)|**[link](https://github.com/benpennell/recombination-emulator)**|
 |**2024-11-22**|**WildLMa: Long Horizon Loco-Manipulation in the Wild**|Ri-Zhao Qiu et.al.|[2411.15131](http://arxiv.org/abs/2411.15131)|null|
 |**2024-11-22**|**Health AI Developer Foundations**|Atilla P. Kiraly et.al.|[2411.15128](http://arxiv.org/abs/2411.15128)|null|
 |**2024-11-22**|**PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision**|Arnav M. Das et.al.|[2411.15127](http://arxiv.org/abs/2411.15127)|null|
-|**2024-11-22**|**RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts**|Hjalmar Wijk et.al.|[2411.15114](http://arxiv.org/abs/2411.15114)|null|
+|**2024-11-22**|**RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts**|Hjalmar Wijk et.al.|[2411.15114](http://arxiv.org/abs/2411.15114)|**[link](https://github.com/METR/ai-rd-tasks)**|
 |**2024-11-22**|**Efficient Pruning of Text-to-Image Models: Insights from Pruning Stable Diffusion**|Samarth N Ramesh et.al.|[2411.15113](http://arxiv.org/abs/2411.15113)|null|
 |**2024-11-22**|**Learnable Activation Functions in Physics-Informed Neural Networks for Solving Partial Differential Equations**|Afrah Fareaa et.al.|[2411.15111](http://arxiv.org/abs/2411.15111)|**[link](https://github.com/afrah/pinn_learnable_activation)**|
 |**2024-11-22**|**Effective Littlestone Dimension**|Valentino Delle Rose et.al.|[2411.15109](http://arxiv.org/abs/2411.15109)|null|
@@ -1829,7 +1829,7 @@
 |**2024-11-21**|**Learning Fair Robustness via Domain Mixup**|Meiyu Zhong et.al.|[2411.14424](http://arxiv.org/abs/2411.14424)|null|
 |**2024-11-21**|**From RNNs to Foundation Models: An Empirical Study on Commercial Building Energy Consumption**|Shourya Bose et.al.|[2411.14421](http://arxiv.org/abs/2411.14421)|null|
 |**2024-11-22**|**Adversarial Poisoning Attack on Quantum Machine Learning Models**|Satwik Kundu et.al.|[2411.14412](http://arxiv.org/abs/2411.14412)|null|
-|**2024-11-21**|**Multi-Agent Environments for Vehicle Routing Problems**|Ricardo Gama et.al.|[2411.14411](http://arxiv.org/abs/2411.14411)|null|
+|**2024-11-21**|**Multi-Agent Environments for Vehicle Routing Problems**|Ricardo Gama et.al.|[2411.14411](http://arxiv.org/abs/2411.14411)|**[link](https://github.com/ricgama/maenvs4vrp)**|
 |**2024-11-21**|**Engineering spectro-temporal light states with physics-trained deep learning**|Shilong Liu et.al.|[2411.14410](http://arxiv.org/abs/2411.14410)|null|
 |**2024-11-21**|**Exploring Methods for Integrating and Augmenting Multimodal Data to Improve Prognostic Accuracy in Imbalanced Datasets for Intraoperative Aneurysm Occlusion**|Parisa Naghdi et.al.|[2411.14407](http://arxiv.org/abs/2411.14407)|null|
 |**2024-11-21**|**Multimodal Autoregressive Pre-training of Large Vision Encoders**|Enrico Fini et.al.|[2411.14402](http://arxiv.org/abs/2411.14402)|**[link](https://github.com/apple/ml-aim)**|
@@ -1886,7 +1886,7 @@
 |**2024-11-14**|**On the Limits of Language Generation: Trade-Offs Between Hallucination and Mode Collapse**|Alkis Kalavasis et.al.|[2411.09642](http://arxiv.org/abs/2411.09642)|null|
 |**2024-11-13**|**A Short Note on Evaluating RepNet for Temporal Repetition Counting in Videos**|Debidatta Dwibedi et.al.|[2411.08878](http://arxiv.org/abs/2411.08878)|**[link](https://github.com/google-research/google-research)**|
 |**2024-11-13**|**Large Wireless Model (LWM): A Foundation Model for Wireless Channels**|Sadjad Alikhani et.al.|[2411.08872](http://arxiv.org/abs/2411.08872)|**[link](https://huggingface.co/wi-lab/lwm)**|
-|**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
+|**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|**[link](https://github.com/taekb/eval-medical-dapt)**|
 |**2024-11-13**|**Unsupervised Parameter-free Outlier Detection using HDBSCAN* Outlier Profiles**|Kushankur Ghosh et.al.|[2411.08867](http://arxiv.org/abs/2411.08867)|null|
 |**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
 |**2024-11-13**|**Interaction Testing in Variation Analysis**|Drago Plecko et.al.|[2411.08861](http://arxiv.org/abs/2411.08861)|**[link](https://github.com/dplecko/ia-testing)**|
@@ -1934,7 +1934,7 @@
 |**2024-11-07**|**Which bits went where? Past and future transfer entropy decomposition with the information bottleneck**|Kieran A. Murphy et.al.|[2411.04992](http://arxiv.org/abs/2411.04992)|null|
 |**2024-11-07**|**Clustering in Causal Attention Masking**|Nikita Karagodin et.al.|[2411.04990](http://arxiv.org/abs/2411.04990)|null|
 |**2024-11-07**|**SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation**|Koichi Namekata et.al.|[2411.04989](http://arxiv.org/abs/2411.04989)|null|
-|**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|null|
+|**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|**[link](https://github.com/taekb/eval-medical-dapt)**|
 |**2024-11-06**|**Self-Consistency Preference Optimization**|Archiki Prasad et.al.|[2411.04109](http://arxiv.org/abs/2411.04109)|null|
 |**2024-11-06**|**Weighted Sobolev Approximation Rates for Neural Networks on Unbounded Domains**|Ahmed Abdeljawad et.al.|[2411.04108](http://arxiv.org/abs/2411.04108)|null|
 |**2024-11-06**|**A Comparative Study of Deep Reinforcement Learning for Crop Production Management**|Joseph Balderas et.al.|[2411.04106](http://arxiv.org/abs/2411.04106)|null|
@@ -2817,7 +2817,7 @@
 |**2024-06-21**|**NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking**|Daniel Dauner et.al.|[2406.15349](http://arxiv.org/abs/2406.15349)|**[link](https://github.com/autonomousvision/navsim)**|
 |**2024-06-21**|**Privacy Preserved Blood Glucose Level Cross-Prediction: An Asynchronous Decentralized Federated Learning Approach**|Chengzhe Piao et.al.|[2406.15346](http://arxiv.org/abs/2406.15346)|**[link](https://github.com/chengzhepiao/coldstartbglp)**|
 |**2024-06-21**|**GenoTEX: A Benchmark for Evaluating LLM-Based Exploration of Gene Expression Data in Alignment with Bioinformaticians**|Haoyang Liu et.al.|[2406.15341](http://arxiv.org/abs/2406.15341)|**[link](https://github.com/liu-hy/genotex)**|
-|**2024-06-21**|**Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning**|Brandon Huang et.al.|[2406.15334](http://arxiv.org/abs/2406.15334)|null|
+|**2024-06-21**|**Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning**|Brandon Huang et.al.|[2406.15334](http://arxiv.org/abs/2406.15334)|**[link](https://github.com/brandon3964/multimodal-task-vector)**|
 |**2024-06-21**|**Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild**|Nadav Orzech et.al.|[2406.15331](http://arxiv.org/abs/2406.15331)|null|
 |**2024-06-21**|**Fine-grained Attention in Hierarchical Transformers for Tabular Time-series**|Raphael Azorin et.al.|[2406.15327](http://arxiv.org/abs/2406.15327)|**[link](https://github.com/raphaaal/fieldy)**|
 |**2024-06-21**|**LeapFrog: Getting the Jump on Multi-Scale Materials Simulations Using Machine Learning**|Damien Pinto et.al.|[2406.15326](http://arxiv.org/abs/2406.15326)|null|
