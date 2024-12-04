@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Scaling BERT Models for Turkish Automatic Punctuation and Capitalization Correction**|Abdulkader Saoud et.al.|[2412.02698](http://arxiv.org/abs/2412.02698)|null|
+|**2024-12-03**|**An ADHD Diagnostic Interface Based on EEG Spectrograms and Deep Learning Techniques**|Medha Pappula et.al.|[2412.02695](http://arxiv.org/abs/2412.02695)|null|
+|**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685](http://arxiv.org/abs/2412.02685)|null|
+|**2024-12-03**|**The Asymptotic Behavior of Attention in Transformers**|Álvaro Rodríguez Abella et.al.|[2412.02682](http://arxiv.org/abs/2412.02682)|null|
+|**2024-12-03**|**Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation**|Xuanlin Li et.al.|[2412.02676](http://arxiv.org/abs/2412.02676)|null|
+|**2024-12-03**|**Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models**|Yuda Song et.al.|[2412.02674](http://arxiv.org/abs/2412.02674)|null|
+|**2024-12-03**|**The Broader Landscape of Robustness in Algorithmic Statistics**|Gautam Kamath et.al.|[2412.02670](http://arxiv.org/abs/2412.02670)|null|
+|**2024-12-03**|**Efficient Graph Matching for Correlated Stochastic Block Models**|Shuwen Chai et.al.|[2412.02661](http://arxiv.org/abs/2412.02661)|null|
+|**2024-12-03**|**Interpretable Generalized Additive Models for Datasets with Missing Values**|Hayden McTavish et.al.|[2412.02646](http://arxiv.org/abs/2412.02646)|null|
+|**2024-12-03**|**The Space Complexity of Approximating Logistic Loss**|Gregory Dexter et.al.|[2412.02639](http://arxiv.org/abs/2412.02639)|null|
 |**2024-12-02**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951](http://arxiv.org/abs/2411.19951)|**[link](https://github.com/xjtupanda/t2vid)**|
 |**2024-11-29**|**AlphaTablets: A Generic Plane Representation for 3D Planar Reconstruction from Monocular Videos**|Yuze He et.al.|[2411.19950](http://arxiv.org/abs/2411.19950)|null|
 |**2024-11-29**|**DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation**|Zhiqiang Shen et.al.|[2411.19946](http://arxiv.org/abs/2411.19946)|**[link](https://github.com/vila-lab/delt)**|
@@ -1787,6 +1797,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Scaling BERT Models for Turkish Automatic Punctuation and Capitalization Correction**|Abdulkader Saoud et.al.|[2412.02698](http://arxiv.org/abs/2412.02698)|null|
+|**2024-12-03**|**An ADHD Diagnostic Interface Based on EEG Spectrograms and Deep Learning Techniques**|Medha Pappula et.al.|[2412.02695](http://arxiv.org/abs/2412.02695)|null|
+|**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685](http://arxiv.org/abs/2412.02685)|null|
+|**2024-12-03**|**The Asymptotic Behavior of Attention in Transformers**|Álvaro Rodríguez Abella et.al.|[2412.02682](http://arxiv.org/abs/2412.02682)|null|
+|**2024-12-03**|**Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation**|Xuanlin Li et.al.|[2412.02676](http://arxiv.org/abs/2412.02676)|null|
+|**2024-12-03**|**Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models**|Yuda Song et.al.|[2412.02674](http://arxiv.org/abs/2412.02674)|null|
+|**2024-12-03**|**The Broader Landscape of Robustness in Algorithmic Statistics**|Gautam Kamath et.al.|[2412.02670](http://arxiv.org/abs/2412.02670)|null|
+|**2024-12-03**|**Efficient Graph Matching for Correlated Stochastic Block Models**|Shuwen Chai et.al.|[2412.02661](http://arxiv.org/abs/2412.02661)|null|
+|**2024-12-03**|**Interpretable Generalized Additive Models for Datasets with Missing Values**|Hayden McTavish et.al.|[2412.02646](http://arxiv.org/abs/2412.02646)|null|
+|**2024-12-03**|**The Space Complexity of Approximating Logistic Loss**|Gregory Dexter et.al.|[2412.02639](http://arxiv.org/abs/2412.02639)|null|
 |**2024-12-02**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951](http://arxiv.org/abs/2411.19951)|**[link](https://github.com/xjtupanda/t2vid)**|
 |**2024-11-29**|**AlphaTablets: A Generic Plane Representation for 3D Planar Reconstruction from Monocular Videos**|Yuze He et.al.|[2411.19950](http://arxiv.org/abs/2411.19950)|null|
 |**2024-11-29**|**DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation**|Zhiqiang Shen et.al.|[2411.19946](http://arxiv.org/abs/2411.19946)|**[link](https://github.com/vila-lab/delt)**|
