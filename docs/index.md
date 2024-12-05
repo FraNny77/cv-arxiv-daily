@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Navigation World Models**|Amir Bar et.al.|[2412.03572](http://arxiv.org/abs/2412.03572)|null|
+|**2024-12-04**|**Best-of-N Jailbreaking**|John Hughes et.al.|[2412.03556](http://arxiv.org/abs/2412.03556)|null|
+|**2024-12-04**|**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**|Mahtab Bigverdi et.al.|[2412.03548](http://arxiv.org/abs/2412.03548)|null|
+|**2024-12-04**|**Dielectric tensor of perovskite oxides at finite temperature using equivariant graph neural network potentials**|Alex Kutana et.al.|[2412.03541](http://arxiv.org/abs/2412.03541)|null|
+|**2024-12-04**|**NODE-AdvGAN: Improving the transferability and perceptual similarity of adversarial examples by dynamic-system-driven adversarial generative model**|Xinheng Xie et.al.|[2412.03539](http://arxiv.org/abs/2412.03539)|null|
+|**2024-12-04**|**Evaluating Gender Bias Transfer between Pre-trained and Prompt-Adapted Language Models**|Natalie Mackraz et.al.|[2412.03537](http://arxiv.org/abs/2412.03537)|null|
+|**2024-12-04**|**A Review on Scientific Knowledge Extraction using Large Language Models in Biomedical Sciences**|Gabriel Lino Garcia et.al.|[2412.03531](http://arxiv.org/abs/2412.03531)|null|
+|**2024-12-04**|**FANAL -- Financial Activity News Alerting Language Modeling Framework**|Urjitkumar Patel et.al.|[2412.03527](http://arxiv.org/abs/2412.03527)|null|
+|**2024-12-04**|**KKLIP: Knowledge Distillation Exploiting K-means Clustering for Language-Image Pre-Training**|Kuei-Chun Kao et.al.|[2412.03513](http://arxiv.org/abs/2412.03513)|null|
+|**2024-12-04**|**Self-test loss functions for learning weak-form operators and gradient flows**|Yuan Gao et.al.|[2412.03506](http://arxiv.org/abs/2412.03506)|null|
 |**2024-12-03**|**Scaling BERT Models for Turkish Automatic Punctuation and Capitalization Correction**|Abdulkader Saoud et.al.|[2412.02698](http://arxiv.org/abs/2412.02698)|null|
 |**2024-12-03**|**An ADHD Diagnostic Interface Based on EEG Spectrograms and Deep Learning Techniques**|Medha Pappula et.al.|[2412.02695](http://arxiv.org/abs/2412.02695)|null|
 |**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685](http://arxiv.org/abs/2412.02685)|null|
@@ -1797,6 +1807,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Navigation World Models**|Amir Bar et.al.|[2412.03572](http://arxiv.org/abs/2412.03572)|null|
+|**2024-12-04**|**Best-of-N Jailbreaking**|John Hughes et.al.|[2412.03556](http://arxiv.org/abs/2412.03556)|null|
+|**2024-12-04**|**Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**|Mahtab Bigverdi et.al.|[2412.03548](http://arxiv.org/abs/2412.03548)|null|
+|**2024-12-04**|**Dielectric tensor of perovskite oxides at finite temperature using equivariant graph neural network potentials**|Alex Kutana et.al.|[2412.03541](http://arxiv.org/abs/2412.03541)|null|
+|**2024-12-04**|**NODE-AdvGAN: Improving the transferability and perceptual similarity of adversarial examples by dynamic-system-driven adversarial generative model**|Xinheng Xie et.al.|[2412.03539](http://arxiv.org/abs/2412.03539)|null|
+|**2024-12-04**|**Evaluating Gender Bias Transfer between Pre-trained and Prompt-Adapted Language Models**|Natalie Mackraz et.al.|[2412.03537](http://arxiv.org/abs/2412.03537)|null|
+|**2024-12-04**|**A Review on Scientific Knowledge Extraction using Large Language Models in Biomedical Sciences**|Gabriel Lino Garcia et.al.|[2412.03531](http://arxiv.org/abs/2412.03531)|null|
+|**2024-12-04**|**FANAL -- Financial Activity News Alerting Language Modeling Framework**|Urjitkumar Patel et.al.|[2412.03527](http://arxiv.org/abs/2412.03527)|null|
+|**2024-12-04**|**KKLIP: Knowledge Distillation Exploiting K-means Clustering for Language-Image Pre-Training**|Kuei-Chun Kao et.al.|[2412.03513](http://arxiv.org/abs/2412.03513)|null|
+|**2024-12-04**|**Self-test loss functions for learning weak-form operators and gradient flows**|Yuan Gao et.al.|[2412.03506](http://arxiv.org/abs/2412.03506)|null|
 |**2024-12-03**|**Scaling BERT Models for Turkish Automatic Punctuation and Capitalization Correction**|Abdulkader Saoud et.al.|[2412.02698](http://arxiv.org/abs/2412.02698)|null|
 |**2024-12-03**|**An ADHD Diagnostic Interface Based on EEG Spectrograms and Deep Learning Techniques**|Medha Pappula et.al.|[2412.02695](http://arxiv.org/abs/2412.02695)|null|
 |**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685](http://arxiv.org/abs/2412.02685)|null|
