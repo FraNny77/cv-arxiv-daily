@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.15
+## Updated on 2024.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -12,7 +12,7 @@ layout: default
 |**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[2412.09627](http://arxiv.org/abs/2412.09627)|**[link](https://github.com/wzzheng/doe)**|
 |**2024-12-12**|**The S-matrix bootstrap with neural optimizers I: zero double discontinuity**|Mehmet Asim Gumus et.al.|[2412.09610](http://arxiv.org/abs/2412.09610)|null|
 |**2024-12-12**|**Spectral Image Tokenizer**|Carlos Esteves et.al.|[2412.09607](http://arxiv.org/abs/2412.09607)|null|
-|**2024-12-12**|**Hidden Biases of End-to-End Driving Datasets**|Julian Zimmerlin et.al.|[2412.09602](http://arxiv.org/abs/2412.09602)|**[link](https://github.com/autonomousvision/carla_garage)**|
+|**2024-12-13**|**Hidden Biases of End-to-End Driving Datasets**|Julian Zimmerlin et.al.|[2412.09602](http://arxiv.org/abs/2412.09602)|**[link](https://github.com/autonomousvision/carla_garage)**|
 |**2024-12-12**|**Owl-1: Omni World Model for Consistent Long Video Generation**|Yuanhui Huang et.al.|[2412.09600](http://arxiv.org/abs/2412.09600)|**[link](https://github.com/huang-yh/owl)**|
 |**2024-12-12**|**Wait-Less Offline Tuning and Re-solving for Online Decision Making**|Jingruo Sun et.al.|[2412.09594](http://arxiv.org/abs/2412.09594)|null|
 |**2024-12-12**|**Neptune: The Long Orbit to Benchmarking Long Video Understanding**|Arsha Nagrani et.al.|[2412.09582](http://arxiv.org/abs/2412.09582)|**[link](https://github.com/google-deepmind/neptune)**|
@@ -1870,7 +1870,7 @@ layout: default
 |**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[2412.09627](http://arxiv.org/abs/2412.09627)|**[link](https://github.com/wzzheng/doe)**|
 |**2024-12-12**|**The S-matrix bootstrap with neural optimizers I: zero double discontinuity**|Mehmet Asim Gumus et.al.|[2412.09610](http://arxiv.org/abs/2412.09610)|null|
 |**2024-12-12**|**Spectral Image Tokenizer**|Carlos Esteves et.al.|[2412.09607](http://arxiv.org/abs/2412.09607)|null|
-|**2024-12-12**|**Hidden Biases of End-to-End Driving Datasets**|Julian Zimmerlin et.al.|[2412.09602](http://arxiv.org/abs/2412.09602)|**[link](https://github.com/autonomousvision/carla_garage)**|
+|**2024-12-13**|**Hidden Biases of End-to-End Driving Datasets**|Julian Zimmerlin et.al.|[2412.09602](http://arxiv.org/abs/2412.09602)|**[link](https://github.com/autonomousvision/carla_garage)**|
 |**2024-12-12**|**Owl-1: Omni World Model for Consistent Long Video Generation**|Yuanhui Huang et.al.|[2412.09600](http://arxiv.org/abs/2412.09600)|**[link](https://github.com/huang-yh/owl)**|
 |**2024-12-12**|**Wait-Less Offline Tuning and Re-solving for Online Decision Making**|Jingruo Sun et.al.|[2412.09594](http://arxiv.org/abs/2412.09594)|null|
 |**2024-12-12**|**Neptune: The Long Orbit to Benchmarking Long Video Understanding**|Arsha Nagrani et.al.|[2412.09582](http://arxiv.org/abs/2412.09582)|**[link](https://github.com/google-deepmind/neptune)**|
