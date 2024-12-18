@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2024.12.17
+## Updated on 2024.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**MaxInfoRL: Boosting exploration in reinforcement learning through information gain maximization**|Bhavya Sukhija et.al.|[2412.12098](http://arxiv.org/abs/2412.12098)|null|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
+|**2024-12-16**|**No More Tuning: Prioritized Multi-Task Learning with Lagrangian Differential Multiplier Methods**|Zhengxing Cheng et.al.|[2412.12092](http://arxiv.org/abs/2412.12092)|null|
+|**2024-12-16**|**Stabilizing Reinforcement Learning in Differentiable Multiphysics Simulation**|Eliot Xing et.al.|[2412.12089](http://arxiv.org/abs/2412.12089)|null|
+|**2024-12-16**|**Extrapolating Jet Radiation with Autoregressive Transformers**|Anja Butter et.al.|[2412.12074](http://arxiv.org/abs/2412.12074)|null|
+|**2024-12-16**|**Bilevel Learning with Inexact Stochastic Gradients**|Mohammad Sadegh Salehi et.al.|[2412.12049](http://arxiv.org/abs/2412.12049)|null|
+|**2024-12-16**|**LLMs for Cold-Start Cutting Plane Separator Configuration**|Connor Lawless et.al.|[2412.12038](http://arxiv.org/abs/2412.12038)|null|
+|**2024-12-16**|**LeARN: Learnable and Adaptive Representations for Nonlinear Dynamics in System Identification**|Arunabh Singh et.al.|[2412.12036](http://arxiv.org/abs/2412.12036)|null|
+|**2024-12-16**|**Thermodynamics-informed graph neural networks for real-time simulation of digital human twins**|Lucas Tesán et.al.|[2412.12034](http://arxiv.org/abs/2412.12034)|null|
+|**2024-12-16**|**Memory-Reduced Meta-Learning with Guaranteed Convergence**|Honglin Yang et.al.|[2412.12030](http://arxiv.org/abs/2412.12030)|null|
 |**2024-12-13**|**GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**|Sicheng Zuo et.al.|[2412.10373](http://arxiv.org/abs/2412.10373)|**[link](https://github.com/zuosc19/gaussianworld)**|
 |**2024-12-13**|**GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[2412.10371](http://arxiv.org/abs/2412.10371)|**[link](https://github.com/wzzheng/gaussianad)**|
 |**2024-12-13**|**OP-LoRA: The Blessing of Dimensionality**|Piotr Teterwak et.al.|[2412.10362](http://arxiv.org/abs/2412.10362)|null|
@@ -1877,6 +1887,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**MaxInfoRL: Boosting exploration in reinforcement learning through information gain maximization**|Bhavya Sukhija et.al.|[2412.12098](http://arxiv.org/abs/2412.12098)|null|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
+|**2024-12-16**|**No More Tuning: Prioritized Multi-Task Learning with Lagrangian Differential Multiplier Methods**|Zhengxing Cheng et.al.|[2412.12092](http://arxiv.org/abs/2412.12092)|null|
+|**2024-12-16**|**Stabilizing Reinforcement Learning in Differentiable Multiphysics Simulation**|Eliot Xing et.al.|[2412.12089](http://arxiv.org/abs/2412.12089)|null|
+|**2024-12-16**|**Extrapolating Jet Radiation with Autoregressive Transformers**|Anja Butter et.al.|[2412.12074](http://arxiv.org/abs/2412.12074)|null|
+|**2024-12-16**|**Bilevel Learning with Inexact Stochastic Gradients**|Mohammad Sadegh Salehi et.al.|[2412.12049](http://arxiv.org/abs/2412.12049)|null|
+|**2024-12-16**|**LLMs for Cold-Start Cutting Plane Separator Configuration**|Connor Lawless et.al.|[2412.12038](http://arxiv.org/abs/2412.12038)|null|
+|**2024-12-16**|**LeARN: Learnable and Adaptive Representations for Nonlinear Dynamics in System Identification**|Arunabh Singh et.al.|[2412.12036](http://arxiv.org/abs/2412.12036)|null|
+|**2024-12-16**|**Thermodynamics-informed graph neural networks for real-time simulation of digital human twins**|Lucas Tesán et.al.|[2412.12034](http://arxiv.org/abs/2412.12034)|null|
+|**2024-12-16**|**Memory-Reduced Meta-Learning with Guaranteed Convergence**|Honglin Yang et.al.|[2412.12030](http://arxiv.org/abs/2412.12030)|null|
 |**2024-12-13**|**GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**|Sicheng Zuo et.al.|[2412.10373](http://arxiv.org/abs/2412.10373)|**[link](https://github.com/zuosc19/gaussianworld)**|
 |**2024-12-13**|**GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[2412.10371](http://arxiv.org/abs/2412.10371)|**[link](https://github.com/wzzheng/gaussianad)**|
 |**2024-12-13**|**OP-LoRA: The Blessing of Dimensionality**|Piotr Teterwak et.al.|[2412.10362](http://arxiv.org/abs/2412.10362)|null|
