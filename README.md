@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**ExBody2: Advanced Expressive Humanoid Whole-Body Control**|Mazeyu Ji et.al.|[2412.13196](http://arxiv.org/abs/2412.13196)|null|
+|**2024-12-17**|**Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents**|Yifei Zhou et.al.|[2412.13194](http://arxiv.org/abs/2412.13194)|null|
+|**2024-12-17**|**HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**|Chen Bao et.al.|[2412.13187](http://arxiv.org/abs/2412.13187)|null|
+|**2024-12-17**|**Tilted Quantile Gradient Updates for Quantile-Constrained Reinforcement Learning**|Chenglin Li et.al.|[2412.13184](http://arxiv.org/abs/2412.13184)|**[link](https://github.com/CharlieLeeeee/TQPO)**|
+|**2024-12-17**|**ORFormer: Occlusion-Robust Transformer for Accurate Facial Landmark Detection**|Jui-Che Chiang et.al.|[2412.13174](http://arxiv.org/abs/2412.13174)|null|
+|**2024-12-17**|**BanglishRev: A Large-Scale Bangla-English and Code-mixed Dataset of Product Reviews in E-Commerce**|Mohammad Nazmush Shamael et.al.|[2412.13161](http://arxiv.org/abs/2412.13161)|null|
+|**2024-12-17**|**A Conformal Approach to Feature-based Newsvendor under Model Misspecification**|Junyu Cao et.al.|[2412.13159](http://arxiv.org/abs/2412.13159)|null|
+|**2024-12-17**|**On Model Extrapolation in Marginal Shapley Values**|Ilya Rozenfeld et.al.|[2412.13158](http://arxiv.org/abs/2412.13158)|null|
+|**2024-12-17**|**Learning Visuotactile Estimation and Control for Non-prehensile Manipulation under Occlusions**|Juan Del Aguila Ferrandis et.al.|[2412.13157](http://arxiv.org/abs/2412.13157)|null|
+|**2024-12-17**|**SWAN: Preprocessing SGD Enables Adam-Level Performance On LLM Training With Significant Memory Reduction**|Chao Ma et.al.|[2412.13148](http://arxiv.org/abs/2412.13148)|null|
 |**2024-12-16**|**MaxInfoRL: Boosting exploration in reinforcement learning through information gain maximization**|Bhavya Sukhija et.al.|[2412.12098](http://arxiv.org/abs/2412.12098)|null|
 |**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-16**|**No More Tuning: Prioritized Multi-Task Learning with Lagrangian Differential Multiplier Methods**|Zhengxing Cheng et.al.|[2412.12092](http://arxiv.org/abs/2412.12092)|null|
@@ -1894,6 +1904,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**ExBody2: Advanced Expressive Humanoid Whole-Body Control**|Mazeyu Ji et.al.|[2412.13196](http://arxiv.org/abs/2412.13196)|null|
+|**2024-12-17**|**Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents**|Yifei Zhou et.al.|[2412.13194](http://arxiv.org/abs/2412.13194)|null|
+|**2024-12-17**|**HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**|Chen Bao et.al.|[2412.13187](http://arxiv.org/abs/2412.13187)|null|
+|**2024-12-17**|**Tilted Quantile Gradient Updates for Quantile-Constrained Reinforcement Learning**|Chenglin Li et.al.|[2412.13184](http://arxiv.org/abs/2412.13184)|**[link](https://github.com/CharlieLeeeee/TQPO)**|
+|**2024-12-17**|**ORFormer: Occlusion-Robust Transformer for Accurate Facial Landmark Detection**|Jui-Che Chiang et.al.|[2412.13174](http://arxiv.org/abs/2412.13174)|null|
+|**2024-12-17**|**BanglishRev: A Large-Scale Bangla-English and Code-mixed Dataset of Product Reviews in E-Commerce**|Mohammad Nazmush Shamael et.al.|[2412.13161](http://arxiv.org/abs/2412.13161)|null|
+|**2024-12-17**|**A Conformal Approach to Feature-based Newsvendor under Model Misspecification**|Junyu Cao et.al.|[2412.13159](http://arxiv.org/abs/2412.13159)|null|
+|**2024-12-17**|**On Model Extrapolation in Marginal Shapley Values**|Ilya Rozenfeld et.al.|[2412.13158](http://arxiv.org/abs/2412.13158)|null|
+|**2024-12-17**|**Learning Visuotactile Estimation and Control for Non-prehensile Manipulation under Occlusions**|Juan Del Aguila Ferrandis et.al.|[2412.13157](http://arxiv.org/abs/2412.13157)|null|
+|**2024-12-17**|**SWAN: Preprocessing SGD Enables Adam-Level Performance On LLM Training With Significant Memory Reduction**|Chao Ma et.al.|[2412.13148](http://arxiv.org/abs/2412.13148)|null|
 |**2024-12-16**|**MaxInfoRL: Boosting exploration in reinforcement learning through information gain maximization**|Bhavya Sukhija et.al.|[2412.12098](http://arxiv.org/abs/2412.12098)|null|
 |**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-16**|**No More Tuning: Prioritized Multi-Task Learning with Lagrangian Differential Multiplier Methods**|Zhengxing Cheng et.al.|[2412.12092](http://arxiv.org/abs/2412.12092)|null|
