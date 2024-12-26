@@ -1,4 +1,4 @@
-## Updated on 2024.12.25
+## Updated on 2024.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |**2024-12-24**|**Structure Learning in Gaussian Graphical Models from Glauber Dynamics**|Vignesh Tirukkonda et.al.|[2412.18594](http://arxiv.org/abs/2412.18594)|null|
 |**2024-12-24**|**Resolution-Robust 3D MRI Reconstruction with 2D Diffusion Priors: Diverse-Resolution Training Outperforms Interpolation**|Anselm Krainovic et.al.|[2412.18584](http://arxiv.org/abs/2412.18584)|null|
 |**2024-12-24**|**Exploring Embedding Priors in Prompt-Tuning for Improved Interpretability and Control**|Sergey Sedov et.al.|[2412.18582](http://arxiv.org/abs/2412.18582)|null|
-|**2024-12-24**|**ReducedLUT: Table Decomposition with "Don't Care" Conditions**|Oliver Cassidy et.al.|[2412.18579](http://arxiv.org/abs/2412.18579)|null|
+|**2024-12-24**|**ReducedLUT: Table Decomposition with "Don't Care" Conditions**|Oliver Cassidy et.al.|[2412.18579](http://arxiv.org/abs/2412.18579)|**[link](https://github.com/ollycassidy13/ReducedLUT)**|
 |**2024-12-24**|**Machine Learning Approaches to the Shafarevich-Tate Group of Elliptic Curves**|Angelica Babei et.al.|[2412.18576](http://arxiv.org/abs/2412.18576)|null|
 |**2024-12-24**|**Scalable Quantum-Inspired Optimization through Dynamic Qubit Compression**|Co Tran et.al.|[2412.18571](http://arxiv.org/abs/2412.18571)|null|
 |**2024-12-24**|**HNCI: High-Dimensional Network Causal Inference**|Wenqin Du et.al.|[2412.18568](http://arxiv.org/abs/2412.18568)|**[link](https://github.com/WenqinDu/HNCI)**|
@@ -1948,7 +1948,7 @@
 |**2017-07-27**|**High Dimensional Random Walks Can Appear Low Dimensional: Application to Influenza H3N2 Evolution**|James Moore et.al.|[1707.09361](http://arxiv.org/abs/1707.09361)|null|
 |**2008-07-20**|**Design and Production of Specifically and with High Affinity Reacting Peptides**|Jan C Biro et.al.|[0807.3038](http://arxiv.org/abs/0807.3038)|null|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241226>back to top</a>)</p>
 
 ## Peptide
 
@@ -1958,7 +1958,7 @@
 |**2024-12-24**|**Structure Learning in Gaussian Graphical Models from Glauber Dynamics**|Vignesh Tirukkonda et.al.|[2412.18594](http://arxiv.org/abs/2412.18594)|null|
 |**2024-12-24**|**Resolution-Robust 3D MRI Reconstruction with 2D Diffusion Priors: Diverse-Resolution Training Outperforms Interpolation**|Anselm Krainovic et.al.|[2412.18584](http://arxiv.org/abs/2412.18584)|null|
 |**2024-12-24**|**Exploring Embedding Priors in Prompt-Tuning for Improved Interpretability and Control**|Sergey Sedov et.al.|[2412.18582](http://arxiv.org/abs/2412.18582)|null|
-|**2024-12-24**|**ReducedLUT: Table Decomposition with "Don't Care" Conditions**|Oliver Cassidy et.al.|[2412.18579](http://arxiv.org/abs/2412.18579)|null|
+|**2024-12-24**|**ReducedLUT: Table Decomposition with "Don't Care" Conditions**|Oliver Cassidy et.al.|[2412.18579](http://arxiv.org/abs/2412.18579)|**[link](https://github.com/ollycassidy13/ReducedLUT)**|
 |**2024-12-24**|**Machine Learning Approaches to the Shafarevich-Tate Group of Elliptic Curves**|Angelica Babei et.al.|[2412.18576](http://arxiv.org/abs/2412.18576)|null|
 |**2024-12-24**|**Scalable Quantum-Inspired Optimization through Dynamic Qubit Compression**|Co Tran et.al.|[2412.18571](http://arxiv.org/abs/2412.18571)|null|
 |**2024-12-24**|**HNCI: High-Dimensional Network Causal Inference**|Wenqin Du et.al.|[2412.18568](http://arxiv.org/abs/2412.18568)|**[link](https://github.com/WenqinDu/HNCI)**|
@@ -3890,7 +3890,7 @@
 |**2018-11-13**|**PepCVAE: Semi-Supervised Targeted Design of Antimicrobial Peptide Sequences**|Payel Das et.al.|[1810.07743](http://arxiv.org/abs/1810.07743)|null|
 |**2009-11-23**|**Silver-staining of proteins in polyacrylamide gels: a general overview**|Thierry Rabilloud et.al.|[0911.4458](http://arxiv.org/abs/0911.4458)|null|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241226>back to top</a>)</p>
 
 ## Diffusion
 
@@ -3912,5 +3912,5 @@
 |**2024-02-21**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|**[link](https://github.com/allenai/tess-diffusion)**|
 |**2023-05-13**|**Diffusion Models for Non-autoregressive Text Generation: A Survey**|Yifan Li et.al.|[2303.06574](http://arxiv.org/abs/2303.06574)|**[link](https://github.com/rucaibox/awesome-text-diffusion-models)**|
 
-<p align=right>(<a href=#updated-on-20241225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241226>back to top</a>)</p>
 
