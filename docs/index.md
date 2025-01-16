@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|null|
+|**2025-01-15**|**Improving Stability Estimates in Adversarial Explainable AI through Alternate Search Methods**|Christopher Burger et.al.|[2501.09006](http://arxiv.org/abs/2501.09006)|null|
+|**2025-01-15**|**CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks**|Krit Tangsongcharoen et.al.|[2501.08998](http://arxiv.org/abs/2501.08998)|null|
+|**2025-01-15**|**VECT-GAN: A variationally encoded generative model for overcoming data scarcity in pharmaceutical science**|Youssef Abdalla et.al.|[2501.08995](http://arxiv.org/abs/2501.08995)|**[link](https://github.com/y-babdalla/vect_gan)**|
+|**2025-01-15**|**Feldman-Cousins' ML Cousin: Sterile Neutrino Global Fits using Simulation-Based Inference**|Joshua Villarreal et.al.|[2501.08988](http://arxiv.org/abs/2501.08988)|null|
+|**2025-01-15**|**Learning to Extract Cross-Domain Aspects and Understanding Sentiments Using Large Language Models**|Karukriti Kaushik Ghosh et.al.|[2501.08974](http://arxiv.org/abs/2501.08974)|null|
+|**2025-01-15**|**Trusted Machine Learning Models Unlock Private Inference for Problems Currently Infeasible with Cryptography**|Ilia Shumailov et.al.|[2501.08970](http://arxiv.org/abs/2501.08970)|null|
+|**2025-01-15**|**Reconstructing Time-of-Flight Detector Values of Angular Streaking Using Machine Learning**|David Meier et.al.|[2501.08966](http://arxiv.org/abs/2501.08966)|null|
+|**2025-01-15**|**Training-Aware Risk Control for Intensity Modulated Radiation Therapies Quality Assurance with Conformal Prediction**|Kevin He et.al.|[2501.08963](http://arxiv.org/abs/2501.08963)|null|
+|**2025-01-15**|**An analysis of data variation and bias in image-based dermatological datasets for machine learning classification**|Francisco Mauro et.al.|[2501.08962](http://arxiv.org/abs/2501.08962)|null|
 |**2025-01-14**|**Gradient Equilibrium in Online Learning: Theory and Applications**|Anastasios N. Angelopoulos et.al.|[2501.08330](http://arxiv.org/abs/2501.08330)|**[link](https://github.com/aangelopoulos/gradient-equilibrium)**|
 |**2025-01-14**|**A Similarity Measure Between Functions with Applications to Statistical Learning and Optimization**|Chengpiao Huang et.al.|[2501.08317](http://arxiv.org/abs/2501.08317)|null|
 |**2025-01-14**|**Diffusion Adversarial Post-Training for One-Step Video Generation**|Shanchuan Lin et.al.|[2501.08316](http://arxiv.org/abs/2501.08316)|null|
@@ -2057,6 +2067,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|null|
+|**2025-01-15**|**Improving Stability Estimates in Adversarial Explainable AI through Alternate Search Methods**|Christopher Burger et.al.|[2501.09006](http://arxiv.org/abs/2501.09006)|null|
+|**2025-01-15**|**CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks**|Krit Tangsongcharoen et.al.|[2501.08998](http://arxiv.org/abs/2501.08998)|null|
+|**2025-01-15**|**VECT-GAN: A variationally encoded generative model for overcoming data scarcity in pharmaceutical science**|Youssef Abdalla et.al.|[2501.08995](http://arxiv.org/abs/2501.08995)|**[link](https://github.com/y-babdalla/vect_gan)**|
+|**2025-01-15**|**Feldman-Cousins' ML Cousin: Sterile Neutrino Global Fits using Simulation-Based Inference**|Joshua Villarreal et.al.|[2501.08988](http://arxiv.org/abs/2501.08988)|null|
+|**2025-01-15**|**Learning to Extract Cross-Domain Aspects and Understanding Sentiments Using Large Language Models**|Karukriti Kaushik Ghosh et.al.|[2501.08974](http://arxiv.org/abs/2501.08974)|null|
+|**2025-01-15**|**Trusted Machine Learning Models Unlock Private Inference for Problems Currently Infeasible with Cryptography**|Ilia Shumailov et.al.|[2501.08970](http://arxiv.org/abs/2501.08970)|null|
+|**2025-01-15**|**Reconstructing Time-of-Flight Detector Values of Angular Streaking Using Machine Learning**|David Meier et.al.|[2501.08966](http://arxiv.org/abs/2501.08966)|null|
+|**2025-01-15**|**Training-Aware Risk Control for Intensity Modulated Radiation Therapies Quality Assurance with Conformal Prediction**|Kevin He et.al.|[2501.08963](http://arxiv.org/abs/2501.08963)|null|
+|**2025-01-15**|**An analysis of data variation and bias in image-based dermatological datasets for machine learning classification**|Francisco Mauro et.al.|[2501.08962](http://arxiv.org/abs/2501.08962)|null|
 |**2025-01-14**|**Gradient Equilibrium in Online Learning: Theory and Applications**|Anastasios N. Angelopoulos et.al.|[2501.08330](http://arxiv.org/abs/2501.08330)|**[link](https://github.com/aangelopoulos/gradient-equilibrium)**|
 |**2025-01-14**|**A Similarity Measure Between Functions with Applications to Statistical Learning and Optimization**|Chengpiao Huang et.al.|[2501.08317](http://arxiv.org/abs/2501.08317)|null|
 |**2025-01-14**|**Diffusion Adversarial Post-Training for One-Step Video Generation**|Shanchuan Lin et.al.|[2501.08316](http://arxiv.org/abs/2501.08316)|null|
@@ -4108,7 +4128,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-14**|**Text-Diffusion Red-Teaming of Large Language Models: Unveiling Harmful Behaviors with Proximity Constraints**|Jonathan Nöther et.al.|[2501.08246](http://arxiv.org/abs/2501.08246)|null|
-|**2025-01-12**|**A General Framework for Inference-time Scaling and Steering of Diffusion Models**|Raghav Singhal et.al.|[2501.06848](http://arxiv.org/abs/2501.06848)|**[link](https://github.com/zacharyhorvitz/fk-diffusion-steering)**|
+|**2025-01-15**|**A General Framework for Inference-time Scaling and Steering of Diffusion Models**|Raghav Singhal et.al.|[2501.06848](http://arxiv.org/abs/2501.06848)|**[link](https://github.com/zacharyhorvitz/fk-diffusion-steering)**|
 |**2025-01-07**|**SceneVTG++: Controllable Multilingual Visual Text Generation in the Wild**|Jiawei Liu et.al.|[2501.02962](http://arxiv.org/abs/2501.02962)|null|
 |**2025-01-05**|**DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak**|Hao Wang et.al.|[2412.17522](http://arxiv.org/abs/2412.17522)|null|
 |**2024-11-29**|**MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks**|Yiming Wu et.al.|[2411.19786](http://arxiv.org/abs/2411.19786)|null|
