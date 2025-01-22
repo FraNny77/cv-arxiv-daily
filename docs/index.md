@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|null|
+|**2025-01-21**|**Physics of Skill Learning**|Ziming Liu et.al.|[2501.12391](http://arxiv.org/abs/2501.12391)|**[link](https://github.com/kindxiaoming/physics_of_skill_learning)**|
+|**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385](http://arxiv.org/abs/2501.12385)|null|
+|**2025-01-21**|**CCESAR: Coastline Classification-Extraction From SAR Images Using CNN-U-Net Combination**|Vidhu Arora et.al.|[2501.12384](http://arxiv.org/abs/2501.12384)|null|
+|**2025-01-21**|**Parallel Sequence Modeling via Generalized Spatial Propagation Network**|Hongjun Wang et.al.|[2501.12381](http://arxiv.org/abs/2501.12381)|null|
+|**2025-01-21**|**Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models**|Samira Abnar et.al.|[2501.12370](http://arxiv.org/abs/2501.12370)|null|
+|**2025-01-21**|**Budget-constrained Collaborative Renewable Energy Forecasting Market**|Carla Goncalves et.al.|[2501.12367](http://arxiv.org/abs/2501.12367)|null|
+|**2025-01-21**|**Efficient Algorithm for Sparse Fourier Transform of Generalized q-ary Functions**|Darin Tsui et.al.|[2501.12365](http://arxiv.org/abs/2501.12365)|null|
+|**2025-01-21**|**Measured Hockey-Stick Divergence and its Applications to Quantum Pufferfish Privacy**|Theshani Nuradha et.al.|[2501.12359](http://arxiv.org/abs/2501.12359)|null|
+|**2025-01-21**|**Diffusion-aware Censored Gaussian Processes for Demand Modelling**|Filipe Rodrigues et.al.|[2501.12354](http://arxiv.org/abs/2501.12354)|**[link](https://github.com/fmpr/diffusion-aware-censored-gp)**|
 |**2025-01-17**|**Credit Risk Identification in Supply Chains Using Generative Adversarial Networks**|Zizhou Zhang et.al.|[2501.10348](http://arxiv.org/abs/2501.10348)|null|
 |**2025-01-17**|**ColNet: Collaborative Optimization in Decentralized Federated Multi-task Learning Systems**|Chao Feng et.al.|[2501.10347](http://arxiv.org/abs/2501.10347)|null|
 |**2025-01-17**|**Hybrid Deep Learning Model for epileptic seizure classification by using 1D-CNN with multi-head attention mechanism**|Mohammed Guhdar et.al.|[2501.10342](http://arxiv.org/abs/2501.10342)|null|
@@ -2087,6 +2097,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Learning segmentation from point trajectories**|Laurynas Karazija et.al.|[2501.12392](http://arxiv.org/abs/2501.12392)|null|
+|**2025-01-21**|**Physics of Skill Learning**|Ziming Liu et.al.|[2501.12391](http://arxiv.org/abs/2501.12391)|**[link](https://github.com/kindxiaoming/physics_of_skill_learning)**|
+|**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385](http://arxiv.org/abs/2501.12385)|null|
+|**2025-01-21**|**CCESAR: Coastline Classification-Extraction From SAR Images Using CNN-U-Net Combination**|Vidhu Arora et.al.|[2501.12384](http://arxiv.org/abs/2501.12384)|null|
+|**2025-01-21**|**Parallel Sequence Modeling via Generalized Spatial Propagation Network**|Hongjun Wang et.al.|[2501.12381](http://arxiv.org/abs/2501.12381)|null|
+|**2025-01-21**|**Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models**|Samira Abnar et.al.|[2501.12370](http://arxiv.org/abs/2501.12370)|null|
+|**2025-01-21**|**Budget-constrained Collaborative Renewable Energy Forecasting Market**|Carla Goncalves et.al.|[2501.12367](http://arxiv.org/abs/2501.12367)|null|
+|**2025-01-21**|**Efficient Algorithm for Sparse Fourier Transform of Generalized q-ary Functions**|Darin Tsui et.al.|[2501.12365](http://arxiv.org/abs/2501.12365)|null|
+|**2025-01-21**|**Measured Hockey-Stick Divergence and its Applications to Quantum Pufferfish Privacy**|Theshani Nuradha et.al.|[2501.12359](http://arxiv.org/abs/2501.12359)|null|
+|**2025-01-21**|**Diffusion-aware Censored Gaussian Processes for Demand Modelling**|Filipe Rodrigues et.al.|[2501.12354](http://arxiv.org/abs/2501.12354)|**[link](https://github.com/fmpr/diffusion-aware-censored-gp)**|
 |**2025-01-17**|**Credit Risk Identification in Supply Chains Using Generative Adversarial Networks**|Zizhou Zhang et.al.|[2501.10348](http://arxiv.org/abs/2501.10348)|null|
 |**2025-01-17**|**ColNet: Collaborative Optimization in Decentralized Federated Multi-task Learning Systems**|Chao Feng et.al.|[2501.10347](http://arxiv.org/abs/2501.10347)|null|
 |**2025-01-17**|**Hybrid Deep Learning Model for epileptic seizure classification by using 1D-CNN with multi-head attention mechanism**|Mohammed Guhdar et.al.|[2501.10342](http://arxiv.org/abs/2501.10342)|null|
