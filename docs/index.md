@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -14,7 +14,7 @@ layout: default
 |**2025-01-28**|**Scanning Trojaned Models Using Out-of-Distribution Samples**|Hossein Mirzaei et.al.|[2501.17151](http://arxiv.org/abs/2501.17151)|**[link](https://github.com/rohban-lab/trodo)**|
 |**2025-01-28**|**AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders**|Zhengxuan Wu et.al.|[2501.17148](http://arxiv.org/abs/2501.17148)|null|
 |**2025-01-28**|**CoRe-Net: Co-Operational Regressor Network with Progressive Transfer Learning for Blind Radar Signal Restoration**|Muhammad Uzair Zahid et.al.|[2501.17125](http://arxiv.org/abs/2501.17125)|null|
-|**2025-01-28**|**Convergence of two-timescale gradient descent ascent dynamics: finite-dimensional and mean-field perspectives**|Jing An et.al.|[2501.17122](http://arxiv.org/abs/2501.17122)|null|
+|**2025-01-29**|**Convergence of two-timescale gradient descent ascent dynamics: finite-dimensional and mean-field perspectives**|Jing An et.al.|[2501.17122](http://arxiv.org/abs/2501.17122)|null|
 |**2025-01-28**|**Optimizing Large Language Model Training Using FP4 Quantization**|Ruizhe Wang et.al.|[2501.17116](http://arxiv.org/abs/2501.17116)|null|
 |**2025-01-28**|**Evidence on the Regularisation Properties of Maximum-Entropy Reinforcement Learning**|Rémy Hosseinkhan Boucher et.al.|[2501.17115](http://arxiv.org/abs/2501.17115)|null|
 |**2025-01-28**|**Unlocking Transparent Alignment Through Enhanced Inverse Constitutional AI for Principle Extraction**|Carl-Leander Henneking et.al.|[2501.17112](http://arxiv.org/abs/2501.17112)|null|
@@ -2152,7 +2152,7 @@ layout: default
 |**2025-01-28**|**Scanning Trojaned Models Using Out-of-Distribution Samples**|Hossein Mirzaei et.al.|[2501.17151](http://arxiv.org/abs/2501.17151)|**[link](https://github.com/rohban-lab/trodo)**|
 |**2025-01-28**|**AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders**|Zhengxuan Wu et.al.|[2501.17148](http://arxiv.org/abs/2501.17148)|null|
 |**2025-01-28**|**CoRe-Net: Co-Operational Regressor Network with Progressive Transfer Learning for Blind Radar Signal Restoration**|Muhammad Uzair Zahid et.al.|[2501.17125](http://arxiv.org/abs/2501.17125)|null|
-|**2025-01-28**|**Convergence of two-timescale gradient descent ascent dynamics: finite-dimensional and mean-field perspectives**|Jing An et.al.|[2501.17122](http://arxiv.org/abs/2501.17122)|null|
+|**2025-01-29**|**Convergence of two-timescale gradient descent ascent dynamics: finite-dimensional and mean-field perspectives**|Jing An et.al.|[2501.17122](http://arxiv.org/abs/2501.17122)|null|
 |**2025-01-28**|**Optimizing Large Language Model Training Using FP4 Quantization**|Ruizhe Wang et.al.|[2501.17116](http://arxiv.org/abs/2501.17116)|null|
 |**2025-01-28**|**Evidence on the Regularisation Properties of Maximum-Entropy Reinforcement Learning**|Rémy Hosseinkhan Boucher et.al.|[2501.17115](http://arxiv.org/abs/2501.17115)|null|
 |**2025-01-28**|**Unlocking Transparent Alignment Through Enhanced Inverse Constitutional AI for Principle Extraction**|Carl-Leander Henneking et.al.|[2501.17112](http://arxiv.org/abs/2501.17112)|null|
