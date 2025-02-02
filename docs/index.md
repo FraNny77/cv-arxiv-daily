@@ -16,7 +16,7 @@ layout: default
 |**2025-01-30**|**Bias-variance decompositions: the exclusive privilege of Bregman divergences**|Tom Heskes et.al.|[2501.18581](http://arxiv.org/abs/2501.18581)|null|
 |**2025-01-30**|**Node Classification and Search on the Rubik's Cube Graph with GNNs**|Alessandro Barro et.al.|[2501.18580](http://arxiv.org/abs/2501.18580)|null|
 |**2025-01-30**|**R.I.P.: Better Models by Survival of the Fittest Prompts**|Ping Yu et.al.|[2501.18578](http://arxiv.org/abs/2501.18578)|null|
-|**2025-01-30**|**Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling**|Dan M. Kluger et.al.|[2501.18577](http://arxiv.org/abs/2501.18577)|null|
+|**2025-01-30**|**Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling**|Dan M. Kluger et.al.|[2501.18577](http://arxiv.org/abs/2501.18577)|**[link](https://github.com/DanKluger/Predict-Then-Debias_Bootstrap)**|
 |**2025-01-30**|**Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH**|Evgenii Evstafev et.al.|[2501.18576](http://arxiv.org/abs/2501.18576)|null|
 |**2025-01-30**|**No Equations Needed: Learning System Dynamics Without Relying on Closed-Form ODEs**|Krzysztof Kacprzyk et.al.|[2501.18563](http://arxiv.org/abs/2501.18563)|**[link](https://github.com/krzysztof-kacprzyk/SemanticODE)**|
 |**2025-01-29**|**rEGGression: an Interactive and Agnostic Tool for the Exploration of Symbolic Regression Models**|Fabricio Olivetti de Franca et.al.|[2501.17859](http://arxiv.org/abs/2501.17859)|null|
@@ -2174,7 +2174,7 @@ layout: default
 |**2025-01-30**|**Bias-variance decompositions: the exclusive privilege of Bregman divergences**|Tom Heskes et.al.|[2501.18581](http://arxiv.org/abs/2501.18581)|null|
 |**2025-01-30**|**Node Classification and Search on the Rubik's Cube Graph with GNNs**|Alessandro Barro et.al.|[2501.18580](http://arxiv.org/abs/2501.18580)|null|
 |**2025-01-30**|**R.I.P.: Better Models by Survival of the Fittest Prompts**|Ping Yu et.al.|[2501.18578](http://arxiv.org/abs/2501.18578)|null|
-|**2025-01-30**|**Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling**|Dan M. Kluger et.al.|[2501.18577](http://arxiv.org/abs/2501.18577)|null|
+|**2025-01-30**|**Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling**|Dan M. Kluger et.al.|[2501.18577](http://arxiv.org/abs/2501.18577)|**[link](https://github.com/DanKluger/Predict-Then-Debias_Bootstrap)**|
 |**2025-01-30**|**Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH**|Evgenii Evstafev et.al.|[2501.18576](http://arxiv.org/abs/2501.18576)|null|
 |**2025-01-30**|**No Equations Needed: Learning System Dynamics Without Relying on Closed-Form ODEs**|Krzysztof Kacprzyk et.al.|[2501.18563](http://arxiv.org/abs/2501.18563)|**[link](https://github.com/krzysztof-kacprzyk/SemanticODE)**|
 |**2025-01-29**|**rEGGression: an Interactive and Agnostic Tool for the Exploration of Symbolic Regression Models**|Fabricio Olivetti de Franca et.al.|[2501.17859](http://arxiv.org/abs/2501.17859)|null|
