@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search**|Zongyu Lin et.al.|[2502.02584](http://arxiv.org/abs/2502.02584)|null|
+|**2025-02-04**|**Open Materials Generation with Stochastic Interpolants**|Philipp Hoellmer et.al.|[2502.02582](http://arxiv.org/abs/2502.02582)|null|
+|**2025-02-04**|**Minimax-Optimal Covariance Projected Spectral Clustering for High-Dimensional Nonspherical Mixtures**|Chengzhu Huang et.al.|[2502.02580](http://arxiv.org/abs/2502.02580)|null|
+|**2025-02-04**|**Fairness in Survival Analysis: A Novel Conditional Mutual Information Augmentation Approach**|Tianyang Xie et.al.|[2502.02567](http://arxiv.org/abs/2502.02567)|null|
+|**2025-02-04**|**Revisiting Expected Possession Value in Football: Introducing a Benchmark, U-Net Architecture, and Reward and Risk for Passes**|Thijs Overmeer et.al.|[2502.02565](http://arxiv.org/abs/2502.02565)|null|
+|**2025-02-04**|**Learning the RoPEs: Better 2D and 3D Position Encodings with STRING**|Connor Schenck et.al.|[2502.02562](http://arxiv.org/abs/2502.02562)|null|
+|**2025-02-04**|**Decision Theoretic Foundations for Conformal Prediction: Optimal Uncertainty Quantification for Risk-Averse Agents**|Shayan Kiyani et.al.|[2502.02561](http://arxiv.org/abs/2502.02561)|null|
+|**2025-02-04**|**Particle Trajectory Representation Learning with Masked Point Modeling**|Sam Young et.al.|[2502.02558](http://arxiv.org/abs/2502.02558)|null|
+|**2025-02-04**|**Hierarchical Sparse Bayesian Multitask Model with Scalable Inference for Microbiome Analysis**|Haonan Zhu et.al.|[2502.02552](http://arxiv.org/abs/2502.02552)|null|
+|**2025-02-04**|**Anytime Incremental $ρ$ POMDP Planning in Continuous Spaces**|Ron Benchetrit et.al.|[2502.02549](http://arxiv.org/abs/2502.02549)|null|
 |**2025-01-31**|**Low-Rank Adapting Models for Sparse Autoencoders**|Matthew Chen et.al.|[2501.19406](http://arxiv.org/abs/2501.19406)|**[link](https://github.com/matchten/lora-models-for-saes)**|
 |**2025-01-31**|**Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach**|Yingdan Shi et.al.|[2501.19403](http://arxiv.org/abs/2501.19403)|null|
 |**2025-01-31**|**Detection Is All You Need: A Feasible Optimal Prior-Free Black-Box Approach For Piecewise Stationary Bandits**|Argyrios Gerogiannis et.al.|[2501.19401](http://arxiv.org/abs/2501.19401)|null|
@@ -2184,6 +2194,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search**|Zongyu Lin et.al.|[2502.02584](http://arxiv.org/abs/2502.02584)|null|
+|**2025-02-04**|**Open Materials Generation with Stochastic Interpolants**|Philipp Hoellmer et.al.|[2502.02582](http://arxiv.org/abs/2502.02582)|null|
+|**2025-02-04**|**Minimax-Optimal Covariance Projected Spectral Clustering for High-Dimensional Nonspherical Mixtures**|Chengzhu Huang et.al.|[2502.02580](http://arxiv.org/abs/2502.02580)|null|
+|**2025-02-04**|**Fairness in Survival Analysis: A Novel Conditional Mutual Information Augmentation Approach**|Tianyang Xie et.al.|[2502.02567](http://arxiv.org/abs/2502.02567)|null|
+|**2025-02-04**|**Revisiting Expected Possession Value in Football: Introducing a Benchmark, U-Net Architecture, and Reward and Risk for Passes**|Thijs Overmeer et.al.|[2502.02565](http://arxiv.org/abs/2502.02565)|null|
+|**2025-02-04**|**Learning the RoPEs: Better 2D and 3D Position Encodings with STRING**|Connor Schenck et.al.|[2502.02562](http://arxiv.org/abs/2502.02562)|null|
+|**2025-02-04**|**Decision Theoretic Foundations for Conformal Prediction: Optimal Uncertainty Quantification for Risk-Averse Agents**|Shayan Kiyani et.al.|[2502.02561](http://arxiv.org/abs/2502.02561)|null|
+|**2025-02-04**|**Particle Trajectory Representation Learning with Masked Point Modeling**|Sam Young et.al.|[2502.02558](http://arxiv.org/abs/2502.02558)|null|
+|**2025-02-04**|**Hierarchical Sparse Bayesian Multitask Model with Scalable Inference for Microbiome Analysis**|Haonan Zhu et.al.|[2502.02552](http://arxiv.org/abs/2502.02552)|null|
+|**2025-02-04**|**Anytime Incremental $ρ$ POMDP Planning in Continuous Spaces**|Ron Benchetrit et.al.|[2502.02549](http://arxiv.org/abs/2502.02549)|null|
 |**2025-01-31**|**Low-Rank Adapting Models for Sparse Autoencoders**|Matthew Chen et.al.|[2501.19406](http://arxiv.org/abs/2501.19406)|**[link](https://github.com/matchten/lora-models-for-saes)**|
 |**2025-01-31**|**Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach**|Yingdan Shi et.al.|[2501.19403](http://arxiv.org/abs/2501.19403)|null|
 |**2025-01-31**|**Detection Is All You Need: A Feasible Optimal Prior-Free Black-Box Approach For Piecewise Stationary Bandits**|Argyrios Gerogiannis et.al.|[2501.19401](http://arxiv.org/abs/2501.19401)|null|
