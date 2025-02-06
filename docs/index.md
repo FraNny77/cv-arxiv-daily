@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.05
+## Updated on 2025.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-04**|**QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search**|Zongyu Lin et.al.|[2502.02584](http://arxiv.org/abs/2502.02584)|null|
 |**2025-02-04**|**Open Materials Generation with Stochastic Interpolants**|Philipp Hoellmer et.al.|[2502.02582](http://arxiv.org/abs/2502.02582)|null|
-|**2025-02-04**|**Minimax-Optimal Covariance Projected Spectral Clustering for High-Dimensional Nonspherical Mixtures**|Chengzhu Huang et.al.|[2502.02580](http://arxiv.org/abs/2502.02580)|null|
+|**2025-02-05**|**Minimax-Optimal Dimension-Reduced Clustering for High-Dimensional Nonspherical Mixtures**|Chengzhu Huang et.al.|[2502.02580](http://arxiv.org/abs/2502.02580)|null|
 |**2025-02-04**|**Fairness in Survival Analysis: A Novel Conditional Mutual Information Augmentation Approach**|Tianyang Xie et.al.|[2502.02567](http://arxiv.org/abs/2502.02567)|null|
 |**2025-02-04**|**Revisiting Expected Possession Value in Football: Introducing a Benchmark, U-Net Architecture, and Reward and Risk for Passes**|Thijs Overmeer et.al.|[2502.02565](http://arxiv.org/abs/2502.02565)|null|
 |**2025-02-04**|**Learning the RoPEs: Better 2D and 3D Position Encodings with STRING**|Connor Schenck et.al.|[2502.02562](http://arxiv.org/abs/2502.02562)|null|
@@ -2189,7 +2189,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-04**|**QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search**|Zongyu Lin et.al.|[2502.02584](http://arxiv.org/abs/2502.02584)|null|
 |**2025-02-04**|**Open Materials Generation with Stochastic Interpolants**|Philipp Hoellmer et.al.|[2502.02582](http://arxiv.org/abs/2502.02582)|null|
-|**2025-02-04**|**Minimax-Optimal Covariance Projected Spectral Clustering for High-Dimensional Nonspherical Mixtures**|Chengzhu Huang et.al.|[2502.02580](http://arxiv.org/abs/2502.02580)|null|
+|**2025-02-05**|**Minimax-Optimal Dimension-Reduced Clustering for High-Dimensional Nonspherical Mixtures**|Chengzhu Huang et.al.|[2502.02580](http://arxiv.org/abs/2502.02580)|null|
 |**2025-02-04**|**Fairness in Survival Analysis: A Novel Conditional Mutual Information Augmentation Approach**|Tianyang Xie et.al.|[2502.02567](http://arxiv.org/abs/2502.02567)|null|
 |**2025-02-04**|**Revisiting Expected Possession Value in Football: Introducing a Benchmark, U-Net Architecture, and Reward and Risk for Passes**|Thijs Overmeer et.al.|[2502.02565](http://arxiv.org/abs/2502.02565)|null|
 |**2025-02-04**|**Learning the RoPEs: Better 2D and 3D Position Encodings with STRING**|Connor Schenck et.al.|[2502.02562](http://arxiv.org/abs/2502.02562)|null|
