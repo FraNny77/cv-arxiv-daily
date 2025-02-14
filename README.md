@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Theoretical Benefit and Limitation of Diffusion Language Model**|Guhao Feng et.al.|[2502.09622](http://arxiv.org/abs/2502.09622)|null|
+|**2025-02-13**|**Can this Model Also Recognize Dogs? Zero-Shot Model Search from Weights**|Jonathan Kahana et.al.|[2502.09619](http://arxiv.org/abs/2502.09619)|null|
+|**2025-02-13**|**Variational Rectified Flow Matching**|Pengsheng Guo et.al.|[2502.09616](http://arxiv.org/abs/2502.09616)|null|
+|**2025-02-13**|**DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References**|Xueyi Liu et.al.|[2502.09614](http://arxiv.org/abs/2502.09614)|null|
+|**2025-02-13**|**Designing a Conditional Prior Distribution for Flow-Based Generative Models**|Noam Issachar et.al.|[2502.09611](http://arxiv.org/abs/2502.09611)|null|
+|**2025-02-13**|**Morphological Classification of Galaxies**|Karen Masters et.al.|[2502.09610](http://arxiv.org/abs/2502.09610)|null|
+|**2025-02-13**|**Score-of-Mixture Training: Training One-Step Generative Models Made Simple**|Tejas Jayashankar et.al.|[2502.09609](http://arxiv.org/abs/2502.09609)|null|
+|**2025-02-13**|**Human-LLM Coevolution: Evidence from Academic Writing**|Mingmeng Geng et.al.|[2502.09606](http://arxiv.org/abs/2502.09606)|null|
+|**2025-02-13**|**SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models**|Yung-Sung Chuang et.al.|[2502.09604](http://arxiv.org/abs/2502.09604)|null|
+|**2025-02-13**|**Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs**|Siyan Zhao et.al.|[2502.09597](http://arxiv.org/abs/2502.09597)|null|
 |**2025-02-13**|**Rhythmic sharing: A bio-inspired paradigm for zero-shot adaptation and learning in neural networks**|Hoony Kang et.al.|[2502.08644](http://arxiv.org/abs/2502.08644)|null|
 |**2025-02-12**|**Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs**|Mantas Mazeika et.al.|[2502.08640](http://arxiv.org/abs/2502.08640)|null|
 |**2025-02-12**|**Joint Transmit and Pinching Beamforming for PASS: Optimization-Based or Learning-Based?**|Xiaoxia Xu et.al.|[2502.08637](http://arxiv.org/abs/2502.08637)|null|
@@ -2254,6 +2264,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Theoretical Benefit and Limitation of Diffusion Language Model**|Guhao Feng et.al.|[2502.09622](http://arxiv.org/abs/2502.09622)|null|
+|**2025-02-13**|**Can this Model Also Recognize Dogs? Zero-Shot Model Search from Weights**|Jonathan Kahana et.al.|[2502.09619](http://arxiv.org/abs/2502.09619)|null|
+|**2025-02-13**|**Variational Rectified Flow Matching**|Pengsheng Guo et.al.|[2502.09616](http://arxiv.org/abs/2502.09616)|null|
+|**2025-02-13**|**DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References**|Xueyi Liu et.al.|[2502.09614](http://arxiv.org/abs/2502.09614)|null|
+|**2025-02-13**|**Designing a Conditional Prior Distribution for Flow-Based Generative Models**|Noam Issachar et.al.|[2502.09611](http://arxiv.org/abs/2502.09611)|null|
+|**2025-02-13**|**Morphological Classification of Galaxies**|Karen Masters et.al.|[2502.09610](http://arxiv.org/abs/2502.09610)|null|
+|**2025-02-13**|**Score-of-Mixture Training: Training One-Step Generative Models Made Simple**|Tejas Jayashankar et.al.|[2502.09609](http://arxiv.org/abs/2502.09609)|null|
+|**2025-02-13**|**Human-LLM Coevolution: Evidence from Academic Writing**|Mingmeng Geng et.al.|[2502.09606](http://arxiv.org/abs/2502.09606)|null|
+|**2025-02-13**|**SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models**|Yung-Sung Chuang et.al.|[2502.09604](http://arxiv.org/abs/2502.09604)|null|
+|**2025-02-13**|**Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs**|Siyan Zhao et.al.|[2502.09597](http://arxiv.org/abs/2502.09597)|null|
 |**2025-02-13**|**Rhythmic sharing: A bio-inspired paradigm for zero-shot adaptation and learning in neural networks**|Hoony Kang et.al.|[2502.08644](http://arxiv.org/abs/2502.08644)|null|
 |**2025-02-12**|**Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs**|Mantas Mazeika et.al.|[2502.08640](http://arxiv.org/abs/2502.08640)|null|
 |**2025-02-12**|**Joint Transmit and Pinching Beamforming for PASS: Optimization-Based or Learning-Based?**|Xiaoxia Xu et.al.|[2502.08637](http://arxiv.org/abs/2502.08637)|null|
