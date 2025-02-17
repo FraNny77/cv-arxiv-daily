@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding**|Wenxuan Guo et.al.|[2502.10392](http://arxiv.org/abs/2502.10392)|null|
+|**2025-02-14**|**(How) Can Transformers Predict Pseudo-Random Numbers?**|Tao Tao et.al.|[2502.10390](http://arxiv.org/abs/2502.10390)|null|
+|**2025-02-14**|**Balancing the Scales: A Theoretical and Algorithmic Framework for Learning from Imbalanced Data**|Corinna Cortes et.al.|[2502.10381](http://arxiv.org/abs/2502.10381)|null|
+|**2025-02-14**|**A new and flexible class of sharp asymptotic time-uniform confidence sequences**|Felix Gnettner et.al.|[2502.10380](http://arxiv.org/abs/2502.10380)|null|
+|**2025-02-14**|**Unknown Word Detection for English as a Second Language (ESL) Learners Using Gaze and Pre-trained Language Models**|Jiexin Ding et.al.|[2502.10378](http://arxiv.org/abs/2502.10378)|null|
+|**2025-02-14**|**OWLS: Scaling Laws for Multilingual Speech Recognition and Translation Models**|William Chen et.al.|[2502.10373](http://arxiv.org/abs/2502.10373)|null|
+|**2025-02-14**|**AffinityFlow: Guided Flows for Antibody Affinity Maturation**|Can Chen et.al.|[2502.10365](http://arxiv.org/abs/2502.10365)|null|
+|**2025-02-14**|**BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds**|Huayi Wang et.al.|[2502.10363](http://arxiv.org/abs/2502.10363)|null|
+|**2025-02-14**|**Enhancing Multilingual LLM Pretraining with Model-Based Data Selection**|Bettina Messmer et.al.|[2502.10361](http://arxiv.org/abs/2502.10361)|null|
+|**2025-02-14**|**Machine learning the vanishing order of rational L-functions**|Joanna Bieri et.al.|[2502.10360](http://arxiv.org/abs/2502.10360)|null|
 |**2025-02-13**|**Theoretical Benefit and Limitation of Diffusion Language Model**|Guhao Feng et.al.|[2502.09622](http://arxiv.org/abs/2502.09622)|null|
 |**2025-02-13**|**Can this Model Also Recognize Dogs? Zero-Shot Model Search from Weights**|Jonathan Kahana et.al.|[2502.09619](http://arxiv.org/abs/2502.09619)|null|
 |**2025-02-13**|**Variational Rectified Flow Matching**|Pengsheng Guo et.al.|[2502.09616](http://arxiv.org/abs/2502.09616)|null|
@@ -2257,6 +2267,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding**|Wenxuan Guo et.al.|[2502.10392](http://arxiv.org/abs/2502.10392)|null|
+|**2025-02-14**|**(How) Can Transformers Predict Pseudo-Random Numbers?**|Tao Tao et.al.|[2502.10390](http://arxiv.org/abs/2502.10390)|null|
+|**2025-02-14**|**Balancing the Scales: A Theoretical and Algorithmic Framework for Learning from Imbalanced Data**|Corinna Cortes et.al.|[2502.10381](http://arxiv.org/abs/2502.10381)|null|
+|**2025-02-14**|**A new and flexible class of sharp asymptotic time-uniform confidence sequences**|Felix Gnettner et.al.|[2502.10380](http://arxiv.org/abs/2502.10380)|null|
+|**2025-02-14**|**Unknown Word Detection for English as a Second Language (ESL) Learners Using Gaze and Pre-trained Language Models**|Jiexin Ding et.al.|[2502.10378](http://arxiv.org/abs/2502.10378)|null|
+|**2025-02-14**|**OWLS: Scaling Laws for Multilingual Speech Recognition and Translation Models**|William Chen et.al.|[2502.10373](http://arxiv.org/abs/2502.10373)|null|
+|**2025-02-14**|**AffinityFlow: Guided Flows for Antibody Affinity Maturation**|Can Chen et.al.|[2502.10365](http://arxiv.org/abs/2502.10365)|null|
+|**2025-02-14**|**BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds**|Huayi Wang et.al.|[2502.10363](http://arxiv.org/abs/2502.10363)|null|
+|**2025-02-14**|**Enhancing Multilingual LLM Pretraining with Model-Based Data Selection**|Bettina Messmer et.al.|[2502.10361](http://arxiv.org/abs/2502.10361)|null|
+|**2025-02-14**|**Machine learning the vanishing order of rational L-functions**|Joanna Bieri et.al.|[2502.10360](http://arxiv.org/abs/2502.10360)|null|
 |**2025-02-13**|**Theoretical Benefit and Limitation of Diffusion Language Model**|Guhao Feng et.al.|[2502.09622](http://arxiv.org/abs/2502.09622)|null|
 |**2025-02-13**|**Can this Model Also Recognize Dogs? Zero-Shot Model Search from Weights**|Jonathan Kahana et.al.|[2502.09619](http://arxiv.org/abs/2502.09619)|null|
 |**2025-02-13**|**Variational Rectified Flow Matching**|Pengsheng Guo et.al.|[2502.09616](http://arxiv.org/abs/2502.09616)|null|
