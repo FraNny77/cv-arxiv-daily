@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.02.18
+## Updated on 2025.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-17**|**Diffusion Models without Classifier-free Guidance**|Zhicong Tang et.al.|[2502.12154](http://arxiv.org/abs/2502.12154)|null|
+|**2025-02-17**|**Diffusion Models without Classifier-free Guidance**|Zhicong Tang et.al.|[2502.12154](http://arxiv.org/abs/2502.12154)|**[link](https://github.com/tzco/Diffusion-wo-CFG)**|
 |**2025-02-17**|**Learning Getting-Up Policies for Real-World Humanoid Robots**|Xialin He et.al.|[2502.12152](http://arxiv.org/abs/2502.12152)|null|
 |**2025-02-17**|**Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction**|Xiang Fu et.al.|[2502.12147](http://arxiv.org/abs/2502.12147)|null|
 |**2025-02-17**|**Correlative X-ray and electron tomography for scale-bridging, quantitative analysis of complex, hierarchical particle systems**|Alexander Götz et.al.|[2502.12140](http://arxiv.org/abs/2502.12140)|null|
@@ -2277,7 +2277,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-17**|**Diffusion Models without Classifier-free Guidance**|Zhicong Tang et.al.|[2502.12154](http://arxiv.org/abs/2502.12154)|null|
+|**2025-02-17**|**Diffusion Models without Classifier-free Guidance**|Zhicong Tang et.al.|[2502.12154](http://arxiv.org/abs/2502.12154)|**[link](https://github.com/tzco/Diffusion-wo-CFG)**|
 |**2025-02-17**|**Learning Getting-Up Policies for Real-World Humanoid Robots**|Xialin He et.al.|[2502.12152](http://arxiv.org/abs/2502.12152)|null|
 |**2025-02-17**|**Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction**|Xiang Fu et.al.|[2502.12147](http://arxiv.org/abs/2502.12147)|null|
 |**2025-02-17**|**Correlative X-ray and electron tomography for scale-bridging, quantitative analysis of complex, hierarchical particle systems**|Alexander Götz et.al.|[2502.12140](http://arxiv.org/abs/2502.12140)|null|
