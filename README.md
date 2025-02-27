@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417](http://arxiv.org/abs/2502.19417)|null|
+|**2025-02-26**|**Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample Creation**|Shiven Sinha et.al.|[2502.19414](http://arxiv.org/abs/2502.19414)|null|
+|**2025-02-26**|**Project Alexandria: Towards Freeing Scientific Knowledge from Copyright Burdens via LLMs**|Christoph Schuhmann et.al.|[2502.19413](http://arxiv.org/abs/2502.19413)|null|
+|**2025-02-26**|**Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs**|Dayu Yang et.al.|[2502.19411](http://arxiv.org/abs/2502.19411)|null|
+|**2025-02-26**|**ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models**|Danae Sánchez Villegas et.al.|[2502.19409](http://arxiv.org/abs/2502.19409)|null|
+|**2025-02-26**|**Verde: Verification via Refereed Delegation for Machine Learning Programs**|Arasu Arun et.al.|[2502.19405](http://arxiv.org/abs/2502.19405)|null|
+|**2025-02-26**|**General Reasoning Requires Learning to Reason from the Get-go**|Seungwook Han et.al.|[2502.19402](http://arxiv.org/abs/2502.19402)|null|
+|**2025-02-26**|**Residual Speech Embeddings for Tone Classification: Removing Linguistic Content to Enhance Paralinguistic Analysis**|Hamdan Al Ahbabi et.al.|[2502.19387](http://arxiv.org/abs/2502.19387)|null|
+|**2025-02-26**|**Efficient 4D fMRI ASD Classification using Spatial-Temporal-Omics-based Learning Framework**|Ziqiao Weng et.al.|[2502.19386](http://arxiv.org/abs/2502.19386)|null|
+|**2025-02-26**|**HDEE: Heterogeneous Domain Expert Ensemble**|Oğuzhan Ersoy et.al.|[2502.19385](http://arxiv.org/abs/2502.19385)|null|
 |**2025-02-25**|**Allocating Variance to Maximize Expectation**|Renato Purita Paes Leme et.al.|[2502.18463](http://arxiv.org/abs/2502.18463)|null|
 |**2025-02-25**|**Scalable Equilibrium Sampling with Sequential Boltzmann Generators**|Charlie B. Tan et.al.|[2502.18462](http://arxiv.org/abs/2502.18462)|null|
 |**2025-02-25**|**LLM-Based Design Pattern Detection**|Christian Schindler et.al.|[2502.18458](http://arxiv.org/abs/2502.18458)|null|
@@ -2344,6 +2354,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417](http://arxiv.org/abs/2502.19417)|null|
+|**2025-02-26**|**Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample Creation**|Shiven Sinha et.al.|[2502.19414](http://arxiv.org/abs/2502.19414)|null|
+|**2025-02-26**|**Project Alexandria: Towards Freeing Scientific Knowledge from Copyright Burdens via LLMs**|Christoph Schuhmann et.al.|[2502.19413](http://arxiv.org/abs/2502.19413)|null|
+|**2025-02-26**|**Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs**|Dayu Yang et.al.|[2502.19411](http://arxiv.org/abs/2502.19411)|null|
+|**2025-02-26**|**ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models**|Danae Sánchez Villegas et.al.|[2502.19409](http://arxiv.org/abs/2502.19409)|null|
+|**2025-02-26**|**Verde: Verification via Refereed Delegation for Machine Learning Programs**|Arasu Arun et.al.|[2502.19405](http://arxiv.org/abs/2502.19405)|null|
+|**2025-02-26**|**General Reasoning Requires Learning to Reason from the Get-go**|Seungwook Han et.al.|[2502.19402](http://arxiv.org/abs/2502.19402)|null|
+|**2025-02-26**|**Residual Speech Embeddings for Tone Classification: Removing Linguistic Content to Enhance Paralinguistic Analysis**|Hamdan Al Ahbabi et.al.|[2502.19387](http://arxiv.org/abs/2502.19387)|null|
+|**2025-02-26**|**Efficient 4D fMRI ASD Classification using Spatial-Temporal-Omics-based Learning Framework**|Ziqiao Weng et.al.|[2502.19386](http://arxiv.org/abs/2502.19386)|null|
+|**2025-02-26**|**HDEE: Heterogeneous Domain Expert Ensemble**|Oğuzhan Ersoy et.al.|[2502.19385](http://arxiv.org/abs/2502.19385)|null|
 |**2025-02-25**|**Allocating Variance to Maximize Expectation**|Renato Purita Paes Leme et.al.|[2502.18463](http://arxiv.org/abs/2502.18463)|null|
 |**2025-02-25**|**Scalable Equilibrium Sampling with Sequential Boltzmann Generators**|Charlie B. Tan et.al.|[2502.18462](http://arxiv.org/abs/2502.18462)|null|
 |**2025-02-25**|**LLM-Based Design Pattern Detection**|Christian Schindler et.al.|[2502.18458](http://arxiv.org/abs/2502.18458)|null|
