@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**|Toru Lin et.al.|[2502.20396](http://arxiv.org/abs/2502.20396)|null|
+|**2025-02-27**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/abs/2502.20395)|null|
+|**2025-02-27**|**Walking the Web of Concept-Class Relationships in Incrementally Trained Interpretable Models**|Susmit Agrawal et.al.|[2502.20393](http://arxiv.org/abs/2502.20393)|null|
+|**2025-02-27**|**Scalable Signature Kernel Computations for Long Time Series via Local Neumann Series Expansions**|Matthew Tamayo-Rios et.al.|[2502.20392](http://arxiv.org/abs/2502.20392)|null|
+|**2025-02-27**|**Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis**|Jeffrey Yang Fan Chiang et.al.|[2502.20383](http://arxiv.org/abs/2502.20383)|null|
+|**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382](http://arxiv.org/abs/2502.20382)|null|
+|**2025-02-27**|**Multi-Turn Code Generation Through Single-Step Rewards**|Arnav Kumar Jain et.al.|[2502.20380](http://arxiv.org/abs/2502.20380)|null|
+|**2025-02-27**|**PhantomWiki: On-Demand Datasets for Reasoning and Retrieval Evaluation**|Albert Gong et.al.|[2502.20377](http://arxiv.org/abs/2502.20377)|null|
+|**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376](http://arxiv.org/abs/2502.20376)|null|
+|**2025-02-27**|**When does a predictor know its own loss?**|Aravind Gollakota et.al.|[2502.20375](http://arxiv.org/abs/2502.20375)|null|
 |**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417](http://arxiv.org/abs/2502.19417)|null|
 |**2025-02-26**|**Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample Creation**|Shiven Sinha et.al.|[2502.19414](http://arxiv.org/abs/2502.19414)|null|
 |**2025-02-26**|**Project Alexandria: Towards Freeing Scientific Knowledge from Copyright Burdens via LLMs**|Christoph Schuhmann et.al.|[2502.19413](http://arxiv.org/abs/2502.19413)|null|
@@ -2354,6 +2364,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**|Toru Lin et.al.|[2502.20396](http://arxiv.org/abs/2502.20396)|null|
+|**2025-02-27**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/abs/2502.20395)|null|
+|**2025-02-27**|**Walking the Web of Concept-Class Relationships in Incrementally Trained Interpretable Models**|Susmit Agrawal et.al.|[2502.20393](http://arxiv.org/abs/2502.20393)|null|
+|**2025-02-27**|**Scalable Signature Kernel Computations for Long Time Series via Local Neumann Series Expansions**|Matthew Tamayo-Rios et.al.|[2502.20392](http://arxiv.org/abs/2502.20392)|null|
+|**2025-02-27**|**Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis**|Jeffrey Yang Fan Chiang et.al.|[2502.20383](http://arxiv.org/abs/2502.20383)|null|
+|**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382](http://arxiv.org/abs/2502.20382)|null|
+|**2025-02-27**|**Multi-Turn Code Generation Through Single-Step Rewards**|Arnav Kumar Jain et.al.|[2502.20380](http://arxiv.org/abs/2502.20380)|null|
+|**2025-02-27**|**PhantomWiki: On-Demand Datasets for Reasoning and Retrieval Evaluation**|Albert Gong et.al.|[2502.20377](http://arxiv.org/abs/2502.20377)|null|
+|**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376](http://arxiv.org/abs/2502.20376)|null|
+|**2025-02-27**|**When does a predictor know its own loss?**|Aravind Gollakota et.al.|[2502.20375](http://arxiv.org/abs/2502.20375)|null|
 |**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417](http://arxiv.org/abs/2502.19417)|null|
 |**2025-02-26**|**Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample Creation**|Shiven Sinha et.al.|[2502.19414](http://arxiv.org/abs/2502.19414)|null|
 |**2025-02-26**|**Project Alexandria: Towards Freeing Scientific Knowledge from Copyright Burdens via LLMs**|Christoph Schuhmann et.al.|[2502.19413](http://arxiv.org/abs/2502.19413)|null|
