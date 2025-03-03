@@ -37,12 +37,12 @@ layout: default
 |**2025-02-25**|**CRESSim-MPM: A Material Point Method Library for Surgical Soft Body Simulation with Cutting and Suturing**|Yafei Ou et.al.|[2502.18437](http://arxiv.org/abs/2502.18437)|null|
 |**2025-02-25**|**Reversal Blessing: Thinking Backward May Outpace Thinking Forward in Multi-choice Questions**|Yizhe Zhang et.al.|[2502.18435](http://arxiv.org/abs/2502.18435)|null|
 |**2025-02-25**|**Global law of conjugate kernel random matrices with heavy-tailed weights**|Alice Guionnet et.al.|[2502.18428](http://arxiv.org/abs/2502.18428)|null|
-|**2025-02-25**|**Rank1: Test-Time Compute for Reranking in Information Retrieval**|Orion Weller et.al.|[2502.18418](http://arxiv.org/abs/2502.18418)|null|
+|**2025-02-25**|**Rank1: Test-Time Compute for Reranking in Information Retrieval**|Orion Weller et.al.|[2502.18418](http://arxiv.org/abs/2502.18418)|**[link](https://github.com/orionw/rank1)**|
 |**2025-02-25**|**GLEAN: Generalized Category Discovery with Diverse and Quality-Enhanced LLM Feedback**|Henry Peng Zou et.al.|[2502.18414](http://arxiv.org/abs/2502.18414)|**[link](https://github.com/amazon-science/Glean)**|
 |**2025-02-24**|**Fractal Generative Models**|Tianhong Li et.al.|[2502.17437](http://arxiv.org/abs/2502.17437)|**[link](https://github.com/LTH14/fractalgen)**|
 |**2025-02-24**|**Towards Hierarchical Rectified Flow**|Yichi Zhang et.al.|[2502.17436](http://arxiv.org/abs/2502.17436)|**[link](https://github.com/riccizz/HRF)**|
 |**2025-02-24**|**FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning**|Jason Jingzhou Liu et.al.|[2502.17432](http://arxiv.org/abs/2502.17432)|null|
-|**2025-02-24**|**Stronger Neyman Regret Guarantees for Adaptive Experimental Design**|Georgy Noarov et.al.|[2502.17427](http://arxiv.org/abs/2502.17427)|null|
+|**2025-02-24**|**Stronger Neyman Regret Guarantees for Adaptive Experimental Design**|Georgy Noarov et.al.|[2502.17427](http://arxiv.org/abs/2502.17427)|**[link](https://github.com/amazon-science/adaptive-abtester)**|
 |**2025-02-24**|**Introducing Visual Perception Token into Multimodal Large Language Model**|Runpeng Yu et.al.|[2502.17425](http://arxiv.org/abs/2502.17425)|**[link](https://github.com/yu-rp/visualperceptiontoken)**|
 |**2025-02-24**|**Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs**|Jan Betley et.al.|[2502.17424](http://arxiv.org/abs/2502.17424)|**[link](https://github.com/emergent-misalignment/emergent-misalignment)**|
 |**2025-02-24**|**S4S: Solving for a Diffusion Model Solver**|Eric Frankel et.al.|[2502.17423](http://arxiv.org/abs/2502.17423)|null|
@@ -51,8 +51,8 @@ layout: default
 |**2025-02-24**|**Reasoning with Latent Thoughts: On the Power of Looped Transformers**|Nikunj Saunshi et.al.|[2502.17416](http://arxiv.org/abs/2502.17416)|null|
 |**2025-02-21**|**One-step Diffusion Models with $f$ -Divergence Distribution Matching**|Yilun Xu et.al.|[2502.15681](http://arxiv.org/abs/2502.15681)|null|
 |**2025-02-21**|**Testing the limits of fine-tuning to improve reasoning in vision language models**|Luca M. Schulze Buschoff et.al.|[2502.15678](http://arxiv.org/abs/2502.15678)|null|
-|**2025-02-21**|**FLEKE: Federated Locate-then-Edit Knowledge Editing**|Zongkai Zhao et.al.|[2502.15677](http://arxiv.org/abs/2502.15677)|null|
-|**2025-02-21**|**Almost AI, Almost Human: The Challenge of Detecting AI-Polished Writing**|Shoumik Saha et.al.|[2502.15666](http://arxiv.org/abs/2502.15666)|null|
+|**2025-02-21**|**FLEKE: Federated Locate-then-Edit Knowledge Editing**|Zongkai Zhao et.al.|[2502.15677](http://arxiv.org/abs/2502.15677)|**[link](https://github.com/zongkaiz/fleke)**|
+|**2025-02-21**|**Almost AI, Almost Human: The Challenge of Detecting AI-Polished Writing**|Shoumik Saha et.al.|[2502.15666](http://arxiv.org/abs/2502.15666)|**[link](https://github.com/ShoumikSaha/ai-polished-text)**|
 |**2025-02-21**|**Automating Curriculum Learning for Reinforcement Learning using a Skill-Based Bayesian Network**|Vincent Hsiao et.al.|[2502.15662](http://arxiv.org/abs/2502.15662)|null|
 |**2025-02-21**|**Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?**|Yoshua Bengio et.al.|[2502.15657](http://arxiv.org/abs/2502.15657)|null|
 |**2025-02-21**|**Local geometry of high-dimensional mixture models: Effective spectral theory and dynamical transitions**|Gerard Ben Arous et.al.|[2502.15655](http://arxiv.org/abs/2502.15655)|null|
@@ -407,7 +407,7 @@ layout: default
 |**2024-12-30**|**Adversarial Attack and Defense for LoRa Device Identification and Authentication via Deep Learning**|Yalin E. Sagduyu et.al.|[2412.21164](http://arxiv.org/abs/2412.21164)|null|
 |**2024-12-30**|**Unified dimensionality reduction techniques in chronic liver disease detection**|Anand Karna et.al.|[2412.21156](http://arxiv.org/abs/2412.21156)|null|
 |**2024-12-30**|**Low coordinate degree algorithms II: Categorical signals and generalized stochastic block models**|Dmitriy Kunisky et.al.|[2412.21155](http://arxiv.org/abs/2412.21155)|null|
-|**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154](http://arxiv.org/abs/2412.21154)|null|
+|**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154](http://arxiv.org/abs/2412.21154)|**[link](https://github.com/future-house/paper-qa)**|
 |**2024-12-30**|**PyG-SSL: A Graph Self-Supervised Learning Toolkit**|Lecheng Zheng et.al.|[2412.21151](http://arxiv.org/abs/2412.21151)|**[link](https://github.com/idea-isail-lab-uiuc/pyg-ssl)**|
 |**2024-12-27**|**LASER: A new method for locally adaptive nonparametric regression**|Sabyasachi Chatterjee et.al.|[2412.19802](http://arxiv.org/abs/2412.19802)|**[link](https://gitlab.com/soumendu041/laser)**|
 |**2024-12-27**|**Generalized Grade-of-Membership Estimation for High-dimensional Locally Dependent Data**|Ling Chen et.al.|[2412.19796](http://arxiv.org/abs/2412.19796)|**[link](https://github.com/lscientific/gGoM)**|
@@ -1847,7 +1847,7 @@ layout: default
 |**2024-05-20**|**The Local Interaction Basis: Identifying Computationally-Relevant and Sparsely Interacting Features in Neural Networks**|Lucius Bushnaq et.al.|[2405.10928](http://arxiv.org/abs/2405.10928)|**[link](https://github.com/apolloresearch/rib)**|
 |**2024-05-20**|**Using Degeneracy in the Loss Landscape for Mechanistic Interpretability**|Lucius Bushnaq et.al.|[2405.10927](http://arxiv.org/abs/2405.10927)|null|
 |**2024-05-17**|**High-dimensional multiple imputation (HDMI) for partially observed confounders including natural language processing-derived auxiliary covariates**|Janick Weberpals et.al.|[2405.10925](http://arxiv.org/abs/2405.10925)|null|
-|**2024-05-17**|**Boosting Few-Pixel Robustness Verification via Covering Verification Designs**|Yuval Shapira et.al.|[2405.10924](http://arxiv.org/abs/2405.10924)|null|
+|**2024-05-17**|**Boosting Few-Pixel Robustness Verification via Covering Verification Designs**|Yuval Shapira et.al.|[2405.10924](http://arxiv.org/abs/2405.10924)|**[link](https://github.com/yuvshap/coverd)**|
 |**2024-05-17**|**GenToC: Leveraging Partially-Labeled Data for Product Attribute-Value Identification**|D. Subhalingam et.al.|[2405.10918](http://arxiv.org/abs/2405.10918)|null|
 |**2024-05-16**|**TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction**|Yunfan Jiang et.al.|[2405.10315](http://arxiv.org/abs/2405.10315)|null|
 |**2024-05-16**|**How Far Are We From AGI**|Tao Feng et.al.|[2405.10313](http://arxiv.org/abs/2405.10313)|**[link](https://github.com/ulab-uiuc/agi-survey)**|
@@ -2385,12 +2385,12 @@ layout: default
 |**2025-02-25**|**CRESSim-MPM: A Material Point Method Library for Surgical Soft Body Simulation with Cutting and Suturing**|Yafei Ou et.al.|[2502.18437](http://arxiv.org/abs/2502.18437)|null|
 |**2025-02-25**|**Reversal Blessing: Thinking Backward May Outpace Thinking Forward in Multi-choice Questions**|Yizhe Zhang et.al.|[2502.18435](http://arxiv.org/abs/2502.18435)|null|
 |**2025-02-25**|**Global law of conjugate kernel random matrices with heavy-tailed weights**|Alice Guionnet et.al.|[2502.18428](http://arxiv.org/abs/2502.18428)|null|
-|**2025-02-25**|**Rank1: Test-Time Compute for Reranking in Information Retrieval**|Orion Weller et.al.|[2502.18418](http://arxiv.org/abs/2502.18418)|null|
+|**2025-02-25**|**Rank1: Test-Time Compute for Reranking in Information Retrieval**|Orion Weller et.al.|[2502.18418](http://arxiv.org/abs/2502.18418)|**[link](https://github.com/orionw/rank1)**|
 |**2025-02-25**|**GLEAN: Generalized Category Discovery with Diverse and Quality-Enhanced LLM Feedback**|Henry Peng Zou et.al.|[2502.18414](http://arxiv.org/abs/2502.18414)|**[link](https://github.com/amazon-science/Glean)**|
 |**2025-02-24**|**Fractal Generative Models**|Tianhong Li et.al.|[2502.17437](http://arxiv.org/abs/2502.17437)|**[link](https://github.com/LTH14/fractalgen)**|
 |**2025-02-24**|**Towards Hierarchical Rectified Flow**|Yichi Zhang et.al.|[2502.17436](http://arxiv.org/abs/2502.17436)|**[link](https://github.com/riccizz/HRF)**|
 |**2025-02-24**|**FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning**|Jason Jingzhou Liu et.al.|[2502.17432](http://arxiv.org/abs/2502.17432)|null|
-|**2025-02-24**|**Stronger Neyman Regret Guarantees for Adaptive Experimental Design**|Georgy Noarov et.al.|[2502.17427](http://arxiv.org/abs/2502.17427)|null|
+|**2025-02-24**|**Stronger Neyman Regret Guarantees for Adaptive Experimental Design**|Georgy Noarov et.al.|[2502.17427](http://arxiv.org/abs/2502.17427)|**[link](https://github.com/amazon-science/adaptive-abtester)**|
 |**2025-02-24**|**Introducing Visual Perception Token into Multimodal Large Language Model**|Runpeng Yu et.al.|[2502.17425](http://arxiv.org/abs/2502.17425)|**[link](https://github.com/yu-rp/visualperceptiontoken)**|
 |**2025-02-24**|**Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs**|Jan Betley et.al.|[2502.17424](http://arxiv.org/abs/2502.17424)|**[link](https://github.com/emergent-misalignment/emergent-misalignment)**|
 |**2025-02-24**|**S4S: Solving for a Diffusion Model Solver**|Eric Frankel et.al.|[2502.17423](http://arxiv.org/abs/2502.17423)|null|
@@ -2399,8 +2399,8 @@ layout: default
 |**2025-02-24**|**Reasoning with Latent Thoughts: On the Power of Looped Transformers**|Nikunj Saunshi et.al.|[2502.17416](http://arxiv.org/abs/2502.17416)|null|
 |**2025-02-21**|**One-step Diffusion Models with $f$ -Divergence Distribution Matching**|Yilun Xu et.al.|[2502.15681](http://arxiv.org/abs/2502.15681)|null|
 |**2025-02-21**|**Testing the limits of fine-tuning to improve reasoning in vision language models**|Luca M. Schulze Buschoff et.al.|[2502.15678](http://arxiv.org/abs/2502.15678)|null|
-|**2025-02-21**|**FLEKE: Federated Locate-then-Edit Knowledge Editing**|Zongkai Zhao et.al.|[2502.15677](http://arxiv.org/abs/2502.15677)|null|
-|**2025-02-21**|**Almost AI, Almost Human: The Challenge of Detecting AI-Polished Writing**|Shoumik Saha et.al.|[2502.15666](http://arxiv.org/abs/2502.15666)|null|
+|**2025-02-21**|**FLEKE: Federated Locate-then-Edit Knowledge Editing**|Zongkai Zhao et.al.|[2502.15677](http://arxiv.org/abs/2502.15677)|**[link](https://github.com/zongkaiz/fleke)**|
+|**2025-02-21**|**Almost AI, Almost Human: The Challenge of Detecting AI-Polished Writing**|Shoumik Saha et.al.|[2502.15666](http://arxiv.org/abs/2502.15666)|**[link](https://github.com/ShoumikSaha/ai-polished-text)**|
 |**2025-02-21**|**Automating Curriculum Learning for Reinforcement Learning using a Skill-Based Bayesian Network**|Vincent Hsiao et.al.|[2502.15662](http://arxiv.org/abs/2502.15662)|null|
 |**2025-02-21**|**Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?**|Yoshua Bengio et.al.|[2502.15657](http://arxiv.org/abs/2502.15657)|null|
 |**2025-02-21**|**Local geometry of high-dimensional mixture models: Effective spectral theory and dynamical transitions**|Gerard Ben Arous et.al.|[2502.15655](http://arxiv.org/abs/2502.15655)|null|
@@ -2755,7 +2755,7 @@ layout: default
 |**2024-12-30**|**Adversarial Attack and Defense for LoRa Device Identification and Authentication via Deep Learning**|Yalin E. Sagduyu et.al.|[2412.21164](http://arxiv.org/abs/2412.21164)|null|
 |**2024-12-30**|**Unified dimensionality reduction techniques in chronic liver disease detection**|Anand Karna et.al.|[2412.21156](http://arxiv.org/abs/2412.21156)|null|
 |**2024-12-30**|**Low coordinate degree algorithms II: Categorical signals and generalized stochastic block models**|Dmitriy Kunisky et.al.|[2412.21155](http://arxiv.org/abs/2412.21155)|null|
-|**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154](http://arxiv.org/abs/2412.21154)|null|
+|**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154](http://arxiv.org/abs/2412.21154)|**[link](https://github.com/future-house/paper-qa)**|
 |**2024-12-30**|**PyG-SSL: A Graph Self-Supervised Learning Toolkit**|Lecheng Zheng et.al.|[2412.21151](http://arxiv.org/abs/2412.21151)|**[link](https://github.com/idea-isail-lab-uiuc/pyg-ssl)**|
 |**2024-12-27**|**LASER: A new method for locally adaptive nonparametric regression**|Sabyasachi Chatterjee et.al.|[2412.19802](http://arxiv.org/abs/2412.19802)|**[link](https://gitlab.com/soumendu041/laser)**|
 |**2024-12-27**|**Generalized Grade-of-Membership Estimation for High-dimensional Locally Dependent Data**|Ling Chen et.al.|[2412.19796](http://arxiv.org/abs/2412.19796)|**[link](https://github.com/lscientific/gGoM)**|
@@ -4195,7 +4195,7 @@ layout: default
 |**2024-05-20**|**The Local Interaction Basis: Identifying Computationally-Relevant and Sparsely Interacting Features in Neural Networks**|Lucius Bushnaq et.al.|[2405.10928](http://arxiv.org/abs/2405.10928)|**[link](https://github.com/apolloresearch/rib)**|
 |**2024-05-20**|**Using Degeneracy in the Loss Landscape for Mechanistic Interpretability**|Lucius Bushnaq et.al.|[2405.10927](http://arxiv.org/abs/2405.10927)|null|
 |**2024-05-17**|**High-dimensional multiple imputation (HDMI) for partially observed confounders including natural language processing-derived auxiliary covariates**|Janick Weberpals et.al.|[2405.10925](http://arxiv.org/abs/2405.10925)|null|
-|**2024-05-17**|**Boosting Few-Pixel Robustness Verification via Covering Verification Designs**|Yuval Shapira et.al.|[2405.10924](http://arxiv.org/abs/2405.10924)|null|
+|**2024-05-17**|**Boosting Few-Pixel Robustness Verification via Covering Verification Designs**|Yuval Shapira et.al.|[2405.10924](http://arxiv.org/abs/2405.10924)|**[link](https://github.com/yuvshap/coverd)**|
 |**2024-05-17**|**GenToC: Leveraging Partially-Labeled Data for Product Attribute-Value Identification**|D. Subhalingam et.al.|[2405.10918](http://arxiv.org/abs/2405.10918)|null|
 |**2024-05-16**|**TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction**|Yunfan Jiang et.al.|[2405.10315](http://arxiv.org/abs/2405.10315)|null|
 |**2024-05-16**|**How Far Are We From AGI**|Tao Feng et.al.|[2405.10313](http://arxiv.org/abs/2405.10313)|**[link](https://github.com/ulab-uiuc/agi-survey)**|
