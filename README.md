@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Self-Taught Self-Correction for Small Language Models**|Viktor Moskvoretskii et.al.|[2503.08681](http://arxiv.org/abs/2503.08681)|null|
+|**2025-03-11**|**Chain-of-Thought Reasoning In The Wild Is Not Always Faithful**|Iván Arcuschin et.al.|[2503.08679](http://arxiv.org/abs/2503.08679)|null|
+|**2025-03-11**|**Understanding and Mitigating Distribution Shifts For Machine Learning Force Fields**|Tobias Kreiman et.al.|[2503.08674](http://arxiv.org/abs/2503.08674)|null|
+|**2025-03-11**|**REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder**|Yitian Zhang et.al.|[2503.08665](http://arxiv.org/abs/2503.08665)|null|
+|**2025-03-11**|**Extra Clients at No Extra Cost: Overcome Data Heterogeneity in Federated Learning with Filter Decomposition**|Wei Chen et.al.|[2503.08652](http://arxiv.org/abs/2503.08652)|null|
+|**2025-03-11**|**Rethinking Diffusion Model in High Dimension**|Zhenxin Zheng et.al.|[2503.08643](http://arxiv.org/abs/2503.08643)|null|
+|**2025-03-11**|**Coefficient-to-Basis Network: A Fine-Tunable Operator Learning Framework for Inverse Problems with Adaptive Discretizations and Theoretical Guarantees**|Zecheng Zhang et.al.|[2503.08642](http://arxiv.org/abs/2503.08642)|null|
+|**2025-03-11**|**Birds look like cars: Adversarial analysis of intrinsically interpretable deep learning**|Hubert Baniecki et.al.|[2503.08636](http://arxiv.org/abs/2503.08636)|null|
+|**2025-03-11**|**Regularized Federated Methods with Universal Guarantees for Simple Bilevel Optimization**|Mohammadjavad Ebrahimi et.al.|[2503.08634](http://arxiv.org/abs/2503.08634)|null|
+|**2025-03-11**|**How Does Overparameterization Affect Machine Unlearning of Deep Neural Networks?**|Gal Alon et.al.|[2503.08633](http://arxiv.org/abs/2503.08633)|null|
 |**2025-03-10**|**Efficient Membership Inference Attacks by Bayesian Neural Network**|Zhenlong Liu et.al.|[2503.07482](http://arxiv.org/abs/2503.07482)|null|
 |**2025-03-10**|**Sample Complexity of Nonparametric Closeness Testing for Continuous Distributions and Its Application to Causal Discovery with Hidden Confounding**|Fateme Jamshidi et.al.|[2503.07475](http://arxiv.org/abs/2503.07475)|null|
 |**2025-03-10**|**Advancing Vietnamese Information Retrieval with Learning Objective and Benchmark**|Phu-Vinh Nguyen et.al.|[2503.07470](http://arxiv.org/abs/2503.07470)|null|
@@ -2424,6 +2434,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Self-Taught Self-Correction for Small Language Models**|Viktor Moskvoretskii et.al.|[2503.08681](http://arxiv.org/abs/2503.08681)|null|
+|**2025-03-11**|**Chain-of-Thought Reasoning In The Wild Is Not Always Faithful**|Iván Arcuschin et.al.|[2503.08679](http://arxiv.org/abs/2503.08679)|null|
+|**2025-03-11**|**Understanding and Mitigating Distribution Shifts For Machine Learning Force Fields**|Tobias Kreiman et.al.|[2503.08674](http://arxiv.org/abs/2503.08674)|null|
+|**2025-03-11**|**REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder**|Yitian Zhang et.al.|[2503.08665](http://arxiv.org/abs/2503.08665)|null|
+|**2025-03-11**|**Extra Clients at No Extra Cost: Overcome Data Heterogeneity in Federated Learning with Filter Decomposition**|Wei Chen et.al.|[2503.08652](http://arxiv.org/abs/2503.08652)|null|
+|**2025-03-11**|**Rethinking Diffusion Model in High Dimension**|Zhenxin Zheng et.al.|[2503.08643](http://arxiv.org/abs/2503.08643)|null|
+|**2025-03-11**|**Coefficient-to-Basis Network: A Fine-Tunable Operator Learning Framework for Inverse Problems with Adaptive Discretizations and Theoretical Guarantees**|Zecheng Zhang et.al.|[2503.08642](http://arxiv.org/abs/2503.08642)|null|
+|**2025-03-11**|**Birds look like cars: Adversarial analysis of intrinsically interpretable deep learning**|Hubert Baniecki et.al.|[2503.08636](http://arxiv.org/abs/2503.08636)|null|
+|**2025-03-11**|**Regularized Federated Methods with Universal Guarantees for Simple Bilevel Optimization**|Mohammadjavad Ebrahimi et.al.|[2503.08634](http://arxiv.org/abs/2503.08634)|null|
+|**2025-03-11**|**How Does Overparameterization Affect Machine Unlearning of Deep Neural Networks?**|Gal Alon et.al.|[2503.08633](http://arxiv.org/abs/2503.08633)|null|
 |**2025-03-10**|**Efficient Membership Inference Attacks by Bayesian Neural Network**|Zhenlong Liu et.al.|[2503.07482](http://arxiv.org/abs/2503.07482)|null|
 |**2025-03-10**|**Sample Complexity of Nonparametric Closeness Testing for Continuous Distributions and Its Application to Causal Discovery with Hidden Confounding**|Fateme Jamshidi et.al.|[2503.07475](http://arxiv.org/abs/2503.07475)|null|
 |**2025-03-10**|**Advancing Vietnamese Information Retrieval with Learning Objective and Benchmark**|Phu-Vinh Nguyen et.al.|[2503.07470](http://arxiv.org/abs/2503.07470)|null|
