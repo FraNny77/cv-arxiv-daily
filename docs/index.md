@@ -32,9 +32,9 @@ layout: default
 |**2025-03-18**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505](http://arxiv.org/abs/2503.14505)|null|
 |**2025-03-18**|**The Power of Context: How Multimodality Improves Image Super-Resolution**|Kangfu Mei et.al.|[2503.14503](http://arxiv.org/abs/2503.14503)|null|
 |**2025-03-18**|**Utilization of Neighbor Information for Image Classification with Different Levels of Supervision**|Gihan Jayatilaka et.al.|[2503.14500](http://arxiv.org/abs/2503.14500)|null|
-|**2025-03-18**|**Measuring AI Ability to Complete Long Tasks**|Thomas Kwa et.al.|[2503.14499](http://arxiv.org/abs/2503.14499)|null|
-|**2025-03-18**|**Temporal Consistency for LLM Reasoning Process Error Identification**|Jiacheng Guo et.al.|[2503.14495](http://arxiv.org/abs/2503.14495)|null|
-|**2025-03-18**|**Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control**|NVIDIA et.al.|[2503.14492](http://arxiv.org/abs/2503.14492)|null|
+|**2025-03-18**|**Measuring AI Ability to Complete Long Tasks**|Thomas Kwa et.al.|[2503.14499](http://arxiv.org/abs/2503.14499)|**[link](https://github.com/METR/eval-analysis-public)**|
+|**2025-03-18**|**Temporal Consistency for LLM Reasoning Process Error Identification**|Jiacheng Guo et.al.|[2503.14495](http://arxiv.org/abs/2503.14495)|**[link](https://github.com/jcguo123/temporal-consistency)**|
+|**2025-03-18**|**Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control**|NVIDIA et.al.|[2503.14492](http://arxiv.org/abs/2503.14492)|**[link](https://github.com/nvidia-cosmos/cosmos-transfer1)**|
 |**2025-03-18**|**Don't lie to your friends: Learning what you know from collaborative self-play**|Jacob Eisenstein et.al.|[2503.14481](http://arxiv.org/abs/2503.14481)|null|
 |**2025-03-18**|**La Méthode du Gradient Proximé**|Patrick L. Combettes et.al.|[2503.14479](http://arxiv.org/abs/2503.14479)|null|
 |**2025-03-18**|**DAPO: An Open-Source LLM Reinforcement Learning System at Scale**|Qiying Yu et.al.|[2503.14476](http://arxiv.org/abs/2503.14476)|null|
@@ -45,7 +45,7 @@ layout: default
 |**2025-03-17**|**Uncovering Utility Functions from Observed Outcomes**|Marta Grzeskiewicz et.al.|[2503.13432](http://arxiv.org/abs/2503.13432)|null|
 |**2025-03-17**|**Measuring In-Context Computation Complexity via Hidden State Prediction**|Vincent Herrmann et.al.|[2503.13431](http://arxiv.org/abs/2503.13431)|null|
 |**2025-03-17**|**AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**|Thomas Monninger et.al.|[2503.13430](http://arxiv.org/abs/2503.13430)|null|
-|**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427](http://arxiv.org/abs/2503.13427)|null|
+|**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427](http://arxiv.org/abs/2503.13427)|**[link](https://github.com/nx-ai/xlstm-jax)**|
 |**2025-03-17**|**SuperBPE: Space Travel for Language Models**|Alisa Liu et.al.|[2503.13423](http://arxiv.org/abs/2503.13423)|null|
 |**2025-03-17**|**Reward Adaptation Via Q-Manipulation**|Kevin Vora et.al.|[2503.13414](http://arxiv.org/abs/2503.13414)|null|
 |**2025-03-17**|**Fed-Joint: Joint Modeling of Nonlinear Degradation Signals and Failure Events for Remaining Useful Life Prediction using Federated Learning**|Cheoljoon Jeong et.al.|[2503.13404](http://arxiv.org/abs/2503.13404)|null|
@@ -53,8 +53,8 @@ layout: default
 |**2025-03-14**|**Bounded Dark Energy**|Giulia Borghetto et.al.|[2503.11628](http://arxiv.org/abs/2503.11628)|null|
 |**2025-03-14**|**Are Deep Speech Denoising Models Robust to Adversarial Noise?**|Will Schwarzer et.al.|[2503.11627](http://arxiv.org/abs/2503.11627)|null|
 |**2025-03-14**|**From Denoising Score Matching to Langevin Sampling: A Fine-Grained Error Analysis in the Gaussian Setting**|Samuel Hurault et.al.|[2503.11615](http://arxiv.org/abs/2503.11615)|null|
-|**2025-03-14**|**Enhanced Soups for Graph Neural Networks**|Joseph Zuber et.al.|[2503.11612](http://arxiv.org/abs/2503.11612)|null|
-|**2025-03-14**|**Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**|Matteo Farina et.al.|[2503.11609](http://arxiv.org/abs/2503.11609)|null|
+|**2025-03-14**|**Enhanced Soups for Graph Neural Networks**|Joseph Zuber et.al.|[2503.11612](http://arxiv.org/abs/2503.11612)|**[link](https://github.com/zubes01/enhanced-soups-for-graph-neural-networks)**|
+|**2025-03-14**|**Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**|Matteo Farina et.al.|[2503.11609](http://arxiv.org/abs/2503.11609)|**[link](https://github.com/farinamatteo/rethinking_fewshot_vlms)**|
 |**2025-03-14**|**Designing Neural Synthesizers for Low Latency Interaction**|Franco Caspe et.al.|[2503.11562](http://arxiv.org/abs/2503.11562)|null|
 |**2025-03-14**|**Infinity-norm-based Input-to-State-Stable Long Short-Term Memory networks: a thermal systems perspective**|Stefano De Carli et.al.|[2503.11553](http://arxiv.org/abs/2503.11553)|null|
 |**2025-03-14**|**AugGen: Synthetic Augmentation Can Improve Discriminative Models**|Parsa Rahimi et.al.|[2503.11544](http://arxiv.org/abs/2503.11544)|null|
@@ -80,7 +80,7 @@ layout: default
 |**2025-03-13**|**The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging**|Yiwei Chen et.al.|[2503.09559](http://arxiv.org/abs/2503.09559)|null|
 |**2025-03-12**|**PolyPythias: Stability and Outliers across Fifty Language Model Pre-Training Runs**|Oskar van der Wal et.al.|[2503.09543](http://arxiv.org/abs/2503.09543)|null|
 |**2025-03-11**|**Self-Taught Self-Correction for Small Language Models**|Viktor Moskvoretskii et.al.|[2503.08681](http://arxiv.org/abs/2503.08681)|null|
-|**2025-03-11**|**Chain-of-Thought Reasoning In The Wild Is Not Always Faithful**|Iván Arcuschin et.al.|[2503.08679](http://arxiv.org/abs/2503.08679)|null|
+|**2025-03-11**|**Chain-of-Thought Reasoning In The Wild Is Not Always Faithful**|Iván Arcuschin et.al.|[2503.08679](http://arxiv.org/abs/2503.08679)|**[link](https://github.com/jettjaniak/chainscope)**|
 |**2025-03-11**|**Understanding and Mitigating Distribution Shifts For Machine Learning Force Fields**|Tobias Kreiman et.al.|[2503.08674](http://arxiv.org/abs/2503.08674)|null|
 |**2025-03-11**|**REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder**|Yitian Zhang et.al.|[2503.08665](http://arxiv.org/abs/2503.08665)|null|
 |**2025-03-11**|**Extra Clients at No Extra Cost: Overcome Data Heterogeneity in Federated Learning with Filter Decomposition**|Wei Chen et.al.|[2503.08652](http://arxiv.org/abs/2503.08652)|null|
@@ -1201,7 +1201,7 @@ layout: default
 |**2024-09-16**|**Kolmogorov-Arnold Networks in Low-Data Regimes: A Comparative Study with Multilayer Perceptrons**|Farhad Pourkamali-Anaraki et.al.|[2409.10463](http://arxiv.org/abs/2409.10463)|null|
 |**2024-09-13**|**The unknotting number, hard unknot diagrams, and reinforcement learning**|Taylor Applebaum et.al.|[2409.09032](http://arxiv.org/abs/2409.09032)|null|
 |**2024-09-13**|**Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy**|Michael W. Toomey et.al.|[2409.09029](http://arxiv.org/abs/2409.09029)|**[link](https://github.com/mwt5345/class_ede)**|
-|**2024-09-13**|**INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction**|Soumitra Kundu et.al.|[2409.09021](http://arxiv.org/abs/2409.09021)|null|
+|**2024-09-13**|**INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction**|Soumitra Kundu et.al.|[2409.09021](http://arxiv.org/abs/2409.09021)|**[link](https://github.com/soumitra1992/innpar-ppg2abp)**|
 |**2024-09-13**|**An Efficient and Streaming Audio Visual Active Speaker Detection System**|Arnav Kundu et.al.|[2409.09018](http://arxiv.org/abs/2409.09018)|null|
 |**2024-09-13**|**VAE Explainer: Supplement Learning Variational Autoencoders with Interactive Visualization**|Donald Bertucci et.al.|[2409.09011](http://arxiv.org/abs/2409.09011)|**[link](https://github.com/xnought/vae-explainer)**|
 |**2024-09-13**|**SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity**|Qitian Wu et.al.|[2409.09007](http://arxiv.org/abs/2409.09007)|**[link](https://github.com/qitianwu/sgformer)**|
@@ -1437,7 +1437,7 @@ layout: default
 |**2024-08-09**|**Decoding Quantum LDPC Codes Using Graph Neural Networks**|Vukan Ninkovic et.al.|[2408.05170](http://arxiv.org/abs/2408.05170)|null|
 |**2024-08-09**|**Federated Hypergraph Learning with Hyperedge Completion**|Linfeng Luo et.al.|[2408.05160](http://arxiv.org/abs/2408.05160)|null|
 |**2024-08-09**|**Meta-Learning Guided Label Noise Distillation for Robust Signal Modulation Classification**|Xiaoyang Hao et.al.|[2408.05151](http://arxiv.org/abs/2408.05151)|null|
-|**2024-08-09**|**Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications**|Sanjif Shanmugavelu et.al.|[2408.05148](http://arxiv.org/abs/2408.05148)|null|
+|**2024-08-09**|**Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications**|Sanjif Shanmugavelu et.al.|[2408.05148](http://arxiv.org/abs/2408.05148)|**[link](https://github.com/minnervva/correctness)**|
 |**2024-08-09**|**Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2**|Tom Lieberum et.al.|[2408.05147](http://arxiv.org/abs/2408.05147)|null|
 |**2024-08-08**|**Regularized Unconstrained Weakly Submodular Maximization**|Yanhui Zhu et.al.|[2408.04620](http://arxiv.org/abs/2408.04620)|null|
 |**2024-08-08**|**Transformer Explainer: Interactive Learning of Text-Generative Models**|Aeree Cho et.al.|[2408.04619](http://arxiv.org/abs/2408.04619)|null|
@@ -1823,7 +1823,7 @@ layout: default
 |**2024-06-13**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474](http://arxiv.org/abs/2406.08474)|null|
 |**2024-06-12**|**Strategies for Pretraining Neural Operators**|Anthony Zhou et.al.|[2406.08473](http://arxiv.org/abs/2406.08473)|**[link](https://github.com/anthonyzhou-1/pretraining_pdes)**|
 |**2024-06-12**|**RILe: Reinforced Imitation Learning**|Mert Albaba et.al.|[2406.08472](http://arxiv.org/abs/2406.08472)|null|
-|**2024-06-12**|**PAL: Pluralistic Alignment Framework for Learning from Heterogeneous Preferences**|Daiwei Chen et.al.|[2406.08469](http://arxiv.org/abs/2406.08469)|null|
+|**2024-06-12**|**PAL: Pluralistic Alignment Framework for Learning from Heterogeneous Preferences**|Daiwei Chen et.al.|[2406.08469](http://arxiv.org/abs/2406.08469)|**[link](https://github.com/RamyaLab/pluralistic-alignment)**|
 |**2024-06-12**|**DafnyBench: A Benchmark for Formal Software Verification**|Chloe Loughridge et.al.|[2406.08467](http://arxiv.org/abs/2406.08467)|**[link](https://github.com/sun-wendy/dafnybench)**|
 |**2024-06-12**|**Scaling Laws in Linear Regression: Compute, Parameters, and Data**|Licong Lin et.al.|[2406.08466](http://arxiv.org/abs/2406.08466)|null|
 |**2024-06-12**|**Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data**|Jiaojiao Zhang et.al.|[2406.08465](http://arxiv.org/abs/2406.08465)|null|
@@ -2520,9 +2520,9 @@ layout: default
 |**2025-03-18**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505](http://arxiv.org/abs/2503.14505)|null|
 |**2025-03-18**|**The Power of Context: How Multimodality Improves Image Super-Resolution**|Kangfu Mei et.al.|[2503.14503](http://arxiv.org/abs/2503.14503)|null|
 |**2025-03-18**|**Utilization of Neighbor Information for Image Classification with Different Levels of Supervision**|Gihan Jayatilaka et.al.|[2503.14500](http://arxiv.org/abs/2503.14500)|null|
-|**2025-03-18**|**Measuring AI Ability to Complete Long Tasks**|Thomas Kwa et.al.|[2503.14499](http://arxiv.org/abs/2503.14499)|null|
-|**2025-03-18**|**Temporal Consistency for LLM Reasoning Process Error Identification**|Jiacheng Guo et.al.|[2503.14495](http://arxiv.org/abs/2503.14495)|null|
-|**2025-03-18**|**Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control**|NVIDIA et.al.|[2503.14492](http://arxiv.org/abs/2503.14492)|null|
+|**2025-03-18**|**Measuring AI Ability to Complete Long Tasks**|Thomas Kwa et.al.|[2503.14499](http://arxiv.org/abs/2503.14499)|**[link](https://github.com/METR/eval-analysis-public)**|
+|**2025-03-18**|**Temporal Consistency for LLM Reasoning Process Error Identification**|Jiacheng Guo et.al.|[2503.14495](http://arxiv.org/abs/2503.14495)|**[link](https://github.com/jcguo123/temporal-consistency)**|
+|**2025-03-18**|**Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control**|NVIDIA et.al.|[2503.14492](http://arxiv.org/abs/2503.14492)|**[link](https://github.com/nvidia-cosmos/cosmos-transfer1)**|
 |**2025-03-18**|**Don't lie to your friends: Learning what you know from collaborative self-play**|Jacob Eisenstein et.al.|[2503.14481](http://arxiv.org/abs/2503.14481)|null|
 |**2025-03-18**|**La Méthode du Gradient Proximé**|Patrick L. Combettes et.al.|[2503.14479](http://arxiv.org/abs/2503.14479)|null|
 |**2025-03-18**|**DAPO: An Open-Source LLM Reinforcement Learning System at Scale**|Qiying Yu et.al.|[2503.14476](http://arxiv.org/abs/2503.14476)|null|
@@ -2533,7 +2533,7 @@ layout: default
 |**2025-03-17**|**Uncovering Utility Functions from Observed Outcomes**|Marta Grzeskiewicz et.al.|[2503.13432](http://arxiv.org/abs/2503.13432)|null|
 |**2025-03-17**|**Measuring In-Context Computation Complexity via Hidden State Prediction**|Vincent Herrmann et.al.|[2503.13431](http://arxiv.org/abs/2503.13431)|null|
 |**2025-03-17**|**AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**|Thomas Monninger et.al.|[2503.13430](http://arxiv.org/abs/2503.13430)|null|
-|**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427](http://arxiv.org/abs/2503.13427)|null|
+|**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427](http://arxiv.org/abs/2503.13427)|**[link](https://github.com/nx-ai/xlstm-jax)**|
 |**2025-03-17**|**SuperBPE: Space Travel for Language Models**|Alisa Liu et.al.|[2503.13423](http://arxiv.org/abs/2503.13423)|null|
 |**2025-03-17**|**Reward Adaptation Via Q-Manipulation**|Kevin Vora et.al.|[2503.13414](http://arxiv.org/abs/2503.13414)|null|
 |**2025-03-17**|**Fed-Joint: Joint Modeling of Nonlinear Degradation Signals and Failure Events for Remaining Useful Life Prediction using Federated Learning**|Cheoljoon Jeong et.al.|[2503.13404](http://arxiv.org/abs/2503.13404)|null|
@@ -2541,8 +2541,8 @@ layout: default
 |**2025-03-14**|**Bounded Dark Energy**|Giulia Borghetto et.al.|[2503.11628](http://arxiv.org/abs/2503.11628)|null|
 |**2025-03-14**|**Are Deep Speech Denoising Models Robust to Adversarial Noise?**|Will Schwarzer et.al.|[2503.11627](http://arxiv.org/abs/2503.11627)|null|
 |**2025-03-14**|**From Denoising Score Matching to Langevin Sampling: A Fine-Grained Error Analysis in the Gaussian Setting**|Samuel Hurault et.al.|[2503.11615](http://arxiv.org/abs/2503.11615)|null|
-|**2025-03-14**|**Enhanced Soups for Graph Neural Networks**|Joseph Zuber et.al.|[2503.11612](http://arxiv.org/abs/2503.11612)|null|
-|**2025-03-14**|**Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**|Matteo Farina et.al.|[2503.11609](http://arxiv.org/abs/2503.11609)|null|
+|**2025-03-14**|**Enhanced Soups for Graph Neural Networks**|Joseph Zuber et.al.|[2503.11612](http://arxiv.org/abs/2503.11612)|**[link](https://github.com/zubes01/enhanced-soups-for-graph-neural-networks)**|
+|**2025-03-14**|**Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**|Matteo Farina et.al.|[2503.11609](http://arxiv.org/abs/2503.11609)|**[link](https://github.com/farinamatteo/rethinking_fewshot_vlms)**|
 |**2025-03-14**|**Designing Neural Synthesizers for Low Latency Interaction**|Franco Caspe et.al.|[2503.11562](http://arxiv.org/abs/2503.11562)|null|
 |**2025-03-14**|**Infinity-norm-based Input-to-State-Stable Long Short-Term Memory networks: a thermal systems perspective**|Stefano De Carli et.al.|[2503.11553](http://arxiv.org/abs/2503.11553)|null|
 |**2025-03-14**|**AugGen: Synthetic Augmentation Can Improve Discriminative Models**|Parsa Rahimi et.al.|[2503.11544](http://arxiv.org/abs/2503.11544)|null|
@@ -2568,7 +2568,7 @@ layout: default
 |**2025-03-13**|**The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging**|Yiwei Chen et.al.|[2503.09559](http://arxiv.org/abs/2503.09559)|null|
 |**2025-03-12**|**PolyPythias: Stability and Outliers across Fifty Language Model Pre-Training Runs**|Oskar van der Wal et.al.|[2503.09543](http://arxiv.org/abs/2503.09543)|null|
 |**2025-03-11**|**Self-Taught Self-Correction for Small Language Models**|Viktor Moskvoretskii et.al.|[2503.08681](http://arxiv.org/abs/2503.08681)|null|
-|**2025-03-11**|**Chain-of-Thought Reasoning In The Wild Is Not Always Faithful**|Iván Arcuschin et.al.|[2503.08679](http://arxiv.org/abs/2503.08679)|null|
+|**2025-03-11**|**Chain-of-Thought Reasoning In The Wild Is Not Always Faithful**|Iván Arcuschin et.al.|[2503.08679](http://arxiv.org/abs/2503.08679)|**[link](https://github.com/jettjaniak/chainscope)**|
 |**2025-03-11**|**Understanding and Mitigating Distribution Shifts For Machine Learning Force Fields**|Tobias Kreiman et.al.|[2503.08674](http://arxiv.org/abs/2503.08674)|null|
 |**2025-03-11**|**REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder**|Yitian Zhang et.al.|[2503.08665](http://arxiv.org/abs/2503.08665)|null|
 |**2025-03-11**|**Extra Clients at No Extra Cost: Overcome Data Heterogeneity in Federated Learning with Filter Decomposition**|Wei Chen et.al.|[2503.08652](http://arxiv.org/abs/2503.08652)|null|
@@ -3689,7 +3689,7 @@ layout: default
 |**2024-09-16**|**Kolmogorov-Arnold Networks in Low-Data Regimes: A Comparative Study with Multilayer Perceptrons**|Farhad Pourkamali-Anaraki et.al.|[2409.10463](http://arxiv.org/abs/2409.10463)|null|
 |**2024-09-13**|**The unknotting number, hard unknot diagrams, and reinforcement learning**|Taylor Applebaum et.al.|[2409.09032](http://arxiv.org/abs/2409.09032)|null|
 |**2024-09-13**|**Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy**|Michael W. Toomey et.al.|[2409.09029](http://arxiv.org/abs/2409.09029)|**[link](https://github.com/mwt5345/class_ede)**|
-|**2024-09-13**|**INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction**|Soumitra Kundu et.al.|[2409.09021](http://arxiv.org/abs/2409.09021)|null|
+|**2024-09-13**|**INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction**|Soumitra Kundu et.al.|[2409.09021](http://arxiv.org/abs/2409.09021)|**[link](https://github.com/soumitra1992/innpar-ppg2abp)**|
 |**2024-09-13**|**An Efficient and Streaming Audio Visual Active Speaker Detection System**|Arnav Kundu et.al.|[2409.09018](http://arxiv.org/abs/2409.09018)|null|
 |**2024-09-13**|**VAE Explainer: Supplement Learning Variational Autoencoders with Interactive Visualization**|Donald Bertucci et.al.|[2409.09011](http://arxiv.org/abs/2409.09011)|**[link](https://github.com/xnought/vae-explainer)**|
 |**2024-09-13**|**SGFormer: Single-Layer Graph Transformers with Approximation-Free Linear Complexity**|Qitian Wu et.al.|[2409.09007](http://arxiv.org/abs/2409.09007)|**[link](https://github.com/qitianwu/sgformer)**|
@@ -3925,7 +3925,7 @@ layout: default
 |**2024-08-09**|**Decoding Quantum LDPC Codes Using Graph Neural Networks**|Vukan Ninkovic et.al.|[2408.05170](http://arxiv.org/abs/2408.05170)|null|
 |**2024-08-09**|**Federated Hypergraph Learning with Hyperedge Completion**|Linfeng Luo et.al.|[2408.05160](http://arxiv.org/abs/2408.05160)|null|
 |**2024-08-09**|**Meta-Learning Guided Label Noise Distillation for Robust Signal Modulation Classification**|Xiaoyang Hao et.al.|[2408.05151](http://arxiv.org/abs/2408.05151)|null|
-|**2024-08-09**|**Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications**|Sanjif Shanmugavelu et.al.|[2408.05148](http://arxiv.org/abs/2408.05148)|null|
+|**2024-08-09**|**Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications**|Sanjif Shanmugavelu et.al.|[2408.05148](http://arxiv.org/abs/2408.05148)|**[link](https://github.com/minnervva/correctness)**|
 |**2024-08-09**|**Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2**|Tom Lieberum et.al.|[2408.05147](http://arxiv.org/abs/2408.05147)|null|
 |**2024-08-08**|**Regularized Unconstrained Weakly Submodular Maximization**|Yanhui Zhu et.al.|[2408.04620](http://arxiv.org/abs/2408.04620)|null|
 |**2024-08-08**|**Transformer Explainer: Interactive Learning of Text-Generative Models**|Aeree Cho et.al.|[2408.04619](http://arxiv.org/abs/2408.04619)|null|
@@ -4311,7 +4311,7 @@ layout: default
 |**2024-06-13**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474](http://arxiv.org/abs/2406.08474)|null|
 |**2024-06-12**|**Strategies for Pretraining Neural Operators**|Anthony Zhou et.al.|[2406.08473](http://arxiv.org/abs/2406.08473)|**[link](https://github.com/anthonyzhou-1/pretraining_pdes)**|
 |**2024-06-12**|**RILe: Reinforced Imitation Learning**|Mert Albaba et.al.|[2406.08472](http://arxiv.org/abs/2406.08472)|null|
-|**2024-06-12**|**PAL: Pluralistic Alignment Framework for Learning from Heterogeneous Preferences**|Daiwei Chen et.al.|[2406.08469](http://arxiv.org/abs/2406.08469)|null|
+|**2024-06-12**|**PAL: Pluralistic Alignment Framework for Learning from Heterogeneous Preferences**|Daiwei Chen et.al.|[2406.08469](http://arxiv.org/abs/2406.08469)|**[link](https://github.com/RamyaLab/pluralistic-alignment)**|
 |**2024-06-12**|**DafnyBench: A Benchmark for Formal Software Verification**|Chloe Loughridge et.al.|[2406.08467](http://arxiv.org/abs/2406.08467)|**[link](https://github.com/sun-wendy/dafnybench)**|
 |**2024-06-12**|**Scaling Laws in Linear Regression: Compute, Parameters, and Data**|Licong Lin et.al.|[2406.08466](http://arxiv.org/abs/2406.08466)|null|
 |**2024-06-12**|**Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data**|Jiaojiao Zhang et.al.|[2406.08465](http://arxiv.org/abs/2406.08465)|null|
