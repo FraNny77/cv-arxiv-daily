@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Antibody
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
+|**2025-03-25**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
 |**2025-03-24**|**AdaWorld: Learning Adaptable World Models with Latent Actions**|Shenyuan Gao et.al.|[2503.18938](http://arxiv.org/abs/2503.18938)|null|
 |**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929](http://arxiv.org/abs/2503.18929)|null|
 |**2025-03-24**|**A Reliable and Efficient Detection Pipeline for Rodent Ultrasonic Vocalizations**|Sabah Shahnoor Anis et.al.|[2503.18928](http://arxiv.org/abs/2503.18928)|null|
@@ -2517,7 +2517,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
+|**2025-03-25**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
 |**2025-03-24**|**AdaWorld: Learning Adaptable World Models with Latent Actions**|Shenyuan Gao et.al.|[2503.18938](http://arxiv.org/abs/2503.18938)|null|
 |**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929](http://arxiv.org/abs/2503.18929)|null|
 |**2025-03-24**|**A Reliable and Efficient Detection Pipeline for Rodent Ultrasonic Vocalizations**|Sabah Shahnoor Anis et.al.|[2503.18928](http://arxiv.org/abs/2503.18928)|null|

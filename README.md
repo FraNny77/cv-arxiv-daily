@@ -1,4 +1,4 @@
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
+|**2025-03-25**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
 |**2025-03-24**|**AdaWorld: Learning Adaptable World Models with Latent Actions**|Shenyuan Gao et.al.|[2503.18938](http://arxiv.org/abs/2503.18938)|null|
 |**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929](http://arxiv.org/abs/2503.18929)|null|
 |**2025-03-24**|**A Reliable and Efficient Detection Pipeline for Rodent Ultrasonic Vocalizations**|Sabah Shahnoor Anis et.al.|[2503.18928](http://arxiv.org/abs/2503.18928)|null|
@@ -2518,13 +2518,13 @@
 |**2017-07-27**|**High Dimensional Random Walks Can Appear Low Dimensional: Application to Influenza H3N2 Evolution**|James Moore et.al.|[1707.09361](http://arxiv.org/abs/1707.09361)|null|
 |**2008-07-20**|**Design and Production of Specifically and with High Affinity Reacting Peptides**|Jan C Biro et.al.|[0807.3038](http://arxiv.org/abs/0807.3038)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Peptide
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
+|**2025-03-25**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
 |**2025-03-24**|**AdaWorld: Learning Adaptable World Models with Latent Actions**|Shenyuan Gao et.al.|[2503.18938](http://arxiv.org/abs/2503.18938)|null|
 |**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929](http://arxiv.org/abs/2503.18929)|null|
 |**2025-03-24**|**A Reliable and Efficient Detection Pipeline for Rodent Ultrasonic Vocalizations**|Sabah Shahnoor Anis et.al.|[2503.18928](http://arxiv.org/abs/2503.18928)|null|
@@ -5030,7 +5030,7 @@
 |**2018-11-13**|**PepCVAE: Semi-Supervised Targeted Design of Antimicrobial Peptide Sequences**|Payel Das et.al.|[1810.07743](http://arxiv.org/abs/1810.07743)|null|
 |**2009-11-23**|**Silver-staining of proteins in polyacrylamide gels: a general overview**|Thierry Rabilloud et.al.|[0911.4458](http://arxiv.org/abs/0911.4458)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Diffusion
 
@@ -5055,5 +5055,5 @@
 |**2024-02-21**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|**[link](https://github.com/allenai/tess-diffusion)**|
 |**2023-05-13**|**Diffusion Models for Non-autoregressive Text Generation: A Survey**|Yifan Li et.al.|[2303.06574](http://arxiv.org/abs/2303.06574)|**[link](https://github.com/rucaibox/awesome-text-diffusion-models)**|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
