@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Understanding R1-Zero-Like Training: A Critical Perspective**|Zichen Liu et.al.|[2503.20783](http://arxiv.org/abs/2503.20783)|null|
+|**2025-03-26**|**Zero-Shot Audio-Visual Editing via Cross-Modal Delta Denoising**|Yan-Bo Lin et.al.|[2503.20782](http://arxiv.org/abs/2503.20782)|null|
+|**2025-03-26**|**An Empirical Study of the Impact of Federated Learning on Machine Learning Model Accuracy**|Haotian Yang et.al.|[2503.20768](http://arxiv.org/abs/2503.20768)|null|
+|**2025-03-26**|**Reliable algorithm selection for machine learning-guided design**|Clara Fannjiang et.al.|[2503.20767](http://arxiv.org/abs/2503.20767)|null|
+|**2025-03-26**|**High-Precision Ab Initio Radius Calculations of Boron Isotopes**|Tobias Wolfgruber et.al.|[2503.20764](http://arxiv.org/abs/2503.20764)|null|
+|**2025-03-26**|**ASGO: Adaptive Structured Gradient Optimization**|Kang An et.al.|[2503.20762](http://arxiv.org/abs/2503.20762)|null|
+|**2025-03-26**|**ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems**|Chenxi Wang et.al.|[2503.20756](http://arxiv.org/abs/2503.20756)|null|
+|**2025-03-26**|**Optimal Scaling Laws for Efficiency Gains in a Theoretical Transformer-Augmented Sectional MoE Framework**|Soham Sane et.al.|[2503.20750](http://arxiv.org/abs/2503.20750)|null|
+|**2025-03-26**|**Quantum Neural Network Restatement of Markov Jump Process**|Z. Zarezadeh et.al.|[2503.20742](http://arxiv.org/abs/2503.20742)|null|
+|**2025-03-26**|**Nuclear recoil detection with color centers in bulk lithium fluoride**|Gabriela A. Araujo et.al.|[2503.20732](http://arxiv.org/abs/2503.20732)|null|
 |**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912](http://arxiv.org/abs/2503.19912)|null|
 |**2025-03-25**|**Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better**|Zihang Lai et.al.|[2503.19904](http://arxiv.org/abs/2503.19904)|null|
 |**2025-03-25**|**RCC-PFL: Robust Client Clustering under Noisy Labels in Personalized Federated Learning**|Abdulmoneam Ali et.al.|[2503.19886](http://arxiv.org/abs/2503.19886)|null|
@@ -2534,6 +2544,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Understanding R1-Zero-Like Training: A Critical Perspective**|Zichen Liu et.al.|[2503.20783](http://arxiv.org/abs/2503.20783)|null|
+|**2025-03-26**|**Zero-Shot Audio-Visual Editing via Cross-Modal Delta Denoising**|Yan-Bo Lin et.al.|[2503.20782](http://arxiv.org/abs/2503.20782)|null|
+|**2025-03-26**|**An Empirical Study of the Impact of Federated Learning on Machine Learning Model Accuracy**|Haotian Yang et.al.|[2503.20768](http://arxiv.org/abs/2503.20768)|null|
+|**2025-03-26**|**Reliable algorithm selection for machine learning-guided design**|Clara Fannjiang et.al.|[2503.20767](http://arxiv.org/abs/2503.20767)|null|
+|**2025-03-26**|**High-Precision Ab Initio Radius Calculations of Boron Isotopes**|Tobias Wolfgruber et.al.|[2503.20764](http://arxiv.org/abs/2503.20764)|null|
+|**2025-03-26**|**ASGO: Adaptive Structured Gradient Optimization**|Kang An et.al.|[2503.20762](http://arxiv.org/abs/2503.20762)|null|
+|**2025-03-26**|**ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems**|Chenxi Wang et.al.|[2503.20756](http://arxiv.org/abs/2503.20756)|null|
+|**2025-03-26**|**Optimal Scaling Laws for Efficiency Gains in a Theoretical Transformer-Augmented Sectional MoE Framework**|Soham Sane et.al.|[2503.20750](http://arxiv.org/abs/2503.20750)|null|
+|**2025-03-26**|**Quantum Neural Network Restatement of Markov Jump Process**|Z. Zarezadeh et.al.|[2503.20742](http://arxiv.org/abs/2503.20742)|null|
+|**2025-03-26**|**Nuclear recoil detection with color centers in bulk lithium fluoride**|Gabriela A. Araujo et.al.|[2503.20732](http://arxiv.org/abs/2503.20732)|null|
 |**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912](http://arxiv.org/abs/2503.19912)|null|
 |**2025-03-25**|**Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better**|Zihang Lai et.al.|[2503.19904](http://arxiv.org/abs/2503.19904)|null|
 |**2025-03-25**|**RCC-PFL: Robust Client Clustering under Noisy Labels in Personalized Federated Learning**|Abdulmoneam Ali et.al.|[2503.19886](http://arxiv.org/abs/2503.19886)|null|
