@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy**|Zhonghan Zhao et.al.|[2503.24388](http://arxiv.org/abs/2503.24388)|null|
+|**2025-03-31**|**UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**|Yuping Wang et.al.|[2503.24381](http://arxiv.org/abs/2503.24381)|**[link](https://github.com/tasl-lab/uniocc)**|
+|**2025-03-31**|**Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1**|Yi Chen et.al.|[2503.24376](http://arxiv.org/abs/2503.24376)|**[link](https://github.com/tencentarc/seed-bench-r1)**|
+|**2025-03-31**|**Policy Gradient for LQR with Domain Randomization**|Tesshu Fujinami et.al.|[2503.24371](http://arxiv.org/abs/2503.24371)|null|
+|**2025-03-31**|**Effectively Controlling Reasoning Models through Thinking Intervention**|Tong Wu et.al.|[2503.24370](http://arxiv.org/abs/2503.24370)|null|
+|**2025-03-31**|**The structure and topology of an amorphous metal-organic framework**|Thomas C. Nicholas et.al.|[2503.24367](http://arxiv.org/abs/2503.24367)|null|
+|**2025-03-31**|**Which LIME should I trust? Concepts, Challenges, and Solutions**|Patrick Knab et.al.|[2503.24365](http://arxiv.org/abs/2503.24365)|null|
+|**2025-03-31**|**Topological Phase Transition and Geometrical Frustration in Fourier Photonic Simulator**|Yuxuan Sun et.al.|[2503.24363](http://arxiv.org/abs/2503.24363)|null|
+|**2025-03-31**|**Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation**|Abhiram Maddukuri et.al.|[2503.24361](http://arxiv.org/abs/2503.24361)|null|
+|**2025-03-31**|**SQuat: Subspace-orthogonal KV Cache Quantization**|Hao Wang et.al.|[2503.24358](http://arxiv.org/abs/2503.24358)|null|
 |**2025-03-28**|**DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness**|Ruining Li et.al.|[2503.22677](http://arxiv.org/abs/2503.22677)|null|
 |**2025-03-28**|**QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?**|Belinda Z. Li et.al.|[2503.22674](http://arxiv.org/abs/2503.22674)|null|
 |**2025-03-28**|**Evaluation of Machine-generated Biomedical Images via A Tally-based Similarity Measure**|Frank J. Brooks et.al.|[2503.22658](http://arxiv.org/abs/2503.22658)|null|
@@ -2564,6 +2574,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy**|Zhonghan Zhao et.al.|[2503.24388](http://arxiv.org/abs/2503.24388)|null|
+|**2025-03-31**|**UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**|Yuping Wang et.al.|[2503.24381](http://arxiv.org/abs/2503.24381)|**[link](https://github.com/tasl-lab/uniocc)**|
+|**2025-03-31**|**Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1**|Yi Chen et.al.|[2503.24376](http://arxiv.org/abs/2503.24376)|**[link](https://github.com/tencentarc/seed-bench-r1)**|
+|**2025-03-31**|**Policy Gradient for LQR with Domain Randomization**|Tesshu Fujinami et.al.|[2503.24371](http://arxiv.org/abs/2503.24371)|null|
+|**2025-03-31**|**Effectively Controlling Reasoning Models through Thinking Intervention**|Tong Wu et.al.|[2503.24370](http://arxiv.org/abs/2503.24370)|null|
+|**2025-03-31**|**The structure and topology of an amorphous metal-organic framework**|Thomas C. Nicholas et.al.|[2503.24367](http://arxiv.org/abs/2503.24367)|null|
+|**2025-03-31**|**Which LIME should I trust? Concepts, Challenges, and Solutions**|Patrick Knab et.al.|[2503.24365](http://arxiv.org/abs/2503.24365)|null|
+|**2025-03-31**|**Topological Phase Transition and Geometrical Frustration in Fourier Photonic Simulator**|Yuxuan Sun et.al.|[2503.24363](http://arxiv.org/abs/2503.24363)|null|
+|**2025-03-31**|**Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation**|Abhiram Maddukuri et.al.|[2503.24361](http://arxiv.org/abs/2503.24361)|null|
+|**2025-03-31**|**SQuat: Subspace-orthogonal KV Cache Quantization**|Hao Wang et.al.|[2503.24358](http://arxiv.org/abs/2503.24358)|null|
 |**2025-03-28**|**DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness**|Ruining Li et.al.|[2503.22677](http://arxiv.org/abs/2503.22677)|null|
 |**2025-03-28**|**QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?**|Belinda Z. Li et.al.|[2503.22674](http://arxiv.org/abs/2503.22674)|null|
 |**2025-03-28**|**Evaluation of Machine-generated Biomedical Images via A Tally-based Similarity Measure**|Frank J. Brooks et.al.|[2503.22658](http://arxiv.org/abs/2503.22658)|null|
