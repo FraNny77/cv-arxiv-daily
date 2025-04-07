@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Quantum Speedups for Markov Chain Monte Carlo Methods with Application to Optimization**|Guneykan Ozgul et.al.|[2504.03626](http://arxiv.org/abs/2504.03626)|null|
+|**2025-04-04**|**Reciprocity-Aware Convolutional Neural Networks for Map-Based Path Loss Prediction**|Ryan G. Dempsey et.al.|[2504.03625](http://arxiv.org/abs/2504.03625)|null|
+|**2025-04-04**|**Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models**|NVIDIA et.al.|[2504.03624](http://arxiv.org/abs/2504.03624)|null|
+|**2025-04-04**|**Align to Structure: Aligning Large Language Models with Structural Information**|Zae Myung Kim et.al.|[2504.03622](http://arxiv.org/abs/2504.03622)|null|
+|**2025-04-04**|**Trading off Relevance and Revenue in the Jobs Marketplace: Estimation, Optimization and Auction Design**|Farzad Pourbabaee et.al.|[2504.03618](http://arxiv.org/abs/2504.03618)|null|
+|**2025-04-04**|**Towards deployment-centric multimodal AI beyond vision and language**|Xianyuan Liu et.al.|[2504.03603](http://arxiv.org/abs/2504.03603)|null|
+|**2025-04-04**|**APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay**|Akshara Prabhakar et.al.|[2504.03601](http://arxiv.org/abs/2504.03601)|null|
+|**2025-04-04**|**Optimistic Online Learning in Symmetric Cone Games**|Anas Barakat et.al.|[2504.03592](http://arxiv.org/abs/2504.03592)|null|
+|**2025-04-04**|**Towards a Unified Framework for Determining Conformational Ensembles of Disordered Proteins**|Hamidreza Ghafouri et.al.|[2504.03590](http://arxiv.org/abs/2504.03590)|null|
+|**2025-04-04**|**Scalable Hypergraph Structure Learning with Diverse Smoothness Priors**|Benjamin T. Brown et.al.|[2504.03583](http://arxiv.org/abs/2504.03583)|null|
 |**2025-04-03**|**On Vanishing Variance in Transformer Length Generalization**|Ruining Li et.al.|[2504.02827](http://arxiv.org/abs/2504.02827)|null|
 |**2025-04-03**|**Do Two AI Scientists Agree?**|Xinghong Fu et.al.|[2504.02822](http://arxiv.org/abs/2504.02822)|null|
 |**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/abs/2504.02821)|null|
@@ -2587,6 +2597,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Quantum Speedups for Markov Chain Monte Carlo Methods with Application to Optimization**|Guneykan Ozgul et.al.|[2504.03626](http://arxiv.org/abs/2504.03626)|null|
+|**2025-04-04**|**Reciprocity-Aware Convolutional Neural Networks for Map-Based Path Loss Prediction**|Ryan G. Dempsey et.al.|[2504.03625](http://arxiv.org/abs/2504.03625)|null|
+|**2025-04-04**|**Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models**|NVIDIA et.al.|[2504.03624](http://arxiv.org/abs/2504.03624)|null|
+|**2025-04-04**|**Align to Structure: Aligning Large Language Models with Structural Information**|Zae Myung Kim et.al.|[2504.03622](http://arxiv.org/abs/2504.03622)|null|
+|**2025-04-04**|**Trading off Relevance and Revenue in the Jobs Marketplace: Estimation, Optimization and Auction Design**|Farzad Pourbabaee et.al.|[2504.03618](http://arxiv.org/abs/2504.03618)|null|
+|**2025-04-04**|**Towards deployment-centric multimodal AI beyond vision and language**|Xianyuan Liu et.al.|[2504.03603](http://arxiv.org/abs/2504.03603)|null|
+|**2025-04-04**|**APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay**|Akshara Prabhakar et.al.|[2504.03601](http://arxiv.org/abs/2504.03601)|null|
+|**2025-04-04**|**Optimistic Online Learning in Symmetric Cone Games**|Anas Barakat et.al.|[2504.03592](http://arxiv.org/abs/2504.03592)|null|
+|**2025-04-04**|**Towards a Unified Framework for Determining Conformational Ensembles of Disordered Proteins**|Hamidreza Ghafouri et.al.|[2504.03590](http://arxiv.org/abs/2504.03590)|null|
+|**2025-04-04**|**Scalable Hypergraph Structure Learning with Diverse Smoothness Priors**|Benjamin T. Brown et.al.|[2504.03583](http://arxiv.org/abs/2504.03583)|null|
 |**2025-04-03**|**On Vanishing Variance in Transformer Length Generalization**|Ruining Li et.al.|[2504.02827](http://arxiv.org/abs/2504.02827)|null|
 |**2025-04-03**|**Do Two AI Scientists Agree?**|Xinghong Fu et.al.|[2504.02822](http://arxiv.org/abs/2504.02822)|null|
 |**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/abs/2504.02821)|null|
