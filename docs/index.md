@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Gaussian Mixture Flow Matching Models**|Hansheng Chen et.al.|[2504.05304](http://arxiv.org/abs/2504.05304)|null|
+|**2025-04-07**|**Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures**|Gen Li et.al.|[2504.05300](http://arxiv.org/abs/2504.05300)|null|
+|**2025-04-07**|**Dion: A Communication-Efficient Optimizer for Large Models**|Kwangjun Ahn et.al.|[2504.05295](http://arxiv.org/abs/2504.05295)|null|
+|**2025-04-07**|**Using Physiological Measures, Gaze, and Facial Expressions to Model Human Trust in a Robot Partner**|Haley N. Green et.al.|[2504.05291](http://arxiv.org/abs/2504.05291)|null|
+|**2025-04-07**|**Covariant Gradient Descent**|Dmitry Guskov et.al.|[2504.05279](http://arxiv.org/abs/2504.05279)|null|
+|**2025-04-07**|**Aggregating time-series and image data: functors and double functors**|Joscha Diehl et.al.|[2504.05274](http://arxiv.org/abs/2504.05274)|null|
+|**2025-04-07**|**AnomalousNet: A Hybrid Approach with Attention U-Nets and Change Point Detection for Accurate Characterization of Anomalous Diffusion in Video Data**|Yusef Ahsini et.al.|[2504.05271](http://arxiv.org/abs/2504.05271)|null|
+|**2025-04-07**|**Learning to Reason Over Time: Timeline Self-Reflection for Improved Temporal Reasoning in Language Models**|Adrián Bazaga et.al.|[2504.05258](http://arxiv.org/abs/2504.05258)|null|
+|**2025-04-07**|**Adversarial KA**|Sviatoslav Dzhenzher et.al.|[2504.05255](http://arxiv.org/abs/2504.05255)|null|
+|**2025-04-07**|**Explaining Low Perception Model Competency with High-Competency Counterfactuals**|Sara Pohland et.al.|[2504.05254](http://arxiv.org/abs/2504.05254)|null|
 |**2025-04-04**|**Quantum Speedups for Markov Chain Monte Carlo Methods with Application to Optimization**|Guneykan Ozgul et.al.|[2504.03626](http://arxiv.org/abs/2504.03626)|null|
 |**2025-04-04**|**Reciprocity-Aware Convolutional Neural Networks for Map-Based Path Loss Prediction**|Ryan G. Dempsey et.al.|[2504.03625](http://arxiv.org/abs/2504.03625)|null|
 |**2025-04-04**|**Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models**|NVIDIA et.al.|[2504.03624](http://arxiv.org/abs/2504.03624)|null|
@@ -2597,6 +2607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Gaussian Mixture Flow Matching Models**|Hansheng Chen et.al.|[2504.05304](http://arxiv.org/abs/2504.05304)|null|
+|**2025-04-07**|**Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures**|Gen Li et.al.|[2504.05300](http://arxiv.org/abs/2504.05300)|null|
+|**2025-04-07**|**Dion: A Communication-Efficient Optimizer for Large Models**|Kwangjun Ahn et.al.|[2504.05295](http://arxiv.org/abs/2504.05295)|null|
+|**2025-04-07**|**Using Physiological Measures, Gaze, and Facial Expressions to Model Human Trust in a Robot Partner**|Haley N. Green et.al.|[2504.05291](http://arxiv.org/abs/2504.05291)|null|
+|**2025-04-07**|**Covariant Gradient Descent**|Dmitry Guskov et.al.|[2504.05279](http://arxiv.org/abs/2504.05279)|null|
+|**2025-04-07**|**Aggregating time-series and image data: functors and double functors**|Joscha Diehl et.al.|[2504.05274](http://arxiv.org/abs/2504.05274)|null|
+|**2025-04-07**|**AnomalousNet: A Hybrid Approach with Attention U-Nets and Change Point Detection for Accurate Characterization of Anomalous Diffusion in Video Data**|Yusef Ahsini et.al.|[2504.05271](http://arxiv.org/abs/2504.05271)|null|
+|**2025-04-07**|**Learning to Reason Over Time: Timeline Self-Reflection for Improved Temporal Reasoning in Language Models**|Adrián Bazaga et.al.|[2504.05258](http://arxiv.org/abs/2504.05258)|null|
+|**2025-04-07**|**Adversarial KA**|Sviatoslav Dzhenzher et.al.|[2504.05255](http://arxiv.org/abs/2504.05255)|null|
+|**2025-04-07**|**Explaining Low Perception Model Competency with High-Competency Counterfactuals**|Sara Pohland et.al.|[2504.05254](http://arxiv.org/abs/2504.05254)|null|
 |**2025-04-04**|**Quantum Speedups for Markov Chain Monte Carlo Methods with Application to Optimization**|Guneykan Ozgul et.al.|[2504.03626](http://arxiv.org/abs/2504.03626)|null|
 |**2025-04-04**|**Reciprocity-Aware Convolutional Neural Networks for Map-Based Path Loss Prediction**|Ryan G. Dempsey et.al.|[2504.03625](http://arxiv.org/abs/2504.03625)|null|
 |**2025-04-04**|**Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models**|NVIDIA et.al.|[2504.03624](http://arxiv.org/abs/2504.03624)|null|
